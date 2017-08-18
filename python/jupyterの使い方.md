@@ -125,3 +125,26 @@ jupyterは起動時にブラウザを自動起動するように設定されて�
 c.NotebookApp.open_browser = False
 ```
 
+## jupyter notebookの自動起動
+Dockerなどで環境を構築したなどの場合、Dockerを立ち上げたときに自動的に立ち上がってほしいことがある。  
+今回もサーバーを立ち上げたときに自動的にjupyter notebookが起動されるようにする設定をする。  
+起動時にそういう設定をするのは、下記のシステムファイルを変更する。  
+
+```bash
+$ sudo -E vim /etc/rc.local
+```
+
+```rc.local
+#下記のコマンドを「exit 0」の前に記述する。
+su - username /(pyenvまでのパス)/pyenv/shims/jupyter notebook
+
+exit 0 # これはデフォルトで記載されている
+```
+
+ポイントは、`su - username`することである。  
+単純にコマンドを指定しても、起動時のroot userで実行してしまう。  
+「su - username」することで、ログインシェルを用いてユーザーを切り替えている。  
+しかし、任意コマンドを実行するオプションである「-c」を使うと自動実行されなかった。  
+
+その後、jupyter notebookを起動する。  
+rc.localに記載するコマンドに、「&」が要らないということもポイントである。  
