@@ -5,20 +5,26 @@ Vagrantfileの意味が分からんのでちょっとしたまとめ
 ```Vagrantfile
 Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox"
-  config.vm.define "vagrant_instance"
+  config.vm.define "sample"
   config.vm.box = "ubuntu/trusty64"
-  config.vm.hostname = "host_name"
-  config.vm.network "private_network", ip: "192.168.33.10"
+  config.vm.hostname = "sample"
+  config.vm.network "public_network", ip: "192.168.1.12"
 #  config.vm.network "forwarded_port", guest: 8888, host: 8888
-  config.vm.synced_folder "./", "/mnt/share"
 
   config.vm.provider "virtualbox" do |v_box|
-    v_box.name = "vbox_instance"
+    v_box.name = "ubuntu14.04"
     v_box.customize ["modifyvm", :id, "--ostype", "Ubuntu_64"]
     v_box.cpus = 1
     v_box.memory = 1024
   end
+  
+  config.vm.provision "ansible_local" do |ansible|
+    config.vm.synced_folder "./ansible", "/ansible"
+    ansible.playbook = "/ansible/playbook.yaml"
+    ansible.verbose = true
+  end
 end
+
 ```
 
 # Vagrant Parameter
@@ -50,6 +56,7 @@ Vagrantの世界では仮想化の元イメージをBOXと呼ぶ。
 ##  config.vm.hostname = "host_name"
 ホスト名を決めることができる。  
 ログインしている環境を一目瞭然とするためにも環境名を付けると便利かもしれない。  
+早い話がconfig.vm.defineと同じ名前にしてろってこと（問題あるかは知らん）  
 
 ## config.vm.network "network_type", ip: "xxx.xxx.xxx.xxx"
 Vagrantには複数のネットワーク設定が存在する。  
@@ -113,5 +120,30 @@ Virtual Boxのパラメータ解説
 ```Vagrantfile
 config.vm.provider "virtualbox" do |v_box|
 ```
+
+
+# Ansible-local Parameter
+
+```Vagrantfile
+config.vm.provision "ansible_local" do |ansible|
+```
+
+## config.vm.synced_folder "./ansible", "/ansible"
+ansibleは、他のサーバーに設定を流し込むソフトウェアである。  
+そのため本来はは「ansibleサーバー」と「構成したいサーバー」を用意する必要がある。  
+ansible-localは構成したいサーバーにansinleをインストールする設定である。  
+このansibleをVMで実行するためには、ホストに用意したansible用の設定ファイル群をVMに認識させる必要がある。  
+Vagrantではansibleファイルを<font color=red>ホストとゲストが共有フォルダを張ること</font>で認識させる。  
+
+## ansible.playbook = "/ansible/playbook.yaml"
+ansibleの構成ファイル群のある共有ディレクトリを指定する。  
+ansible-localはVM上で動作するため<font color=red>VM上のパスを指定しなければならない</font>。  
+決して、ホスト側から見たファイルパスではないので注意すること。  
+
+
+## 
+
+
+
 
 
