@@ -5,15 +5,15 @@ Vagrantfileの意味が分からんのでちょっとしたまとめ
 ```Vagrantfile
 Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox"
-  config.vm.define "Iris"
+  config.vm.define "vagrant_instance"
   config.vm.box = "ubuntu/trusty64"
-  config.vm.hostname = "iris"
+  config.vm.hostname = "host_name"
   config.vm.network "private_network", ip: "192.168.33.10"
 #  config.vm.network "forwarded_port", guest: 8888, host: 8888
   config.vm.synced_folder "./", "/mnt/share"
 
   config.vm.provider "virtualbox" do |v_box|
-    v_box.name = "ubuntu14.04-19-Iris"
+    v_box.name = "vbox_instance"
     v_box.customize ["modifyvm", :id, "--ostype", "Ubuntu_64"]
     v_box.cpus = 1
     v_box.memory = 1024
@@ -35,8 +35,8 @@ config.vm.provider "virtualbox"
 config.vm.provider "vmware_fusion"
 
 
-## config.vm.define "vagrant_vm_name"
-Vagrantが管理するVM名の設定。  
+## config.vm.define "vagrant_instance"
+Vagrantが管理するVMのインスタンス名の設定。  
 プロバイダが管理する名前ではないので注意。  
 あくまでVagrantの世界の話なので、その先は別に設定する必要がある。  
 vagrantコマンドを使うときやvagrantコマンドの結果として出力される。  
