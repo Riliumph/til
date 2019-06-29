@@ -13,7 +13,9 @@ I **couldn't help turning** on the heater.
 暖房を点け**ざるを得なかった**
 
 > cannot help -ing / ざるを得ない  
-> Ａすることを助けられないの意訳であることを必ず覚えておく
+> Ａすることを助けられないの意訳であることを必ず覚えておく。  
+> cannot help but do に置き換えることもできる。  
+> これ、「help to do」の方法に則って「cannot help to do」は使えないの？
 
 He **felt like learning** another language.  
 彼はもう一つの言語を**習いたくなった**
