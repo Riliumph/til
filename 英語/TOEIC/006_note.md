@@ -1,6 +1,6 @@
 # 前置詞
 
-the best of all the movies  
+the best of all the movies  
 すべてに映画の中で最高
 
 the best in this industry  
@@ -34,7 +34,7 @@ unkike him
 change / transform A into B  
 AをBに変える
 
-across / throughout the country  
+across / throughout the country  
 国中に
 
 With the sales on the buttom, S + V  
@@ -59,7 +59,7 @@ as for me
 私に関して言えば
 
 regarding / concerning the weather  
-天候に関しては
+天候に関しては
 
 **provide** *him* **with** enough money  
 彼に十分なお金を与える
@@ -96,14 +96,14 @@ on page 5
 pn the web site  
 ウェブサイトに
 
-# 文型
+# 文型
 
 He helped clean the room.  
-彼は部屋の掃除を手伝った
+彼は部屋の掃除を手伝った
 
 > help （人） do  
 > Aが〜するのを手伝う  
-> 原形を用いること。
+> 原形を用いること。
 
 He addressed his student.  
 彼は生徒に話しかけた
@@ -133,7 +133,7 @@ inquire the way
 会社を合併する
 
 acquire this company  
-この会社を吸収/買収する
+この会社を吸収/買収する
 
 > Merger & Acquisition「吸収合併」
 
@@ -141,7 +141,7 @@ He remark that ...
 彼は……と言った
 
 proceed with this plan  
-この計画を進める
+この計画を進める
 
 **diapprove of** this plan  
 この計画**に反対だ**
@@ -149,7 +149,7 @@ proceed with this plan
 offer him a seat  
 彼に席をすすめる
 
-> 第４文型（SVOO）を取る。
+> 第４文型（SVOO）を取る。c
 
 recommend the plan to him  
 彼にこの計画を勧める
@@ -162,7 +162,7 @@ manage the production
 生産をうまく仕切る
 
 prepare for the party  
-パーティの準備をする
+パーティの準備をする
 
 conclude the meeting  
 会議を終える
