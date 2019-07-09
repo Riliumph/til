@@ -6,7 +6,7 @@ the best of all the movies
 the best in this industry  
 この業界で最高
 
-work until 6 o'clock  
+work until 6 o'clock  
 ６時まで働く
 
 finish work by 6 o'clock  
@@ -96,7 +96,7 @@ on page 5
 pn the web site  
 ウェブサイトに
 
-# 文型
+# 文型
 
 He helped clean the room.  
 彼は部屋の掃除を手伝った
