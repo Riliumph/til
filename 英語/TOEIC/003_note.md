@@ -37,3 +37,15 @@ If this battery is used economically, it will last about 50 hours.
 過去分詞形から始まっている分詞構文は必ず先頭に`be`動詞が ing 形で存在し、ただそれが省略されているだけである。
 
 # 後置修飾
+
+He has a book to read during his trip.  
+彼は、旅行中に要むための本を持っている。
+
+I have a plan to live in this town.  
+私はこの町に住む計画がある。
+
+The book printed last month will be published.  
+先月に印刷された本は出版されるだろう。
+
+The man working hard outside is sweating a lot.  
+外で懸命に働く人はたくさん汗をかいている。
