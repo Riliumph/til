@@ -33,3 +33,27 @@ If you're not prepared to be wrong, you'll never come up with anything original.
    スーツがなくても真剣に仕事はできる。
 10. Great just isn't good enough.  
     「すばらしい」では足りない。
+
+# Udemy
+
+Are you learning valuable information?  
+貴重な情報を学んでいますか？
+
+> なぜ現在進行形……？
+
+Are the explanations of concepts clear?  
+概念の説明は明確ですか？
+→説明はわかりやすかったですか？
+
+Is the instructor's delivery engaging?  
+教師の配信は魅力的ですか？  
+→
+
+Are there enough opportunities to apply what you are learning?  
+学んだことを応用するのに十分な機会はありますか？
+
+Is the course delivering on your expectations?  
+コースはあなたの期待に応えていますか？
+
+Is the instructor knowledgeable about the topic?  
+講師はトピックについて知識がありますか？
