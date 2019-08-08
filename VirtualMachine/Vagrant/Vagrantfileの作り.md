@@ -2,7 +2,7 @@
 Vagrantfileの意味が分からんのでちょっとしたまとめ
 
 
-```Vagrantfile
+```ruby
 Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox"
   config.vm.define "sample"
