@@ -2,7 +2,9 @@
 
 ## 概要
 Vimはバッファ毎にロードした内容の種類(*1)を記憶している。  
-*1:Python/Cなど  
+
+> *1:Python/Cなど  
+
 その情報は`filetype`というオプションで表される。  
 VimにはFiletype pluginという`filetype`に応じた機能を提供するスクリプトが存在する。  
 
@@ -24,9 +26,9 @@ Vim filetype pluginは、Emacsのmajor/minor modeとニアな存在であると�
 バッファが持つ情報を操作するためバッファローカルでなければならない。  
 具体的には、以下の３点ぐらいがある。  
 
-- optionを指定する場合、setlocalにすること
-- key mappingsを行う場合、<buffer>を指定すること
-- Exコマンドを定義する場合、-bufferを指定すること
+- optionを指定する場合、`setlocal`にすること
+- key mappingsを行う場合、`<buffer>`を指定すること
+- Exコマンドを定義する場合、`-buffer`を指定すること
 - etc...
 
 
@@ -47,6 +49,7 @@ let b:did_ftplugin = 1
 それを共通して使うことで意図的にスキップすることができる。  
 
 ### 設定のキャンセル
+
 設定をキャンセル、リセットするには下記のスクリプトを記述する。  
 
 ``` vim:vim
