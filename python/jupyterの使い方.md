@@ -83,7 +83,7 @@ c.NotebookApp.token = 'your token string'
 ```bash
 $ python -c 'from notebook.auth import passwd;print(passwd())'
 Enter password: xxxxxxxxxx
-VErify password: xxxxxxxxxx
+Verify password: xxxxxxxxxx
 sha1:yyyyyyyyyy
 ```
 
@@ -107,6 +107,7 @@ IPアドレスの設定をすることでアクセス制限を設けることが
 # 「*」はすべてのIPからアクセスを許可する
 c.NotebookApp.ip = '*'
 ```
+
 ※jupyter notebook 5.0.0のデフォルトでは、localhostが設定されているためjupyterのホストしかアクセスできない。  
 
 ### ディレクトリ指定
@@ -128,13 +129,16 @@ c.NotebookApp.open_browser = False
 ## jupyter notebookの自動起動
 Dockerなどで環境を構築したなどの場合、Dockerを立ち上げたときに自動的に立ち上がってほしいことがある。  
 今回もサーバーを立ち上げたときに自動的にjupyter notebookが起動されるようにする設定をする。  
+
+### init/Upstartの人
+
 起動時にそういう設定をするのは、下記のシステムファイルを変更する。  
 
 ```bash
 $ sudo -E vim /etc/rc.local
 ```
 
-```rc.local
+```bash rc.local
 #下記のコマンドを「exit 0」の前に記述する。
 su - username /(pyenvまでのパス)/pyenv/shims/jupyter notebook
 
@@ -148,3 +152,36 @@ exit 0 # これはデフォルトで記載されている
 
 その後、jupyter notebookを起動する。  
 rc.localに記載するコマンドに、「&」が要らないということもポイントである。  
+
+### Systemdの人
+
+`/etc/systemd/system/jupyter.service`を作成する。
+
+```ini /etc/systemd/system/jupyter.service
+[Unit]
+Description=Jupyter Notebook (seminar)
+
+[Service]
+Type=simple
+WorkingDirectory=/home/user
+ExecStartPre=. /home/user/anaconda3/etc/profile.d/conda.sh; conda activate seminar
+ExecStart=/home/user/anaconda3/envs/seminar/bin/jupyter notebook --config=/home/user/.jupyter/jupyter_notebook_config.py
+User=user
+Group=user
+
+[Install]
+WantedBy=multi-user.target
+```
+
+起動確認
+
+```bash
+sudo systemctl start jupyter
+sudo systemctl status jupyter
+```
+
+自動起動の有効化
+
+```bash
+sudo systemctl enable jupyter
+```
