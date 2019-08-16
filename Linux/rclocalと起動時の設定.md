@@ -5,6 +5,7 @@
 らしい  
 $HOME/.bashrcとかのshell起動時ではなくて、OS起動時にしてくれるのがミソ  
 
+> Systemdになってからは通用しなくなった気がする。残念！！
 
 # 起動時にやってくれたらうれしい設定
 
@@ -15,7 +16,7 @@ $HOME/.bashrcとかのshell起動時ではなくて、OS起動時にしてくれ
 sudo vim /etc/rc.local
 ```
 
-```rc.local
+```bash rc.local
 #!/bin/sh -e
 #
 # rc.local
