@@ -9,15 +9,16 @@ C++も11になり、14になり、17が見えている。
 
 ## vectorに生ポインタを突っ込むのはヤバい
 
-vector<int*>みたいな生ポインタを突っ込むのは個人的にNOである。  
+`vector<int*>`みたいな生ポインタを突っ込むのは個人的にNOである。  
 それがスマートポインタと生ポインタの速度差を気にするプロジェクトなら仕方ないが、それはそれで他のアルゴリズムを見直した方がいいのでは？と思っている。  
 
-さて、このvector<int*>は何がダメかというと、  
-std::findが使えない  
-std::removeでアドレス指定しないとダメ  
-std::removeでリーク  
+さて、この`vector<int*>`は何がダメかというと、  
 
-まぁ、ここまではパッと分かったことだが、std::find_ifを使ってポインタを分かってない脳みそだったから詰まってしまった。  
+- std::findが使えない  
+- std::removeでアドレス指定しないとダメ  
+- std::removeでリーク  
+
+まぁ、ここまではパッと分かったことだが、`std::find_if`を使ってポインタを分かってない脳みそだったから詰まってしまった。  
 
 ``` C++
 std::vector<int*> v;
@@ -30,22 +31,24 @@ for( int i = 0; i < 10; ++i){
 答えは、newされた変数のアドレスである。  
 つまり、vector自体は連続でも、中に格納されているデータは連続ではないのだ。  
 
-```
+``` C++
 auto it = std::find_if( v.begin(), v.end(), [&](int* sample){
   return if(*sample == 0.0);
 });
 ```
 
 Q.このitは何型か？  
-A._Vector_iterator<  
-    _vector_Val<  
-       _Vec_base_types<int*, allocator<int*>>::val_type  
-    >  
-  >  
+A.  
+_Vector_iterator<  
+  _vector_Val<  
+     _Vec_base_types<int*, allocator<int*>>::val_type  
+  \>  
+\>
+  
 なげぇよ。  
 イテレータ型なんだけど、そのイテレータがさしているのはintのポインタだね？  
 
-```
+``` C++
 std::cout << *it << std::endl;
 ```
 
