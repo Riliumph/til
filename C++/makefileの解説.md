@@ -46,7 +46,7 @@ clean:
 の前に注意すること  
 - インデントはタブ文字！！  
   半角スペースではダメ。なんなの？この謎仕様。  
-- 「=」と「:=」は別物！！
+- 「=」と「:=」は別物！！  
   単純展開変数か再帰展開変数かどうかで書き方が違う。  
 
 
@@ -70,6 +70,11 @@ C++なのにclangだとiostream系のC++クラスライブラリが見つかり�
 動的ライブラリをリンクする「-l」オプションを用いる場合はここに記述することで使用できる。  
 パスが通っていない場合は、「xx.so」のように書けば使用できる。  
 
+`getconf`コマンドで32/64bitを切り替えている。  
+LONG_BITとは、`long int`型のbit数を管理している全システム構成変数である。  
+
+> 参考：[getconfコマンド](https://www.ibm.com/support/knowledgecenter/ja/ssw_aix_72/g_commands/getconf.html)
+
 ### LIBS - ライブラリ -
 初期値：空  
 静的リンクするライブラリ指定する。  
@@ -85,17 +90,21 @@ C++なのにclangだとiostream系のC++クラスライブラリが見つかり�
 ### TARGET - 実行ファイル -
 実行ファイル名を指定する。  
 初期値：./bin/$(shell basename \`readlink -f .\`)  
+
+> `./bin/$(shell basename $(readlink -f .))`と同じ。  
+> バッククオートはGoogle Shell Style Guideにも違反するし、Markdownのコードハイライトのバッククオートとも競合するから使わない方がいいね
+
 解説  
 ディレクトリ：./bin  
 ファイル名：makefileが配置されているパスのディレクトリ名  
 
-- shell
+- shell  
   さいきょーのshellコマンドを実行する。
-- basename
-  親ディレクトリ名を取得
-- readlink -f .
-  カレントパスを絶対パスにして取得
-  readlink -fってMacにはなかった気がする……あっ  
+- basename  
+  親ディレクトリ名を取得コマンド。
+- readlink -f .  
+  カレントパスを絶対パスにして取得するコマンド。
+  `readlink -f`ってMacにはなかった気がする……あっ  
 
 ### OBJDIR - 中間ファイルディレクトリ -
 中間ファイルを配置するディレクトリ  
