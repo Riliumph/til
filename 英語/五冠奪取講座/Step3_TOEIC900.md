@@ -172,7 +172,7 @@ The jewelry store owner was willing to do anything to cooperate with the authori
 - responsible 責任のある
 
 The guest speaker, Marin Secour, **successfully** ran two companies and mentored many employees before retiring at age 72.  
-ゲストスピーカーのマリンセクールは、首尾よく 2 つの会社を経営し、72 歳で退職する前に多くの従業員を指導しました。
+ゲストスピーカーのマリンセクールは、**首尾よく**２つの会社を経営し、72 歳で退職する前に多くの従業員を指導しました。
 
 - success 成功
 - successful 成功した
@@ -191,8 +191,8 @@ An original song written by a local musician is **to be performed** by the local
 
 > 受け身の仕組みについて
 
-Mountainside Resort welcomes the employees from Whitelight Industries and invites them to a networking cocktail event at 6:00 P.M.  
-Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午後 6 時のネットワーキングカクテルイベントに招待します。
+Mountainside Resort welcomes the employees from Whitelight Industries and invites **them** to a networking cocktail event at 6:00 P.M.  
+Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午後 6 時のネットワーキングカクテルイベントに**彼らを**招待します。
 
 - their
 - them  
@@ -201,3 +201,152 @@ Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午�
   > invite oneself / 押し掛ける  
   > 自身を招待する→「押しかける」の意味
 - they
+
+## [8] 超難問 選択問題
+
+出展：[TOEIC TEST990点満点英文法―これ一冊で文法完全制覇](https://www.amazon.co.jp/TOEIC-TEST990%E7%82%B9%E6%BA%80%E7%82%B9%E8%8B%B1%E6%96%87%E6%B3%95%E2%80%95%E3%81%93%E3%82%8C%E4%B8%80%E5%86%8A%E3%81%A7%E6%96%87%E6%B3%95%E5%AE%8C%E5%85%A8%E5%88%B6%E8%A6%87-%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC-%E7%9F%B3%E4%BA%95-%E9%9A%86%E4%B9%8B/dp/4756903355)
+
+The researchers have run tests on rats and people to demonstrate that antioxidants **translate** into health benefits.  
+研究者は、抗酸化物質が健康上の利点**につながる**ことを実証するために、ネズミと人々のテストを実施しました。
+
+- translate (into) ～に変わる、～につながる  
+  > translate into action 行動につながる
+- transfer (into) 移譲する、譲渡する
+- transact 取引する
+- transport (into) ～へ運ぶ
+
+He demanded of his boss that he be amply **remunerated** for that kind of laborious job.  
+彼はその種の骨の折れる仕事に対して十分な**報酬を得る**よう上司に要求しました。
+
+- culminated 最高点に達した
+- calumniated 中傷した
+- enumerated 列挙された
+- remunerated 報いた
+
+Scientists are finding simpler ways to **harness** the power of DNA.  
+科学者はDNAの力を**利用する**もっと簡単な方法を見つけています。
+
+- hustle 張り切る、押し込む、急ぐ、（ハッスルするは抽象的すぎないか？
+- harness
+  - 馬具を付ける
+  - （自然力を）利用する
+- hound
+  - 猟犬で狩る
+  - 追い回す
+  - `hound + o + 人` 人をけしかける
+- hover 空中に停止する
+
+Mr. Adams looked like an ophthalmologist, **which** he actually was.  
+アダムズ氏は眼科医のように見えました**が、**実際はそうでした。
+
+- who
+- whom
+- which
+- what
+
+> 補語を受ける関係代名詞  
+> - 先行詞は人の**地位**・**職業**・**性格**などに限定される
+> - 使える関係代名詞は以下の３つ
+>   - which これだけ`, which`と`,`が付くので注意  
+>     He is an able doctor. ＋ His brother is not an able doctor.→共通項`an able doctor`を関係詞に。  
+>     He is an able doctor, which his brother is not.  
+>     「彼は有能な医者だが、彼の兄弟はそうではない。」
+>   - that 関係代名詞`that`はよく省略される  
+>     She is not a good teacher. ＋ She used to be a good teacher.→共通項`a good teacher`を関係詞に。  
+>     She is not a good teacher (that) She used to be.  
+>     「彼女は、かつてのような良い教師ではない。」
+>   - what whatの中に先行詞が含まれて消えてしまう  
+>     He is not a man. ＋ He was a man ten years ago.→共通項`a man`を関係詞に。  
+>     He is not what he was ten years ago.  
+>     「彼は、10年前のような男ではない。」
+
+Kathy looked for some cake but there was already **none** left there.  
+キャシーはケーキを探しましたが、すでに**何も**残っていませんでした。
+
+- not
+- none
+- no one
+- nothing
+
+> - none left ... （ケーキが）何も残っていない
+>   この`none`は前節の`some cake`を指している
+> - nothing left ... （どんなモノも）何も残っていない  
+>   こちらの場合は意味が大分異なり、「ケーキだけでなく、皿もフォークなど含めて」何もかもを指す
+
+"Will a pencil do?"  
+鉛筆でいいですか？
+"Yes, **it** will do, thanks"  
+**それ**でいいです。ありがとう
+
+- it
+- one
+- the one
+- either
+
+> 今回は`a pencil`を指しているので`it`を用いる。  
+> TOEIC集中のTommyの授業４回目が分かり易いのでそちらも参照のこと。  
+> 別の例文  
+> - Didn't you have any candies in your bag?「バッグにアメ持ってないの？」
+>   - None.「アメは持ってないな」
+>   - Nothing.「なにも持ってないよ」
+
+Nobody knows that Nancy has been ill for a few months, do they?  
+ナンシーが数ヶ月間病気になっていることを誰も知らないでしょうか？
+
+- does he
+- hasn't she
+- do they
+- don't they
+
+> Nobodyがすでに**否定形**であることに注意！！
+
+Even thought nearly three-quarters of the cattle became seriously ill while being transported, **only one of them was not** alive upon delivery.  
+輸送中に約4分の3の牛が重病になり、**そのうち1頭だけ**が出産時に生存して**いなかった**とさえ考えていました。
+
+- only one of them was
+- only one of them was not
+- the only one of them was
+- the only one of them was not
+
+There are numerous examples that provide **evidence of the failures** of the postwar system.  
+戦後システムの**失敗の証拠**を提供する多くの例があります。
+
+- evidence of failures
+- evidence of the failures
+- the evidence of failures
+- the evidence of the failures
+
+Usually you cannot start a business unless you have **some funds**.  
+通常、**資金がなければ**ビジネスを始めることはできません。
+
+- no fund
+- any fund
+- any funds
+- some funds
+
+> `unless`はすでに否定形なので、`any`を選ぶ必要はない。
+
+## [9] 超難問 正誤問題 
+
+Use 3 parts of edible oil to 5 vinegar; I mean, use oil ~~with~~[and] vinegar at a rate of 3 to 5.
+
+Open page 19 in your booklet; it tells us comprehensively how to rebuild your rooms.
+ブックレットのページ19を開きなさい。部屋を再構築する方法を包括的に教えてくれます。
+
+Statistics suggest~~s~~ that the population of the village has tripled in the last five years.
+
+> Statisticsは複数形になっているので三単現の`s`はいらない
+
+In no time he will notify you that at no time he enjoys himself to the fullest.
+
+The child often fell yesterday evening while playing hide-and-seek with several of his friends.
+
+Two piles of rocks used to support the pillar found there and another one that was thought to be standing nearby were found.
+
+The ruling party has maintained that they will put priority on implementing measures to buoy up the economy and tackle with the task of reconstructing government finances later.
+
+Immediately after he searched the murder suspect, the policeman started to seek for the stolen car in question.
+
+The Japanese implicit assumption of separateness, cultural and racial, is a fact of everyday existence the awareness of it dimisishes only in rare cases between aliens and Japanese who have lived closely.
+
+The leaders of North and South Korea reached broad agreement on Wednesday aimed at easing half of a century of Cold War tensions on the divided peninsula.
