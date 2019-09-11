@@ -23,6 +23,10 @@ stand for bring your own
 You can take that to the **bank**.  
 絶対に間違いない
 
+> take it to the bank  
+> 間違いない、その通りだ  
+>
+> 映画でよく出るフレーズ  
 > You can bank on me!
 > 大丈夫。任せろ！
 
@@ -74,7 +78,16 @@ to gripe about
 
 ## [6] Chooze the best answer from the two alternatives
 
-Zero degrees Celsius is equal to 32 degrees Fahrenheit.
+Zero degrees Celsius is equal to 32 degrees Fahrenheit.  
+摂氏0度は華氏32度に相当します。
+
+> 参考：[英語では「0個の」もの（名詞）は複数形で表現する](https://eikaiwa.weblio.jp/column/study/eigo-bunpo/zero_plural)  
+> 英語において、数が1の場合は単数形、それ以外の場合は複数形となる。
+> - 単数形の場合(n = 1)
+>   - 1 degree Celsius
+> - 複数系の場合(n != 1)
+>   - 0 degrees Celsius
+>   - 0.5 degrees Celsius
 
 ## [7] Reading Test
 
@@ -106,29 +119,48 @@ The president announced his plan for all new cars produced in the country to hav
 As new environmental regulations increase, businesses **naturally** need more outside consultants to help them comply.  
 新しい環境規制が増加するにつれて、企業は**当然**、コンプライアンスを支援するためにより多くの外部コンサルタントを必要とします。
 
-- natural
-- naturalized
-- naturally
-- nature
+- natural 自然の
+- naturalized 帰化した  
+  帰化：自国籍を捨てて、多国籍を得ること。他国民になること
+- naturally 当然、自然に
+- nature 自然
 
 Well-regarded speakers know the importance of keeping their short, **while** using phrases loaded with meaning.  
 よく知られているスピーカーは、意味を詰め込んだフレーズを使用**しながら**、短くすることの重要性を知っています。
 
-- for
-- since
-- so
-- while
+- for というのも  
+  等位接続詞「for」は同等のモノを接続でき、「結果, for 原因」の順番を構成する。
+- since だから  
+  接続使用法の「since」は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）  
+  > <u>because vs since vs as</u>  
+  > 理由を述べる強さ：because > since >= as
+  > 基本的にsinceは**相手が既に知っていること**を前提に使われ、becauseは**新情報**を前提に使われる。  
+  > このため、sinceには以下の問題点を持つ。
+  > - Why疑問文の回答に用いることができない  
+  >   A:Why didn't you go?  
+  >   B:Because I was busy.  
+  >   B:\* Since I was busy.（使えない）  
+  > - 強調構文に利用できない  
+  >   It was because she was sick that she didn't come to the party.  
+  >   \* It was since she was sick that she didn't come to the party.（使えない）
+- so だから  
+  等位接続詞「so」は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
+- while 「～している間」  
+  従位接続詞の「while」は、以下の２つの意味を持つ
+  - 「Aしている間」
+  - 「Aだが、一方Bは」
+  この接続使用法の見分け方は偏に**カンマ(,)が付いてない or 付いてる**。  
+  今回は「, xxx」の文体なので、whileが使われるとしたら対照用法である。
 
 The novelist Haley Meyers was thrilled to be contacted about a movie **adaptation** of the book she had written ten years ago.  
 小説家のヘイリー・マイヤーズは、彼女が 10 年前に書いた本の映画**化**について問い合わせを受けることに興奮していた。
 
 - adaptability 順応性
 - adaptable
-- adaptation 適応
+- adaptation 適応  
+  > [Adaptability vs Adaptation - What's the difference?](https://wikidiff.com/adaptability/adaptation)  
+  >「a movie adaptation 映画版、映画化」と憶えてしまうのも手
 - adapted
-
-> [Adaptability vs Adaptation - What's the difference?](https://wikidiff.com/adaptability/adaptation)  
-> 「a movie adaptation 映画版、映画化」と憶えてしまうのも手
 
 The jewelry store owner was willing to do anything to cooperate with the authorities to find the person **capable** for the theft.  
 宝石店の所有者は、盗難の**可能性がある**人物を見つけるために当局と協力するために何でも喜んでしました。
@@ -148,7 +180,9 @@ The guest speaker, Marin Secour, **successfully** ran two companies and mentored
 - succession 継承
 
 An original song written by a local musician is **to be performed** by the local children's choir at the Classical Festival in June.  
-地元のミュージシャンによって書かれたオリジナルの歌は、6 月のクラシックフェスティバルで地元の子供の聖歌隊によって**演奏されます**。
+地元のミュージシャンによって書かれたオリジナルの歌は、6 月のクラシックフェスティバルで地元の子供の合唱団によって**演奏されます**。
+
+> choir 合唱団、聖歌隊
 
 - performed
 - performing
@@ -161,8 +195,9 @@ Mountainside Resort welcomes the employees from Whitelight Industries and invite
 Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午後 6 時のネットワーキングカクテルイベントに招待します。
 
 - their
-- them
+- them  
+  > invite 目的格 / 目的格を招待する
 - themselves
+  > invite oneself / 押し掛ける  
+  > 自身を招待する→「押しかける」の意味
 - they
-
-> them と themselves
