@@ -24,7 +24,7 @@ You can take that to the **bank**.
 絶対に間違いない
 
 > take it to the bank  
-> 間違いない、その通りだ  
+> 間違いない、その通りだ
 >
 > 映画でよく出るフレーズ  
 > You can bank on me!
@@ -79,10 +79,11 @@ to gripe about
 ## [6] Chooze the best answer from the two alternatives
 
 Zero degrees Celsius is equal to 32 degrees Fahrenheit.  
-摂氏0度は華氏32度に相当します。
+摂氏 0 度は華氏 32 度に相当します。
 
-> 参考：[英語では「0個の」もの（名詞）は複数形で表現する](https://eikaiwa.weblio.jp/column/study/eigo-bunpo/zero_plural)  
-> 英語において、数が1の場合は単数形、それ以外の場合は複数形となる。
+> 参考：[英語では「0 個の」もの（名詞）は複数形で表現する](https://eikaiwa.weblio.jp/column/study/eigo-bunpo/zero_plural)  
+> 英語において、数が 1 の場合は単数形、それ以外の場合は複数形となる。
+>
 > - 単数形の場合(n = 1)
 >   - 1 degree Celsius
 > - 複数系の場合(n != 1)
@@ -131,15 +132,16 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
 - for というのも  
   等位接続詞「for」は同等のモノを接続でき、「結果, for 原因」の順番を構成する。
 - since だから  
-  接続使用法の「since」は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）  
+  接続使用法の「since」は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）
   > <u>because vs since vs as</u>  
   > 理由を述べる強さ：because > since >= as
-  > 基本的にsinceは**相手が既に知っていること**を前提に使われ、becauseは**新情報**を前提に使われる。  
-  > このため、sinceには以下の問題点を持つ。
-  > - Why疑問文の回答に用いることができない  
+  > 基本的に since は**相手が既に知っていること**を前提に使われ、because は**新情報**を前提に使われる。  
+  > このため、since には以下の問題点を持つ。
+  >
+  > - Why 疑問文の回答に用いることができない  
   >   A:Why didn't you go?  
   >   B:Because I was busy.  
-  >   B:\* Since I was busy.（使えない）  
+  >   B:\* Since I was busy.（使えない）
   > - 強調構文に利用できない  
   >   It was because she was sick that she didn't come to the party.  
   >   \* It was since she was sick that she didn't come to the party.（使えない）
@@ -147,19 +149,19 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
   等位接続詞「so」は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
 - while 「～している間」  
   従位接続詞の「while」は、以下の２つの意味を持つ
-  - 「Aしている間」
-  - 「Aだが、一方Bは」
-  この接続使用法の見分け方は偏に**カンマ(,)が付いてない or 付いてる**。  
-  今回は「, xxx」の文体なので、whileが使われるとしたら対照用法である。
+  - 「A している間」
+  - 「A だが、一方 B は」
+    この接続使用法の見分け方は偏に**カンマ(,)が付いてない or 付いてる**。  
+    今回は「, xxx」の文体なので、while が使われるとしたら対照用法である。
 
 The novelist Haley Meyers was thrilled to be contacted about a movie **adaptation** of the book she had written ten years ago.  
 小説家のヘイリー・マイヤーズは、彼女が 10 年前に書いた本の映画**化**について問い合わせを受けることに興奮していた。
 
 - adaptability 順応性
 - adaptable
-- adaptation 適応  
+- adaptation 適応
   > [Adaptability vs Adaptation - What's the difference?](https://wikidiff.com/adaptability/adaptation)  
-  >「a movie adaptation 映画版、映画化」と憶えてしまうのも手
+  > 「a movie adaptation 映画版、映画化」と憶えてしまうのも手
 - adapted
 
 The jewelry store owner was willing to do anything to cooperate with the authorities to find the person **capable** for the theft.  
@@ -180,7 +182,7 @@ The guest speaker, Marin Secour, **successfully** ran two companies and mentored
 - succession 継承
 
 An original song written by a local musician is **to be performed** by the local children's choir at the Classical Festival in June.  
-地元のミュージシャンによって書かれたオリジナルの歌は、6 月のクラシックフェスティバルで地元の子供の合唱団によって**演奏されます**。
+地元のミュージシャンによって書かれたオリジナルの歌は、6 月のクラシックフェスティバルで地元の子供の合唱団によって**演奏される予定です**。
 
 > choir 合唱団、聖歌隊
 
@@ -189,27 +191,30 @@ An original song written by a local musician is **to be performed** by the local
 - to be performed
 - to perform
 
-> 受け身の仕組みについて
+> 未来を表す受動態
+>
+> - will be P.P「～されるハズだ（話し手の予想）」
+> - is to be P.P「～されることになっている（決まった未来）」
 
 Mountainside Resort welcomes the employees from Whitelight Industries and invites **them** to a networking cocktail event at 6:00 P.M.  
 Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午後 6 時のネットワーキングカクテルイベントに**彼らを**招待します。
 
 - their
-- them  
+- them
   > invite 目的格 / 目的格を招待する
 - themselves
   > invite oneself / 押し掛ける  
-  > 自身を招待する→「押しかける」の意味
+  > 自身を招待する →「押しかける」の意味
 - they
 
 ## [8] 超難問 選択問題
 
-出展：[TOEIC TEST990点満点英文法―これ一冊で文法完全制覇](https://www.amazon.co.jp/TOEIC-TEST990%E7%82%B9%E6%BA%80%E7%82%B9%E8%8B%B1%E6%96%87%E6%B3%95%E2%80%95%E3%81%93%E3%82%8C%E4%B8%80%E5%86%8A%E3%81%A7%E6%96%87%E6%B3%95%E5%AE%8C%E5%85%A8%E5%88%B6%E8%A6%87-%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC-%E7%9F%B3%E4%BA%95-%E9%9A%86%E4%B9%8B/dp/4756903355)
+出展：[TOEIC TEST990 点満点英文法―これ一冊で文法完全制覇](https://www.amazon.co.jp/TOEIC-TEST990%E7%82%B9%E6%BA%80%E7%82%B9%E8%8B%B1%E6%96%87%E6%B3%95%E2%80%95%E3%81%93%E3%82%8C%E4%B8%80%E5%86%8A%E3%81%A7%E6%96%87%E6%B3%95%E5%AE%8C%E5%85%A8%E5%88%B6%E8%A6%87-%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC-%E7%9F%B3%E4%BA%95-%E9%9A%86%E4%B9%8B/dp/4756903355)
 
 The researchers have run tests on rats and people to demonstrate that antioxidants **translate** into health benefits.  
 研究者は、抗酸化物質が健康上の利点**につながる**ことを実証するために、ネズミと人々のテストを実施しました。
 
-- translate (into) ～に変わる、～につながる  
+- translate (into) ～に変わる、～につながる
   > translate into action 行動につながる
 - transfer (into) 移譲する、譲渡する
 - transact 取引する
@@ -224,7 +229,7 @@ He demanded of his boss that he be amply **remunerated** for that kind of labori
 - remunerated 報いた
 
 Scientists are finding simpler ways to **harness** the power of DNA.  
-科学者はDNAの力を**利用する**もっと簡単な方法を見つけています。
+科学者は DNA の力を**利用する**もっと簡単な方法を見つけています。
 
 - hustle 張り切る、押し込む、急ぐ、（ハッスルするは抽象的すぎないか？
 - harness
@@ -244,21 +249,22 @@ Mr. Adams looked like an ophthalmologist, **which** he actually was.
 - which
 - what
 
-> 補語を受ける関係代名詞  
+> 補語を受ける関係代名詞
+>
 > - 先行詞は人の**地位**・**職業**・**性格**などに限定される
 > - 使える関係代名詞は以下の３つ
 >   - which これだけ`, which`と`,`が付くので注意  
->     He is an able doctor. ＋ His brother is not an able doctor.→共通項`an able doctor`を関係詞に。  
+>     He is an able doctor. ＋ His brother is not an able doctor.→ 共通項`an able doctor`を関係詞に。  
 >     He is an able doctor, which his brother is not.  
 >     「彼は有能な医者だが、彼の兄弟はそうではない。」
 >   - that 関係代名詞`that`はよく省略される  
->     She is not a good teacher. ＋ She used to be a good teacher.→共通項`a good teacher`を関係詞に。  
+>     She is not a good teacher. ＋ She used to be a good teacher.→ 共通項`a good teacher`を関係詞に。  
 >     She is not a good teacher (that) She used to be.  
 >     「彼女は、かつてのような良い教師ではない。」
->   - what whatの中に先行詞が含まれて消えてしまう  
->     He is not a man. ＋ He was a man ten years ago.→共通項`a man`を関係詞に。  
+>   - what what の中に先行詞が含まれて消えてしまう  
+>     He is not a man. ＋ He was a man ten years ago.→ 共通項`a man`を関係詞に。  
 >     He is not what he was ten years ago.  
->     「彼は、10年前のような男ではない。」
+>     「彼は、10 年前のような男ではない。」
 
 Kathy looked for some cake but there was already **none** left there.  
 キャシーはケーキを探しましたが、すでに**何も**残っていませんでした。
@@ -284,8 +290,9 @@ Kathy looked for some cake but there was already **none** left there.
 - either
 
 > 今回は`a pencil`を指しているので`it`を用いる。  
-> TOEIC集中のTommyの授業４回目が分かり易いのでそちらも参照のこと。  
-> 別の例文  
+> TOEIC 集中の Tommy の授業４回目が分かり易いのでそちらも参照のこと。  
+> 別の例文
+>
 > - Didn't you have any candies in your bag?「バッグにアメ持ってないの？」
 >   - None.「アメは持ってないな」
 >   - Nothing.「なにも持ってないよ」
@@ -298,10 +305,10 @@ Nobody knows that Nancy has been ill for a few months, do they?
 - do they
 - don't they
 
-> Nobodyがすでに**否定形**であることに注意！！
+> Nobody がすでに**否定形**であることに注意！！
 
 Even thought nearly three-quarters of the cattle became seriously ill while being transported, **only one of them was not** alive upon delivery.  
-輸送中に約4分の3の牛が重病になり、**そのうち1頭だけ**が出産時に生存して**いなかった**とさえ考えていました。
+輸送中に約 4 分の 3 の牛が重病になり、**そのうち 1 頭だけ**が出産時に生存して**いなかった**とさえ考えていました。
 
 - only one of them was
 - only one of them was not
@@ -326,16 +333,16 @@ Usually you cannot start a business unless you have **some funds**.
 
 > `unless`はすでに否定形なので、`any`を選ぶ必要はない。
 
-## [9] 超難問 正誤問題 
+## [9] 超難問 正誤問題
 
 Use 3 parts of edible oil to 5 vinegar; I mean, use oil ~~with~~[and] vinegar at a rate of 3 to 5.
 
 Open page 19 in your booklet; it tells us comprehensively how to rebuild your rooms.
-ブックレットのページ19を開きなさい。部屋を再構築する方法を包括的に教えてくれます。
+ブックレットのページ 19 を開きなさい。部屋を再構築する方法を包括的に教えてくれます。
 
 Statistics suggest~~s~~ that the population of the village has tripled in the last five years.
 
-> Statisticsは複数形になっているので三単現の`s`はいらない
+> Statistics は複数形になっているので三単現の`s`はいらない
 
 In no time he will notify you that at no time he enjoys himself to the fullest.
 
