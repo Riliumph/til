@@ -91,7 +91,7 @@ This is the habitat of red-crested white cranes as well as northern salamanders.
   - 小川原湖
   - 八郎潟
 - marshland 湿地
-  > Magic: the gathering: Marsh Flat / 湿地の干潟
+  > Magic: the gathering: Marsh Flats / 湿地の干潟
 - plateau
   > Magic: the gathering: Plateau / プラトー
 - ravine 渓谷
