@@ -88,11 +88,197 @@ draw near「近づく」を知っておくこと
 >   Is there a post office nearby(= near here)?  
 >   この近くに郵便局はありますか？  
 > - 形容詞的用法  
->   - a nearby store
->   - a store nearby
+>   - a nearby store 前から掛かる場合
+>   - a store nearby 後ろから掛かる場合
 
 ---
 
+There is still some uncertainty among the employees as to how **effective** the new advertising campaign will be in boosting sales.  
+新しい広告キャンペーンが売り上げ増加の点でどれだけ**効果的**か、従業員の間に疑問が残っている。
+
+- effect どうして～をもたらすのか
+- effectively どれくらい効果的か
+- to effect ～のもたらし方
+- effective どれくらい効果的か
+
+`how`と空欄だけではどれも入れることができる。  
+次の二つの文に分割することで、間接疑問文の問題だと判断できる。
+
+- There is still some uncertainty among the employees.
+- how effective will the new advertising campaign be in boosting sales?
+
+この段階で、選択肢は`effectively`/`effective`のどちらかに絞られる。  
+間接疑問文において、形容詞と副詞のどちらが用いられるかの判断が重要となる。  
 
 
+- be動詞の場合は形容詞
+  How fast he is!  
+  第５文型(SVOC)を構築するため、形容詞が用いられる。
+- 一般動詞の場合は副詞
+  How fast he drives!  
+  SVの文型を保つため、動詞を修飾する副詞が用いられる。
+
+今回は`be`動詞が用いられているので、形容詞を用いる。
+
+---
+
+The Flagstaff city concil is committed to **preserving** the environment and has approved a plan to encourage more residents to commute by bicycle.  
+Flagstaff市議会は、環境**保護**に熱心で、住民に自転車での通勤を促す計画を承認した。
+
+- preserve 保護する
+- preserved 保護された
+- preserving 保護すること
+- preserves 補語する
+
+> Ａに真剣に取り組む
+> - be commited to 
+> - be dedicated to
+> - be devited to
+
+上記三つのイディオムは、`be looking foward to`と同じで前置詞`to`を取る。  
+そのため、to不定詞＋原形は正しくない。
+
+--- 
+
+Barrow Construction is committed to providing the heighest quality service to our customers in a **timely** and efficient fashion.  
+Barrow建設は、時機を逃さず効率的な方法で、お客様に最高品質のサービスを提供することに尽力している。
+
+- time 時間
+- timely タイミングが良い
+- timing タイミングを合わせる
+- timeliness タイミングの良さ
+
+`a 形容詞 and 形容詞 名詞`の形。  
+timelyは語尾が-lyだが形容詞であることに注意。
+
+次の例文で覚えてしまおう。
+- in a timely fashion「時機を逃さない方法」
+- in a timely manner
+
+---
+
+All car batteries sold at Oil world come with a **comprehensive** two-year warranty.  
+Oil World社で販売されている自動車用のバッテリーはすべて、**総合的な**２年保証付きだ。
+
+- comprehensive 包括的な、総合的な
+- comprehensively 包括的に、総合的に
+- more comprehensively より包括的に、より総合的に
+- comprehensiveness 包括性、網羅性
+
+これは総合的な保証として名詞に係るので、形容詞を選択する必要がある。  
+`two`などの形容詞的に扱われている数字に係る場合は副詞を選択する必要がある。
+
+- 名詞（今回はwarranty）に係る場合は形容詞 comprehensive
+- 形容詞（今回はtwo）に掛かる場合は副詞 approximatelyなど
+
+--- 
+
+Breakthrough Business School is rated highly amon students as its teachers **actively** engage in discussions with students before and after classes.  
+Breakthrough Business Schoolは、講師が授業の前後に**積極的に**生徒と議論するので、生徒の間で高く評価されている。
+
+- active 活発な
+- actively 積極的に
+- activate 使えるようにする
+- activity 活動
+
+> engage in A「Ａに参加する、関係する」
+
+今回は空欄がなくとも`its teacher engage in`でS+Vの文型が成り立っているので入るのは副詞しかない。 
+
+--- 
+
+Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his decision to appoint Ms. Moretti as vice-president, **effective** next month.  
+Rossi化粧品の最高経営者であるLorenzo Rossiは、来月**から**Morettiさんをｈ区社長に任命する決断を発表した。
+
+- effective
+- effect
+- effects
+- effectively
+
+> `effect + 時`「（法律・契約等が）時から有効な」  
+> これは`as of 時`と同じ意味を持つ。
+
+慣用表現なので覚えるしかない。  
+
+---
+
+Tullworth Stores provide refunds and exchanges only for items **accompanied** by the original receipts.  
+Tullworth Storesは、レシート原本が**添付された**品物のみ、返品と交換を行う。  
+直訳）Tullworth店は、レシート原本が添付された商品に対して、返品と交換を提供します。
+
+- accompany [他動] 付きそう
+- accompanies 
+- accompanying 付随している
+- accompanied 添付された
+
+itemはレシートをaccompanying「添付している」のではなく、レシートにaccompanied「添付されている」
+
+---
+
+Mail carriers **are encouraged** to wear confortable shoes as their work involves considerable walking.  
+郵便配達員は業務で相当な距離を歩くことが求められるので、履き心地の良い靴を着用することを**推奨されている**。
+
+- encourage
+- encourageing
+- are encouraged
+- have encouraged
+
+主語Mail carriersの動詞を選択させる問題。  
+真っ先に気付くべきは**目的語が無い**こと。つまり、受動態を取っていることに他ならない。
+
+---
+
+Premium Luxury Products experienced another year of strong growth, **confirming** its leadership in the cosmetics industry.  
+Premium Luxury Products社は、再び大きな成長の１年を経て、化粧品業界のリーダーとしての地位を強固なものとした。
+
+- confirms
+- confirmed
+- confirming
+- confirmation
+
+分詞構文を問う問題。今回は接続詞`and`が分詞と合体している模様。  
+選択肢として選べるのは、分詞である`confirmed`と`confirming`のどちらか。  
+特に`confirmied`はbeingが省略された形の受動態を表すのでその差に注意すること。
+また、受動態であれば、`its leadership`などという目的語は取らない。
+
+---
+
+21% of those surveyed believe house prices in Richland **will rise** by 10% or more in the next twelve months.  
+調査を受けた人に21%は、Richlandのじゅうたくかかくは今後12ヶ月で10%かそれ以上**高騰する**と考えている。
+
+- be raised
+- will rise
+- rising
+- rose
+
+believeの後ろにthat節が存在する文章。  
+that節内の主語`house prices`と目的語が飛んでbyなので、受動態`be raised`を選択しがち。  
+能動・受動の考えで回答を選ぶとしたら、`raise`は他動詞なので主語に**人**しか置くことができない。  
+よって不適切。
+
+> 人 be interested inは使えるが、物 be interested inは使えない。
+
+> 自動詞と他動詞（よくド忘れするシリーズ）
+> - rise-rose-risen [自動] 上がる  
+> - raise-raised-raised [他動] 上げる  
+>   Raise your hand!で覚えましょう
+> - lie-lay-lain [自動] 寝転ぶ、横たわる
+> - lay-laid-laid [他動] ～を横にする、横に置く
+
+もっと簡単に即答するなら、`in the next twelve months`は未来の期間を語るので未来形を用いることに注目すると、willを選ぶしかない。
+
+---
+
+Audio One has been **struggling** this year despite the fact that personal music players are selling at record numbers.  
+Audio One社は、パーソナル音楽プレイヤーが記録的に売れているのにも関わらず、今年は苦戦が続いている。
+
+- struggle [自動] 苦戦する
+- struggles
+- struggled
+- struggling
+
+`has been`まで見えているので、現在分詞か過去分詞を選択する問題。  
+struggleは自動詞なので受動態を取らないので、strugglingが正解。  
+
+自動詞・他動詞・受動態は別記事で解説。
 
