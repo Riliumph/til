@@ -1,7 +1,7 @@
 # 代名詞
 
-I have my driver's license with me.  
-今、免許証を持っている。
+I have my driver's license <u>with me</u>.  
+<u>今</u>、免許証を持っている。
 
 > with me  
 > 「今一緒だ」という意味
@@ -11,11 +11,11 @@ Those ~~who are~~ wikking to help us are always welcome.
 
 ## it と one
 
-I lost my pen. I must find it.  
-私はペンを失くしたので、（失くした）ペンを見つけないといけない。
+I lost my pen. I must find <u>it</u>.  
+私はペンを失くしたので、（失くした）<u>ペン</u>を見つけないといけない。
 
-I lost my pen. I must by one.  
-私はペンを失くしたので、（別の）ペンを買わないといけない。
+I lost my pen. I must by <u>one</u>.  
+私はペンを失くしたので、（別の）<u>ペン</u>を買わないといけない。
 
 ## 単数形と複数形
 
@@ -37,13 +37,15 @@ Some of the members are able to participate in the event.
 
 > 主語の後でもいいと言われたがあまり見たことがない。
 
-He did it himself.
+He did it himself.  
 彼が彼自身でやったのだ
 
 また、動詞の目的語に取ることで「～自身を、に」と訳すこともできる。
 
-They showed themselves to deserve the praise.  
-彼らは自分たちが称賛に値することを示した。
+They <u>showed themselves</u> to deserve the praise.  
+彼らは自分たちが称賛に値することを<u>示した</u>。
+
+> show oneself A / Ａであることを示す 
 
 ## 再帰代名詞による慣用表現
 
@@ -69,5 +71,5 @@ He did it for himself.
 
 ## 分詞構文
 
-Given the situatuion, he deserves the praise.  
-状況を考えると、彼は称賛に値する。
+<u>Given the situatuion</u>, he deserves the praise.  
+<u>状況を考えると</u>、彼は称賛に値する。

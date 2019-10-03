@@ -2,11 +2,13 @@
 
 ## with + 名詞と副詞
 
-Handle **with care**  
-取り扱い**注意**
+Handle <u>with care</u>.  
+取り扱い<u>注意</u>
 
-deal with the issue **with enthusiasm**.  
-**熱心に**問題に取り組む
+> with care = carefully
+
+deal with the issue <u>with enthusiasm</u>.  
+<u>熱心に</u>問題に取り組む
 
 > with enthusiasm = enthusiastically
 
@@ -83,7 +85,8 @@ He was designated president.
 It is regarded as impossible.  
 それは不可能と考えられている。
 
-> regard A as B の形を意識して、`as`を飛ばさないこと。
+> regard A as B の形を意識して、`as`を飛ばさないこと。  
+> 受動態の場合は目的語であるAが主語に置き換わる。
 
 He was promoted to manager.  
 彼はマネージャーに昇進した。
@@ -104,7 +107,7 @@ an issue relevant to this news
 > 後置修飾に慣れること
 
 expansive topic  
-広範なトピック
+広範囲なトピック
 
 a proficient carpenter  
 熟練された大工

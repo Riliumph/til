@@ -4,8 +4,8 @@ in the distance
 > 対の句  
 > in the neighborhood「近くに」
 
-at the distance  
-近くに
+<u>at</u> the distance  
+近く<u>に</u>
 
 > 「数量・度合」を示す`at`  
 > at a speed of 50 miles an hour  
@@ -30,8 +30,12 @@ with excite
 lawnmower  
 芝刈り機
 
-be eager to be contracted by a company  
-会社からの連絡が欲しい
+<u>be eager to</u> be contacted by a company  
+会社からの連絡<u>が欲しい</u>
+
+> これが能動態だったら別の意味なので注意。  
+> be eager to contact with a company  
+> 会社に連絡したい
 
 I went to the shop only to find out it was closed.  
 お店に行ったが、閉まっているだけだった

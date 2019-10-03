@@ -1,32 +1,38 @@
 # 動名詞しか受け付けない表現
 
-I've **been busy** writing a report.  
-レポートを書くので**忙しかった**
+I've <u>been busy</u> writing a report.  
+レポートを書くので<u>忙しかった</u>
 
-I **have trouble reading** the book.  
-その本を読むのが**つらかった**
+I <u>have trouble reading</u> the book.  
+その本を読むのが<u>つらかった</u>
 
 > ～するのがツライ  
 > have [trouble / difficulty / a hard time] -ing
 
-I **couldn't help turning** on the heater.  
-暖房を点け**ざるを得なかった**
+I <u>couldn't help turning</u> on the heater.  
+暖房を点け<u>ざるを得なかった</u>
 
 > cannot help -ing / ざるを得ない  
 > Ａすることを助けられないの意訳であることを必ず覚えておく。  
 > cannot help but do に置き換えることもできる。  
 > これ、「help to do」の方法に則って「cannot help to do」は使えないの？
 
-He **felt like learning** another language.  
-彼はもう一つの言語を**習いたくなった**
+He <u>felt like learning</u> another language.  
+彼はもう一つの言語を<u>習いたくなった</u>
 
 > feel like -ing / ～したい気がする  
 > 動名詞には過去を、to 不定詞は未来を示唆する意味が含まれている。  
 > 感情の ing は最も簡単な例で、「-ing したからＡという感情になっている」  
 > つまり、感情を持つに至った過去に-ing していると考えると分かり易い
 
-It's no use asking him for help.  
-彼に助けを求めても無駄だ
+It's <u>no use asking</u> him for help.  
+彼に助けを求めても<u>無駄だ</u>
+
+> It's no use -ing/～しても無駄だ  
+> この`It's`は`There's`に置き換えても大丈夫。  
+> 有名な諺として以下がある。  
+> It's no use crying over spilt milk.  
+> 覆水盆に返らず
 
 # 必ず「原型」を取る節（仮定法現在）
 

@@ -1,5 +1,5 @@
-Thanks to clear skies and careful **planning**, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.  
-澄み切った空と綿密な**計画**のおかげで、毎年恒例第７回 Greenfiled ロードレースは、約 500 妊のランナーと共に、今まで最多の観衆を集めた。
+Thanks to clear skies and careful <u>planning</u>, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.  
+澄み切った空と綿密な<u>計画</u>のおかげで、毎年恒例第７回 Greenfiled ロードレースは、約 500 妊のランナーと共に、今まで最多の観衆を集めた。
 
 - plan
 - planned
@@ -12,8 +12,8 @@ Thanks to clear skies and careful **planning**, the seventh annual Greenfield Ro
 
 ---
 
-The Axis 3000, a new energy-efficient hybrid car, has extraordinary **potential** for global sales, said automotive writer, Alex Tokudaiji.  
-燃費の良い新型ハイブリッド車である Axis3000 は、世界の売上で驚くべき**可能性**を持っていると、自動車のライターの Alex Tokudaiji は述べている。
+The Axis 3000, a new energy-efficient hybrid car, has extraordinary <u>potential</u> for global sales, said automotive writer, Alex Tokudaiji.  
+燃費の良い新型ハイブリッド車である Axis3000 は、世界の売上で驚くべき<u>可能性</u>を持っていると、自動車のライターの Alex Tokudaiji は述べている。
 
 - potent 力強い
 - potential 可能性（不可算名詞）
@@ -26,8 +26,8 @@ The Axis 3000, a new energy-efficient hybrid car, has extraordinary **potential*
 
 ---
 
-If guess find noise from the renovation work **objectinable**, the may transfer to another local hotel after the first day.  
-もし、宿泊客が改装工事による騒音を**不快に感じる**のであれば、２日目以降に別の地元のホテルへと移ることができる。
+If guess find noise from the renovation work <u>objectinable</u>, the may transfer to another local hotel after the first day.  
+もし、宿泊客が改装工事による騒音を<u>不快に感じる</u>のであれば、２日目以降に別の地元のホテルへと移ることができる。
 
 - object 反対する
 - objected 反対した
@@ -40,8 +40,8 @@ If guess find noise from the renovation work **objectinable**, the may transfer 
 
 ---
 
-As part of the marketing study, custmoers wre given samples of three different fruit juices with brand labels **purposely** concealed.  
-市場調査の一環として、銘柄のラベルを**わざと**隠した３つの異なるフルーツジュースのサンプルが客に配られた。
+As part of the marketing study, custmoers wre given samples of three different fruit juices with brand labels <u>purposely</u> concealed.  
+市場調査の一環として、銘柄のラベルを<u>わざと</u>隠した３つの異なるフルーツジュースのサンプルが客に配られた。
 
 - purposeless [形] 無目的な
 - purpose [名] 目的
@@ -52,7 +52,7 @@ As part of the marketing study, custmoers wre given samples of three different f
 
 ---
 
-Some buisiness laeaders believe increasing the size of their organizations will lead to corporate **prosperity**.  
+Some buisiness laeaders believe increasing the size of their organizations will lead to corporate <u>prosperity</u>.  
 組織の拡大が企業の繁栄をもたらすと信じるビジネスリーダーもいる。
 
 - prosperity [名] 繁栄
@@ -61,7 +61,7 @@ Some buisiness laeaders believe increasing the size of their organizations will 
 - prospered [動] 成功する
 
 `lead to`= `cause`「もたらす、導く」の意味。  
-そして、この`to`は**前置詞**であることを知っておくこと。  
+そして、この`to`は<u>前置詞</u>であることを知っておくこと。  
 そうすると、`corporate`が形容詞であり、選択するべきは名詞だという判断ができる。
 
 `corporate`を名詞と捉えて副詞を選択する人が多いので、間違えないように！！
@@ -71,7 +71,7 @@ Some buisiness laeaders believe increasing the size of their organizations will 
 
 ---
 
-The application deadline for Speedsoft's summer internship program is drawing **near**, so interested students should contact the office by April 30.  
+The application deadline for Speedsoft's summer internship program is drawing <u>near</u>, so interested students should contact the office by April 30.  
 Speedsoft社の夏季インターンシッププログラムの申込期限が近づいているので、興味のある学生は4月30日までに事務所へ連絡すること。
 
 - near [副] 徐々に、近くに
@@ -93,8 +93,8 @@ draw near「近づく」を知っておくこと
 
 ---
 
-There is still some uncertainty among the employees as to how **effective** the new advertising campaign will be in boosting sales.  
-新しい広告キャンペーンが売り上げ増加の点でどれだけ**効果的**か、従業員の間に疑問が残っている。
+There is still some uncertainty among the employees as to how <u>effective</u> the new advertising campaign will be in boosting sales.  
+新しい広告キャンペーンが売り上げ増加の点でどれだけ<u>効果的</u>か、従業員の間に疑問が残っている。
 
 - effect どうして～をもたらすのか
 - effectively どれくらい効果的か
@@ -122,8 +122,8 @@ There is still some uncertainty among the employees as to how **effective** the 
 
 ---
 
-The Flagstaff city concil is committed to **preserving** the environment and has approved a plan to encourage more residents to commute by bicycle.  
-Flagstaff市議会は、環境**保護**に熱心で、住民に自転車での通勤を促す計画を承認した。
+The Flagstaff city concil is committed to <u>preserving</u> the environment and has approved a plan to encourage more residents to commute by bicycle.  
+Flagstaff市議会は、環境<u>保護</u>に熱心で、住民に自転車での通勤を促す計画を承認した。
 
 - preserve 保護する
 - preserved 保護された
@@ -140,7 +140,7 @@ Flagstaff市議会は、環境**保護**に熱心で、住民に自転車での�
 
 --- 
 
-Barrow Construction is committed to providing the heighest quality service to our customers in a **timely** and efficient fashion.  
+Barrow Construction is committed to providing the heighest quality service to our customers in a <u>timely</u> and efficient fashion.  
 Barrow建設は、時機を逃さず効率的な方法で、お客様に最高品質のサービスを提供することに尽力している。
 
 - time 時間
@@ -157,8 +157,8 @@ timelyは語尾が-lyだが形容詞であることに注意。
 
 ---
 
-All car batteries sold at Oil world come with a **comprehensive** two-year warranty.  
-Oil World社で販売されている自動車用のバッテリーはすべて、**総合的な**２年保証付きだ。
+All car batteries sold at Oil world come with a <u>comprehensive</u> two-year warranty.  
+Oil World社で販売されている自動車用のバッテリーはすべて、<u>総合的な</u>２年保証付きだ。
 
 - comprehensive 包括的な、総合的な
 - comprehensively 包括的に、総合的に
@@ -173,8 +173,8 @@ Oil World社で販売されている自動車用のバッテリーはすべて�
 
 --- 
 
-Breakthrough Business School is rated highly amon students as its teachers **actively** engage in discussions with students before and after classes.  
-Breakthrough Business Schoolは、講師が授業の前後に**積極的に**生徒と議論するので、生徒の間で高く評価されている。
+Breakthrough Business School is rated highly amon students as its teachers <u>actively</u> engage in discussions with students before and after classes.  
+Breakthrough Business Schoolは、講師が授業の前後に<u>積極的に</u>生徒と議論するので、生徒の間で高く評価されている。
 
 - active 活発な
 - actively 積極的に
@@ -187,8 +187,8 @@ Breakthrough Business Schoolは、講師が授業の前後に**積極的に**生
 
 --- 
 
-Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his decision to appoint Ms. Moretti as vice-president, **effective** next month.  
-Rossi化粧品の最高経営者であるLorenzo Rossiは、来月**から**Morettiさんをｈ区社長に任命する決断を発表した。
+Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his decision to appoint Ms. Moretti as vice-president, <u>effective</u> next month.  
+Rossi化粧品の最高経営者であるLorenzo Rossiは、来月<u>から</u>Morettiさんをｈ区社長に任命する決断を発表した。
 
 - effective
 - effect
@@ -202,8 +202,8 @@ Rossi化粧品の最高経営者であるLorenzo Rossiは、来月**から**More
 
 ---
 
-Tullworth Stores provide refunds and exchanges only for items **accompanied** by the original receipts.  
-Tullworth Storesは、レシート原本が**添付された**品物のみ、返品と交換を行う。  
+Tullworth Stores provide refunds and exchanges only for items <u>accompanied</u> by the original receipts.  
+Tullworth Storesは、レシート原本が<u>添付された</u>品物のみ、返品と交換を行う。  
 直訳）Tullworth店は、レシート原本が添付された商品に対して、返品と交換を提供します。
 
 - accompany [他動] 付きそう
@@ -215,8 +215,8 @@ itemはレシートをaccompanying「添付している」のではなく、レ�
 
 ---
 
-Mail carriers **are encouraged** to wear confortable shoes as their work involves considerable walking.  
-郵便配達員は業務で相当な距離を歩くことが求められるので、履き心地の良い靴を着用することを**推奨されている**。
+Mail carriers <u>are encouraged</u> to wear confortable shoes as their work involves considerable walking.  
+郵便配達員は業務で相当な距離を歩くことが求められるので、履き心地の良い靴を着用することを<u>推奨されている</u>。
 
 - encourage
 - encourageing
@@ -224,11 +224,11 @@ Mail carriers **are encouraged** to wear confortable shoes as their work involve
 - have encouraged
 
 主語Mail carriersの動詞を選択させる問題。  
-真っ先に気付くべきは**目的語が無い**こと。つまり、受動態を取っていることに他ならない。
+真っ先に気付くべきは<u>目的語が無い</u>こと。つまり、受動態を取っていることに他ならない。
 
 ---
 
-Premium Luxury Products experienced another year of strong growth, **confirming** its leadership in the cosmetics industry.  
+Premium Luxury Products experienced another year of strong growth, <u>confirming</u> its leadership in the cosmetics industry.  
 Premium Luxury Products社は、再び大きな成長の１年を経て、化粧品業界のリーダーとしての地位を強固なものとした。
 
 - confirms
@@ -243,8 +243,8 @@ Premium Luxury Products社は、再び大きな成長の１年を経て、化粧
 
 ---
 
-21% of those surveyed believe house prices in Richland **will rise** by 10% or more in the next twelve months.  
-調査を受けた人に21%は、Richlandのじゅうたくかかくは今後12ヶ月で10%かそれ以上**高騰する**と考えている。
+21% of those surveyed believe house prices in Richland <u>will rise</u> by 10% or more in the next twelve months.  
+調査を受けた人に21%は、Richlandのじゅうたくかかくは今後12ヶ月で10%かそれ以上<u>高騰する</u>と考えている。
 
 - be raised
 - will rise
@@ -253,7 +253,7 @@ Premium Luxury Products社は、再び大きな成長の１年を経て、化粧
 
 believeの後ろにthat節が存在する文章。  
 that節内の主語`house prices`と目的語が飛んでbyなので、受動態`be raised`を選択しがち。  
-能動・受動の考えで回答を選ぶとしたら、`raise`は他動詞なので主語に**人**しか置くことができない。  
+能動・受動の考えで回答を選ぶとしたら、`raise`は他動詞なので主語に<u>人</u>しか置くことができない。  
 よって不適切。
 
 > 人 be interested inは使えるが、物 be interested inは使えない。
@@ -269,8 +269,8 @@ that節内の主語`house prices`と目的語が飛んでbyなので、受動態
 
 ---
 
-Audio One has been **struggling** this year despite the fact that personal music players are selling at record numbers.  
-Audio One社は、パーソナル音楽プレイヤーが記録的に売れているのにも関わらず、今年は苦戦が続いている。
+Audio One has been <u>struggling</u> this year despite the fact that personal music players are selling at record numbers.  
+Audio One社は、パーソナル音楽プレイヤーが記録的に売れているのにも関わらず、今年は<u>苦戦</u>が続いている。
 
 - struggle [自動] 苦戦する
 - struggles

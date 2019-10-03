@@ -81,16 +81,26 @@ Please turn on the light so that I can see your face.
 You must do it whether like it or not.  
 あなたがそれを好きであろうが無かろうが、あなたはそれをしなくてはならない。
 
-> 上記は、You(S) + do(V) + it(O)の第３文型を取っており、目的語に相当しないため副詞節。  
+> 上記は、You(S) + do(V) + it(O)の第３文型を取っており、目的語に相当しないため**副詞句**。  
 > I don't know whether it is good or not.  
 > 私は、それが良いか悪いか分からない。  
-> これは、I(S) + know(V)であり、whether 節が目的語に相当するため名詞句。
+> これは、I(S) + know(V)であり、whether 節が目的語に相当するため**名詞句**。
 
-I can buy it provided that it is cheap enough.  
-十分に安いなら、私はそれを買うことができる。
+I can buy it <u>provided that</u> it is cheap enough.  
+十分に安い<u>場合だけ</u>、私はそれを買うことができる。
+
+> `if` vs `provide`  
+> 仮定を示すワードにおいて、`privided that`/`providing that`はifよりも強いニュアンスを持つ。  
+> 英文契約書にて、但書きや条件を述べる際に使われることが多い。  
+> e.g.  
+> Licensee hereby grants at any time to Licensor the irrevocable, royal-free, exclusive right and licence to use and employ Development, provided that, during the effective period of this Agreement, such use and employment is outside of the Exclusive Territory.  
+> ライセンシーは、本契約書により、本契約書の有効期間中での、そのような使用および採用が販売区域の外であることを条件として、開発技術を使用および採用するための、取消不能でロイヤルティなしの独占的な権利および実施権をライセンサーに対して常時供与する。
+>
+> ...; provided that the Receiving Party may disclose the Confidential Information to third parties which have agreed to a confidentiality agreement at least as restrictive as this Agreement.  
+>...、但し、受領当事者は、少なくとも本契約と同程度の制限を規定した秘密保持契約書に同意した第三者に、本秘密情報を開示することができるものとする。
 
 I see him whenever I come here.  
 私はここに来るといつも彼を見かける。
 
-Now that I'm old, I cannot run so fast.  
-今や私は年なので、そんなに早く走れない
+<u>Now that</u> I'm old, I cannot run so fast.  
+<u>今や</u>私は年<u>なので</u>、そんなに早く走れない

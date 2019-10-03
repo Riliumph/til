@@ -15,7 +15,7 @@ When I was driving on National Route 176, I saw an accident.
 
 分詞構文を作るときは、主語を省略して動詞を-ing の形にする。
 
-Being driving on National Route 176, I saw an accident.
+> Being driving on National Route 176, I saw an accident.
 
 ただ、be 動詞は省略されやすいため
 
@@ -26,26 +26,26 @@ Driving on National Route 176, I saw an accident.
 If this battery is used economically, it will last about 50 hours.  
 節約して使えば、このバッテリーは 50 時間ほどもつ。
 
-(Being) Used economically, this battery will last about 50 hours.
+> (Being) Used economically, this battery will last about 50 hours.
 
 「節約して使えば」という言葉から`using`を連想してしまいがちだが、使うことはできない。  
 確かに副詞節を分詞構文にするときは、接続詞を消し、主語を消し、残った動詞を ing 形にすることだ。  
 だが、今回の動詞は`be`動詞である。
 
 ここでよく勘違いされるのが、`Used`などの分詞形から始まる分詞構文が分からないという質問だ。  
-**過去分詞形から始まる分詞構文は存在しない**ということを覚えて欲しい。  
+ **過去分詞形から始まる分詞構文は存在しない**ということを覚えて欲しい。  
 過去分詞形から始まっている分詞構文は必ず先頭に`be`動詞が ing 形で存在し、ただそれが省略されているだけである。
 
 # 後置修飾
 
-He has a book to read during his trip.  
-彼は、旅行中に要むための本を持っている。
+He has a book <u>to read</u> during his trip.  
+彼は、旅行中に<u>読むための</u>本を持っている。
 
-I have a plan to live in this town.  
-私はこの町に住む計画がある。
+I have a plan <u>to live in this town</u>.  
+私は<u>この町に住む</u>計画がある。
 
-The book printed last month will be published.  
-先月に印刷された本は出版されるだろう。
+The book <u>printed last month</u> will be published.  
+<u>先月に印刷された</u>本は出版されるだろう。
 
-The man working hard outside is sweating a lot.  
-外で懸命に働く人はたくさん汗をかいている。
+The man <u>working hard outside</u> is sweating a lot.  
+<u>外で懸命に働く</u>人はたくさん汗をかいている。
