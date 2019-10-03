@@ -36,7 +36,7 @@ He <u>used to</u> live there for many years.
 
 ## 2. be used to「～することに慣れている」
 
-He is used to cold weather.  
+He <u>is used to</u> cold weather.  
 彼は寒い気候に慣れている
 
 > 入れ替えられる単語  
