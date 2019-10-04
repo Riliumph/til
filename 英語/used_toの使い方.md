@@ -26,7 +26,6 @@ He <u>used to</u> live there for many years.
   迂言法助動詞には`ought to`なども存在するが、必ず`to`が使われる。  
 
 
-
 ### would oftenとの違い
 
 ||used to V|would often V|
