@@ -1,11 +1,10 @@
-in the distance  
-（漠然と）遠くの方に
+`in the distance / （漠然と）遠くの方に`
 
 > 対の句  
-> in the neighborhood「近くに」
+> `in the neighborhood /近くに`
 
-<u>at</u> the distance  
-近く<u>に</u>
+**at** the distance  
+近く**に**
 
 > 「数量・度合」を示す`at`  
 > at a speed of 50 miles an hour  
@@ -18,8 +17,12 @@ address の意味
 3. 話しかける(= talk to)
 4. 問題に取り組む
 
-remind 人 about / to do  
-～を思い出させる
+`remind 人 名詞 / ～を思い出させる`
+
+> 名詞句を取るため、以下のように前置詞句か to 不定詞名詞用法を用いる。
+>
+> - `remind 人 about A`
+> - `remind 人 to do`
 
 with gusto  
 楽しんで
@@ -30,8 +33,8 @@ with excite
 lawnmower  
 芝刈り機
 
-<u>be eager to</u> be contacted by a company  
-会社からの連絡<u>が欲しい</u>
+**be eager to** be contacted by a company  
+会社からの連絡**が欲しい**
 
 > これが能動態だったら別の意味なので注意。  
 > be eager to contact with a company  

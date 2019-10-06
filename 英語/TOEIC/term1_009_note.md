@@ -2,25 +2,25 @@
 
 ## with + 名詞と副詞
 
-Handle <u>with care</u>.  
-取り扱い<u>注意</u>
+Handle **with care**.  
+取り扱い**注意**
 
 > with care = carefully
 
-deal with the issue <u>with enthusiasm</u>.  
-<u>熱心に</u>問題に取り組む
+deal with the issue **with enthusiasm**.  
+**熱心に**問題に取り組む
 
 > with enthusiasm = enthusiastically
 
 easily
 簡単に
 
-> easily = with ease
+> = `with ease`
 
 diligently  
 勤勉に
 
-> with diligence
+> `with diligence`
 
 ## if 節を形成する単語
 
@@ -86,7 +86,7 @@ It is regarded as impossible.
 それは不可能と考えられている。
 
 > regard A as B の形を意識して、`as`を飛ばさないこと。  
-> 受動態の場合は目的語であるAが主語に置き換わる。
+> 受動態の場合は目的語である A が主語に置き換わる。
 
 He was promoted to manager.  
 彼はマネージャーに昇進した。
@@ -140,5 +140,5 @@ He speaks English proficiently.
 at noon sharply
 正午きっかりに
 
-> sharply = precisely = promptly  
-> at just noon と同じ意味
+> `sharply` = `precisely` = `promptly`  
+> `at just noon` と同じ意味

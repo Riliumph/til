@@ -13,14 +13,14 @@ finish work by 6 o'clock
 ６時までに仕事を終える
 
 step down as CEO  
-CEOを退く
+CEO を退く
 
-replace Mr.Smith <u>as CEO</u>  
-スミス氏の後任としてCEOになる
+replace Mr.Smith **as CEO**  
+スミス氏の後任として CEO になる
 
 > 自分の場合は`as`を使う
 
-replace Mr.Smith <u>with you</u>  
+replace Mr.Smith **with you**  
 スミス氏の後任にあなたをあてる
 
 > 他人の場合は`with 人`を使う
@@ -32,7 +32,7 @@ unlike him
 彼とは異なり
 
 change / transform A into B  
-AをBに変える
+A を B に変える
 
 across / throughout the country  
 国中に
@@ -40,11 +40,11 @@ across / throughout the country
 With the sales on the buttom, S + V  
 売上がどん底の状態で
 
-<u>on</u> time  
+**on** time  
 時間どおりに
 
-<u>in</u> time for A  
-Aに間に合って
+**in** time for A  
+A に間に合って
 
 on hour a head of schedule  
 予定より１時間早く
@@ -61,24 +61,25 @@ as for me
 regarding / concerning the weather  
 天候に関しては
 
-<u>provide</u> **him** <u>with</u> enough money  
-**彼に**十分なお金<u>を与える</u>
+**provide** him **with** enough money  
+彼に十分なお金**を与える**
 
 > `provide A with B` = `provide B for A`  
-> We <u>provide</u> our customers having our member's card <u>with</u> a special discount.  
-> We <u>provide</u> a special discount <u>for</u> our customers having our member's card.  
+> We **provide** our customers having our member's card **with** a special discount.  
+> We **provide** a special discount **for** our customers having our member's card.  
 > メンバーズカードをお持ちのお客様には特別割引をご提供します。
 
 deprive / rob him of the position  
 彼から職を奪う
 
 > `rob A of B`の注意点  
-> `of`「～の」と覚えてしまっていると、「BのＡを奪う」→「BからAを奪う」と訳しがち。  
-> **`rob`の目的語は奪われるモノではなく、人である**ことをよく覚えておくこと。  
-> また、受動態にする場合も、**奪われるモノを主語にしないように**注意すること。
-> - Someone <u>robbed</u> him <u>of</u> his bag.  
->   誰かが彼のカバンを盗った。  
-> - He <u>was robbed of</u> his bag be someone.  
+> `of`「～の」と覚えてしまっていると、「B のＡを奪う」→「B から A を奪う」と訳しがち。  
+> `rob`の**目的語**は**奪われるモノ**ではなく、**人である**ことをよく覚えておくこと。  
+> また、受動態にする場合も、\*\*奪われるモノを主語にしないように\*\*注意すること。
+>
+> - Someone **robbed** him **of** his bag.  
+>   誰かが彼のカバンを盗った。
+> - He **was robbed of** his bag be someone.  
 >   彼は誰かにカバンを盗られた。
 
 refrain from smoking  
@@ -90,15 +91,15 @@ devide the cake into five pieces
 devide the cake among 5 people  
 ケーキを（自分を除く）５人で分ける
 
-> 自分を含める場合は「with」を用いる
+> 自分を含める場合は`among`の代わりに`with`を用いる
 
 It's beyond comprehension  
 それは理解を超えている
 
-lean <u>against</u> the wall  
-壁<u>に</u>もたれる
+lean **against** the wall  
+壁**に**もたれる
 
-> 壁に対して90°で倒れかかるので`against`「対して」が用いられる。
+> 壁に対して 90° で倒れかかるので`against`「対して」が用いられる。
 
 lean over the table  
 テーブルに身を乗り出す
@@ -114,11 +115,10 @@ on the web site
 
 # 文型
 
-He helped <u>clean</u> the room.  
+He helped `clean` the room.  
 彼は部屋の掃除を手伝った
 
-> `help A do`  
-> Aが〜するのを手伝う  
+> `help A do / A が〜するのを手伝う`  
 > **原形**を用いること。
 
 He addressed his student.  
@@ -127,10 +127,10 @@ He addressed his student.
 He addressed this problem.  
 彼はこの問題に焦点を当てた
 
-I <u>prevent</u> him <u>from</u> making mistake  
-彼がミスをするの<u>を防ぐ</u>
+I **prevent** him **from** making mistake  
+彼がミスをするの**を防ぐ**
 
-<u>attribute</u> the mistake <u>to</u> the weather  
+**attribute** the mistake **to** the weather  
 失敗を天気のせいにする
 
 accuse him of the mistake  
@@ -142,10 +142,10 @@ present a lecture
 inquire the way  
 道を尋ねる
 
-<u>engage in</u> the project  
-そのプロジェクトに<u>専念する</u>
+**engage in** the project  
+そのプロジェクトに**専念する**
 
-<u>merge with</u> the company  
+**merge with** the company  
 会社を合併する
 
 acquire this company  
@@ -159,8 +159,8 @@ He remark that ...
 proceed with this plan  
 この計画を進める
 
-<u>diapprove of</u> this plan  
-この計画<u>に反対だ</u>
+**diapprove of** this plan  
+この計画**に反対だ**
 
 offer him a seat  
 彼に席をすすめる
@@ -189,5 +189,5 @@ appoint him president
 explain the problem to him  
 彼に問題を説明する
 
-> explainはSVOOの文型を取れない。  
+> explain は SVOO の文型を取れない。  
 > ~~explain him the problem~~

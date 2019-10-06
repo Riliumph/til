@@ -20,17 +20,18 @@ A を改善する
 an additional day  
 追加の一日
 
-- The company will provide an additional day of paid vacation when an annual leave day falls on a public holiday.  
-  その会社は、年次有給休暇が祝日に当たった場合、追加の有給休暇を付与するだろう
-- paid vacation / 有給休暇
-- an annual leave day / 年次有給休暇
-- fall on A / （日付が）A と当たる
+> The company will provide an additional day of paid vacation when an annual leave day falls on a public holiday.  
+> その会社は、年次有給休暇が祝日に当たった場合、追加の有給休暇を付与するだろう
+>
+> - paid vacation / 有給休暇
+> - an annual leave day / 年次有給休暇
+> - fall on A / （日付が）A と当たる
 
 travel for pleasure
 余暇の旅をする
 
-- travel on business / 仕事の旅  
-  for と on の使い分けを覚えておく
+> travel on business / 仕事の旅  
+> for と on の使い分けを覚えておく
 
 protective goggles  
 防護用ゴーグル

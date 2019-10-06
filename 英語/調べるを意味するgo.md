@@ -1,6 +1,6 @@
 # 調べる go
 
-go には少し変わったイディオム（？）として`調べる`を意味するモノがある。  
+go には少し変わったイディオム（？）として「調べる」を意味するモノがある。  
 今回は、一般的な意味を解説した後で、それについて触れたいと思う。
 
 ## go into ～
@@ -16,8 +16,8 @@ go には少し変わったイディオム（？）として`調べる`を意味
 
 ### 使い方
 
-1. I made the decision five years ago to <font color=royalblue>go into</font> real estate investestment.  
-   私は 5 年前に不動産投資の世界に<font color=royalblue>入る</font>決断をしました。
+1. I made the decision five years ago to `go into` real estate investestment.  
+   私は 5 年前に不動産投資の世界に`入る`決断をしました。
 2. Thank you for all of the hard work that <font color=royalblue>went into</font> generat<font color=royalblue>ing</font> the data.  
    そのデータを得るために<font color=royalblue>費やした</font>ハードワークのすべてに感謝申し上げます。
 

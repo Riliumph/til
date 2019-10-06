@@ -73,7 +73,8 @@ A driver has been sent to pick up Ms. WAlters when she **arrives** at the airpor
 According to industry experts, small companies benefit from the low-cost promotions through the Internet, helping them **prolifelate** in a repidly changing market.  
 業界の専門家居によれば、中小企業はインターネットを通じた低コストの広報宣伝から恩恵を受け、めまぐるしく変化する市場での**急拡大**に役立てている。
 
-> prolifelate...急拡大。MTG では増殖だったな。
+> `prolifelate / 急拡大`  
+> Magic: The gathering 増殖
 
 Should you have any questions **regarding** access to Global Research Center, please direct your inquiry to rep@globalresearch.com.  
 Global Research Center への行き方に**ついて**質問があれば、rep@globalresearch.com までお問い合わせください。
