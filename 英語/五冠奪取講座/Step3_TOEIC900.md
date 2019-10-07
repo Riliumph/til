@@ -100,6 +100,8 @@ Though some entrepreneurs have sufficient capital to start a business, most need
 - give 得る
 - lend 貸す
 
+---
+
 Scientists want to study the **collected** material from the planet to see if it can help them understand how the universe was formed.  
 科学者は、惑星から**収集された**物質を調べて、宇宙がどのように形成されたかを理解するのに役立つかどうかを調べたいと考えています。
 
@@ -107,6 +109,8 @@ Scientists want to study the **collected** material from the planet to see if it
 - collecting 集めている
 - collection 収集品
 - collector 収集家
+
+---
 
 The president announced his plan for all new cars produced in the country to have zero emissions **within** five years.  
 大統領は、国内で生産されるすべての新車が 5 年**以内**に排出量ゼロを達成する計画を発表しました。
@@ -117,6 +121,8 @@ The president announced his plan for all new cars produced in the country to hav
 - by ～まで
 - within ～以内
 
+---
+
 As new environmental regulations increase, businesses **naturally** need more outside consultants to help them comply.  
 新しい環境規制が増加するにつれて、企業は**当然**、コンプライアンスを支援するためにより多くの外部コンサルタントを必要とします。
 
@@ -126,6 +132,8 @@ As new environmental regulations increase, businesses **naturally** need more ou
 - naturally 当然、自然に
 - nature 自然
 
+---
+
 Well-regarded speakers know the importance of keeping their short, **while** using phrases loaded with meaning.  
 よく知られているスピーカーは、意味を詰め込んだフレーズを使用**しながら**、短くすることの重要性を知っています。
 
@@ -133,7 +141,7 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
   等位接続詞「for」は同等のモノを接続でき、「結果, for 原因」の順番を構成する。
 - since だから  
   接続使用法の「since」は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）
-  > <u>because vs since vs as</u>  
+  > <u>`because` vs `since` vs `as`</u>  
   > 理由を述べる強さ：because > since >= as
   > 基本的に since は**相手が既に知っていること**を前提に使われ、because は**新情報**を前提に使われる。  
   > このため、since には以下の問題点を持つ。
@@ -154,6 +162,8 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
     この接続使用法の見分け方は偏に**カンマ(,)が付いてない or 付いてる**。  
     今回は「, xxx」の文体なので、while が使われるとしたら対照用法である。
 
+---
+
 The novelist Haley Meyers was thrilled to be contacted about a movie **adaptation** of the book she had written ten years ago.  
 小説家のヘイリー・マイヤーズは、彼女が 10 年前に書いた本の映画**化**について問い合わせを受けることに興奮していた。
 
@@ -164,6 +174,8 @@ The novelist Haley Meyers was thrilled to be contacted about a movie **adaptatio
   > 「a movie adaptation 映画版、映画化」と憶えてしまうのも手
 - adapted
 
+---
+
 The jewelry store owner was willing to do anything to cooperate with the authorities to find the person **capable** for the theft.  
 宝石店の所有者は、盗難の**可能性がある**人物を見つけるために当局と協力するために何でも喜んでしました。
 
@@ -173,6 +185,8 @@ The jewelry store owner was willing to do anything to cooperate with the authori
   > eventually「やがて、結局」
 - responsible 責任のある
 
+---
+
 The guest speaker, Marin Secour, **successfully** ran two companies and mentored many employees before retiring at age 72.  
 ゲストスピーカーのマリンセクールは、**首尾よく**２つの会社を経営し、72 歳で退職する前に多くの従業員を指導しました。
 
@@ -180,6 +194,8 @@ The guest speaker, Marin Secour, **successfully** ran two companies and mentored
 - successful 成功した
 - successfully 首尾よく、うまく
 - succession 継承
+
+---
 
 An original song written by a local musician is **to be performed** by the local children's choir at the Classical Festival in June.  
 地元のミュージシャンによって書かれたオリジナルの歌は、6 月のクラシックフェスティバルで地元の子供の合唱団によって**演奏される予定です**。
@@ -195,6 +211,8 @@ An original song written by a local musician is **to be performed** by the local
 >
 > - will be P.P「～されるハズだ（話し手の予想）」
 > - is to be P.P「～されることになっている（決まった未来）」
+
+---
 
 Mountainside Resort welcomes the employees from Whitelight Industries and invites **them** to a networking cocktail event at 6:00 P.M.  
 Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午後 6 時のネットワーキングカクテルイベントに**彼らを**招待します。
