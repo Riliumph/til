@@ -110,6 +110,7 @@ I have been involved in this project for 10 years.
 unless otherwise A  
 他のＡが無い限り  
 Ａの候補
+
 - instructed 指示
 - noted 記述
 - stipulated 規定
@@ -382,3 +383,137 @@ Benin City 空港は中心街から 20 キロほどのところにある。
 本来の文章を考えればいいので、以下を考える。  
 The Benin City is ---- about 20 kilometers from the city center.  
 よって、過去分詞が形容詞化した`situated`が正しい。
+
+---
+
+Tanton City passed legislation requiring all drivers age 75 and older to pass a vision test **before** renewing their driver's license.  
+Tanto 市は、運転免許証を更新する**前に**視力検査に合格することを、75 歳以上のすべての運転者に求める法案を可決した。
+
+- although [接]
+- before [前]
+- and [接]]
+- from [前]
+
+空欄の後ろが動名詞なので、前置詞を配置することが分かる。  
+この段階で絞られる選択肢は`before` / `form`である。  
+文意を考えれば`before`なのだが、ここでは`before -ing`「～する前に」が頻出なのでそれで覚えておくこと。
+
+---
+
+The fun run will be postponed until March 23 **unless** the weather clears up by Friday.  
+市民マラソンは、金曜日までに天気が回復し**ない限り** 3/23 まで延期される。
+
+- unless [接]
+- however [副]
+- because of [前]（結局、文をつないでいるのは`of`なので）
+- so that [接]
+
+空欄を挟んで S+V の形が並んでいるため、選択肢は接続詞を選択すること。
+
+---
+
+**In addition to** booking flights and making accommodation reservations, Waterfall Travel agents arrange private tours for small groups.  
+フライトを予約することと宿泊施設の予約すること**に加えて**、Waterfall 旅行者は少人数での個人ツアーも手配する。
+
+- As much as 「～ほど」数詞の前で量の多さを強調することに用いられる。
+- Moreover [副]「さらに」
+- Included in 「～に含まれている」分詞構文として文頭におけることに注目。今回は文意に沿わない。
+- In addition to 「～に加えて」
+
+動名詞`booking / 予約`があるため、選択できるのは前置詞を持つ物だけ。ここで`Moreover`は弾かれる。  
+あとはそれぞれの使い方と文意のセットで考える必要がある。
+
+> `accommodation / 宿泊施設`  
+> `make A reservattion(s) / Ａを予約する`
+
+---
+
+Mr. Murphy has requested that the second seminar be held tomorrow **rather than** having him return next week.  
+Murphy さんは、翌週また戻るのではなく、次のセミナーを明日開催するように求めた。
+
+- even though [接]「～だけれども」
+- rather than 「～ではなく」
+- as soon as [接]「～するとすぐに」
+- so that [接]「～するように」
+
+動名詞`having`があるので、前置詞を持つ選択肢が適当。  
+文意を読めなくとも解答できる問題。このルールだけは覚えておくこと。
+
+---
+
+**Since** Ms. Contreas began working as a sales representative, she has successfully expanded our client base.  
+Contreras さんは販売員として働き始めて以来、我が社の顧客数を順調に拡大してきた。
+
+- Since [接]「～以来」
+- When [接]「～するとき」
+- Before [接]「～より前に」
+- Whereas [接]「～である一方で」
+
+文意を読めなかった場合は答えられない。そして、なぜかわからなかったのだ。
+
+---
+
+Mr. Hasegawa decided to purchase the movie tickets early **so that** he would not have to wait in line at the box office.  
+Hasegawa さんは、チケット売り場の列で待つ必要が無いように。映画のチケットを事前に購入することに決めた。
+
+- so that [接]「～するように」
+- in order 「～のために」
+- as if [接]「～のようだ」
+- even yet [副]「まだ～さえない」
+
+空欄前後で S+V が並んでいるため、選択するべきは接続詞。  
+あとは文意に沿って選択するだけ。
+
+---
+
+Prividing periodic maintenance is carried out accourding to the manufacturers specifications, the TD24 paper folder will continue to function for a good many years.  
+メーカーの仕様に従って定期的なメンテナンスが行われれば、TD24 ペーパーホルダーは、長期間にわたってお使いいただけます。
+
+- For `～, for`の場合のみ接続詞の意味を持つ。
+- Therefore [副]
+- Providing [接]
+- Over [前・副]
+
+どうやら節を見抜く力が足りていないように見受けられる。  
+`providing`は現在分詞・動名詞のように見えるが、`if`同様に条件を表す接続詞である。
+
+---
+
+The tour group left for Osaka, **even though** they had not received their complete itinerary from the travel agency.  
+旅行会社からの完全な旅程表をまだ受け取っていなかったが、そのツアーグループは大阪へ向かった。
+
+- in spite of「～にも関わらず」
+- because of「～なので」
+- even though [接]「～であるけれども」
+- so that [接]「～するように」
+
+空欄後が`they`である以上、前置詞は取れない。また、空欄前後で S+V が並んでいるため**接続詞**が必要。  
+あとは文意を確かめて選択するだけ。
+
+---
+
+Applicants for the position will be sent an acknowledgement letter **once** the Human Resources Department has received the applications.  
+人事部が出願書類を受け取り次第、この職への応募者には受領通知が送られる。
+
+- among [前]「～の中で」
+- despite [前]「～だけれども」
+- unless [接]「～しない限り」
+- once [接]「いったん、～したら」
+
+S+V の構造を見抜けば、接続詞が必要であることが分かる。  
+あとは文意に沿って選択する。
+
+---
+
+Employees are required to book in advance **if** intending to use a company vehicle.  
+従業員は、社用車を使おうとする場合はあらかじめ予約をすることが求められている。
+
+- whereas
+- from
+- if
+- even
+
+空欄後が同飯井であるので、前置詞が正解候補に見える。ただし、それでは文意が通らない。  
+実は、この空欄の後ろには主語＋ be 動詞が省略された節と考えて、接続詞を捜す必要がある。  
+`if they are`の形を取ると文意が通る。  
+**主節と従属節の主語と動詞が同じ場合**は**省略**されることがあるので注意すること。
