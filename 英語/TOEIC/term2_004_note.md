@@ -83,7 +83,56 @@ I hope it will be sunny tommorrow.
 I have been involved in this project for 10 years.  
 私はこのプロジェクトに 10 年関わっている。
 
----
+# Pre-Study2
+
+## 前置詞句
+
+- Ａを考慮すると `considering` / `given` / `in light of`
+- Ａにも関わらず `in spite of` / `despite` / `notwithstanding`
+- Ａの前に `before` / `prior to`
+- Ａとは別に `aside from` / `in addition to`
+- Ａに関わらず `regardless of`
+
+## 節を伴う接続詞
+
+- in order that S + V
+- until S + V
+- by the time S + V
+- so that S + V
+- if S + V
+  - providing that
+  - provided that
+  - as long as
+- once S + V
+
+## 覚えておくべき表現
+
+unless otherwise A  
+他のＡが無い限り  
+Ａの候補
+- instructed 指示
+- noted 記述
+- stipulated 規定
+- specified 指定
+- etc...
+
+thereby -ing  
+そしてそのことによって～する
+
+> He made the equipment thereby gaining the award.  
+> 彼はその装置を作ったので、そのことによって賞をもらった。
+
+Aside from a large amount of money, he has a lot of land and house.  
+大金とは別に、彼は多くの土地と家屋を持っている。
+
+Reagardless of age of sex, anyone can apply or this position.  
+年齢や性別にかかわらず、誰でもこの職に応募できる。
+
+Once you pass this test, you can access this facility anytime.  
+一旦このテストに合格すると、あなたはいつでもこの施設にアクセスできる。
+
+Unless otherwise instracted, you should obey the original reguration.  
+他の支持が無い限り元々の規則に従ってください。
 
 # 現在完了形のテスト
 
@@ -194,7 +243,7 @@ The agreement that was reached **allowed** the company to continue selling produ
 ---
 
 Once all entries has been submitted, Daniel Miller, the advertising director, **will choosen** the winning slogan.  
-すべての応募作品が提出され次第、広告担当役員ンオ Daniel Miller は最優秀のキャッチコピーを**選ぶ予定だ**。
+すべての応募作品が提出され次第、広告担当役員の Daniel Miller は最優秀のキャッチコピーを**選ぶ予定だ**。
 
 - choose
 - has choosen
