@@ -50,3 +50,27 @@ This book, **which my boss says is useless**, is quite popular.
 
 I'll deliver the item to whichever shop is the most convinient for you.  
 私は商品をあなたにとって、最も都合のいい店にでも配達します。
+
+by overnight post  
+翌日配達の便で
+
+layover  
+乗り継ぎの待ち合わせ
+
+wardrobe  
+衣服
+
+alteration  
+寸法直し
+
+expansion  
+拡大
+
+renowned  
+有名な
+
+meet / make the deadline  
+締め切りに間に合わせる
+
+assignment  
+割当、課題
