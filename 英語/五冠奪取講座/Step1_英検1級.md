@@ -18,7 +18,7 @@ A liability is a legal **obligation**, as in he denied any liability for the dam
 損害賠償責任は、彼が損害に対する一切の責任を否定したため、法的義務です。
 
 A companies liabilities are its **debts**, as in the business has liabilities of €2 million.  
-企業の負債は 200 万ユーロの負債があるため、企業の負債は負債です。
+ビジネスで €200 万の負債を持っているとして、同社の負債は、債務です。
 
 Responsibility refers to the **care** and **consideration** a person has for the **outcome** of their actions.  
 責任とは、行動の結果に対して個人が持つ注意と配慮を指します。
@@ -123,7 +123,7 @@ B：いいえ、全然気を咎めないわ。だって、彼らはほとんど�
 - faculties 学部
 
 > have no scruples about A  
-> Aするのに気が咎める  
+> A するのに気が咎める  
 > next to nothing  
 > ほとんどタダも同然
 
@@ -147,16 +147,16 @@ Some newspapers recommended that people boycott his music.
 
 I think Ms.Hayashi is a great teacher.  
 林さんは素晴らしい先生だと思います。  
-She has a **knack** for explaining difficult Japanese grammar in a way that everyone can understand.   
+She has a **knack** for explaining difficult Japanese grammar in a way that everyone can understand.  
 彼女は、誰もが理解できる方法で難しい日本語の文法を説明する**コツ**を持っています。
 
- - knack コツ、技巧
- - bout 試合、
- - grind
- - funk
+- knack コツ、技巧
+- bout 試合、
+- grind
+- funk
 
 > have a knack for A  
-> Aのコツを持っている、Aの才を持っている
+> A のコツを持っている、A の才を持っている
 
 The company CEO declined to comment on the merger negotiations.  
 同社の最高経営責任者は、合併交渉に関するコメントを拒否しました。  
@@ -192,8 +192,8 @@ While the scientist's new theory about the cause of global warming has not unive
 - adherents 粘着性の
 - heretics 異教徒、異端者
 
-> 対比のwhileと譲歩のthoughの違い  
-> whileの基本義は「期間」と「同時進行」なので、AとBは同時に進行している。
+> 対比の while と譲歩の though の違い  
+> while の基本義は「期間」と「同時進行」なので、A と B は同時に進行している。
 
 The young girl was so **engrossed** in her book that she didn't even notice her mother had entered the room.  
 若い女の子は本に**夢中になっていた**ので、母親が部屋に入ったことにも気付かなかった。
@@ -209,7 +209,7 @@ Cindy was overjoyed when the doctors informed her that the stomach tumor they ha
 - benign 良性の、温和な
 - gallant 勇敢な、雄々しい
 - lenient 寛大な、慈悲深い、大目に見る
-- sinister 悪意の  
+- sinister 悪意の
   > Magic: The gathering: Sinister Sabotage / 悪意ある妨害
 
 Although the woman usually **opted** for the cheapest flight available, she decided to buy a business-class ticket for her birthday.  
@@ -218,7 +218,7 @@ Although the woman usually **opted** for the cheapest flight available, she deci
 - marred 傷ついた
 - demurred 返事を渋った
 - flapped 羽ばたいた
-- opted 選択した  
+- opted 選択した
   > Magic: The gathering: Opt / 選択
 
 Customs officials **confiscated** the rare plant that the man tried to take into the country.  
@@ -243,7 +243,6 @@ The smooth-talking criminal **swindled** many elderly people out of their saving
 - stifled 息を止めた、もみ消した
   > Magic: The gathering: Stifle / もみ消し
 
-
 Having been brought up in a quiet village, Hideki could not get used to the **frenetic** pace of life in Tokyo when he moved there.
 静かな村で育ったヒデキは、東京に引っ越したときの**熱狂的な**生活に慣れることができませんでした。
 
@@ -251,13 +250,13 @@ Having been brought up in a quiet village, Hideki could not get used to the **fr
   > Magic: The gathering: Frenetic Sliver / 熱狂スリヴァー
 - intrinsic 本質的な、固有の
 - anemic 元気のない、無気力な
-- bucolic 牧歌的な  
-  > bucolic = rusticで交換可能。田舎の意味を持った牧歌的  
-  > Idyllicは「穏やかでリラックスした美しい環境」。必ずしも田舎の意味を持たない。  
+- bucolic 牧歌的な
+  > bucolic = rustic で交換可能。田舎の意味を持った牧歌的  
+  > Idyllic は「穏やかでリラックスした美しい環境」。必ずしも田舎の意味を持たない。  
   > Magic: The gathering: Idyllic tutor / 牧歌的な教示者
 
 Ten years after the northern tribe's defeat in the civil war, many of its people still feel considerable **animosity** toward their former enemy in the south.  
-内戦で北方部族が敗北してから10年経った今でも、多くの人々は南の前の敵に対してかなりの**敵意**を感じています。
+内戦で北方部族が敗北してから 10 年経った今でも、多くの人々は南の前の敵に対してかなりの**敵意**を感じています。
 
 - aridity 貧弱さ、味気無さ
 - destitution 貧困、欠乏、窮乏
@@ -270,12 +269,12 @@ The radio station was **inundated** with complaints after it announced the cance
 - disdained 軽蔑した
 - straddled またがる
 - percolated にじみ出る
-- inundated 氾濫させる  
-  > inundated with A / Aでいっぱいいっぱい
+- inundated 氾濫させる
+  > inundated with A / A でいっぱいいっぱい
 
 A: Jason doesn't seem to be enjoying school lately.  
 A: 最近、ジェイソンが学校を楽しんでいないみたい。  
-B: I know. I think he's been completely **ostracized** by some of his classmates since he  told the teacher about them cheating on a test.
+B: I know. I think he's been completely **ostracized** by some of his classmates since he told the teacher about them cheating on a test.
 B: うん。彼はテストで不正行為をしていることを教師に伝えたら、同級生の何人かに完全に追放されたと思います。
 
 - incarcerated 投獄された、監禁された、幽閉された
@@ -301,7 +300,7 @@ The last thing I need right now is to **shell out** hundreds of dollars on a new
 
 - lay on 上に置く、用意する、準備する、取り付ける
 - store up ため込む、蓄積する、備蓄する
-- shell out （渋々）支払う  
+- shell out （渋々）支払う
   > 貝の口がなかなか開かないことから由来
 - claw back やっと取り戻す、回収する
 
@@ -316,7 +315,7 @@ We'll need their knowledge about the business culture.
 - tap into(= enter) 入り込む、侵入する、利用する
 
 There are only two weeks until my university finals, so I've decided to **buckle down** and study at least four hours every day.  
-大学の最終試験まであと2週間しかない。だから、毎日最低4時間は勉強に専念することにしました。
+大学の最終試験まであと 2 週間しかない。だから、毎日最低 4 時間は勉強に専念することにしました。
 
 - buckle down バックルで留める、専念する、精を出す
 - drift off ゆっくり下降する

@@ -23,12 +23,10 @@ stand for bring your own
 You can take that to the **bank**.  
 絶対に間違いない
 
-> take it to the bank  
-> 間違いない、その通りだ
+> `take it to the bank`「間違いない、その通りだ」
 >
 > 映画でよく出るフレーズ  
-> You can bank on me!
-> 大丈夫。任せろ！
+> `You can bank on me!`「大丈夫。任せろ！」
 
 There's a **sucker** born every minute.  
 だまされやすい人は常に居るものだ
@@ -58,7 +56,7 @@ A phone is off the hook.
 The people are in a line.  
 人々は縦一列に並んでいる。
 
-> in a row / 横一列
+> `in a row` / 横一列
 
 ## [5] Put the following words into Japanese
 
@@ -260,7 +258,7 @@ Scientists are finding simpler ways to **harness** the power of DNA.
 - hover 空中に停止する
 
 Mr. Adams looked like an ophthalmologist, **which** he actually was.  
-アダムズ氏は眼科医のように見えました**が、**実際はそうでした。
+アダムズ氏は眼科医のように見えました**が**、実際はそうでした。
 
 - who
 - whom
@@ -269,20 +267,20 @@ Mr. Adams looked like an ophthalmologist, **which** he actually was.
 
 > 補語を受ける関係代名詞
 >
-> - 先行詞は人の**地位**・**職業**・**性格**などに限定される
+> - 先行詞は人の**地位**・**職業**・**性格**などに限定される。
 > - 使える関係代名詞は以下の３つ
->   - which これだけ`, which`と`,`が付くので注意  
->     He is an able doctor. ＋ His brother is not an able doctor.→ 共通項`an able doctor`を関係詞に。  
->     He is an able doctor, which his brother is not.  
->     「彼は有能な医者だが、彼の兄弟はそうではない。」
+>   - which これだけ`,`が付く`, which`形で使われので注意。  
+>     He is an able doctor. ＋ His brother is not an able doctor.→ 共通項`an able doctor`を関係詞に。
+>     > He is an able doctor, which his brother is not.  
+>     > 「彼は有能な医者だが、彼の兄弟はそうではない。」
 >   - that 関係代名詞`that`はよく省略される  
->     She is not a good teacher. ＋ She used to be a good teacher.→ 共通項`a good teacher`を関係詞に。  
->     She is not a good teacher (that) She used to be.  
->     「彼女は、かつてのような良い教師ではない。」
+>     She is not a good teacher. ＋ She used to be a good teacher.→ 共通項`a good teacher`を関係詞に。
+>     > She is not a good teacher (that) She used to be.  
+>     > 「彼女は、かつてのような良い教師ではない。」
 >   - what what の中に先行詞が含まれて消えてしまう  
->     He is not a man. ＋ He was a man ten years ago.→ 共通項`a man`を関係詞に。  
->     He is not what he was ten years ago.  
->     「彼は、10 年前のような男ではない。」
+>     He is not a man. ＋ He was a man ten years ago.→ 共通項`a man`を関係詞に。
+>     > He is not what he was ten years ago.  
+>     > 「彼は、10 年前のような男ではない。」
 
 Kathy looked for some cake but there was already **none** left there.  
 キャシーはケーキを探しましたが、すでに**何も**残っていませんでした。

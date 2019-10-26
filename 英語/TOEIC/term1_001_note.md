@@ -6,12 +6,12 @@ I've **been busy** writing a report.
 I **have trouble reading** the book.  
 その本を**読むのがつらかった**
 
-> **have [trouble / difficulty / a hard time] -ing / ～するのがツライ**
+> `have [trouble / difficulty / a hard time] -ing / ～するのがツライ`
 
 I **couldn't help turning** on the heater.  
 暖房を**点けざるを得なかった**
 
-> `cannot help -ing / ざるを得ない`
+> `cannot help -ing / ざるを得ない`  
 > Ａすることを助けられないの意訳であることを必ず覚えておく。  
 > cannot help but do に置き換えることもできる。  
 > これ、「help to do」の方法に則って「cannot help to do」は使えないの？
@@ -76,7 +76,7 @@ to 不定詞と動名詞を使った場合に同じ意味になる単語
 |      hate      | 嫌い       |
 |     prefer     | の方が好き |
 |    continue    | 続ける     |
-| start<br>begin | 始める｜   |
+| start<br>begin | 始める     |
 
 ## 必ず動名詞を取る動詞
 
