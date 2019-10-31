@@ -41,20 +41,16 @@ In order to protect people, the government must engage in activities that threat
 
 ## [5]語句問題
 
-a substance used for cooling something(n.11)  
-refrigerant  
-冷媒
+Q. a substance used for cooling something(n.11)  
+A. refrigerant / 冷媒
 
-to extemporize, ad-lib(v.9)  
-improvise  
-即興
+Q. to extemporize, ad-lib(v.9)  
+A. improvise / 即興
 
-> 同じ意味  
-> wing it = play it by ear
+> = wing it = play it by ear
 
-unique, rare, uncommon(adj, 8)  
-singular  
-特異な
+Q. unique, rare, uncommon(adj, 8)  
+A. singular / 特異な
 
 ## [6]語句選択
 
@@ -62,33 +58,28 @@ singular
 
 Toga, **wearing** a gray monk's robe, pointed to moss in the traditional sansui garden that has turned from watery green to dark brown.
 
-- inundated with  
-  ～でいっぱいいっぱい
-- ticked off at
-  列挙する
-  > get ticked off at  
-  > ～にむかつく
-- clad in
-  ～を身にまとう
+- inundated with「～でいっぱいいっぱい」
+- ticked off at「列挙する」
+  > `get ticked off at`「～にむかつく」
+- clad in「～を身にまとう」
   > 服を着る**in**が使われていて、他に選択肢が無いからこれ一択
-- blasé about  
-  飽き飽きして
+- blasé about「飽き飽きして」
 
 ## [7] 英英問題
 
-1. chauvinism 悪徳、ショーヴィニズム  
+1. chauvinism「悪徳、ショーヴィニズム」  
    = exaggerated patriotism  
    誇張された愛国心
 
-2. jingoinsm 主戦論、ジンゴイズム  
+2. jingoinsm「主戦論、ジンゴイズム」  
    = an aggressive attitude combining excessive patriotism and contempt for other countries  
    過度の愛国心と他国に対する軽蔑を組み合わせた攻撃的な態度
 
-3. nepotism 縁故主義、ネポティズム  
+3. nepotism「縁故主義、ネポティズム」  
     = favoritism shown to relatives in appointing them to jobs
    事に任命する際に示される好意
 
-4. tokenism トークン主義、申し訳程度の、名ばかりの  
+4. tokenism「トークン主義、申し訳程度の、名ばかりの」  
    = a policy of doing no more than is nominally necessary  
    名目上必要以上のことをしないという方針
 
@@ -102,30 +93,35 @@ To the delight of conservationists, the council recently passed a new **ordinanc
 - ordinance 条例
 - hindrance 邪魔
 
+---
+
 In his resignation letter, John wrote that he loved teaching but could no longer handle the **incessant** demands from the children's parents.  
 ジョンは辞任の手紙の中で、教えることは大好きだったが、子供の両親からの**絶え間ない**要求に対処できなくなったと書いています。
 
-> The **Ceaseless** hunger 絶え間ない飢餓
+> Magic: The gathering  
+> Ulamog, the Ceaseless Hunger / 絶え間ない飢餓、ウラモグ
 
 - incessant 絶え間ない
 - deferential 差別的
 - auspicious 縁起の良い
 - conducive 助けになる
 
+---
+
 A: Jessie, don't you think it's wrong to steal office supplies from your employer?  
-A: ジェシー、あなたの雇用主から事務用品を盗むのは間違っていると思いませんか？  
+A: ジェシー、雇用主から事務用品を盗むのは間違っていると思いませんか？  
 B: No, I have absolutely no **scruples** about it because they pay me next to nothing!  
-B：いいえ、全然気を咎めないわ。だって、彼らはほとんど何も払わないんだもの。
+B: いいえ、全然気を咎めないわ。だって、彼らはほとんど何も払わないんだもの。
 
 - impulse 衝動
 - scruples 良心
 - morale 士気、モラル
 - faculties 学部
 
-> have no scruples about A  
-> A するのに気が咎める  
-> next to nothing  
-> ほとんどタダも同然
+> `have no scruples about A`「A するのに気が咎める」  
+> `next to nothing`「ほとんどタダも同然」
+
+---
 
 It took Ken a few weeks to **muster** the courage to tell his parents that he had failed two of his final university exams.  
 ケンは、両親に最後の大学試験の落第したことを伝える勇気を**奮い立たせる**のに数週間かかりました。
@@ -134,6 +130,8 @@ It took Ken a few weeks to **muster** the courage to tell his parents that he ha
 - dangle ぶら下がる
 - wriggle 身をよじる
 - muster 招集する、奮い起こす
+
+---
 
 The media **slammed** the pop star after he said it was OK to take illegal drugs.  
 メディアは、彼が違法薬物を服用してもよいと言った後、ポップスターを**非難した**。  
@@ -145,6 +143,8 @@ Some newspapers recommended that people boycott his music.
 - slammed 非難した
 - clamped 締まった
 
+---
+
 I think Ms.Hayashi is a great teacher.  
 林さんは素晴らしい先生だと思います。  
 She has a **knack** for explaining difficult Japanese grammar in a way that everyone can understand.  
@@ -155,8 +155,9 @@ She has a **knack** for explaining difficult Japanese grammar in a way that ever
 - grind
 - funk
 
-> have a knack for A  
-> A のコツを持っている、A の才を持っている
+> `have a knack for A`「Ａの才（コツ）を持っている」
+
+---
 
 The company CEO declined to comment on the merger negotiations.  
 同社の最高経営責任者は、合併交渉に関するコメントを拒否しました。  
@@ -168,6 +169,8 @@ The company CEO declined to comment on the merger negotiations.
 - precinct 地域、区域
 - juncture 接続、接合、**（危機を孕む）情勢**、転機、etc...
 
+---
+
 "The major **impediment** to achieving peace is the government's total refusal to talk to the rebels," said the TV correspondent.  
 「平和を達成するための主要な**障害**は、政府が反政府勢力と話すことを全面的に拒否することである」とテレビ特派員は述べた。
 
@@ -176,6 +179,8 @@ The company CEO declined to comment on the merger negotiations.
 - implement 実装
 - infringement 侵害
 
+---
+
 The foreign minister resigned after he was publicly **rebuked** by the prime minister for his involvement in a national scandal.
 外相は、国家の不祥事に関与したことで首相に公に**譴責された**後、辞任した。
 
@@ -183,6 +188,8 @@ The foreign minister resigned after he was publicly **rebuked** by the prime min
 - rebuked 譴責される、非難される
 - manipulated 操作される
 - vanquished 打ち負かされる
+
+---
 
 While the scientist's new theory about the cause of global warming has not universal acceptance yet, it has gained many **heretics** in the scientific community.  
 地球温暖化の原因に関する科学者の新しい理論はまだ一般的に受け入れられていないが、科学界では多くの**異端者**を獲得している。
@@ -195,6 +202,8 @@ While the scientist's new theory about the cause of global warming has not unive
 > 対比の while と譲歩の though の違い  
 > while の基本義は「期間」と「同時進行」なので、A と B は同時に進行している。
 
+---
+
 The young girl was so **engrossed** in her book that she didn't even notice her mother had entered the room.  
 若い女の子は本に**夢中になっていた**ので、母親が部屋に入ったことにも気付かなかった。
 
@@ -202,6 +211,8 @@ The young girl was so **engrossed** in her book that she didn't even notice her 
 - saturated ずぶ濡れの、飽和した
 - distended 膨張した
 - engrossed 夢中になって、熱中して
+
+---
 
 Cindy was overjoyed when the doctors informed her that the stomach tumor they had tested was **benign**.  
 シンディは、検査した胃腫瘍が**良性である**ことを医師が知らせたとき、大喜びしました。
@@ -212,6 +223,8 @@ Cindy was overjoyed when the doctors informed her that the stomach tumor they ha
 - sinister 悪意の
   > Magic: The gathering: Sinister Sabotage / 悪意ある妨害
 
+---
+
 Although the woman usually **opted** for the cheapest flight available, she decided to buy a business-class ticket for her birthday.  
 女性はいつも、利用可能な最も安いフライトを**選択しました**が、彼女は誕生日にビジネスクラスのチケットを購入することにしました。
 
@@ -220,6 +233,8 @@ Although the woman usually **opted** for the cheapest flight available, she deci
 - flapped 羽ばたいた
 - opted 選択した
   > Magic: The gathering: Opt / 選択
+
+---
 
 Customs officials **confiscated** the rare plant that the man tried to take into the country.  
 税関当局は、男性が国内に持ち込もうとした希少な植物を**没収した**。  
@@ -234,6 +249,8 @@ They explained that such products could not be imported without a permit.
   > Magic: The gathering: Persecute / 迫害
 - transposed 置き換えた、転置した
 
+---
+
 The smooth-talking criminal **swindled** many elderly people out of their savings by falsely promising to invest their money for them.  
 口調の悪い犯罪者は、お金を投資することを誤って約束して、多くの高齢者を貯金から**だまし取った**。
 
@@ -242,6 +259,8 @@ The smooth-talking criminal **swindled** many elderly people out of their saving
 - swindled 騙し取った
 - stifled 息を止めた、もみ消した
   > Magic: The gathering: Stifle / もみ消し
+
+---
 
 Having been brought up in a quiet village, Hideki could not get used to the **frenetic** pace of life in Tokyo when he moved there.
 静かな村で育ったヒデキは、東京に引っ越したときの**熱狂的な**生活に慣れることができませんでした。
@@ -255,6 +274,8 @@ Having been brought up in a quiet village, Hideki could not get used to the **fr
   > Idyllic は「穏やかでリラックスした美しい環境」。必ずしも田舎の意味を持たない。  
   > Magic: The gathering: Idyllic tutor / 牧歌的な教示者
 
+---
+
 Ten years after the northern tribe's defeat in the civil war, many of its people still feel considerable **animosity** toward their former enemy in the south.  
 内戦で北方部族が敗北してから 10 年経った今でも、多くの人々は南の前の敵に対してかなりの**敵意**を感じています。
 
@@ -263,6 +284,8 @@ Ten years after the northern tribe's defeat in the civil war, many of its people
 - animosity 敵意、憎しみ、恨み
 - imposition 賦課、税負担、罰
 
+---
+
 The radio station was **inundated** with complaints after it announced the cancellation of a popular weekly news program.  
 ラジオ局は、人気のある週刊ニュース番組のキャンセルを発表した後、苦情が**殺到しました**。
 
@@ -270,7 +293,9 @@ The radio station was **inundated** with complaints after it announced the cance
 - straddled またがる
 - percolated にじみ出る
 - inundated 氾濫させる
-  > inundated with A / A でいっぱいいっぱい
+  > `inundated with A`「A でいっぱいいっぱい」
+
+---
 
 A: Jason doesn't seem to be enjoying school lately.  
 A: 最近、ジェイソンが学校を楽しんでいないみたい。  
@@ -279,9 +304,11 @@ B: うん。彼はテストで不正行為をしていることを教師に伝�
 
 - incarcerated 投獄された、監禁された、幽閉された
 - ostracized 排斥された、追放された
-  > Magic: The gathering: ostracize / 村八分
+  > Magic: The gathering: Ostracize / 村八分
 - impounded 囲いの中に入れる
 - rectified 改正する、直す
+
+---
 
 An expert in disguise and fluent in several languages, the secret agent has taken part in many **diffident** operations worldwide without once being detected.  
 変装の専門家であり、いくつかの言語に堪能な秘密工作員は、一度も検出されることなく、世界中の多くの疑わしいオペレーションに参加しています。
@@ -290,6 +317,8 @@ An expert in disguise and fluent in several languages, the secret agent has take
 - convert 転換する
 - haggard やつれた
 - latent 隠れている、見えない
+
+---
 
 My refrigerator suddenly stopped working last night.  
 昨晩、冷蔵庫が突然機能しなくなりました。  
@@ -304,15 +333,20 @@ The last thing I need right now is to **shell out** hundreds of dollars on a new
   > 貝の口がなかなか開かないことから由来
 - claw back やっと取り戻す、回収する
 
+---
+
 If we're planning to **tap into** the Chinese market, we should look for a suitable partner there.  
 中国市場への**参入**を計画している場合、そこで適切なパートナーを探す必要があります。  
 We'll need their knowledge about the business culture.  
 ビジネス文化についての知識が必要です。
 
 - drag out 引き出す、引っ張り出す、長引かせる
-- cast back 過去にさかのぼって考える、思い起こす、振り返る、先祖返りする
+- cast back 思い起こす、振り返る、先祖返りする
 - trip over つまずく、転ぶ
-- tap into(= enter) 入り込む、侵入する、利用する
+- tap into 入り込む、侵入する、利用する  
+  = enter
+
+---
 
 There are only two weeks until my university finals, so I've decided to **buckle down** and study at least four hours every day.  
 大学の最終試験まであと 2 週間しかない。だから、毎日最低 4 時間は勉強に専念することにしました。
@@ -321,6 +355,8 @@ There are only two weeks until my university finals, so I've decided to **buckle
 - drift off ゆっくり下降する
 - force back 排除する
 - keep after 叱る、しつこく迫る
+
+---
 
 A: Did you see those police cars at end of the block last night?  
 A: 昨夜、その区画の終わりにパトカーを見ましたか？

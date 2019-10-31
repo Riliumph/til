@@ -1,6 +1,6 @@
 # Step5: 国際連合公用語英語検定 / United Nations Associations Test of English
 
-## [1] Fill in the blank with the most appropriate word.
+## [1] Fill in the blank with the most appropriate word
 
 A man-made **escarpment** served as a fortification for the troops.  
 人工の**断崖**が軍隊の要塞として役立った。
@@ -11,6 +11,8 @@ A man-made **escarpment** served as a fortification for the troops.
 - equinox 分点
 - escarpment 断崖
 
+---
+
 According to the Greek legend, the river was protected by **naidds**.  
 ギリシャの伝説によると、川は**妖精ナーイアス**によって守られていた。
 
@@ -18,6 +20,8 @@ According to the Greek legend, the river was protected by **naidds**.
 - bigots 偏屈者
 - mobsters 暴力団員
 - antes 掛け金、アンティ
+
+---
 
 Exposure to severe cold left Jimmy with chilblains on his feet.  
 重度の寒さにさらされると、ジミーは足にしもやけを残しました。
@@ -27,6 +31,8 @@ Exposure to severe cold left Jimmy with chilblains on his feet.
 - fettle 心身の状態
 - apoplexy 卒中
 
+---
+
 The decision to lift the emergency decree was a didactic move.  
 緊急命令を解除する決定は、教訓的な動きでした。
 
@@ -34,6 +40,8 @@ The decision to lift the emergency decree was a didactic move.
 - bedraggled
 - conciliatory
 - didactic
+
+---
 
 U.S. agents have been harrowed in their efforts to catch smuggling kingpins.  
 米国のエージェントは、密輸のキングピンを捕まえようとする努力に苦しんでいます。
@@ -43,16 +51,20 @@ U.S. agents have been harrowed in their efforts to catch smuggling kingpins.
 - declimed
 - hamstrung ハムストリングス
 
-## [2] Corrrect the error for each of the sentences.
+---
+
+## [2] Corrrect the error for each of the sentences
 
 He was born the day after Martin Luther King's assassination at Sweet Home a small town in Oregon.  
 彼は、オレゴン州の小さな町であるスウィートホームでマーティンルーサーキングが暗殺された翌日に生まれました。
 
-> この文で正しく意図を伝えるためには、以下の要素を述べる必要がある。
+> 正しい意図を伝えるためには、以下の要素を述べる必要がある。
+>
 > - HeがSweet Homeで生まれたこと
 > - HeがMartin Luther Kingの暗殺の次の日に生まれたこと
 >
-> このままの文だと、次のように伝わってしまう。  
+> このままの文だと、次のように伝わってしまう。
+>
 > - Martin Luther Kingの暗殺がSweet Homeで行われたこと
 > - HeはMartin Luther Kingの暗殺の次の日に生まれたこと
 >
@@ -62,10 +74,11 @@ He was born the day after Martin Luther King's assassination at Sweet Home a sma
 He was born at Sweet Home a small town in Oregon the day after Martin Luther King's assassination.  
 彼はマーティン・ルーサー・キングの暗殺の翌日にオレゴン州の小さな町のスイート・ホームで生まれました。
 
+---
 
 On the eve of China's WTO entry, Premier Zhu Rongji has ordered officials to prepare for wrenching but crucial reforms needed to drive development and warned them to tiptoe the line in carrying out Beijing's commitments.  
 
-Zhui said China needed membership in the global trade group to improve the livelihood of Chinese.   
+Zhui said China needed membership in the global trade group to improve the livelihood of Chinese.  
 
 前半が鬼のように長いので、所々に区切りを入れてみる。  
 

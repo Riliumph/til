@@ -227,6 +227,8 @@ Mountainside Resort は、Whitelight Industries の従業員を歓迎し、午�
 
 出展：[TOEIC TEST990 点満点英文法―これ一冊で文法完全制覇](https://www.amazon.co.jp/TOEIC-TEST990%E7%82%B9%E6%BA%80%E7%82%B9%E8%8B%B1%E6%96%87%E6%B3%95%E2%80%95%E3%81%93%E3%82%8C%E4%B8%80%E5%86%8A%E3%81%A7%E6%96%87%E6%B3%95%E5%AE%8C%E5%85%A8%E5%88%B6%E8%A6%87-%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC-%E7%9F%B3%E4%BA%95-%E9%9A%86%E4%B9%8B/dp/4756903355)
 
+---
+
 The researchers have run tests on rats and people to demonstrate that antioxidants **translate** into health benefits.  
 研究者は、抗酸化物質が健康上の利点**につながる**ことを実証するために、ネズミと人々のテストを実施しました。
 
@@ -236,6 +238,8 @@ The researchers have run tests on rats and people to demonstrate that antioxidan
 - transact 取引する
 - transport (into) ～へ運ぶ
 
+---
+
 He demanded of his boss that he be amply **remunerated** for that kind of laborious job.  
 彼はその種の骨の折れる仕事に対して十分な**報酬を得る**よう上司に要求しました。
 
@@ -244,18 +248,18 @@ He demanded of his boss that he be amply **remunerated** for that kind of labori
 - enumerated 列挙された
 - remunerated 報いた
 
+---
+
 Scientists are finding simpler ways to **harness** the power of DNA.  
 科学者は DNA の力を**利用する**もっと簡単な方法を見つけています。
 
 - hustle 張り切る、押し込む、急ぐ、（ハッスルするは抽象的すぎないか？
-- harness
-  - 馬具を付ける
-  - （自然力を）利用する
-- hound
-  - 猟犬で狩る
-  - 追い回す
-  - `hound + o + 人` 人をけしかける
+- harness 馬具を付ける、（自然力を）利用する
+- hound 猟犬で狩る、追い回す
+  > `hound + o + 人`「人をけしかける」
 - hover 空中に停止する
+
+---
 
 Mr. Adams looked like an ophthalmologist, **which** he actually was.  
 アダムズ氏は眼科医のように見えました**が**、実際はそうでした。
@@ -282,6 +286,8 @@ Mr. Adams looked like an ophthalmologist, **which** he actually was.
 >     > He is not what he was ten years ago.  
 >     > 「彼は、10 年前のような男ではない。」
 
+---
+
 Kathy looked for some cake but there was already **none** left there.  
 キャシーはケーキを探しましたが、すでに**何も**残っていませんでした。
 
@@ -294,6 +300,8 @@ Kathy looked for some cake but there was already **none** left there.
 >   この`none`は前節の`some cake`を指している
 > - nothing left ... （どんなモノも）何も残っていない  
 >   こちらの場合は意味が大分異なり、「ケーキだけでなく、皿もフォークなど含めて」何もかもを指す
+
+---
 
 "Will a pencil do?"  
 鉛筆でいいですか？
@@ -313,6 +321,8 @@ Kathy looked for some cake but there was already **none** left there.
 >   - None.「アメは持ってないな」
 >   - Nothing.「なにも持ってないよ」
 
+---
+
 Nobody knows that Nancy has been ill for a few months, do they?  
 ナンシーが数ヶ月間病気になっていることを誰も知らないでしょうか？
 
@@ -323,6 +333,8 @@ Nobody knows that Nancy has been ill for a few months, do they?
 
 > Nobody がすでに**否定形**であることに注意！！
 
+---
+
 Even thought nearly three-quarters of the cattle became seriously ill while being transported, **only one of them was not** alive upon delivery.  
 輸送中に約 4 分の 3 の牛が重病になり、**そのうち 1 頭だけ**が出産時に生存して**いなかった**とさえ考えていました。
 
@@ -331,6 +343,8 @@ Even thought nearly three-quarters of the cattle became seriously ill while bein
 - the only one of them was
 - the only one of them was not
 
+---
+
 There are numerous examples that provide **evidence of the failures** of the postwar system.  
 戦後システムの**失敗の証拠**を提供する多くの例があります。
 
@@ -338,6 +352,8 @@ There are numerous examples that provide **evidence of the failures** of the pos
 - evidence of the failures
 - the evidence of failures
 - the evidence of the failures
+
+---
 
 Usually you cannot start a business unless you have **some funds**.  
 通常、**資金がなければ**ビジネスを始めることはできません。
@@ -348,6 +364,8 @@ Usually you cannot start a business unless you have **some funds**.
 - some funds
 
 > `unless`はすでに否定形なので、`any`を選ぶ必要はない。
+
+---
 
 ## [9] 超難問 正誤問題
 

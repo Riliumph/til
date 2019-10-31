@@ -42,7 +42,6 @@ He <u>is used to</u> cold weather.
 > He is accustomed to cold weather.  
 > 形容詞`used`は同じく形容詞`accustomed`で入れ替え可能
 
-
 ### 使い方
 
 `be used to`のtoは**前置詞**である。  
@@ -53,7 +52,6 @@ He <u>is used to</u> cold weather.
 |後ろの品詞|名詞<br>動名詞|動詞（の原形）|
 
 `get used to V-ing`「～することに慣れる」
-
 
 ## 3. be used to不定詞「～するために使われる」
 
@@ -66,8 +64,7 @@ When cooking, oil <u>is used</u> <u>**to** fry</u> food.
 
 受動態表現＋不定詞の副詞的用法の組み合わせ
 
-
-# まとめ
+## まとめ
 
 ||used to V|be used to V-ing|be used to V|
 |:--:|:--:|:--:|:--:|
@@ -76,4 +73,3 @@ When cooking, oil <u>is used</u> <u>**to** fry</u> food.
 |toの品詞|不定詞|前置詞|不定詞|
 |to後の品詞|原形動詞|名詞<br>動名詞|原形動詞|
 |見分け方|`be`動詞がない|`be`動詞がある<br>名詞|`be`動詞がある<br>原形動詞|
-
