@@ -7,6 +7,7 @@ jupyter notebookとはPython環境のウェブインターフェイスを提供�
 Jupyter notebookはHTTP/HTTPSで接続してブラウザ上でPythonを動かすことができる。  
 
 # 使い方
+
 Jupyter notebookを下記の環境で動かして接続する場合の手順を記載する。  
 
 [環境]  
@@ -24,6 +25,7 @@ pyenvを入れて、anaconda3をインストールする。
 anacondaをインストールするとjupyter notebookも同時にインストールされている。  
 
 ## ネットワークの構成
+
 本題である。  
 Virtual BoxのVMマネージャから該当イメージの設定を開く。  
 ネットワークの構成を開き、アダプター１の割り当てを「NAT」に変更する。  
@@ -71,10 +73,8 @@ c.NotebookApp.token = 'your token string'
 この設定を行った場合は、jupyterへアクセスしたときのパスワード欄にtoken値を入力するか  
 下記のURLでjupyterへアクセスすればよい。  
 
->
 > http&#58;//localhost:8888/?token=your token string  
 > ポートフォワードを行っている場合は、アクセスポートを適宜変更すること。
-
 
 ### passwordを指定する場合
 
@@ -98,8 +98,8 @@ c.NotebookApp.password='sha1:yyyyyyyyyy'
 >セキュリティ的な問題があるので使わない方がよい。  
 >どうにかすれば、sha256でパスワードを暗号化できそうではあるが……  
 
-
 ### ipの指定
+
 IPアドレスの設定をすることでアクセス制限を設けることができる。  
 以下の設定を行い、すべてのIPからのアクセスを許可する。  
 
@@ -111,6 +111,7 @@ c.NotebookApp.ip = '*'
 ※jupyter notebook 5.0.0のデフォルトでは、localhostが設定されているためjupyterのホストしかアクセスできない。  
 
 ### ディレクトリ指定
+
 ブラウザで表示する場合のルートディレクトリを設定する。  
 普通は、特定のディレクトリを割り当てて、他のディレクトリに入ったり操作することができないようにしておくべき。  
 
@@ -119,6 +120,7 @@ c.NotebookApp.notebook_dir = '/home/username/xxxxx'
 ```
 
 ### ブラウザの自動起動
+
 jupyterは起動時にブラウザを自動起動するように設定されている。  
 若干ウザイのでしないようにしておく。  
 
@@ -127,6 +129,7 @@ c.NotebookApp.open_browser = False
 ```
 
 ## jupyter notebookの自動起動
+
 Dockerなどで環境を構築したなどの場合、Dockerを立ち上げたときに自動的に立ち上がってほしいことがある。  
 今回もサーバーを立ち上げたときに自動的にjupyter notebookが起動されるようにする設定をする。  
 

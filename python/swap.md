@@ -1,4 +1,5 @@
-#pythonのswapは特殊
+# pythonのswapは特殊
+
 pythonに標準ライブラリのswap関数はない。  
 ※C/C++ならstd::swap()関数が存在する。  
 しかし、機能的にないわけではない。  
