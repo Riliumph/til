@@ -1,3 +1,5 @@
+# テスト内容
+
 foundation  
 創業
 
@@ -34,7 +36,7 @@ for approval
 be revised policy  
 改訂された規則
 
-a manifacturer  
+a manufacturer  
 メーカー
 
 spread the workload evenly  
@@ -55,13 +57,13 @@ a founder
 demonstrate respect for A  
 Ａに敬意を示す
 
-specialized skilss  
+specialized skills  
 専門技術
 
 a main distributer  
 主な供給先
 
-the rule will be stricylt enforced  
+the rule will be strictly enforced  
 規則は厳格に施行される
 
 a remarkably rapid increase  
@@ -100,7 +102,7 @@ prior to registering for A
 more than anticipated  
 予想以上の
 
-exclusing tax  
+excluding tax  
 税抜きで
 
 an encouraging sign  
@@ -109,16 +111,16 @@ an encouraging sign
 the broadest possible audience  
 できるだけ幅広い聴衆
 
-readily acessible  
+readily accessible  
 簡単にアクセスできる
 
 a challenging project  
 やりがいのあるプロジェクト
 
-the museum was haused in A  
+the museum was housed in A  
 美術館はＡに収容された
 
-devide A into sections  
+divide A into sections  
 Ａをセクションに分ける
 
 a free tasting of coffee  
@@ -133,10 +135,10 @@ a stimulating city
 employee morale  
 従業員の士気
 
-A is a charactaristic of a successful man  
+A is a characteristic of a successful man  
 Ａが成功する人の特徴だ
 
-Chaires are in a pile  
+Chairs are in a pile  
 イスが積み上げらています
 
 Where will it take place?  
@@ -148,7 +150,7 @@ bound for Cairns
 receive a voucher  
 引換券をもらう
 
-extreamely difficult  
+extremely difficult  
 非常に難しい
 
 focus exclusively on A  
@@ -166,7 +168,7 @@ Enclosed is A
 This is with reference to A  
 この手紙はＡに関するモノです
 
-sepecify obligations  
+specify obligations  
 義務を明記する
 
 comply with a contract  

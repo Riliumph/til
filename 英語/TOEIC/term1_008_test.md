@@ -1,3 +1,5 @@
+# テスト内容
+
 benefit substantially from A  
 Ａから大いに利益を上げる
 
@@ -18,10 +20,10 @@ He expertly organized the party.
 It was initially supposed to ...  
 当初、それは……するものと考えられていた
 
-authenti works of arts  
+authentic works of arts  
 本物の芸術作品
 
-He hadn't recognized the value of the product iuntil it was in the media.  
+He hadn't recognized the value of the product until it was in the media.  
 彼はマスコミで褒められるまで、その製品の価値を認識していなかった。
 
 influential in developing A  
@@ -33,7 +35,7 @@ Aの後継者となる可能性がある人
 show sign of improvement  
 改善の兆しを見せる
 
-Sales have been consistently improvimg.  
+Sales have been consistently improving.  
 売上は安定して増加してきている。
 
 donate to this organization  
@@ -63,20 +65,26 @@ obtain secure access
 The airport has since been expanded ...  
 空港はそれ以来拡張され……
 
-> sinceの使い方  
-> - 前置詞「〜以来」  
->   I had not eaten anything since the earthquake occurred.  
->   私はその地震が起きてから何も食べていなかった。  
->   ※接続詞として、節（S+V）を取ることもできる
-> - 接続詞「～なので」（原因や理由）  
->   Since there’s no more time, we must stop.   
->   もう時間がないのでやめざるをえない。  
->   理由付けの強さ：as = since < because
-> - 副詞「～以来」「～以後」  
->   It has since been bogged down.  
->   その時以来行き詰っていた。  
->   I have not seen him since.  
->   以後彼に会っていません。
+> ## sinceの使い方  
+>
+> ### 前置詞「〜以来」
+>
+> > I had not eaten anything since the earthquake occurred.  
+> > 私はその地震が起きてから何も食べていなかった。  
+> ※接続詞として、節（S+V）を取ることもできる
+>
+> ### 接続詞「～なので」（原因や理由）
+>
+> > Since there’s no more time, we must stop.  
+> > もう時間がないのでやめざるをえない。  
+> 理由付けの強さ：as = since < because
+>
+> ### 副詞「～以来」「～以後」
+>
+> > It has since been bogged down.  
+> > その時以来行き詰っていた。  
+> > I have not seen him since.  
+> > 以後彼に会っていません。
 
 The area has been allocated for visitors.  
 その場所は訪問客用に割り当てられている
@@ -123,7 +131,7 @@ registration fee
 > |fare|乗り物|
 > |charge|feeと同じ|
 > |rate|従量課金|
-> |admision|**入ること**自体にかかるお金|
+> |admission|**入ること**自体にかかるお金|
 > |tuition<br>(tuition fee)|授業料|
 > |interest|利子|
 > |fine|罰金|
@@ -148,4 +156,3 @@ relate to A
 
 chronicle  
 年代記
-

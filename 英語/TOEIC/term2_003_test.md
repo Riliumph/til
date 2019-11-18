@@ -1,10 +1,12 @@
+# テスト内容
+
 The guests found the noise objectionable.  
 客はその騒音を不快だと思った。
 
 a building modification form  
 建物改修届け
 
-with brand lables purposely concealed  
+with brand labels purposely concealed  
 ブランドのラベルがわざと隠された状態で
 
 corporate prosperity  

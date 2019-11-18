@@ -1,3 +1,5 @@
+# テスト内容
+
 affordable  
 価格が手頃な
 
@@ -70,10 +72,10 @@ The marketing department has been allocated a month in which to **develop** a pl
 A driver has been sent to pick up Ms. WAlters when she **arrives** at the airport this evening.  
 今夜空港に**到着する** Walters さんを迎えに運転手が送られた。
 
-According to industry experts, small companies benefit from the low-cost promotions through the Internet, helping them **prolifelate** in a repidly changing market.  
+According to industry experts, small companies benefit from the low-cost promotions through the Internet, helping them **proliferate** in a rapidly changing market.  
 業界の専門家居によれば、中小企業はインターネットを通じた低コストの広報宣伝から恩恵を受け、めまぐるしく変化する市場での**急拡大**に役立てている。
 
-> `prolifelate / 急拡大`  
+> `proliferate / 急拡大`  
 > Magic: The gathering 増殖
 
 Should you have any questions **regarding** access to Global Research Center, please direct your inquiry to rep@globalresearch.com.  
@@ -83,7 +85,7 @@ Office suppliers can be **requested** at any time by staff members using the onl
 事務用品は、スタッフがいつでも業者のウェブサイトで提供されているオンラインゲーム発注フォームを使って**依頼**できる。
 
 When Yellow River Books **acquires** Edwin Press in September, several divisions of the two publishing companies will be combined.  
-９月に Yellow River Bools 社が Edwin Press 社を**買収する**際、その２つの出版社のいくつかの部門は統合されるだろう。
+９月に Yellow River Books 社が Edwin Press 社を**買収する**際、その２つの出版社のいくつかの部門は統合されるだろう。
 
 Crystal Record allows consumers to purchase music for use on both their mobile phones and computers, **unlike** most other mobile music download service.  
 Crystal Record 社は、他のほとんどの携帯音楽ダウンロードサービスと**異なり**、守秘社が携帯電話とコンピュータの両方で使うために音楽を購入できるようにしている。

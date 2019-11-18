@@ -1,3 +1,5 @@
+# テスト内容
+
 date of expiration  
 期限切れの日
 
@@ -13,7 +15,7 @@ She is delighted.
 She is delightful.  
 彼女は（人を）楽しませる
 
-In order to suppplement his income,  
+In order to supplement his income,  
 収入を補うために
 
 They had initially planned to A  

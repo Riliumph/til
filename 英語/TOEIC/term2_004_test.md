@@ -1,3 +1,5 @@
+# テスト内容
+
 **surpass** the budget  
 予算**を超える**
 
@@ -7,7 +9,7 @@ procedures **are implemented** to
 those who have **been involved** in the project  
 プロジェクトに**かかわってきた**人々
 
-He has **been praized** for A  
+He has **been praised** for A  
 彼はＡのことで**褒められてきた**
 
 The statistics **were verified**.  
@@ -22,7 +24,7 @@ He is **dedicated to running**.
 flights **originating from** Haneda  
 羽田**発の**便
 
-I should have **been informd of** the change.  
+I should have **been informed of** the change.  
 私はその変更**に関して知らされる**べきだった。
 
 It **delighted** the organizer.  
@@ -41,7 +43,7 @@ It **is being fixed**.
 
 > 後ろに節を取ると`Given that`になる。
 
-**notwithstanding** the popurarity  
+**notwithstanding** the popularity  
 その人気**にも関わらず**、
 
 > `despite` = `in spite of`
@@ -51,10 +53,12 @@ before = **prior to**
 **Given that** he contributed to ...  
 彼が…に貢献したということを考慮すれば、
 
-> 省略無しの正式な文法構造について  
+> ## 省略無しの正式な文法構造について  
+>
 > `Being given the fact that A`「Ａという事実を与えられたら」
-
-> `Considering that`  
+>
+> ## `Considering that`  
+>
 > - Given ... when you consider something
 > - Considering ... Taking into consideration.
 >
@@ -69,7 +73,7 @@ He won the prize, **thereby** attracting attention.
 **in light of** recent changes  
 最近の変化**を考慮すると**
 
-capboard  
+cupboard  
 食器棚
 
 a fitting  

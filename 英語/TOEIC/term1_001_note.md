@@ -1,4 +1,6 @@
-# 動名詞しか受け付けない表現
+# 授業ノート
+
+## 動名詞しか受け付けない表現
 
 I've **been busy** writing a report.  
 レポートを書くので**忙しかった**
@@ -33,7 +35,7 @@ It's **no use asking** him for help.
 > It's no use crying over spilt milk.  
 > 覆水盆に返らず
 
-# 必ず「原型」を取る節（仮定法現在）
+## 必ず「原型」を取る節（仮定法現在）
 
 要求や提案を表す動詞は節を取ることもある。  
 その節では、「should」が伏せられているため**必ず動詞の原形**を取る。
@@ -52,7 +54,7 @@ The teacher ordered ~~that~~ we ~~should~~ not stand.
 
 > 否定文になると、should がない分、急に not が現れるため違和感があるが気を付けよう
 
-## 節ではなく目的格
+### 節ではなく目的格
 
 目的格を取れる場合と取れない場合があるので表にまとめる。
 
@@ -66,7 +68,7 @@ The teacher ordered ~~that~~ we ~~should~~ not stand.
 |          demand           | 要求する |   ×    | `V 物・事 of 人`の形を取る                                                 |
 |          advise           | 助言する |   ○    | `V 人 to do`の形を取る                                                     |
 
-# to 不定詞と動名詞
+## to 不定詞と動名詞
 
 to 不定詞と動名詞を使った場合に同じ意味になる単語
 
@@ -89,7 +91,7 @@ to 不定詞と動名詞を使った場合に同じ意味になる単語
 |  finish  |
 |  escape  |
 | postpone |
-|  sugest  |
+|  suggest  |
 |   deny   |
 |  admit   | You should admit having to break the glass. |
 | consider |

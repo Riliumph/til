@@ -1,10 +1,12 @@
+# テスト内容
+
 the **leading** producer of A  
 Ａの**一流の**製造業者
 
 at a **correspondingly** higher rate  
 それに**応じて**高いレートで
 
-organizea campaign **ommendably**  
+organize campaign **commendably**  
 キャンペーンを立派に取りまとめる
 
 **diagnostic** tools  
@@ -17,7 +19,7 @@ organizea campaign **ommendably**
 > different from Aと同じ  
 > distinctの方は「**はっきり違う**」らしいが、はっきりかどうかなんて個人差あるやろ……
 
-It is **copetitively** priced.  
+It is **competitively** priced.  
 そのほかに負けないくらいの価格だ
 
 It is perfectly **suited** to small lawns.  
@@ -29,7 +31,8 @@ an appealing design
 New subscribers are **eligible** for A  
 新しい定期購読者はＡの**資格がある**
 
-> be qualified for vs be eligible for  
+> ## be qualified for vs be eligible for
+>
 > - qualified ライセンスがある
 > - eligible 適任である
 

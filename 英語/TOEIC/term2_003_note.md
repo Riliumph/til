@@ -1,13 +1,17 @@
+# 復習
+
+## TOEIC 1000問
+
 Thanks to clear skies and careful **planning**, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.  
-澄み切った空と綿密な**計画**のおかげで、毎年恒例第７回 Greenfiled ロードレースは、約 500 妊のランナーと共に、今まで最多の観衆を集めた。
+澄み切った空と綿密な**計画**のおかげで、毎年恒例第７回 Greenfield ロードレースは、約 500 妊のランナーと共に、今まで最多の観衆を集めた。
 
 - plan
 - planned
 - planning
 - planner
 
-前置詞 to の目的語なので、候補は名詞の`plan`/`planning`/`planner`である。  
-ただし、前置詞 to の後に冠詞が存在しないことから、不可算名詞もしくは複数形が正しい。  
+前置詞`to`の目的語なので、候補は名詞の`plan`/`planning`/`planner`である。  
+ただし、前置詞`to`の後に冠詞が存在しないことから、不可算名詞もしくは複数形が正しい。  
 候補内に複数形はなく、よって不可算名詞の`planning`が正解
 
 ---
@@ -26,7 +30,7 @@ The Axis 3000, a new energy-efficient hybrid car, has extraordinary **potential*
 
 ---
 
-If guess find noise from the renovation work **objectinable**, the may transfer to another local hotel after the first day.  
+If guess find noise from the renovation work **objectionable**, the may transfer to another local hotel after the first day.  
 もし、宿泊客が改装工事による騒音を**不快に感じる**のであれば、２日目以降に別の地元のホテルへと移ることができる。
 
 - object 反対する
@@ -40,7 +44,7 @@ If guess find noise from the renovation work **objectinable**, the may transfer 
 
 ---
 
-As part of the marketing study, custmoers wre given samples of three different fruit juices with brand labels **purposely** concealed.  
+As part of the marketing study, customers wre given samples of three different fruit juices with brand labels **purposely** concealed.  
 市場調査の一環として、銘柄のラベルを**わざと**隠した３つの異なるフルーツジュースのサンプルが客に配られた。
 
 - purposeless [形] 無目的な
@@ -52,7 +56,7 @@ As part of the marketing study, custmoers wre given samples of three different f
 
 ---
 
-Some buisiness laeaders believe increasing the size of their organizations will lead to corporate **prosperity**.  
+Some business leaders believe increasing the size of their organizations will lead to corporate **prosperity**.  
 組織の拡大が企業の繁栄をもたらすと信じるビジネスリーダーもいる。
 
 - prosperity [名] 繁栄
@@ -81,16 +85,19 @@ Speedsoft 社の夏季インターンシッププログラムの申込期限が*
 - nearby [副] （場所が）近くに
   > = near here
 
-`draw near / 近づく`を知っておくこと
+`draw near`「近づく」を知っておくこと
 
-> nearby の使い方
+> ### nearby の使い方
 >
-> - 副詞的用法  
->   Is there a post office nearby(= near here)?  
->   この近くに郵便局はありますか？
-> - 形容詞的用法
->   - a nearby store 前から掛かる場合
->   - a store nearby 後ろから掛かる場合
+> #### 副詞的用法
+>
+> > Is there a post office nearby(= near here)?  
+> > この近くに郵便局はありますか？
+>
+> #### 形容詞的用法
+>
+> - a nearby store 前から掛かる場合
+> - a store nearby 後ろから掛かる場合
 
 ---
 
@@ -111,10 +118,10 @@ There is still some uncertainty among the employees as to how **effective** the 
 この段階で、選択肢は`effectively`/`effective`のどちらかに絞られる。  
 間接疑問文において、形容詞と副詞のどちらが用いられるかの判断が重要となる。
 
-- be 動詞の場合は形容詞
+- be 動詞の場合は形容詞  
   How fast he is!  
   第５文型(SVOC)を構築するため、形容詞が用いられる。
-- 一般動詞の場合は副詞
+- 一般動詞の場合は副詞  
   How fast he drives!  
   SV の文型を保つため、動詞を修飾する副詞が用いられる。
 
@@ -122,26 +129,26 @@ There is still some uncertainty among the employees as to how **effective** the 
 
 ---
 
-The Flagstaff city concil is committed to **preserving** the environment and has approved a plan to encourage more residents to commute by bicycle.  
+The Flagstaff city council is committed to **preserving** the environment and has approved a plan to encourage more residents to commute by bicycle.  
 Flagstaff 市議会は、環境**保護**に熱心で、住民に自転車での通勤を促す計画を承認した。
 
 - preserve 保護する
 - preserved 保護された
 - preserving 保護すること
-- preserves 補語する
+- preserves 保護する
 
 > Ａに真剣に取り組む
 >
-> - be commited to
+> - be committed to
 > - be dedicated to
-> - be devited to
+> - be devoted to
 
-上記三つのイディオムは、`be looking foward to`と同じで前置詞`to`を取る。  
+上記三つのイディオムは、`be looking forward to`と同じで前置詞`to`を取る。  
 そのため、to 不定詞＋原形は正しくない。
 
 ---
 
-Barrow Construction is committed to providing the heighest quality service to our customers in a **timely** and efficient fashion.  
+Barrow Construction is committed to providing the highest quality service to our customers in a **timely** and efficient fashion.  
 Barrow 建設は、時機を逃さず効率的な方法で、お客様に最高品質のサービスを提供することに尽力している。
 
 - time 時間
@@ -185,7 +192,7 @@ Breakthrough Business School は、講師が授業の前後に**積極的に**�
 - activate 使えるようにする
 - activity 活動
 
-> `engage in A / Ａに参加する、関係する`
+> `engage in A`「Ａに参加する、関係する」
 
 今回は空欄がなくとも`its teacher engage in`で S+V の文型が成り立っているので入るのは副詞しかない。
 
@@ -210,20 +217,20 @@ Tullworth Stores provide refunds and exchanges only for items **accompanied** by
 Tullworth Stores は、レシート原本が**添付された**品物のみ、返品と交換を行う。  
 直訳）Tullworth 店は、レシート原本が添付された商品に対して、返品と交換を提供します。
 
-- accompany [他動] 付きそう
+- accompany [動・他] 付きそう
 - accompanies
 - accompanying 付随している
 - accompanied 添付された
 
-item はレシートを accompanying「添付している」のではなく、レシートに accompanied「添付されている」
+item はレシートを`accompanying`「添付している」のではなく、レシートに`accompanied`「添付されている」
 
 ---
 
-Mail carriers **are encouraged** to wear confortable shoes as their work involves considerable walking.  
+Mail carriers **are encouraged** to wear comfortable shoes as their work involves considerable walking.  
 郵便配達員は業務で相当な距離を歩くことが求められるので、履き心地の良い靴を着用することを**推奨されている**。
 
 - encourage
-- encourageing
+- encouraging
 - are encouraged
 - have encouraged
 
@@ -242,7 +249,7 @@ Premium Luxury Products 社は、再び大きな成長の１年を経て、化�
 
 分詞構文を問う問題。今回は接続詞`and`が分詞と合体している模様。  
 選択肢として選べるのは、分詞である`confirmed`と`confirming`のどちらか。  
-特に`confirmied`は being が省略された形の受動態を表すのでその差に注意すること。
+特に`confirmed`は`being`が省略された形の受動態を表すのでその差に注意すること。
 また、受動態であれば、`its leadership`などという目的語は取らない。
 
 ---
@@ -255,20 +262,20 @@ Premium Luxury Products 社は、再び大きな成長の１年を経て、化�
 - rising
 - rose
 
-believe の後ろに that 節が存在する文章。  
+`believe`の後ろに`that`節が存在する文章。  
 that 節内の主語`house prices`と目的語が飛んで by なので、受動態`be raised`を選択しがち。  
 能動・受動の考えで回答を選ぶとしたら、`raise`は他動詞なので主語に**人**しか置くことができない。  
 よって不適切。
 
-> 人 be interested in は使えるが、物 be interested in は使えない。
-
-> 自動詞と他動詞（よくド忘れするシリーズ）
+> `人 be interested in`は使えるが、`物 be interested in`は使えない。
 >
-> - rise-rose-risen [自動] 上がる
-> - raise-raised-raised [他動] 上げる  
+> ### 自動詞と他動詞（よくド忘れするシリーズ）
+>
+> - rise-rose-risen [動・自] 上がる
+> - raise-raised-raised [動・他] 上げる  
 >   Raise your hand!で覚えましょう
-> - lie-lay-lain [自動] 寝転ぶ、横たわる
-> - lay-laid-laid [他動] ～を横にする、横に置く
+> - lie-lay-lain [動・自] 寝転ぶ、横たわる
+> - lay-laid-laid [動・他] ～を横にする、横に置く
 
 もっと簡単に即答するなら、`in the next twelve months`は未来の期間を語るので未来形を用いることに注目すると、`will`を選ぶしかない。
 
@@ -277,12 +284,12 @@ that 節内の主語`house prices`と目的語が飛んで by なので、受動
 Audio One has been **struggling** this year despite the fact that personal music players are selling at record numbers.  
 Audio One 社は、パーソナル音楽プレイヤーが記録的に売れているのにも関わらず、今年は**苦戦**が続いている。
 
-- struggle [自動] 苦戦する
+- struggle [動・自] 苦戦する
 - struggles
 - struggled
 - struggling
 
 `has been`まで見えているので、現在分詞か過去分詞を選択する問題。  
-struggle は自動詞なので受動態を取らないので、struggling が正解。
+`struggle`は自動詞なので受動態を取らないので、`struggling`が正解。
 
 自動詞・他動詞・受動態は別記事で解説。

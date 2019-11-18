@@ -1,3 +1,5 @@
+# テスト内容
+
 exceed expectations  
 期待を上回る
 
@@ -13,11 +15,12 @@ highly experienced teachers
 an economical laptop  
 経済的なパソコン
 
-> economical ... 経済的な、節約になる  
-> economic ... 経済の、経済学上の  
-> わかりにくいときは、単語ではなく合わせ言葉で覚えること  
-> e.g. economic gap ... 経済格差  
-> e.g. economical car ... 低燃費な車  
+> わかりにくいときは、単語ではなく合わせ言葉で覚えること
+>
+> - economical ... 経済的な、節約になる  
+>   e.g. economic gap ... 経済格差  
+> - economic ... 経済の、経済学上の  
+>   e.g. economical car ... 低燃費な車  
 
 attribute A to B  
 Aの原因をBと考える
@@ -59,7 +62,7 @@ Aに時間を費やす
 every two years  
 ２年おきに
 
-depedable service  
+dependable service  
 信頼できるサービス
 
 size and weight limits  
@@ -97,9 +100,9 @@ across from
 
 conclude  
 終える
- 
+
 explore
-見てまわる　　　　　　　　　　　　　　　　　　　　　　　　　　　
+見てまわる
 
 copyright protected  
 著作権で保護された
@@ -119,9 +122,8 @@ anxiously
 get on  
 取り掛かる
 
-sound-prooted  
+sound-proofed  
 防音の
 
 in transit
 輸送中に
-

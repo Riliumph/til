@@ -1,3 +1,5 @@
+# テスト内容
+
 It is **among** the most popular places.  
 それは最も人気のある場所の一つです
 
@@ -48,7 +50,7 @@ My parents, **both of whom speak English**, have rarely traveled abroad.
 This book, **which my boss says is useless**, is quite popular.  
 この本は、私の上司は役に立たないと言うが、かなり人気がある。
 
-I'll deliver the item to whichever shop is the most convinient for you.  
+I'll deliver the item to whichever shop is the most convenient for you.  
 私は商品をあなたにとって、最も都合のいい店にでも配達します。
 
 by overnight post  

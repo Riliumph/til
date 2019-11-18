@@ -1,6 +1,8 @@
-# 文法問題出る 1000 問 模試セット 11
+# 授業ノート
 
-## with + 名詞と副詞
+## 文法問題出る 1000 問 模試セット 11
+
+### with + 名詞と副詞
 
 Handle **with care**.  
 取り扱い**注意**
@@ -22,14 +24,14 @@ diligently
 
 > `with diligence`
 
-## if 節を形成する単語
+### if 節を形成する単語
 
 as long as A  
 Ａである限り
 
 provided that A
 
-## 例文
+### 例文
 
 the form enclose in the letter  
 手紙の中に同封された用紙
@@ -64,9 +66,9 @@ His success is likely.
 She will most likely decline the offer.  
 彼女はおそらくオファーを断るだろう
 
-# 文法問題出る 1000 問 模試セット 12
+## 文法問題出る 1000 問 模試セット 12
 
-## ポイントになる動詞
+### ポイントになる動詞
 
 Please silence the shouting person.  
 怒鳴っている人を黙らせてください
@@ -93,7 +95,7 @@ He was promoted to manager.
 
 > promote は「昇進させる」なので、受動態を取ること。
 
-## ポイントになる形容詞
+### ポイントになる形容詞
 
 a frequent mistake  
 頻繁なミス
@@ -115,7 +117,7 @@ a proficient carpenter
 light subject  
 軽い話題
 
-## ポイントになる副詞
+### ポイントになる副詞
 
 The meeting is frequently held.  
 その会議はよく開かれる

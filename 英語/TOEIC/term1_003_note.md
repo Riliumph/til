@@ -1,12 +1,14 @@
-# 要求・提案の動詞
+# 授業ノート
+
+## 要求・提案の動詞
 
 1 回目の復習
 
-# 分詞構文
+## 分詞構文
 
 分詞構文は、**動詞の意味を持った副詞**の一種で「接続詞+SV」の形の副詞節をコンパクトにした省略表現のひとつ。
 
-## 能動態
+### 能動態
 
 副詞節の中が「進行形」の場合に用いられる手法
 
@@ -21,7 +23,7 @@ When I was driving on National Route 176, I saw an accident.
 
 Driving on National Route 176, I saw an accident.
 
-## 受動態
+### 受動態
 
 If this battery is used economically, it will last about 50 hours.  
 節約して使えば、このバッテリーは 50 時間ほどもつ。
@@ -36,7 +38,7 @@ If this battery is used economically, it will last about 50 hours.
  **過去分詞形から始まる分詞構文は存在しない**ということを覚えて欲しい。  
 過去分詞形から始まっている分詞構文は必ず先頭に`be動詞`が`ing`形で存在し、ただそれが省略されているだけである。
 
-# 後置修飾
+## 後置修飾
 
 He has a book **to read** during his trip.  
 彼は、旅行中に**読むための**本を持っている。

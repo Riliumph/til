@@ -1,3 +1,5 @@
+# テスト内容
+
 The terms are **set forth** in the enclose agreement.  
 条件は同封された同意書に**表明**されている
 
@@ -75,10 +77,10 @@ Acquaint yourself with the latest trend.
 >   Ｂを知る
 >
 > e.g.  
-> The Real Estate Show will offer an excellent oppotunity for home owners to acquaint **themselves** with tha latest trends in home furnishings.  
+> The Real Estate Show will offer an excellent opportunity for home owners to acquaint **themselves** with tha latest trends in home furnishings.  
 > 見本市は、住宅所有者が家具の最新の傾向を知るための優れた機会を提供する。
 >
-> この acuaint の主語は for 節にある home owners であることを見抜ければ、`acquaint oneself with B`が正解であると分かる。
+> この`acquaint`の主語は`for`節にある`home owners`であることを見抜ければ、`acquaint oneself with B`が正解であると分かる。
 
 He was commissioned to design 9 custom homes.  
 彼は９件の特注の家を設計するように委託された。

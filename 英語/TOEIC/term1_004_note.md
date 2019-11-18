@@ -6,7 +6,7 @@ I have my driver's license **with me**.
 > with me  
 > 「今一緒だ」という意味
 
-Those ~~who are~~ wikking to help us are always welcome.  
+Those ~~who are~~ wicking to help us are always welcome.  
 私達を手伝ってくれる人は、いつでも歓迎です。
 
 ## it と one
@@ -71,5 +71,5 @@ He did it for himself.
 
 ## 分詞構文
 
-**Given the situatuion**, he deserves the praise.  
+**Given the situation**, he deserves the praise.  
 **状況を考えると**、彼は称賛に値する。

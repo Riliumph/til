@@ -1,4 +1,6 @@
-# Pre-Study
+# 授業ノート
+
+## Pre-Study
 
 I praised him for his efforts.  
 私は彼の努力を誉めた。
@@ -12,12 +14,12 @@ His explanation outlined the complicated procedure.
 I'm dedicated to helping the poor.  
 私は貧しい人を助けるのに専念している。
 
-> 前置詞`to`を使う同じイディオム
+> ### 前置詞`to`を使う同じイディオム
 >
 > - be committed to
 > - be devoted to
 >
-> 不定詞`to`を使う同じイディオム
+> ### 不定詞`to`を使う同じイディオム
 >
 > - be eager to
 
@@ -41,7 +43,7 @@ Your visit will delight them.
 I need to get the money refunded.  
 私はお金を払い戻してもらう必要がある。
 
-> `refund` vs `reimburse` vs `rebate`
+> ### `refund` vs `reimburse` vs `rebate`
 >
 > - refund 返品して受け取る返金
 > - reimburse 建て替えた費用の返金
@@ -68,24 +70,31 @@ Let's implement the plan.
 The conducted a survey.  
 彼らはある調査を行った。
 
-I hope it will be sunny tommorrow.  
+I hope it will be sunny tomorrow.  
 明日が晴れだといいな
 
-> `hope 現在形` vs `hope 未来形`
+> ### `hope 現在形` vs `hope 未来形`
 >
-> - hope 現在形 一瞬先の未来のことについて言える。
->   > I hope you have a good time.  
->   > 良い一日を。
-> - hope 未来形 未来のことについてのみ言える。
->   > I hope you will visit us again.  
->   > また遊びに来てくれると嬉しいです。
+> #### hope 現在形
+>
+> 一瞬先の未来のことについて言える。
+>
+> > I hope you have a good time.  
+> > 良い一日を。
+>
+> #### hope 未来形
+>
+> 未来のことについてのみ言える。
+>
+> > I hope you will visit us again.  
+> > また遊びに来てくれると嬉しいです。
 
 I have been involved in this project for 10 years.  
 私はこのプロジェクトに 10 年関わっている。
 
-# Pre-Study2
+## Pre-Study2
 
-## 前置詞句
+### 前置詞句
 
 - Ａを考慮すると `considering` / `given` / `in light of`
 - Ａにも関わらず `in spite of` / `despite` / `notwithstanding`
@@ -93,7 +102,7 @@ I have been involved in this project for 10 years.
 - Ａとは別に `aside from` / `in addition to`
 - Ａに関わらず `regardless of`
 
-## 節を伴う接続詞
+### 節を伴う接続詞
 
 - in order that S + V
 - until S + V
@@ -105,7 +114,7 @@ I have been involved in this project for 10 years.
   - as long as
 - once S + V
 
-## 覚えておくべき表現
+### 覚えておくべき表現
 
 unless otherwise A  
 他のＡが無い限り  
@@ -126,26 +135,26 @@ thereby -ing
 Aside from a large amount of money, he has a lot of land and house.  
 大金とは別に、彼は多くの土地と家屋を持っている。
 
-Reagardless of age of sex, anyone can apply or this position.  
+Regardless of age of sex, anyone can apply or this position.  
 年齢や性別にかかわらず、誰でもこの職に応募できる。
 
 Once you pass this test, you can access this facility anytime.  
 一旦このテストに合格すると、あなたはいつでもこの施設にアクセスできる。
 
-Unless otherwise instracted, you should obey the original reguration.  
+Unless otherwise instructed, you should obey the original regulation.  
 他の支持が無い限り元々の規則に従ってください。
 
-# 現在完了形のテスト
+## 現在完了形のテスト
 
 I have been working for this company **since** 1998.  
 私は 1998 年**から**この会社で働いています。
 
-> `from`と`since`の違い
+> ### `from`と`since`の違い
 >
 > - from 「起点」のみを表現する。単純時制で用いられる。
 > - since 「起点から現在まで」を表現する。完了時制で用いられる。
-
-> `since`と`for`の違い
+>
+> ### `since`と`for`の違い
 >
 > - 開始時期と共に使う`since`  
 >   「～してから」の意味を持つ。
@@ -157,16 +166,19 @@ I have been working for this company **since** 1998.
 How long have you **known** each other?  
 お互いが**知り合って**からどの位経った？
 
-> 現在完了形と現在完了進行形
+> ### 現在完了形と現在完了進行形
 >
-> - 現在完了形  
->   これまでも、そしてこれからも継続する可能性が高い場合に用いられる。  
->   すぐに状態を変えられない**状態動詞**を用いる。  
->   e.g. `live` / `knwow` / `believe`
-> - 現在完了進行形  
->   今は動作しているが、止める可能性がある場合に用いられる。  
->   すぐに状態を変えられる**動作動詞**の『継続』を意味するときに用いる。  
->   e.g. `play` / `run` / `study`
+> #### 現在完了形
+>
+> これまでも、そしてこれからも継続する可能性が高い場合に用いられる。  
+> すぐに状態を変えられない**状態動詞**を用いる。  
+> e.g. `live` / `known` / `believe`
+>
+> #### 現在完了進行形
+>
+> 今は動作しているが、止める可能性がある場合に用いられる。  
+> すぐに状態を変えられる**動作動詞**の『継続』を意味するときに用いる。  
+> e.g. `play` / `run` / `study`
 
 ---
 
@@ -200,7 +212,7 @@ As soon as the manager got to the office, he ~~had started~~ started to get phon
 
 ---
 
-Mr. Takeda has been practicing kararte in this gym ~~from~~ since 1995.  
+Mr. Takeda has been practicing karate in this gym ~~from~~ since 1995.  
 タケダさんは、1995 年からこのジムで空手の練習をしています。
 
 完了形で「～から」を表現するときは`since`を用いる。  
@@ -211,24 +223,29 @@ Mr. Takeda has been practicing kararte in this gym ~~from~~ since 1995.
 People ~~haven't known~~ didn't know about the maker until they received the advertisement in the envelope.  
 封筒に入っている広告を受け取るまで、人々はメーカーについて知らなかった。
 
-> `since`と`until`
+> ### `since`と`until`
 >
-> - since「～してから（ずっと）」  
->   「ずっと」の意味があるので現在形や未来形では使えない。  
->   文法的に「今まで」の意味を持つ完了形でよく使われる。
-> - until「～するまで」  
->   継続の終了地点を示す前置詞。終了を示すため「現在まで」を示す完了形と併用ない。  
->   また、`until`の導出部は**副詞節**なので未来形は使えない。
->   > Wait here until I come back.  
->   > 戻るまでここで待ってて！
-> - before「～までずっと」  
->   完了形で終了地点を表現したいときに用いられる語。
->   > The train had already departed before I got to the station.  
->   > 私が駅に着く前に、電車はすでに発射していた。
+> #### since「～してから（ずっと）」
+>
+> 「ずっと」の意味があるので現在形や未来形では使えない。  
+> 文法的に「今まで」の意味を持つ完了形でよく使われる。
+>
+> #### until「～するまで」
+>
+> 継続の終了地点を示す前置詞。終了を示すため「現在まで」を示す完了形と併用ない。  
+> また、`until`の導出部は**副詞節**なので未来形は使えない。
+> > Wait here until I come back.  
+> > 戻るまでここで待ってて！
+>
+> #### before「～までずっと」  
+>
+> 完了形で終了地点を表現したいときに用いられる語。
+> > The train had already departed before I got to the station.  
+> > 私が駅に着く前に、電車はすでに発射していた。
 
 ---
 
-# 復習
+## 復習
 
 The agreement that was reached **allowed** the company to continue selling products featuring the characters from a popular cartoon.  
 合意に達した契約により、その企業は人気漫画のキャラクターを打ち出した製品の販売を継続**できるようになった**。
@@ -247,7 +264,7 @@ Once all entries has been submitted, Daniel Miller, the advertising director, **
 すべての応募作品が提出され次第、広告担当役員の Daniel Miller は最優秀のキャッチコピーを**選ぶ予定だ**。
 
 - choose
-- has choosen
+- has chosen
 - was choosing
 - will choose
 
@@ -269,7 +286,7 @@ The company announced the appointment of Mr. Ishikawa as the new CEO, hoping it 
 
 ---
 
-The priority of the fire department **is to provide** the highest level of service to the citizens of Brewster and surounding areas.  
+The priority of the fire department **is to provide** the highest level of service to the citizens of Brewster and surrounding areas.  
 消防署の最優先事項は、Brewster および近郊の市民に対し、最高レベルの仕事**を行うこと**だ。
 
 - provide
@@ -284,7 +301,7 @@ The priority of the fire department **is to provide** the highest level of servi
 
 ---
 
-Ms. Thomas is the author of Small Business Survival, a book **outlining** marketing strategies that help small businesses invrease income.  
+Ms. Thomas is the author of Small Business Survival, a book **outlining** marketing strategies that help small businesses increase income.  
 Thomas さんは、中小企業の収入増に役立つマーケティング戦略**をまとめた**本、『Small Business Survival』の著者である。
 
 - outline
@@ -323,8 +340,8 @@ Steven Holloway's rendition of _Starry Night_ at the open air concert was stella
 演奏が主語になるため、`delighting`が正解。
 別に難しい問題ではなく、難しいのは以下の単語群。
 
-> `redition / 演奏、上演`  
-> `stellar / 輝くように素晴らしい`
+> `rendition`「演奏、上演」  
+> `stellar`「輝くように素晴らしい」
 
 ---
 
@@ -386,7 +403,7 @@ The Benin City is ---- about 20 kilometers from the city center.
 
 ---
 
-Tanton City passed legislation requiring all drivers age 75 and older to pass a vision test **before** renewing their driver's license.  
+Tanto City passed legislation requiring all drivers age 75 and older to pass a vision test **before** renewing their driver's license.  
 Tanto 市は、運転免許証を更新する**前に**視力検査に合格することを、75 歳以上のすべての運転者に求める法案を可決した。
 
 - although [接]
@@ -423,8 +440,8 @@ The fun run will be postponed until March 23 **unless** the weather clears up by
 動名詞`booking / 予約`があるため、選択できるのは前置詞を持つ物だけ。ここで`Moreover`は弾かれる。  
 あとはそれぞれの使い方と文意のセットで考える必要がある。
 
-> `accommodation / 宿泊施設`  
-> `make A reservattion(s) / Ａを予約する`
+> `accommodation`「宿泊施設」  
+> `make A reservation(s)`「Ａを予約する」
 
 ---
 
@@ -441,7 +458,7 @@ Murphy さんは、翌週また戻るのではなく、次のセミナーを明�
 
 ---
 
-**Since** Ms. Contreas began working as a sales representative, she has successfully expanded our client base.  
+**Since** Ms. Contreras began working as a sales representative, she has successfully expanded our client base.  
 Contreras さんは販売員として働き始めて以来、我が社の顧客数を順調に拡大してきた。
 
 - Since [接]「～以来」
@@ -466,12 +483,12 @@ Hasegawa さんは、チケット売り場の列で待つ必要が無いよう�
 
 ---
 
-Prividing periodic maintenance is carried out accourding to the manufacturers specifications, the TD24 paper folder will continue to function for a good many years.  
+Providing periodic maintenance is carried out according to the manufacturers specifications, the TD24 paper folder will continue to function for a good many years.  
 メーカーの仕様に従って定期的なメンテナンスが行われれば、TD24 ペーパーホルダーは、長期間にわたってお使いいただけます。
 
 - For `～, for`の場合のみ接続詞の意味を持つ。
-- Therefore [副]
-- Providing [接]
+- Therefore [副]「従って」
+- Providing [接]「もし～としたら」
 - Over [前・副]
 
 どうやら節を見抜く力が足りていないように見受けられる。  
@@ -482,8 +499,8 @@ Prividing periodic maintenance is carried out accourding to the manufacturers sp
 The tour group left for Osaka, **even though** they had not received their complete itinerary from the travel agency.  
 旅行会社からの完全な旅程表をまだ受け取っていなかったが、そのツアーグループは大阪へ向かった。
 
-- in spite of「～にも関わらず」
-- because of「～なので」
+- in spite of [前]「～にも関わらず」
+- because of [前]「～なので」
 - even though [接]「～であるけれども」
 - so that [接]「～するように」
 

@@ -12,11 +12,11 @@ Cooper Advertising 社に**勤務して**わずか６カ月で、HArlan さん�
 
 > 期間＋`into A`「Ａに入って～で」
 
-`throughout his six-month carreer`の形は可能
+`throughout his six-month carrier`の形は可能
 
 ---
 
-The National Business Travel Assosiation expects corporate car rental rates to increase **by** two percent this year.
+The National Business Travel Association expects corporate car rental rates to increase **by** two percent this year.
 全国ビジネス旅行協会は今年、法人向けのレンタカーの料金が２％上昇すると見込んでいる。
 
 - in
@@ -40,7 +40,7 @@ The popular online service is gaining new subscribers **at** the rate of about o
 
 ---
 
-All contract documnets should be sent to our legal office **by** priority mail.  
+All contract documents should be sent to our legal office **by** priority mail.  
 すべての契約書類は法務部門に優先扱い郵便で送られなければならない。
 
 - to
@@ -70,7 +70,7 @@ Beaver Creek REsource Management 社では、コロラド州の Brett Gray 牧�
 
 ---
 
-There is an extensive library of books on marketing and sales in the office which can be borrowd **on** a monthly basis.  
+There is an extensive library of books on marketing and sales in the office which can be borrowed **on** a monthly basis.  
 オフィスには、月単位で借りることができるマーケティングとセールスに関すう大量の蔵書がある。
 
 - at
@@ -191,7 +191,7 @@ Harrison さんは、コミュニティセンターが完成したら、残っ�
 
 ## 関係詞問題 10 問
 
-GeoTex Software created a series of video games **whose** feature a cute fox and a delightgul baby bird.  
+GeoTex Software created a series of video games **whose** feature a cute fox and a delightful baby bird.  
 GeoTex Software 社は可愛らしいキツネと可愛らしい小鳥を特徴とする一連のビデオゲームを製作した。
 
 - that

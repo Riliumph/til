@@ -1,3 +1,5 @@
+# テスト内容
+
 予想通り  
 as predicted
 
@@ -20,7 +22,7 @@ specify one's preference
 declare the results invalid
 
 安全規則  
-safty regulations
+safety regulations
 
 ＡはＢ次第だ  
 A is dependent on B
@@ -32,7 +34,7 @@ an extract from A
 A is indicative of B
 
 Ａとははっきりと異なる  
-distinctly different from A (distictly=clearly)
+distinctly different from A (distinctly=clearly)
 
 特にＡを引き付けるために  
 specifically to A
