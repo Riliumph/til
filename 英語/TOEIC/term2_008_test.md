@@ -1,71 +1,149 @@
-improved significantly  
+# テスト内容
+
+the highest profits ever  
+過去最高益
+
+improve significantly  
 大きく改善する
 
-raise 3 percent
-値上げ
+the least expensive option
+最も安価な選択肢
 
-be acquainted with A  
-Ａに精通している
+a correspondent of The LA Times  
+LA Timesの特派員
 
-grants A B  
-ＡにＢを与える
+work until 6 PM  
+午後６時まで働く
 
-established client  
-既存顧客
+failure to gain approval  
+承認を受けられなかったこと
 
-outlet
-小売店
+Much has been said about A  
+Ａに関しては多くのことが語られている
 
-Failure  
-失敗
+He is well acquainted with China.  
+彼は中国に精通している
 
-Much has been said  
-多くの事が言及されている
+other contact information  
+他の連絡先情報
 
-opposite  
-向かい
+grant the employee a long vacation  
+従業員に長期休暇を与える
 
-hashly critic  
-辛辣な批判
+A is situated in B  
+ＡはＢに位置している
 
-be deliberate
-故意の
+A is to blame for the decrease in sales.  
+Ａが売り上げ減少の原因だ
 
-be eagerly anticipating  
-切に期待して待っている
+> ## Blameの使い方  
+>
+> ### 能動態
+>
+> 能動態 blame 人 for モノ  
+> 主語が目的語にfor以下の責任を負わせる使い方  
+> > He blamed me for the accident.  
+> > 彼は事故を私のせいにした。  
+>
+> ### 受動態
+>
+> 主語がfor以下の責任を負わされる使い方
+>
+> ### to不定詞 be to blame for モノ
+>
+> 主語が
+> > Who is to blame for the delay?  
+> > 遅れたのは誰の責任か？  
+>
 
-The furniture on display in our main showroom is not directly exposed to sunlight.
-当社のメインショールームに展示してある家具は、日光に直接さらされていない。
+the company directory  
+社員名簿
 
-be honored for A  
-A で表彰された
+our established clients  
+私たちの既存顧客
 
-adopted plan  
-採択された案
+It is located opposite the bank.  
+それは銀行の向かいにある
 
-another two weeks
-さらに２週間
+the harshest critic  
+最も厳しい批評家
 
-The T&T Cooling Pad fits neatly **underneath** most laptop and may **extend** the life of your computer's components.  
-T&T 冷却パッドは、ほとんどのノートパソコン**の下に**きちんとフィットし、コンピュータ部品の寿命を**伸ばす**ことができる。
+Tge omission is not deliberate.  
+記入漏れは故意ではない
 
-consistent clarity
-一貫した明瞭さ
+I'm eagerly anticipating A  
+私はＡを切に期待して待っている
 
-**within** walking distance of A  
-Ａの徒歩圏内にある
+It was directly exposed to sunlight.  
+それは直射日光に晒された。
 
-**withhold** comment  
-コメントを差し控える
+She was honored for A  
+彼女はＡのことで表彰された。
 
-be based largely on  
-基づいている
+a recently adopted plan  
+最近採択された計画
 
-forwarding  
-転送する
+another two weeks  
+あと２週間
 
-credit A to B  
-ＡをＢのおかげと考える
+fir underneath the PC  
+PCの下にフィットする
 
-In accordance with A  
-Ａに従う
+consistent clarity of focus  
+一貫した焦点の明瞭さ
+
+It is within walking distance of A  
+それはＡから徒歩圏内にある。
+
+withhold comment about A  
+Ａに関するコメントを差し控える
+
+a room divider  
+間仕切り
+
+It will be forwarded to A  
+それはＡに転送される
+
+credit success to his advice  
+成功を彼のアドバイスのおかげと考える
+
+in accordance with company policy  
+会社のポリシーに従って
+
+undergo repair  
+修理が行われる
+
+call toll free at A  
+Ａに無料で電話する
+
+commencement  
+卒業式
+
+ponder  
+～のことを考える
+
+> Magic: The gathering: Ponder / 思案
+
+shoestring  
+少額の
+
+bandage  
+包帯
+
+surgical  
+手術用の
+
+restock  
+補充する
+
+honor the coupon  
+クーポンを受け入れる
+
+clear out / clear off  
+一掃する
+
+a seating plan  
+座敷図
+
+verify  
+確認する

@@ -14,7 +14,7 @@ With its outstanding service, Nagisa Hotel recorded its **highest** profits ever
 
 ---
 
-With 80 rooms on nine floors, the Savoy Mountain Hotel offers the least **expensive** option in the vicinity of the Savoy national Park.
+With 80 rooms on nine floors, the Savoy Mountain Hotel offers the least **expensive** option in the vicinity of the Savoy national Park.  
 ９階建て 80 部屋を擁し、Savoy マウンテンホテルは Savoy 国立公園近郊で最も**安価な**選択肢を提供している。
 
 - expenses [名]
@@ -22,14 +22,14 @@ With 80 rooms on nine floors, the Savoy Mountain Hotel offers the least **expens
 - expense [名]
 - expensive [形] 高価な
 
-名詞`option`を修飾するため形容詞を選択する必要がある。
-また、`the least 最上級`で「最も最上級ではない」という反対の意味を持つ。
+名詞`option`を修飾するため形容詞を選択する必要がある。  
+また、`the least 最上級`で「最も最上級ではない」という反対の意味を持つ。  
 
 > `the least expensive`「最も安価な」
 
 ---
 
-Due to increasing fuel prices, Skyfloat Airways **has raised** its airfares by three percent.
+Due to increasing fuel prices, Skyfloat Airways **has raised** its airfares by three percent.  
 燃料費高騰のため、Skyfloat 航空は、航空運賃を 3%**値上げ**した。
 
 - raise
@@ -76,7 +76,7 @@ Besides scientists from several organizations, the team **includes** researchers
 - Fails [動] （三単現あり）失敗する / [名] `failures`の省略形
 - By failing
 
-空所から`center`までが主語にあたることを見抜ければ、選択するのが名詞であることが分かる。
+空所から`center`までが主語にあたることを見抜ければ、選択するのが名詞であることが分かる。  
 `to have failed`は完了不定詞といって述語動詞以前の出来事であることを示す必要がある場合に用いられるが主語にはならない。  
 そもそも不定詞自体が主語になることは非常に稀である。
 
@@ -99,7 +99,7 @@ Besides scientists from several organizations, the team **includes** researchers
 
 ---
 
-Ms. Narita is best suited for the position, because she is well **acquainted** with China and speak fluent Mandrain.  
+Ms. Narita is best suited for the position, because she is well **acquainted** with China and speak fluent Mandarin.  
 Narita さんは中国に**精通して**おり、中国を流暢に話すので、その職務に最も適している。
 
 - acquaint [動・他] 精通する
@@ -135,7 +135,6 @@ Please be aware that information is automatically exchanged between your compute
 - as well as
 - instead of [前] ～の代わりに
 
-> `as well as`  
 > `A as well as B`「ＡもＢも」  
 > = `not only A but also B`「ＡだけでなくＢも」
 
@@ -144,7 +143,7 @@ Please be aware that information is automatically exchanged between your compute
 
 ---
 
-Isabera Winkler became a beneficiary of a corporate policy that **grants** employee a five-week paid vacation after five years of service.  
+Isabella Winkler became a beneficiary of a corporate policy that **grants** employee a five-week paid vacation after five years of service.  
 Isabella Winkler は、勤続５年後に従業員ん位５習慣の有給休暇を**与える**という会社の方針の受益者になった。
 
 - retrieves [動] 取り戻す
@@ -153,7 +152,7 @@ Isabella Winkler は、勤続５年後に従業員ん位５習慣の有給休暇
 - requires [動] 求める
 
 非常に難しい問題。  
-注目するべきは、空所後に目的語を`employee`と`a five-week paid vacation`の**2 つ**を取っていること。  
+注目するべきは、空所後に目的語を`employee`と`a five-week paid vacation`の**２つ**を取っていること。  
 SVOO の第４文型を取るのは`grant A B`のみ。
 
 > `grant A B`「ＡにＢを与える」
@@ -175,7 +174,7 @@ Eriksson さんがストックホルムでの休暇から戻ってくるまで�
 
 ---
 
-The Entertainment Sortware Association represents companies that sell **interactive** video games.  
+The Entertainment Software Association represents companies that sell **interactive** video games.  
 エンターテイメント・ソフトウェア協会は、インタラクティブなビデオゲームを販売している企業を代表している。
 
 - interact [動] 交流する
@@ -183,7 +182,7 @@ The Entertainment Sortware Association represents companies that sell **interact
 - interactively [副] 双方向的に
 - interaction [名] 相互作用、交流
 
-他動詞`sell`があるので、名詞`video gamse`が目的語であることは明白。  
+他動詞`sell`があるので、名詞`video games`が目的語であることは明白。  
 これを修飾するのは形容詞しかない……だけど、なんで副詞選んじゃったんかなぁ。
 
 ---
@@ -284,7 +283,7 @@ It looks **as if** there will be enough participants for the intensive English c
 
 ---
 
-European music lovers are eagerly **aniticipating** next month's Thallinn Music Week festival.  
+European music lovers are eagerly **anticipating** next month's Tallinn Music Week festival.  
 ヨーロッパの音楽愛好者は、来月の Tallinn 音楽週間祭を切に**期待して待っている**。
 
 - performing [動・自] 行う
@@ -293,10 +292,10 @@ European music lovers are eagerly **aniticipating** next month's Thallinn Music 
 - hoping [動・自] 望む
 
 空所後が名詞であることから、選択するべきは他動詞。  
-文意が通る他動詞は`anticipating`のみ。
-`eagerly anticipating`は`eagerly anitcipating the deay`「その日を心待ちにする」などで結構よく使われるらしい。
+文意が通る他動詞は`anticipating`のみ。  
+`eagerly anticipating`は`eagerly anticipating the day`「その日を心待ちにする」などで結構よく使われるらしい。
 
-> `be eagerly -ing`と`be eager to`はなんかセットですっと覚えられた。
+> `be eagerly -ing`と`be eager to`はなんかセットですっと覚えられた。  
 > `be eagerly -ing`「切に～する」  
 > `be eager to A`「Ａしたい」
 
@@ -353,7 +352,7 @@ Kim さんのお店のイメージが先行しちゃって`whose`を選んでし
 
 ---
 
-Ideally located in a quiet residential area of Hampstead, Shewwood Hotel is **within** walking distance of a subway station, restaurants, and a shopping center.  
+Ideally located in a quiet residential area of Hampstead, Sherwood Hotel is **within** walking distance of a subway station, restaurants, and a shopping center.  
 Sherwood ホテルは Hampstead の閑静な住宅街に、理想的に立地しており、地下鉄駅、レストラン、ショッピングセンターの徒歩圏内にある。
 
 - above
