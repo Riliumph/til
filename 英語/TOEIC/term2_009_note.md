@@ -1,5 +1,180 @@
 # 復習ノート
 
+## 前置詞ノート
+
+write a letter **with** a pen  
+ペンで手紙を書く
+
+live **on** pension  
+年金で暮らす
+
+It's **on** me.  
+私がおごります。
+
+**at** the end of the hall  
+廊下の端に
+
+It's **along / on** Hankyu Line.  
+それは阪急沿いにある
+
+**on** the computer  
+コンピュータ上で
+
+He is **at** work.  
+彼は仕事中だ
+
+get **over** the flu  
+インフルエンザが治る
+
+It went up **by** degrees.  
+それは徐々に上昇した
+
+It's under discussion.  
+それは討議中だ
+
+**at** the cost of your health  
+健康を犠牲にして
+
+**above** all  
+何よりもまず
+
+lean **against** the wall  
+壁にもたれる
+
+satisfied **with** the result  
+結果に満足
+
+**within** easy reach of A  
+Ａから近い
+
+It's **between** you and me.  
+ここだけの話だよ
+
+the key **to** success  
+成功の鍵
+
+**among** other things  
+他に数ある中で
+
+It's **across** the street  
+それは通りの向かいにある
+
+> 道路や川などの場合は`from`が要らない
+
+It's **across from** the bank.  
+それは銀行の向かりにある
+
+It went up **by** a hundred yen.  
+それは100円上がった
+
+He is **beside** himself.  
+彼は我を忘れている。
+
+It was **beyond** my expectation.  
+それは想定外だった。
+
+translate the document **into** English  
+書類を英語に翻訳する
+
+die **of** cancer  
+癌で死ぬ
+
+come down **with** the flu  
+インフルエンザにかかる
+
+be killed **in** an accident  
+事故で死ぬ
+
+expect too much **of / from** him  
+彼に過大な期待をする
+
+a check **for** ¥100,000  
+10万円の小切手
+
+difference **in** size  
+サイズの違い
+
+turn **to** page 22  
+22ページを開けてください
+
+It goes well **with** your shirt.  
+それはあなたのシャツに似合っている。
+
+He is **in** a green sweater.  
+彼は緑のセーターを身に着けている。
+
+judge a person **by / from** his appearance  
+人を外見で判断する
+
+He is paid **by** the hour.  
+彼は時給でお金をもらっている。
+
+The last train arrived **at** the station at 11:45.  
+
+Please send this package **by** air mail.
+
+She was absent **from** school for three days in a row.
+
+The conference will be held **on** Friday morning.
+
+Boys, divide the cake **among** the four of you.
+
+Mother divided the cake **into** five pieces.
+
+Fifteen divided **by** three equals five.
+
+The director got very angry with the employee.
+
+When the servant opened the door, his master got **into** the car.
+
+The bank is just **across** the street.
+
+The bank is just **across from** the movie theater.
+
+I'll try to stay there **till** 7 PM.
+
+You must finish the report **by** 7 PM at the latest.
+
+Mr. Brown is leaving for Paris next week.
+
+The train will leave **from** platform six.
+
+Jane is always teasing me. Today, she played a trick **on** me again.
+
+He translated many English novels **into** Japanese.
+
+You can't rely on the timetable. The bus has never come **on** time.
+
+Because of your smart driving, I managed to get to the airport well **in** time for my flight.
+
+The bookstore does not have the book we want. They will order it **from** the publisher.
+
+The new rule will go **into** effect next week.
+
+There is an unbelievable article about new energy sources **in** today's paper.
+
+> 書物の中は`in`を使う
+
+**On** what page is the article? I want to read it.
+
+> ページに限っては`on`を用いる
+
+We must finish the work **by** the time the sun sets. We can't do anything if it's dark.
+
+This movie is based **on** a Hemingway's novel.
+
+They have been building a new shopping center **near** my apartment building.
+
+See you **in** two weeks.
+
+Don't rush. We must take some other factors **into** consideration.
+
+The employees are paid **on** 25th each month.
+
+The meeting will be held **on** Monday morning.
+
+> 特定する場合は`on`を用いる。
+
 ## TOEIC1000 問 セット 5
 
 The Mizuno Auto company has signed up about 300 of its **residential** customers for a program using its newest electric cars.  
