@@ -36,7 +36,10 @@ A is situated in B
 A is to blame for the decrease in sales.  
 Ａが売り上げ減少の原因だ
 
-> ## Blameの使い方  
+<details>
+<summary>Blameの使い方</summary>
+
+> ## Blameの使い方
 >
 > ### 能動態
 >
@@ -51,10 +54,14 @@ A is to blame for the decrease in sales.
 >
 > ### to不定詞 be to blame for モノ
 >
-> 主語が
+> 主語が責任を負う人。
 > > Who is to blame for the delay?  
 > > 遅れたのは誰の責任か？  
 >
+> この`be to blame`は`be to be blamed`は同じ意味。  
+> 論理的には後者が正解だが、昔から慣用的に前者が使われてきた。  
+> この調文法的な`be to blamed`を使うとすごく勿体ぶった印象を与えてしまう。
+</details>
 
 the company directory  
 社員名簿

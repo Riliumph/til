@@ -2,7 +2,7 @@
 
 ## [2]選択問題
 
-In an effort to ally residents' fears, officials said there was no **imminemt** danger to people in the area.  
+In an effort to ally residents' fears, officials said there was no **imminent** danger to people in the area.  
 住民の恐怖を同盟するため(?)に、当局は、この地域の人々に**差し迫った**危険はないと述べた。
 
 ## [3]穴埋め問題
@@ -71,7 +71,7 @@ Toga, **wearing** a gray monk's robe, pointed to moss in the traditional sansui 
    = exaggerated patriotism  
    誇張された愛国心
 
-2. jingoinsm「主戦論、ジンゴイズム」  
+2. jingoism「主戦論、ジンゴイズム」  
    = an aggressive attitude combining excessive patriotism and contempt for other countries  
    過度の愛国心と他国に対する軽蔑を組み合わせた攻撃的な態度
 

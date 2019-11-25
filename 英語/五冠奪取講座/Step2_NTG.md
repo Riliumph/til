@@ -9,7 +9,7 @@
 結納は男性から婚約者に送られる婚約金です。  
 In some areas, it is **customary** that half of this gift is then **return**.  
 一部の地域では、この贈り物の半分が返品されることが慣習となっています。  
-However, more recent *yuino* celemonies involve only the formal **presetation** of the engagement ring and the exchange of an engagement **oath** in the **presence** of the **go-between**(= **matchmaker**) and the couple's parents.  
+However, more recent *yuino* ceremonies involve only the formal **presentation** of the engagement ring and the exchange of an engagement **oath** in the **presence** of the **go-between**(= **matchmaker**) and the couple's parents.  
 ただし、最近の結納式では、婚約指輪の正式な事前設定と、仲人（仲人）とカップルの両親の存在下での婚約誓約の交換のみが行われます。
 
 > involve 「関与する」を今回は「行う」と意訳
@@ -25,7 +25,7 @@ sitting down with the buttocks resting on top of the ankles
   登録済み個人印
 
 - 棟上げ式  
-  framework-raising celemony  
+  framework-raising ceremony  
   枠組挙式
 
 - 厄年  
@@ -64,7 +64,7 @@ in mourning
 5. 福岡県南西部の市。有明海に面する。三池炭鉱により重化学工業が発達。  
    大牟田市
 
-## [4] Fill in the blanks with the most appropriate Japanese words.
+## [4] Fill in the blanks with the most appropriate Japanese words
 
 奥州藤原四代
 

@@ -4,7 +4,7 @@
 
 リスニングなのでスキップ
 
-## [2] Put the following passages into English.
+## [2] Put the following passages into English
 
 「新しい最高経営責任者が任命されるまで、チャールズ・ランソンが社長代行を務めていた」  
 Charles Lanson was acting as president until a new CEO was appointed.
@@ -18,7 +18,7 @@ All spending over \$ 100 requires approval from the general manager
 
 stand for bring your own
 
-## [4] Fill in the blanks with the most appropriate word.
+## [4] Fill in the blanks with the most appropriate word
 
 You can take that to the **bank**.  
 絶対に間違いない
@@ -74,7 +74,7 @@ to shell out a lot of money
 to gripe about  
 不平不満を言う
 
-## [6] Chooze the best answer from the two alternatives
+## [6] Choose the best answer from the two alternatives
 
 Zero degrees Celsius is equal to 32 degrees Fahrenheit.  
 摂氏 0 度は華氏 32 度に相当します。
@@ -139,12 +139,14 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
   等位接続詞「for」は同等のモノを接続でき、「結果, for 原因」の順番を構成する。
 - since だから  
   接続使用法の「since」は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）
-  > <u>`because` vs `since` vs `as`</u>  
-  > 理由を述べる強さ：because > since >= as
-  > 基本的に since は**相手が既に知っていること**を前提に使われ、because は**新情報**を前提に使われる。  
-  > このため、since には以下の問題点を持つ。
+
+  > **`because` vs `since` vs `as`**
   >
-  > - Why 疑問文の回答に用いることができない  
+  > 理由を述べる強さ：because > since >= as  
+  > 基本的に`since`は**相手が既に知っていること**を前提に使われ、`because`は**新情報**を前提に使われる。  
+  > このため、`since`には以下の問題点を持つ。
+  >
+  > - `Why`疑問文の回答に用いることができない  
   >   A:Why didn't you go?  
   >   B:Because I was busy.  
   >   B:\* Since I was busy.（使えない）
@@ -152,13 +154,13 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
   >   It was because she was sick that she didn't come to the party.  
   >   \* It was since she was sick that she didn't come to the party.（使えない）
 - so だから  
-  等位接続詞「so」は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
-- while 「～している間」  
+  等位接続詞`so`は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
+- while ～している間  
   従位接続詞の「while」は、以下の２つの意味を持つ
   - 「A している間」
   - 「A だが、一方 B は」
     この接続使用法の見分け方は偏に**カンマ(,)が付いてない or 付いてる**。  
-    今回は「, xxx」の文体なので、while が使われるとしたら対照用法である。
+    今回は「, xxx」の文体なので、`while`が使われるとしたら対照用法である。
 
 ---
 
@@ -269,22 +271,26 @@ Mr. Adams looked like an ophthalmologist, **which** he actually was.
 - which
 - what
 
-> 補語を受ける関係代名詞
+> **補語を受ける関係代名詞**
 >
-> - 先行詞は人の**地位**・**職業**・**性格**などに限定される。
-> - 使える関係代名詞は以下の３つ
->   - which これだけ`,`が付く`, which`形で使われので注意。  
->     He is an able doctor. ＋ His brother is not an able doctor.→ 共通項`an able doctor`を関係詞に。
->     > He is an able doctor, which his brother is not.  
->     > 「彼は有能な医者だが、彼の兄弟はそうではない。」
->   - that 関係代名詞`that`はよく省略される  
->     She is not a good teacher. ＋ She used to be a good teacher.→ 共通項`a good teacher`を関係詞に。
->     > She is not a good teacher (that) She used to be.  
->     > 「彼女は、かつてのような良い教師ではない。」
->   - what what の中に先行詞が含まれて消えてしまう  
->     He is not a man. ＋ He was a man ten years ago.→ 共通項`a man`を関係詞に。
->     > He is not what he was ten years ago.  
->     > 「彼は、10 年前のような男ではない。」
+> 先行詞は人の**地位**・**職業**・**性格**などに限定される。  
+> 使える関係代名詞は以下の３つ
+>
+> - which  
+>   これだけ`,`が付く`, which`形で使われので注意。  
+>   He is an able doctor. ＋ His brother is not an able doctor.→ 共通項`an able doctor`を関係詞に。  
+>   He is an able doctor, which his brother is not.  
+>   「彼は有能な医者だが、彼の兄弟はそうではない。」
+> - that  
+>   関係代名詞`that`はよく省略される  
+>   She is not a good teacher. ＋ She used to be a good teacher.→ 共通項`a good teacher`を関係詞に。  
+>   She is not a good teacher (that) She used to be.  
+>   「彼女は、かつてのような良い教師ではない。」
+> - what  
+>   what の中に先行詞が含まれて消えてしまう  
+>   He is not a man. ＋ He was a man ten years ago.→ 共通項`a man`を関係詞に。  
+>   He is not what he was ten years ago.  
+>   「彼は、10 年前のような男ではない。」
 
 ---
 
@@ -297,7 +303,7 @@ Kathy looked for some cake but there was already **none** left there.
 - nothing
 
 > - none left ... （ケーキが）何も残っていない
->   この`none`は前節の`some cake`を指している
+>   この`none`は前節の`some cakes`を指している
 > - nothing left ... （どんなモノも）何も残っていない  
 >   こちらの場合は意味が大分異なり、「ケーキだけでなく、皿もフォークなど含めて」何もかもを指す
 
@@ -388,6 +394,6 @@ The ruling party has maintained that they will put priority on implementing meas
 
 Immediately after he searched the murder suspect, the policeman started to seek for the stolen car in question.
 
-The Japanese implicit assumption of separateness, cultural and racial, is a fact of everyday existence the awareness of it dimisishes only in rare cases between aliens and Japanese who have lived closely.
+The Japanese implicit assumption of separateness, cultural and racial, is a fact of everyday existence the awareness of it diminishes only in rare cases between aliens and Japanese who have lived closely.
 
 The leaders of North and South Korea reached broad agreement on Wednesday aimed at easing half of a century of Cold War tensions on the divided peninsula.

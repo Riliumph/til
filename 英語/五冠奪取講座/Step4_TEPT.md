@@ -1,6 +1,6 @@
 # Step4: 観光英語検定試験 / Tourism English Proficiency Test
 
-## [1] Choose the most appropriate word or phrase from among the four alternative.
+## [1] Choose the most appropriate word or phrase from among the four alternative
 
 In the event of emergency landing it may be imperative that a speedy **evacuation** of the aircraft is made.  
 緊急着陸の場合には、航空機の迅速な**避難**が不可欠です。
@@ -64,10 +64,10 @@ The islands of Micronesia include the Marianas, the Caroline Island Archipelagoe
 ミクロネシアの島々には、マリアナ諸島、キャロライン諸島、マーシャル諸島、北**環礁**が含まれます。
 
 - atolls 岩礁
-  > Magic: the gatering: Coral Atoll / 珊瑚礁
+  > Magic: the gathering: Coral Atoll / 珊瑚礁
 - avalanches 雪崩  
 - glacier 氷河
-  > Magic: the gatering: Thawing Glaciers / 溶け出した氷河
+  > Magic: the gathering: Thawing Glaciers / 溶け出した氷河
 - whirlpool 渦
 
 ---
@@ -123,7 +123,7 @@ It contains a collection of richly colored murals showing the early influence of
 
 ## [2] Translate the following passage into Japanese
 
-The sites themselves are chosen by the World Heritage Committee, according to terms spelled out in the "Convention for Protection of the World Cutural and Natural Heritage," witch was adopted by UNESCO's 17th General Congerence, in 1972.  
+The sites themselves are chosen by the World Heritage Committee, according to terms spelled out in the "Convention for Protection of the World Cultural and Natural Heritage," witch was adopted by UNESCO's 17th General Conference, in 1972.  
 「世界の文化的および自然遺産の保護のための条約」に記載されている用語に従って、サイト自体は世界遺産委員会によって選択され、1972年にユネスコの第17回総集会で採用されました。
 
 ## [3] Put the following passage into English
