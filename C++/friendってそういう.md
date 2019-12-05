@@ -12,7 +12,7 @@ public:
   storage(const int d):data_(d){};
   storage(){};
   ~storage(){};
-  int data() const {return data_;};
+  int data() const { return data_; };
   void data(const int d) { data_ = d; };
   // クラス外実装故にprivateに触れないのでfriend化
   friend std::ostream& operator<<(std::ostream&,
