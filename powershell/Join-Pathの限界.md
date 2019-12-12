@@ -1,33 +1,33 @@
-# Join-Pathは二つしか繋げない！？！？！？！？
+# Join-Path は二つしか繋げない！？！？！？！？
 
-下記のコマンドをサンプルとして作ったがうまく動かなかった。  
+下記のコマンドをサンプルとして作ったがうまく動かなかった。
 
 ```powershell
-	ls -File .\ | % { Join-Path $_.DirectoryName "result" $_.Name }
+ls -File .\ | % { Join-Path $_.DirectoryName "result" $_.Name }
 ```
 
 `%`は`ForEach-Object`へのエイリアスなのでそこの解説はスキップする。
 
-どうやら、Join-Pathは引数を二つまでしか取れないようだ。  
-C#と同じ.NETが使えるというのに、Path.Combine()に劣るとは……。  
+どうやら、Join-Path は引数を二つまでしか取れないようだ。  
+C#と同じ.NET が使えるというのに、Path.Combine()に劣るとは……。
 
-なので、Join-Pathは連打するしかない。
+なので、Join-Path は連打するしかない。
 
 ```powershell
-	ls -File .\ | % { (Join-Path ( Join-Path $_.DirectoryName "result" ) $_.Name ) }
+ls -File .\ | % { (Join-Path ( Join-Path $_.DirectoryName "result" ) $_.Name ) }
 ```
 
-# 補足
+## 補足
 
-変数$_の型が知りたいって人は下のコマンドを使ってみてね。  
+変数`$_`の型が知りたいって人は下のコマンドを使ってみてね。
 
-``` powershell
+```powershell
 ls -File .\ | %{ echo $_.GetType().FullName }
 ```
 
-lsには他のオプションもあってこういう名前の取り出し方もある。
+ls には他のオプションもあってこういう名前の取り出し方もある。
 
-``` powershell
+```powershell
 ls -File -Name .\ | % { echo &_.GetType().FullName }
 ```
 

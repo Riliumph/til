@@ -1,4 +1,6 @@
-# 前置詞
+# 授業ノート
+
+## 前置詞
 
 the best of all the movies  
 すべてに映画の中で最高
@@ -113,7 +115,7 @@ on page 5
 on the web site  
 ウェブサイトに
 
-# 文型
+## 文型
 
 He helped `clean` the room.  
 彼は部屋の掃除を手伝った

@@ -4,8 +4,6 @@
 
 `if / as / when / while 分詞, S + V ～`の形をとる。
 
-### e.g.
-
 If interrupted, the progress will stop.  
 邪魔が入ったら、進捗は止まるだろう
 

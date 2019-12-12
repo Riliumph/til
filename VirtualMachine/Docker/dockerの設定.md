@@ -1,10 +1,10 @@
-# Dockerのデフォルト設定の違い
-Dockerのデフォルト設定は/etc/default/dockerを変更する。  
+# Docker のデフォルト設定の違い
+
+Docker のデフォルト設定は/etc/default/docker を変更する。
 
 - DOCKER_OPTS=xxx  
-  upstartを使う場合のオプション
+  upstart を使う場合のオプション
 - OPTIONS=xxx  
-  systemdを使う場合のオプション
+  systemd を使う場合のオプション
 
-
-まぁ、/etc/default/dockerよりも、$HOME/.dockerを弄った方が良さそうだけど
+まぁ、/etc/default/docker よりも、\$HOME/.docker を弄った方が良さそうだけど

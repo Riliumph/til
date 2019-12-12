@@ -27,10 +27,10 @@ He hadn't recognized the value of the product until it was in the media.
 彼はマスコミで褒められるまで、その製品の価値を認識していなかった。
 
 influential in developing A  
-Aの開発に影響力がある
+A の開発に影響力がある
 
 a potential successor to A  
-Aの後継者となる可能性がある人
+A の後継者となる可能性がある人
 
 show sign of improvement  
 改善の兆しを見せる
@@ -65,21 +65,21 @@ obtain secure access
 The airport has since been expanded ...  
 空港はそれ以来拡張され……
 
-> ## sinceの使い方  
+> **since の使い方**
 >
-> ### 前置詞「〜以来」
+> 前置詞「〜以来」
 >
 > > I had not eaten anything since the earthquake occurred.  
 > > 私はその地震が起きてから何も食べていなかった。  
-> ※接続詞として、節（S+V）を取ることもできる
+> > ※接続詞として、節（S+V）を取ることもできる
 >
-> ### 接続詞「～なので」（原因や理由）
+> 接続詞「～なので」（原因や理由）
 >
 > > Since there’s no more time, we must stop.  
 > > もう時間がないのでやめざるをえない。  
-> 理由付けの強さ：as = since < because
+> > 理由付けの強さ：as = since < because
 >
-> ### 副詞「～以来」「～以後」
+> 副詞「～以来」「～以後」
 >
 > > It has since been bogged down.  
 > > その時以来行き詰っていた。  
@@ -90,12 +90,12 @@ The area has been allocated for visitors.
 その場所は訪問客用に割り当てられている
 
 gaze at A  
-Aを見つめる
+A を見つめる
 
 > = state at A
 
 stop by A  
-Aに立ち寄る
+A に立ち寄る
 
 rescheduled a meeting  
 ミーティングの予定を変更する
@@ -110,12 +110,12 @@ official
 役人、役員
 
 look into A  
-Aを調べる
+A を調べる
 
 > 調べるでまとめたよね？
 
 attach importance to A  
-Aを重要視する
+A を重要視する
 
 reimbursement  
 払い戻し
@@ -123,27 +123,27 @@ reimbursement
 registration fee  
 登録料
 
-> 料金について（日本人でよかった）  
+> 料金について（日本人でよかった）
 >
-> |単語|意味|
-> |:--:|:--|
-> |fee|会費、専門職の報酬（病院とか|
-> |fare|乗り物|
-> |charge|feeと同じ|
-> |rate|従量課金|
-> |admission|**入ること**自体にかかるお金|
-> |tuition<br>(tuition fee)|授業料|
-> |interest|利子|
-> |fine|罰金|
+> |           単語           | 意味                         |
+> | :----------------------: | :--------------------------- |
+> |           fee            | 会費、専門職の報酬（病院とか |
+> |           fare           | 乗り物                       |
+> |          charge          | fee と同じ                   |
+> |           rate           | 従量課金                     |
+> |        admission         | **入ること**自体にかかるお金 |
+> | tuition<br>(tuition fee) | 授業料                       |
+> |         interest         | 利子                         |
+> |           fine           | 罰金                         |
 
 participate in A  
-Aに参加する
+A に参加する
 
 contribute to A  
-Aに貢献する
+A に貢献する
 
 extend one's gratitude to A
-Aに謝意を述べる
+A に謝意を述べる
 
 sympathy  
 同情、思いやり、悔み

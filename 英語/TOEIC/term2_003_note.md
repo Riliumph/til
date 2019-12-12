@@ -1,6 +1,8 @@
-# 復習
+# 授業ノート
 
-## TOEIC 1000問
+## 復習
+
+### TOEIC 1000 問
 
 Thanks to clear skies and careful **planning**, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.  
 澄み切った空と綿密な**計画**のおかげで、毎年恒例第７回 Greenfield ロードレースは、約 500 妊のランナーと共に、今まで最多の観衆を集めた。
@@ -87,17 +89,16 @@ Speedsoft 社の夏季インターンシッププログラムの申込期限が*
 
 `draw near`「近づく」を知っておくこと
 
-> ### nearby の使い方
+> **nearby の使い方**
 >
-> #### 副詞的用法
+> - 副詞的用法
 >
-> > Is there a post office nearby(= near here)?  
-> > この近くに郵便局はありますか？
+>   > Is there a post office nearby(= near here)?  
+>   > この近くに郵便局はありますか？
 >
-> #### 形容詞的用法
->
-> - a nearby store 前から掛かる場合
-> - a store nearby 後ろから掛かる場合
+> - 形容詞的用法
+>   - a nearby store 前から掛かる場合
+>   - a store nearby 後ろから掛かる場合
 
 ---
 
@@ -269,7 +270,7 @@ that 節内の主語`house prices`と目的語が飛んで by なので、受動
 
 > `人 be interested in`は使えるが、`物 be interested in`は使えない。
 >
-> ### 自動詞と他動詞（よくド忘れするシリーズ）
+> **自動詞と他動詞（よくド忘れするシリーズ）**
 >
 > - rise-rose-risen [動・自] 上がる
 > - raise-raised-raised [動・他] 上げる  

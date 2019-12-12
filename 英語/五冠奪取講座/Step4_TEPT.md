@@ -8,13 +8,13 @@ In the event of emergency landing it may be imperative that a speedy **evacuatio
 - configuration 構成、形状、地形
 - congestion 密集、過密、渋滞、充血
 - embarkation 搭乗、積み込み
-- evacuation 撤退、避難、排出、排せつ  
+- evacuation 撤退、避難、排出、排せつ
   > Magic: the gathering: Evacuation / 脱出
 
 ---
 
 The prepayment reservation will be **forefended** if you do not cancel by 4 p.m.  
-午後4時までにキャンセルしない場合、前払い予約は**放棄されます**。
+午後 4 時までにキャンセルしない場合、前払い予約は**放棄されます**。
 
 - forbidden 禁じられた
 - forefended 発生しないように防ぐ
@@ -50,10 +50,10 @@ They go by a number of aliases - beef burgers, steerburgers, king burgers, chees
 ---
 
 Greyhound buses travel around the **clock**, so you can make a trip by day and enjoy the scenery through wide panoramic windows.  
-グレイハウンドのバスは24時間運行しているため、日中は旅行をして、広いパノラマの窓から景色を楽しむことができます。
+グレイハウンドのバスは 24 時間運行しているため、日中は旅行をして、広いパノラマの窓から景色を楽しむことができます。
 
 - clock 時計、（特に）置時計
-  > around the clock / 24時間、絶え間なく
+  > around the clock / 24 時間、絶え間なく
 - pendulum 振り子
 - timepiece 時計、（時間を計測する）計時計器
 - watch 時計、（特に身に着ける）腕時計
@@ -65,7 +65,7 @@ The islands of Micronesia include the Marianas, the Caroline Island Archipelagoe
 
 - atolls 岩礁
   > Magic: the gathering: Coral Atoll / 珊瑚礁
-- avalanches 雪崩  
+- avalanches 雪崩
 - glacier 氷河
   > Magic: the gathering: Thawing Glaciers / 溶け出した氷河
 - whirlpool 渦
@@ -73,7 +73,7 @@ The islands of Micronesia include the Marianas, the Caroline Island Archipelagoe
 ---
 
 There is a two-day muleback trip into the inner **moor** of the Colorado, saying overnight at a small ranch across the narrow Kaibab Suspension.  
-コロラドの内側の**荒地**への2日間のミュールバック旅行があり、狭いカイバブサスペンションを横切る小さな牧場で一晩言います。
+コロラドの内側の**荒地**への 2 日間のミュールバック旅行があり、狭いカイバブサスペンションを横切る小さな牧場で一晩言います。
 
 - gorge （両側が絶壁の）峡谷、山峡
   > Magic: the gathering: Copperline Gorge / 銅線の地溝
@@ -86,7 +86,7 @@ There is a two-day muleback trip into the inner **moor** of the Colorado, saying
 ---
 
 Pompeii, buried under a layer of lapilli(burning fragments of pumice stone) during the devastating **eruption** of Mount Vesuvius in 79 AD, provides a fascinating insight into how the ancient Romans lived.  
-ポンペイは、西暦79年のベスビオ火山の壊滅的な**噴火**の際にラピリ（軽石の燃えさかる破片）の層の下に埋められた町ですが、古代ローマ人がどのように生きてきたかについての興味深い洞察を提供します。
+ポンペイは、西暦 79 年のベスビオ火山の壊滅的な**噴火**の際にラピリ（軽石の燃えさかる破片）の層の下に埋められた町ですが、古代ローマ人がどのように生きてきたかについての興味深い洞察を提供します。
 
 - blast 突風、爆破、爆風、爆発
 - eruption 噴火、噴出
@@ -124,11 +124,11 @@ It contains a collection of richly colored murals showing the early influence of
 ## [2] Translate the following passage into Japanese
 
 The sites themselves are chosen by the World Heritage Committee, according to terms spelled out in the "Convention for Protection of the World Cultural and Natural Heritage," witch was adopted by UNESCO's 17th General Conference, in 1972.  
-「世界の文化的および自然遺産の保護のための条約」に記載されている用語に従って、サイト自体は世界遺産委員会によって選択され、1972年にユネスコの第17回総集会で採用されました。
+「世界の文化的および自然遺産の保護のための条約」に記載されている用語に従って、サイト自体は世界遺産委員会によって選択され、1972 年にユネスコの第 17 回総集会で採用されました。
 
 ## [3] Put the following passage into English
 
-「これらの新幹線の列車は、東京都日本にある他の主要都市の間を約15分間隔で走行しています。」
+「これらの新幹線の列車は、東京都日本にある他の主要都市の間を約 15 分間隔で走行しています。」
 
 At approximately 15-minute intervals, these shinkansen train run between Tokyo and other major city in Japan.
 

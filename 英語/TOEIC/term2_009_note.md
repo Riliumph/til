@@ -1,6 +1,8 @@
-# 復習ノート
+# 授業ノート
 
-## 前置詞ノート
+## 復習
+
+### 前置詞ノート
 
 write a letter **with** a pen  
 ペンで手紙を書く
@@ -65,7 +67,7 @@ It's **across from** the bank.
 それは銀行の向かりにある
 
 It went up **by** a hundred yen.  
-それは100円上がった
+それは 100 円上がった
 
 He is **beside** himself.  
 彼は我を忘れている。
@@ -89,13 +91,13 @@ expect too much **of / from** him
 彼に過大な期待をする
 
 a check **for** ¥100,000  
-10万円の小切手
+10 万円の小切手
 
 difference **in** size  
 サイズの違い
 
 turn **to** page 22  
-22ページを開けてください
+22 ページを開けてください
 
 It goes well **with** your shirt.  
 それはあなたのシャツに似合っている。
@@ -109,7 +111,7 @@ judge a person **by / from** his appearance
 He is paid **by** the hour.  
 彼は時給でお金をもらっている。
 
-The last train arrived **at** the station at 11:45.  
+The last train arrived **at** the station at 11:45.
 
 Please send this package **by** air mail.
 
@@ -175,7 +177,7 @@ The meeting will be held **on** Monday morning.
 
 > 特定する場合は`on`を用いる。
 
-## TOEIC1000 問 セット 5
+### TOEIC1000 問 セット 5
 
 The Mizuno Auto company has signed up about 300 of its **residential** customers for a program using its newest electric cars.  
 Mizuno 自動車は、約 300 人の**個人**顧客と、最新の電気自動車を使用するプログラムの契約を結んだ。
@@ -304,7 +306,7 @@ Although last week's rain provided short-term **relief**, the showers had no sig
 
 ---
 
-## TOEIC1000 問 セット 6
+### TOEIC1000 問 セット 6
 
 Some Sydney suburbs recorded more **than** three inches of rain in the early hours of yesterday morning.  
 シドニーの郊外では、昨日の早朝、３インチを超える雨量を記録したところがあった。

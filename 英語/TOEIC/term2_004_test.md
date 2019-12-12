@@ -53,16 +53,16 @@ before = **prior to**
 **Given that** he contributed to ...  
 彼が…に貢献したということを考慮すれば、
 
-> ## 省略無しの正式な文法構造について  
+> **省略無しの正式な文法構造について**
 >
 > `Being given the fact that A`「Ａという事実を与えられたら」
 >
-> ## `Considering that`  
+> **`Considering that`**
 >
 > - Given ... when you consider something
 > - Considering ... Taking into consideration.
 >
-> 意味合いはほぼ同じで交換可能。  
+> 意味合いはほぼ同じで交換可能。
 
 **Aside from** his experience at ...  
 彼の…での経験とは別に

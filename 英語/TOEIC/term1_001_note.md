@@ -91,7 +91,7 @@ to 不定詞と動名詞を使った場合に同じ意味になる単語
 |  finish  |
 |  escape  |
 | postpone |
-|  suggest  |
+| suggest  |
 |   deny   |
 |  admit   | You should admit having to break the glass. |
 | consider |

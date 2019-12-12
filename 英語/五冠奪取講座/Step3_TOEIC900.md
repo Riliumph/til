@@ -153,6 +153,7 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
   > - 強調構文に利用できない  
   >   It was because she was sick that she didn't come to the party.  
   >   \* It was since she was sick that she didn't come to the party.（使えない）
+
 - so だから  
   等位接続詞`so`は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
 - while ～している間  

@@ -43,7 +43,7 @@ Are you learning valuable information?
 
 Are the explanations of concepts clear?  
 概念の説明は明確ですか？
-→説明はわかりやすかったですか？
+→ 説明はわかりやすかったですか？
 
 Is the instructor's delivery engaging?  
 教師の配信は魅力的ですか？  

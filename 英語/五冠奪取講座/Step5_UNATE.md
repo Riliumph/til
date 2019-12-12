@@ -60,15 +60,15 @@ He was born the day after Martin Luther King's assassination at Sweet Home a sma
 
 > 正しい意図を伝えるためには、以下の要素を述べる必要がある。
 >
-> - HeがSweet Homeで生まれたこと
-> - HeがMartin Luther Kingの暗殺の次の日に生まれたこと
+> - He が Sweet Home で生まれたこと
+> - He が Martin Luther King の暗殺の次の日に生まれたこと
 >
 > このままの文だと、次のように伝わってしまう。
 >
-> - Martin Luther Kingの暗殺がSweet Homeで行われたこと
-> - HeはMartin Luther Kingの暗殺の次の日に生まれたこと
+> - Martin Luther King の暗殺が Sweet Home で行われたこと
+> - He は Martin Luther King の暗殺の次の日に生まれたこと
 >
-> 残念ながら、Martin Luther Kingが暗殺されたのはテネシー州のメンフィスである。  
+> 残念ながら、Martin Luther King が暗殺されたのはテネシー州のメンフィスである。  
 > 正しく意図を伝えるためには、次のように文を入れ替える必要がある。
 
 He was born at Sweet Home a small town in Oregon the day after Martin Luther King's assassination.  
@@ -76,13 +76,13 @@ He was born at Sweet Home a small town in Oregon the day after Martin Luther Kin
 
 ---
 
-On the eve of China's WTO entry, Premier Zhu Rongji has ordered officials to prepare for wrenching but crucial reforms needed to drive development and warned them to tiptoe the line in carrying out Beijing's commitments.  
+On the eve of China's WTO entry, Premier Zhu Rongji has ordered officials to prepare for wrenching but crucial reforms needed to drive development and warned them to tiptoe the line in carrying out Beijing's commitments.
 
-Zhui said China needed membership in the global trade group to improve the livelihood of Chinese.  
+Zhui said China needed membership in the global trade group to improve the livelihood of Chinese.
 
-前半が鬼のように長いので、所々に区切りを入れてみる。  
+前半が鬼のように長いので、所々に区切りを入れてみる。
 
-- On the eve of China's WTO entry, / 中国のWTO加盟の直前に、  
+- On the eve of China's WTO entry, / 中国の WTO 加盟の直前に、
   - (S) Premier Zhu Rongji / 朱鎔基首相は
     - (v1) has ordered officials / 当局者に命じた
       - to prepare for / の準備を
@@ -90,10 +90,10 @@ Zhui said China needed membership in the global trade group to improve the livel
           - needed to drive development / 発展を推進するために必要とされる
     - (V2) and warned / さらに、警告した
       - them to tiptoe the line / （訳せない）
-        - in carrying out Beijing's commitments. 北京の責務を実行することに  
+        - in carrying out Beijing's commitments. 北京の責務を実行することに
 
 (V2)の部分で`tiptoe the line`というイディオムは存在しない。  
 `toe the line`「スタートラインに立つ、統制に服する、習慣を守る」の方に修正する必要がある。
 
-中国のWTO加盟の直前に、朱鎔基首相は当局者に開発を推進するために必要な、苦しくも重要な改革の準備を命じ、北京公約の実行において習慣を守るように警告した。  
+中国の WTO 加盟の直前に、朱鎔基首相は当局者に開発を推進するために必要な、苦しくも重要な改革の準備を命じ、北京公約の実行において習慣を守るように警告した。  
 朱は、中国人の生計を改善するために、中国が世界貿易グループのメンバーになる必要があると述べた。

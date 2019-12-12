@@ -31,7 +31,7 @@ an appealing design
 New subscribers are **eligible** for A  
 新しい定期購読者はＡの**資格がある**
 
-> ## be qualified for vs be eligible for
+> **`be qualified for` vs `be eligible for`**
 >
 > - qualified ライセンスがある
 > - eligible 適任である

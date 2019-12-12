@@ -1,13 +1,13 @@
-# pythonのswapは特殊
+# python の swap は特殊
 
-pythonに標準ライブラリのswap関数はない。  
-※C/C++ならstd::swap()関数が存在する。  
-しかし、機能的にないわけではない。  
+python に標準ライブラリの swap 関数はない。  
+※C/C++なら std::swap()関数が存在する。  
+しかし、機能的にないわけではない。
 
-``` python
+```python
 a = 10
 b = 20
 a, b = b, a
 ```
 
-ああ、確かにPythonらしいな
+ああ、確かに Python らしいな

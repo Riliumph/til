@@ -1,4 +1,8 @@
-# TOEIC1000 問 セット 3
+# 授業ノート
+
+## 復習
+
+### TOEIC1000 問 セット 3
 
 With its outstanding service, Nagisa Hotel recorded its **highest** profits ever over the last year.  
 その傑出したサービスで、Nagisa ホテルは昨年、過去**最高**益を記録した
@@ -23,7 +27,7 @@ With 80 rooms on nine floors, the Savoy Mountain Hotel offers the least **expens
 - expensive [形] 高価な
 
 名詞`option`を修飾するため形容詞を選択する必要がある。  
-また、`the least 最上級`で「最も最上級ではない」という反対の意味を持つ。  
+また、`the least 最上級`で「最も最上級ではない」という反対の意味を持つ。
 
 > `the least expensive`「最も安価な」
 

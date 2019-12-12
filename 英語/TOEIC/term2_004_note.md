@@ -14,12 +14,12 @@ His explanation outlined the complicated procedure.
 I'm dedicated to helping the poor.  
 私は貧しい人を助けるのに専念している。
 
-> ### 前置詞`to`を使う同じイディオム
+> **前置詞`to`を使う同じイディオム**
 >
 > - be committed to
 > - be devoted to
 >
-> ### 不定詞`to`を使う同じイディオム
+> **不定詞`to`を使う同じイディオム**
 >
 > - be eager to
 
@@ -43,7 +43,7 @@ Your visit will delight them.
 I need to get the money refunded.  
 私はお金を払い戻してもらう必要がある。
 
-> ### `refund` vs `reimburse` vs `rebate`
+> **`refund` vs `reimburse` vs `rebate`**
 >
 > - refund 返品して受け取る返金
 > - reimburse 建て替えた費用の返金
@@ -73,21 +73,18 @@ The conducted a survey.
 I hope it will be sunny tomorrow.  
 明日が晴れだといいな
 
-> ### `hope 現在形` vs `hope 未来形`
+> **`hope 現在形` vs `hope 未来形`**
 >
-> #### hope 現在形
+> - hope 現在形  
+>   一瞬先の未来のことについて言える。
 >
-> 一瞬先の未来のことについて言える。
+>   > I hope you have a good time.  
+>   > 良い一日を。
 >
-> > I hope you have a good time.  
-> > 良い一日を。
->
-> #### hope 未来形
->
-> 未来のことについてのみ言える。
->
-> > I hope you will visit us again.  
-> > また遊びに来てくれると嬉しいです。
+> - hope 未来形  
+>   未来のことについてのみ言える。
+>   > I hope you will visit us again.  
+>   > また遊びに来てくれると嬉しいです。
 
 I have been involved in this project for 10 years.  
 私はこのプロジェクトに 10 年関わっている。
@@ -149,12 +146,12 @@ Unless otherwise instructed, you should obey the original regulation.
 I have been working for this company **since** 1998.  
 私は 1998 年**から**この会社で働いています。
 
-> ### `from`と`since`の違い
+> **`from`と`since`の違い**
 >
 > - from 「起点」のみを表現する。単純時制で用いられる。
 > - since 「起点から現在まで」を表現する。完了時制で用いられる。
 >
-> ### `since`と`for`の違い
+> **`since`と`for`の違い**
 >
 > - 開始時期と共に使う`since`  
 >   「～してから」の意味を持つ。
@@ -166,19 +163,17 @@ I have been working for this company **since** 1998.
 How long have you **known** each other?  
 お互いが**知り合って**からどの位経った？
 
-> ### 現在完了形と現在完了進行形
+> **現在完了形と現在完了進行形**
 >
-> #### 現在完了形
+> - 現在完了形  
+>   これまでも、そしてこれからも継続する可能性が高い場合に用いられる。  
+>   すぐに状態を変えられない**状態動詞**を用いる。  
+>   e.g. `live` / `known` / `believe`
 >
-> これまでも、そしてこれからも継続する可能性が高い場合に用いられる。  
-> すぐに状態を変えられない**状態動詞**を用いる。  
-> e.g. `live` / `known` / `believe`
->
-> #### 現在完了進行形
->
-> 今は動作しているが、止める可能性がある場合に用いられる。  
-> すぐに状態を変えられる**動作動詞**の『継続』を意味するときに用いる。  
-> e.g. `play` / `run` / `study`
+> - 現在完了進行形  
+>   今は動作しているが、止める可能性がある場合に用いられる。  
+>   すぐに状態を変えられる**動作動詞**の『継続』を意味するときに用いる。  
+>   e.g. `play` / `run` / `study`
 
 ---
 
@@ -223,25 +218,23 @@ Mr. Takeda has been practicing karate in this gym ~~from~~ since 1995.
 People ~~haven't known~~ didn't know about the maker until they received the advertisement in the envelope.  
 封筒に入っている広告を受け取るまで、人々はメーカーについて知らなかった。
 
-> ### `since`と`until`
+> **`since`と`until`**
 >
-> #### since「～してから（ずっと）」
+> - **since「～してから（ずっと）」**  
+>   「ずっと」の意味があるので現在形や未来形では使えない。  
+>   文法的に「今まで」の意味を持つ完了形でよく使われる。
 >
-> 「ずっと」の意味があるので現在形や未来形では使えない。  
-> 文法的に「今まで」の意味を持つ完了形でよく使われる。
+> - **until「～するまで」**  
+>   継続の終了地点を示す前置詞。終了を示すため「現在まで」を示す完了形と併用ない。  
+>   また、`until`の導出部は**副詞節**なので未来形は使えない。
 >
-> #### until「～するまで」
+>   > Wait here until I come back.  
+>   > 戻るまでここで待ってて！
 >
-> 継続の終了地点を示す前置詞。終了を示すため「現在まで」を示す完了形と併用ない。  
-> また、`until`の導出部は**副詞節**なので未来形は使えない。
-> > Wait here until I come back.  
-> > 戻るまでここで待ってて！
->
-> #### before「～までずっと」  
->
-> 完了形で終了地点を表現したいときに用いられる語。
-> > The train had already departed before I got to the station.  
-> > 私が駅に着く前に、電車はすでに発射していた。
+> - **before「～までずっと」**  
+>    完了形で終了地点を表現したいときに用いられる語。
+>   > The train had already departed before I got to the station.  
+>   > 私が駅に着く前に、電車はすでに発射していた。
 
 ---
 

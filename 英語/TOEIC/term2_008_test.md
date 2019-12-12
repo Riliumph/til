@@ -10,7 +10,7 @@ the least expensive option
 最も安価な選択肢
 
 a correspondent of The LA Times  
-LA Timesの特派員
+LA Times の特派員
 
 work until 6 PM  
 午後６時まで働く
@@ -39,28 +39,27 @@ A is to blame for the decrease in sales.
 <details>
 <summary>Blameの使い方</summary>
 
-> ## Blameの使い方
+> **Blame の使い方**
 >
-> ### 能動態
+> - 能動態  
+>   能動態 blame 人 for モノ  
+>   主語が目的語に for 以下の責任を負わせる使い方
 >
-> 能動態 blame 人 for モノ  
-> 主語が目的語にfor以下の責任を負わせる使い方  
-> > He blamed me for the accident.  
-> > 彼は事故を私のせいにした。  
+>   > He blamed me for the accident.  
+>   > 彼は事故を私のせいにした。
 >
-> ### 受動態
+> - 受動態
+>   主語が for 以下の責任を負わされる使い方
 >
-> 主語がfor以下の責任を負わされる使い方
->
-> ### to不定詞 be to blame for モノ
->
-> 主語が責任を負う人。
-> > Who is to blame for the delay?  
-> > 遅れたのは誰の責任か？  
+> - to 不定詞 be to blame for モノ  
+>    主語が責任を負う人。
+>   > Who is to blame for the delay?  
+>   > 遅れたのは誰の責任か？
 >
 > この`be to blame`は`be to be blamed`は同じ意味。  
 > 論理的には後者が正解だが、昔から慣用的に前者が使われてきた。  
 > この調文法的な`be to blamed`を使うとすごく勿体ぶった印象を与えてしまう。
+
 </details>
 
 the company directory  
@@ -94,7 +93,7 @@ another two weeks
 あと２週間
 
 fir underneath the PC  
-PCの下にフィットする
+PC の下にフィットする
 
 consistent clarity of focus  
 一貫した焦点の明瞭さ

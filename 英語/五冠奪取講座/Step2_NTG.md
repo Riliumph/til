@@ -5,11 +5,11 @@
 
 ## [1] Fill in the blank
 
-*Yuino* is the **betrothal** money given by the male to his **fiancée**.  
+_Yuino_ is the **betrothal** money given by the male to his **fiancée**.  
 結納は男性から婚約者に送られる婚約金です。  
 In some areas, it is **customary** that half of this gift is then **return**.  
 一部の地域では、この贈り物の半分が返品されることが慣習となっています。  
-However, more recent *yuino* ceremonies involve only the formal **presentation** of the engagement ring and the exchange of an engagement **oath** in the **presence** of the **go-between**(= **matchmaker**) and the couple's parents.  
+However, more recent _yuino_ ceremonies involve only the formal **presentation** of the engagement ring and the exchange of an engagement **oath** in the **presence** of the **go-between**(= **matchmaker**) and the couple's parents.  
 ただし、最近の結納式では、婚約指輪の正式な事前設定と、仲人（仲人）とカップルの両親の存在下での婚約誓約の交換のみが行われます。
 
 > involve 「関与する」を今回は「行う」と意訳
@@ -17,8 +17,8 @@ However, more recent *yuino* ceremonies involve only the formal **presentation**
 ## [2] Put the following words into English
 
 - 正座  
-sitting down with the buttocks resting on top of the ankles  
-お尻を足首の上に乗せて座っている
+  sitting down with the buttocks resting on top of the ankles  
+  お尻を足首の上に乗せて座っている
 
 - 実印  
   registered personal seal  
@@ -33,8 +33,8 @@ sitting down with the buttocks resting on top of the ankles
   災難の年
 
 - 喪中  
-in mourning  
-喪に服して
+  in mourning  
+  喪に服して
 
 - 焼香  
   offering incense  
@@ -46,9 +46,9 @@ in mourning
 
 - 餞別  
   farewell money gift  
-  お別れの贈り物  
-  > farewellの作り  
-  > fare: goの意味。
+  お別れの贈り物
+  > farewell の作り  
+  > fare: go の意味。
   > well: 上手くいきますように
 
 ## [3] Write down in Japanese the city name for each of the explanations

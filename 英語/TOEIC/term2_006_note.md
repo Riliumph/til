@@ -1,6 +1,8 @@
-# TOEIC L&R 1000 問
+# 呪医業ノート
 
-## 前置詞問題 50 問
+## TOEIC L&R 1000 問
+
+### 前置詞問題 50 問
 
 Just six months **into** a career with Cooper Advertising, Mr.Harlan was offered the branch manager position.  
 Cooper Advertising 社に**勤務して**わずか６カ月で、HArlan さんは支社長の職をオファーされた。
@@ -189,7 +191,7 @@ Harrison さんは、コミュニティセンターが完成したら、残っ�
 
 ---
 
-## 関係詞問題 10 問
+### 関係詞問題 10 問
 
 GeoTex Software created a series of video games **whose** feature a cute fox and a delightful baby bird.  
 GeoTex Software 社は可愛らしいキツネと可愛らしい小鳥を特徴とする一連のビデオゲームを製作した。

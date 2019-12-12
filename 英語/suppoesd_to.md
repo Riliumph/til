@@ -8,8 +8,6 @@
 
 ルールや決め事によって「本当は～をするはず」を表す。
 
-### 使い方
-
 - You are <font color=royalblue>supposed to</font> wear a suit to the event.  
   イベントにはスーツを着ないといけないはずです
 - We are <font color=royalblue>supposed to</font> get 20 days of paid vacation a year.  
@@ -25,8 +23,6 @@
   過去形を使うときのみ「～するはずだったのびしなかった」を意味する。  
   よく「but」を付けてフォローする文をつける
 
-### 使い方
-
 - It’s supposed to rain tomorrow.  
   明日は雨が降るらしい
 - I thought cats were supposed to be independent.  
@@ -38,8 +34,6 @@
 
 一般的な情報に基づいて「～らしい」を意味したり  
 習慣や慣習に基づいて「本来～するものである」を意味する。
-
-### 使い方
 
 - This book is supposed to be life-changing.  
   人生を変えるような本らしいですよ

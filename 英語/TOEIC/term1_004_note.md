@@ -1,4 +1,6 @@
-# 代名詞
+# 授業ノート
+
+## 代名詞
 
 I have my driver's license **with me**.  
 **今**、免許証を持っている。
@@ -9,7 +11,7 @@ I have my driver's license **with me**.
 Those ~~who are~~ wicking to help us are always welcome.  
 私達を手伝ってくれる人は、いつでも歓迎です。
 
-## it と one
+### it と one
 
 I lost my pen. I must find **it**.  
 私はペンを失くしたので、（失くした）**ペン**を見つけないといけない。
@@ -17,7 +19,7 @@ I lost my pen. I must find **it**.
 I lost my pen. I must by **one**.  
 私はペンを失くしたので、（別の）**ペン**を買わないといけない。
 
-## 単数形と複数形
+### 単数形と複数形
 
 Japanese population is larger than that of your country.  
 日本の人口は、あなたの国よりも大きい。
@@ -28,7 +30,7 @@ Our houses are much older than those of your city.
 One of the members is able to participate in the event.  
 Some of the members are able to participate in the event.
 
-## 再帰代名詞による強調
+### 再帰代名詞による強調
 
 再帰代名詞は「～自身」の意味で訳される。  
 主語の強調に使われる oneself。
@@ -47,9 +49,9 @@ They **showed themselves** to deserve the praise.
 
 > show oneself A / Ａであることを示す
 
-## 再帰代名詞による慣用表現
+### 再帰代名詞による慣用表現
 
-### by oneself
+#### by oneself
 
 「独りで」、「独力で」という意味合いになる。  
 by がなくても「”彼”がやった」と強調はされるが、さらに強める時に使われる。
@@ -61,7 +63,7 @@ He did it by himself.
 > He did it on his own  
 > 彼一人でそれをした
 
-### for oneself
+#### for oneself
 
 この場合にも、by oneself と同じ「独りで」「独力で」という意味がある。  
 しかし、「～自身のために」という意味も存在する。
@@ -69,7 +71,7 @@ He did it by himself.
 He did it for himself.  
 彼は自身のためにそれをした。
 
-## 分詞構文
+### 分詞構文
 
 **Given the situation**, he deserves the praise.  
 **状況を考えると**、彼は称賛に値する。

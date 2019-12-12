@@ -14,7 +14,7 @@
 Dark colors were used **intentionally**.  
 暗い色が故意に使われた
 
-> ## `intentionally` = `deliberately` = `on purpose`
+> **`intentionally` = `deliberately` = `on purpose`**
 >
 > - `intentionally`  
 >   一番フォーマルで、子供はあまり使わない。  

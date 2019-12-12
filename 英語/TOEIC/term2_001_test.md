@@ -24,7 +24,7 @@ for the passengers' comfort
 enthusiastically endorse  
 熱心に支持する
 
-> ## Synonyms
+> **Synonyms**
 >
 > - `passionately`
 > - `energetically`
@@ -53,7 +53,7 @@ in terms of ease of use
 brief survey  
 簡単なアンケート
 
-> ## アンケート
+> **アンケート**
 >
 > - inquiry
 > - questionnaire
