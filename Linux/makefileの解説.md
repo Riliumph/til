@@ -1,6 +1,6 @@
 # makefile 解説
 
-Linux kernel の makefike は C/C++と若干違うみたい。
+Linux kernel の makefile は C/C++と若干違うみたい。
 
 ## サンプル実装
 
