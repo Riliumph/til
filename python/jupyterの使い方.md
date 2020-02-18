@@ -119,6 +119,8 @@ c.NotebookApp.ip = '*'
 c.NotebookApp.notebook_dir = '/home/username/xxxxx'
 ```
 
+> Macの場合は`/Users/username/xxxxx`なので注意
+
 ### ブラウザの自動起動
 
 jupyter は起動時にブラウザを自動起動するように設定されている。  
