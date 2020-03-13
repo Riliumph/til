@@ -24,3 +24,21 @@ $ brew link macvim
 ```
 
 macvim 以外にもシンボリックリンクをいくらか作成するようなので、手作業でやらないように。
+
+## Teminal
+
+### Home/End Key
+
+iMacにおけるHome/Endキーは`Command + ←→`である。  
+MacbookにおけるHome/Endキーは`Fn + ←→`である。  
+
+Terminal.appにおいて、このキーはカーソルの移動ではなくscroll bufferに割り当てられている。
+
+Actionをsend string to shellに変更し、stringを以下に変更する。
+
+|キー|キーコード|
+|:--:|:--:|
+|↖(Home)|\033[F|
+|↘(End)|\033[H|
+
+> `\`の入力とかがウザすぎるのでコピペ推奨
