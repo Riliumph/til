@@ -1062,3 +1062,10 @@ Identity mappingと呼ばれる。
 
 IBM製のチェスAI。  
 ほぼ力任せの検索（ブルートフォース）だったが、それでも人間に打ち勝つ。  
+
+
+
+MDL WAIC IB BIC CIC DIC EIC
+ステップワイズ法
+
+
