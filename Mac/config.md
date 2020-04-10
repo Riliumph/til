@@ -25,7 +25,7 @@ $ brew link macvim
 
 macvim 以外にもシンボリックリンクをいくらか作成するようなので、手作業でやらないように。
 
-## Teminal
+## Terminal
 
 ### Home/End Key
 
@@ -36,9 +36,32 @@ Terminal.appにおいて、このキーはカーソルの移動ではなくscrol
 
 Actionをsend string to shellに変更し、stringを以下に変更する。
 
-|キー|キーコード|
-|:--:|:--:|
-|↖(Home)|\033[F|
-|↘(End)|\033[H|
+|    キー   |   キーコード  |
+| :-----: | :------: |
+| ↖(Home) | \\033\[F |
+|  ↘(End) | \\033\[H |
 
 > `\`の入力とかがウザすぎるのでコピペ推奨
+
+## powerline Fontの導入
+
+フォントコマンドの導入
+
+```bash
+brew install fontconfig
+```
+
+フォントマネージャーの導入
+
+> brew-cask-fontsを導入
+
+```bash
+brew tap homebrew/cask-fonts
+brew search powerline
+```
+
+フォントキャッシュの再構築
+
+```bash
+fc-cache -vf
+```
