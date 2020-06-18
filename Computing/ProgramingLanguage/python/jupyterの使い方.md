@@ -58,7 +58,7 @@ jupyter への認証方法は下記の２つが用意されています。
 下記のコマンドを用いて jupyter の設定を生成する。
 
 ```bash
-$ jupyter notebook --generate-config
+jupyter notebook --generate-config
 ```
 
 ### token を指定する場合
@@ -108,7 +108,7 @@ IP アドレスの設定をすることでアクセス制限を設けること�
 c.NotebookApp.ip = '*'
 ```
 
-※jupyter notebook 5.0.0 のデフォルトでは、localhost が設定されているため jupyter のホストしかアクセスできない。
+> jupyter notebook 5.0.0 のデフォルトでは、`localhost`が設定されているため jupyter のホストしかアクセスできない。
 
 ### ディレクトリ指定
 
@@ -133,14 +133,14 @@ c.NotebookApp.open_browser = False
 ## jupyter notebook の自動起動
 
 Docker などで環境を構築したなどの場合、Docker を立ち上げたときに自動的に立ち上がってほしいことがある。  
-今回もサーバーを立ち上げたときに自動的に jupyter notebook が起動されるようにする設定をする。
+今回もサーバーを立ち上げたときに自動的に`jupyter notebook`が起動されるようにする設定をする。
 
 ### init/Upstart の人
 
 起動時にそういう設定をするのは、下記のシステムファイルを変更する。
 
 ```bash
-$ sudo -E vim /etc/rc.local
+sudo -E vim /etc/rc.local
 ```
 
 ```bash rc.local
