@@ -1,5 +1,9 @@
 # Unit3: Bringing Up baby
 
+> `bring up` : 育てる  
+> `grow up` : 育つ  
+> `grow`は単体でも「育つ」の意味を持つが、`up`が付くことで強調させることができる。
+
 ## Step1
 
 Ministry of Health, Labor and Welfare Survey Find Drop in Parental Leave.  
@@ -11,8 +15,12 @@ Fewer Japanese parents are taking parental leave, according to a survey by the M
 The number of mother taking maternity leave fell by four points last year, to 83 percent.  
 産休を取得している母親の数は昨年4ポイント減少し、83％になりました。
 
+> `maternity leave`「母方の育児休暇」
+
 Fewer than two percent of father took paternity leave, a drop of one point from two years ago.  
 父親の2％未満が育児休業を取得しました。これは2年前から1ポイントの減少です。
+
+> `paternity leave`「父方の育児休暇」
 
 Parents in Japan can have a year off after  child is born.  
 日本の両親は、子供が生まれてから1年間の休暇を取ることができます。
@@ -29,6 +37,8 @@ A new law also requires companies to reduce the working hours of parents until t
 I the survey, only 58 percent of companies are complying so far.  
 調査によると、これまでに遵守している企業は58％にすぎません。
 
+> `comply with the law` = `follow the law`「法を遵守する」
+
 The ministry will conduct a campaign to remind companies about the change.  
 厚生労働省は、企業にこの変化を思い出させるためのキャンペーンを実施する。
 
@@ -40,9 +50,11 @@ Hello and welcome to today's employee orientation session.
 Today I'm going to talk about how our company supports working mothers.  
 今日は、私たちの会社が働く母親をどのようにサポートしているかについてお話します。
 
-As Japan's leading manufacturer of beauty products, we feel we have a responsibility to set a good example.
-  
+As Japan's leading manufacturer of beauty products, we feel we have a responsibility to set a good example.  
 日本を代表する美容製品メーカーとして、模範を示す責任があると感じています。
+
+> `leading company`「大企業」  
+> 「先導する」ことから大企業であることを連想できること
 
 With a workforce of more than 80 percent women, our company is doing everything it can to support female workers and lead the way for companies everywhere.  
 私たちの会社は、80％を超える女性の労働力を擁し、女性労働者をサポートし、あらゆる場所の企業の道をリードするためにできる限りのことをしています。
@@ -73,6 +85,9 @@ Our company also has great management opportunities for women, including mothers
 
 I can personally testify to this.  
 私はこれについて個人的に証言することができます。
+
+> `testify`「trueを示すこと」  
+> `testofy`-`testimony`
 
 I'm a working mother of two.  
 私は働く二児の母親です。

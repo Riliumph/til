@@ -185,3 +185,5 @@ It take + 人 + 時間 + to 不定詞「＜人＞はto不定詞することに�
 
 Nancy complained about Tom's watching TV all the time.  
 NancyはTomがいつもTV見ていることに不満だ
+
+`about`の後ろは名詞が来る
