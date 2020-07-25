@@ -87,7 +87,7 @@ I can personally testify to this.
 私はこれについて個人的に証言することができます。
 
 > `testify`「trueを示すこと」  
-> `testofy`-`testimony`
+> `testimony`「証言」
 
 I'm a working mother of two.  
 私は働く二児の母親です。
