@@ -13,7 +13,7 @@ Truth be told, I never graduated from college, and uh... this is the closest I'v
 実を言うと、私は大学を卒業していません。だから、これが私が大学の卒業式に行くのに最も近い経験です。
 
 > `Truth be told` = `To tell the truth`  
-> `the closest A`は、「A」の部分がなかったので以下の２文に分解し、関係代名詞でつながっていると解釈
+> `the closest A`は、「A」の部分がなかったので以下の２文に分解し、関係代名詞でつながっていると解釈  
 >
 > - This is the closest *experience*.
 > - The experience is I've ever gotten to a college graduation.
