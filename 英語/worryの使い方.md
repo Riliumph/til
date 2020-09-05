@@ -21,4 +21,5 @@ get が状態遷移の動詞なので、「心配する（状態）になって�
 ## 違い
 
 I was worried.「心配したよ」  
-I was getting worried there for a sec.「心配したぞ」※Biohazard RE:2
+I was getting worried there for a sec.「心配したぞ」
+> ※Biohazard RE:2

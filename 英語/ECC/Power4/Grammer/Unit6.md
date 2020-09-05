@@ -115,12 +115,31 @@ Mr. Tanaka is one of the members who strived to improve the local economy.
 This is the project which we are going to carry out.  
 これが、私たちが実行ししようとしているプロジェクトだ
 
-> `carry out`「実行する、実施する」
+> `carry out`「実行する、実施する」 = `conduct`  
+> この`out`は前置詞(president)
 
 ---
 
-The temple is well known for old Buddhist sculptures, some of which are designated national treasures.  
+I attended the party, `where` I saw my favorite actor.  
+私はパーティに出席して、大好きな俳優に出会った。
+
+`, which`を慣習的に覚えてしまうと`, where`が出て来ない。  
+
+> 関係副詞`where`を関係代名詞`which`で書き換えると以下の文になる。  
+> I attended the party, at which I saw my favorite actor.  
+
+---
+
+The temple is well known for old Buddhist sculptures, some of __which are__ designated national treasures.  
 その寺院は仏教の彫刻でよく知られている。それらの内に国宝に指定された物もある。
+
+- them is
+- them are この選択肢は文体が「SVC, SV」になってしまい、接続詞が必要になるため誤り
+- which are 関係代名詞は文と文を繋ぐ意味を持つため、接続詞は必要ない。
+- which is
+
+また、今回は物だったため`which`が用いられたが、人の場合は**必ず**`whom`が用いられる。  
+この場合は主格の時のように`who`で代用はできない。
 
 > `be well known for`「よく知られる」  
 > `designate`「指定する」  
@@ -134,16 +153,29 @@ What seems pretty easy in the beginning sometimes turns out to be difficult late
 
 一人暮らしの老人が本当に必要としてるものは心のケアである。
 
+What elderly people who is living by themselves really need is mental health care/support.
+
 The aged man who is living by themselves need to care their mind.
+
+care one's mindは違和感しかないようだ
 
 ---
 
 誰もが金メダルを獲得すると思っていたMike Johnsonは第四位に終わった。
 
+Mike Johnson who expected to win the gold medal ended up in the 4th place.
+
 Mike Johnson who everyone thinks obtains the gold medal ended in the 4th.
+
+金メダルは「勝ち取る」物であるため`win`や`get`が好ましい。  
+`obtain`は「授かる」の意味になるため、競争するイメージが少ない。  
+
+`end in`よりも`end up in`の方が、「結局」という残念感の印象を与えられる。
 
 ---
 
 意味のわからない単語を1つ1つ辞書で調べるのではなく、内容から意味を推測すべきである。
 
 You don't investigate each word whose meaning you don't know, but you should guess the meaning from the context.
+
+`investigate`
