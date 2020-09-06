@@ -8,7 +8,7 @@ The location of the United Arab Emirates in the burning desert makes it a diffic
 The big cities like Abu Dhabi and Dubai have spectacular modern skylines of air-conditioned skyscrapers.  
 アブダビやドバイといった大都市には、エアコン完備の超高層ビルが並ぶ壮観な近代的なスカイラインがある。
 
-> spectacular ... 壮観な、華々しい
+> `pectacular`「壮観な、華々しい」
 
 The oil-rich state uses massive desalination plants to turn seawater into drinking water.
 石油に富む州では、大規模な脱塩プラントを使用して海水を飲料水に変えている。
@@ -18,7 +18,7 @@ The oil-rich state uses massive desalination plants to turn seawater into drinki
 All of this requires an enormous amount of energy which currently comes from burning oil.  
 これにはすべて、現在石油に由来する膨大な量のエネルギーが必要である。
 
-> enormous ... とても
+> `enormous`「とても」
 
 The problem is, the oil that currently fuels both the UAE's economy and its cities will run out in around 40 years.  
 問題は、UAEの経済と都市の両方に現在燃料を供給している石油が約40年でなくなることだ。
@@ -29,7 +29,7 @@ People who live in the UAE will have to cut their power consumption dramatically
 The solution that they have come up with is to build the first zero-carbon city in the world.  
 彼らが思いついた解決策は、世界で最初のゼロカーボン都市を建設することです。
 
-> come up with ... 思いつく
+> `come up with`「思いつく」
 
 The city of Masdar, which is located 17 km from downtown Abu Dhabi, the capital of UAE, will have no cars or high-rise buildings, and will be powered by solar energy.  
 アラブ首長国連邦の首都、アブダビの田舎から17kmに位置するマスダール市には、車や高層ビルがなく、太陽光エネルギーで電力が供給される。
@@ -63,7 +63,7 @@ The streets are narrow so that roofs and buildings shade each other.
 Wind towers keep a breeze blowing pleasantly throughout the day.  
 風の塔は一日中心地よく吹く風を保つ。
 
-> pleasantly ... 楽しく、愉快に、心地よく
+> `pleasantly`「楽しく、愉快に、心地よく」
 
 To keep buildings cool, the architects are experimenting with vacuum walls. which keep the heat out and the cool in.  
 建物を涼しく保つために、建築家は真空壁を実験している。熱を遮断し、涼しくする。
@@ -123,7 +123,7 @@ The oil-rich state uses __massive__ desalination plants to turn seawater into dr
 
 ---
 
-The university will be solely dedicated to renewable technology research and development.  
+The university will be __solely__ dedicated to renewable technology research and development.  
 
 - highly
 - partially
@@ -156,7 +156,7 @@ Fuji fuilm introduce mega solar system in China.
 KDDI recycle 99.8% material of cell phone.  
 It is too difficult for me to do by Bridgestone.  
 
-> Corporate Social Responsibility
+> `Corporate Social Responsibility`
 
 I think any company doesn't want to care environment problem.  
 CSR has been used as marketing value.  
