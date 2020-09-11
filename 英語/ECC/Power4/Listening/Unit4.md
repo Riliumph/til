@@ -206,3 +206,17 @@ These kinds of inventions will benefit cities everywhere in the future.
 - migration...単に移動すること
 - immigration...中に入ること
 - emigration...外に出ること
+
+## Step5 Digest
+
+Fujisawa Sustainable Smart Town is a new project in the Japanese city of Fujisawa, about 50km west of Tokyo.
+
+A group of nine companies, including Panasonic, is working together with a budget of 60 billion yen to create a model green ciy for the future.
+
+The 1,000 homes in Smart Town will cut average carbon dioxide emissions by 70%.
+
+Other standard features include energy-saving hot-water systems and air conditioners, and sensor-controlled lighting.
+
+The companies involved include architects, real estate developers, construction firms, and banks.
+
+All see Smart Town as an opportunity to test out sustainable urban design technologies before marketing them worldwide.
