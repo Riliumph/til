@@ -54,7 +54,7 @@ go into に概念的に似ている表現です。
 2. We will go over the data when we meet tomorrow.  
    明日会ったときにそのデータについて確認しましょう。
 
-# 共通する意味
+## 共通する意味
 
 go (into / through / over)に共通する意味は「**よく**調べる」。
 
@@ -65,7 +65,7 @@ go (into / through / over)に共通する意味は「**よく**調べる」。
 - go over
   上から見下ろして調べる
 
-## 使い方
+### 使い方
 
 - Thank you for <font color=royalblue>going into/through/over</font> the data. Because it provided better solution to our problem.  
   そのデータを詳細に<font color=royalblue>調べて</font>くれてありがとうございます。お陰様で我々の問題に対する解決策が分かりました。

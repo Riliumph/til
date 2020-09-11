@@ -39,7 +39,7 @@ A を B に変える
 across / throughout the country  
 国中に
 
-With the sales on the buttom, S + V  
+With the sales on the bottom, S + V  
 売上がどん底の状態で
 
 **on** time  

@@ -1,174 +1,172 @@
-# A Zero-carbon Oasis
+# How to Buy Happiness
 
-The location of the United Arab Emirates in the burning desert makes it a difficult place to establish any kind of city, let alone a sustainable one.  
-燃えるような砂漠にあるアラブ首長国連邦は、持続可能な都市は当然ながら、あらゆる種類の都市を確立することは難しい。
+Professors Elizabeth Dunn and Michael Norton are interested in happiness.  
+エリザベス・ダン博士とミハエル・ノートン博士は幸せに興味がある。
 
-> make it a difficult place... it = to establish A
+Specifically, they study how the choices we make with our money affect our happiness.  
+特に、彼らは私たちがお金で生み出した選択が、我々の幸せにどのように影響するのかを研究している。
 
-The big cities like Abu Dhabi and Dubai have spectacular modern skylines of air-conditioned skyscrapers.  
-アブダビやドバイといった大都市には、エアコン完備の超高層ビルが並ぶ壮観な近代的なスカイラインがある。
+> `make with A`「Aで生み出す」
 
-> `pectacular`「壮観な、華々しい」
+She is a psychologist at the University of British Columbia, and he teaches marketing at Harvard Business School.  
+彼女は英コロンブス大学の心理学者で、彼はハーバード大学で経済を教えている。
 
-The oil-rich state uses massive desalination plants to turn seawater into drinking water.
-石油に富む州では、大規模な脱塩プラントを使用して海水を飲料水に変えている。
+They have used behavioral research to figure out the most rewarding ways to spend money, and published a book called _Happy money: The Science of Smarter Spending_.  
+× 彼らはもっとも価値あるお金の使い道を見つけ出すために行動研究を使い、さらにHappy moneyという本を出版した。  
+○ 彼らは行動研究を使ってお金を使う最もやりがいのある方法を見つけ、Happy moneyという本を出版しました。
 
-> turn A into B ... AをBに変換する
+> `figure out`「見つけ出す」  
+> `to figure out A`のto不定詞句は`and`の意味で訳した方が自然。  
 
-All of this requires an enormous amount of energy which currently comes from burning oil.  
-これにはすべて、現在石油に由来する膨大な量のエネルギーが必要である。
+The results of their research were unexpected.  
+彼らの研究は意外な結果だった。
 
-> `enormous`「とても」
+Most people dream of being rich, and those dreams tend to involve expensive status symbols like trophy homes and luxury cars.  
+多くの人々はお金持ちになる夢を持ち、それらの夢は大きい家や高級車といった高価なステータスに関与する傾向にある。
 
-The problem is, the oil that currently fuels both the UAE's economy and its cities will run out in around 40 years.  
-問題は、UAEの経済と都市の両方に現在燃料を供給している石油が約40年でなくなることだ。
+> `dream of/about A`「Aのことを夢見る」  
+> 他動詞`dream`は後ろに名詞を取る
 
-People who live in the UAE will have to cut their power consumption dramatically when that time comes.  
-アラブ首長国連邦に住んでいる人々は、その時が来たら電力消費を劇的に削減しなければならない
+But these types of purchases do not fulfill us in the long term.  
+だが、これらの種類の買い物は、長期間我々を満足させない
 
-The solution that they have come up with is to build the first zero-carbon city in the world.  
-彼らが思いついた解決策は、世界で最初のゼロカーボン都市を建設することです。
+We get used to living in a big house quickly, and it stops being a source of happiness.  
+私たちは急速に大きな家に住むことに慣れてしまうし、それは幸せの源泉にならない。
 
-> `come up with`「思いつく」
+> `get used to V-ing`「Vすることに慣れる」  
+> `be used to V-ing`は慣れている状態を表現するが、`get`の場合は慣れる動作を表現する。
 
-The city of Masdar, which is located 17 km from downtown Abu Dhabi, the capital of UAE, will have no cars or high-rise buildings, and will be powered by solar energy.  
-アラブ首長国連邦の首都、アブダビの田舎から17kmに位置するマスダール市には、車や高層ビルがなく、太陽光エネルギーで電力が供給される。
+The research also discovered that an expensive car does not leave its owner feeling more satisfied than a cheap one, because commuting is still boring and stressful.  
+その調査はまた、高級車は安いモノよりも所有者の気持ちをより満たした状態にしておかないことを発見した。なぜなら、通勤が退屈でストレスだからだ。  
+その調査はまた、高級車は安いモノよりも所有者の満足感を残さないことを発見した。
 
-The project is being funded by the ruler of Abu Dhabi, Sheik Khalifa bin Zayed Al Nahyan.  
-このプロジェクトは、アブダビの統治者であるシェイク・カリファ・ビン・ザイード・アル・ナヒアンによって資金提供されています。
+> `leave O C`「OをCの状態にしておく」  
+> `its owner feeling`が目的語で`satisfied`が修飾語。  
+> 「所有者の気持ちを満たした状態」＝「満足感」と訳すとスマート
 
-He has hired an international team of engineers who are designing the next generation of renewable energy technology.  
-彼は次世代の再生可能エネルギー技術を設計している国際的なエンジニアのチームを雇った。
+According to Dunn and Norton, there are two ways we can use our money to buy more happiness.  
+DunnとNortonによると、より幸せを買うためにお金を使う方法は２つある。
 
-The final price tag is expected to be between $15 billion and $30 billion.  
-最終的な値札は、150億ドルから300億ドルの間になると予想されている。
+The first is to spend money on experience rather than possessions.  
+一つ目は、所持よりも経験にお金を費やすことです。
 
-Once completed, the city will house 50,000 people, a university, and 1,000 businesses.  
-ひとたび完成すると、市内には5万人、大学、1,000の企業が住むようになる。
+> `possession`「所持」  
+> `spend A on B`「AをBに費やす」
 
-The university will be solely dedicated to renewable technology research and development.  
-大学は再生可能技術の研究開発に専念する予定だ。
+If, for example, you buy a new TV instead of a vacation to Europe, you are failing to consider that the TV is something you will soon take for granted.  
+たとえば、もし、あなたがヨーロッパへの休暇の代わりに新しいTVを買うとするなら、そのTVはすぐに当たり前になるということを考えられていない。
 
-> be dedicated to 名詞 ... 名詞に専念する
+> `take for granted`「当たり前のことと思う」  
+> `fail to V`「Vすることに失敗する、Vできない」  
+> ※ 対義語は`succeed in`なので注意。
 
-As a result, the country hopes to start exporting sustainable energy technology instead of oil.  
-結果として、国は石油の代わりに持続可能なエネルギー技術の輸出を開始することを望んでいる。
+After that, it will no longer be a source of happiness.  
+その後、それはもはや幸せの源泉にはならないだろう
 
-Because air conditioners use too much energy, Masdar's designers are finding new way to keep the city cool.  
-エアコンはエネルギーを使いすぎるため、マスダールのデザイナーは街を涼しく保つ新しい方法を模索している。
+In fact, if you watch more TV, you will regret wasting your time.  
+事実、もしもっとTVが見たいなら、あなたは時間を無駄にしていることを後悔するだろう
 
-The streets are narrow so that roofs and buildings shade each other.  
-通りは狭いので、屋根と建物は互いに日陰になる。
+However, you will always remember the day when you saw the sunset over the ruins of ancient Rome, or the cafe where you sat by the River Seine in Paris.  
+だが、あなたが古代ローマ遺跡から見た日の出
 
-Wind towers keep a breeze blowing pleasantly throughout the day.  
-風の塔は一日中心地よく吹く風を保つ。
+> `sunset`「日没」<--> `sunrise`「日の出」
 
-> `pleasantly`「楽しく、愉快に、心地よく」
+You will cherish these memories forever.  
+あなたは永遠にこの記憶を大切にするだろう
 
-To keep buildings cool, the architects are experimenting with vacuum walls. which keep the heat out and the cool in.  
-建物を涼しく保つために、建築家は真空壁を実験している。熱を遮断し、涼しくする。
+> `cherish`「大切にする」
 
-The ratio of windows to walls is also reduced to give enough light but stop the sun from heating up interiors.  
-壁に対する窓の比率を減らすことで、十分な光を得にくくなるが、太陽が内部を暖めるのを防ぐ。
+Another reason why experiences make us happier than objects is because they often involve a social dimension.  
+経験は物よりも私たちを幸せにするもう一つの理由は、社会的な側面を伴うことが多いためです。
 
-In order to power the city, the designers wanted to use the desert heat to their advantage, so they built the largest solar-power plant in the Middle East.  
-都市に電力を供給するために、設計者は砂漠の熱を利用して、中東で最大の太陽光発電所を建設したいと考えた。
+> `involve`「伴う、含む」  
+> 「含む」だけだとこういう場合に訳しにくい
 
-The narrow streets encourage walking, but if you are in a hurry, a fleet of small solar-powered podcars is available.  
-狭い通りは歩きを奨励しますが、急いでいる場合は、小型の太陽光発電ポッドカーの一団を利用できる。
+A ski trip you take with your family or a movie you see with a friend will leave you feeling closer together afterward.  
+家族と行ったスキー旅行や友達と見た映画は後になっても親密な気持ちを残すことだろう。
 
-The podcars will be driverless and guided by magnetic sensors.  
-ポッドカーは無人で、磁気センサーによって誘導される。
+The second finding of Dunn and Norton's research was that we don't give enough of our money away.  
+DunnとNortonの研究が見つけた二つ目は、私たちは十分なお金をもらっていないということだった
 
-They are programmed to go where you ask.  
-それらはあなたが求めるところに行くようにプログラムされている。
+If you buy someone a present or donate to charity, it is often more enjoyable than spending money on yourself.  
+もし、あなたが誰かにプレゼントを買ったたり、チャリティに寄付したりすると、それはあなた自身にお金を費やす以上に楽しいことが多い。
 
-With no ordinary cars, the air quality will be better than any other city in the world.  
-普通の車がないので、空気の質は世界の他のどの都市よりも良くなる。
+Buying dinner for a friend will give you the lasting pleasure of a generous act.  
+友達に晩ご飯を奢ることは、あなたに気前のいい行いの永続的な喜びをあなたに与えるだろう
 
-The goal of Masdar is to showcase as many zero-carbon technologies as possible.  
-マスダールの目標は、可能な限り多くのゼロカーボン技術を紹介することです。
+> `generous`「寛大な、気前のいい」
 
-These technologies will hopefully allow many more cities to live sustainably in the future.  
-これらのテクノロジーにより、今後さらに多くの都市が持続可能な形で生活できるようになることを願っている。
+As with spending on experience, giving to others will also deepen your social connections and increase the likelihood of long-term happiness.  
+経験への支出と同様に、他の人に与えることもあなたの社会的つながりを深め、長期的な幸福の可能性を高めます。
 
-## Vocabulary Questions
+A study of this kind is clearly directed toward people who have enough money to make these kinds of choices in the first place.  
+この種の研究は明らかに、そもそもこの種の選択をするのに十分なお金を持っている人々に向けられています。
 
-The location of the United Arab Emirates in the burning desert makes it a difficult place to establish any kind of city, __let alone__ a sustainable one.  
+But even a modest salary can buy you happiness if you spend it on experiences you will remember and the people you care about.  
+しかし、控えめな給与でも、覚えている経験や気になる人にそれを費やせば、幸せを買うことができます。
 
-- if only もしも
-- ○ not to mention 言うまでもなく
-- last of all 最後に
-- at least 少なくとも
+> `modest`「控えめな、奥ゆかしい」
 
-> let alone ... 言うまでもなく
+## Vocabulary Question
 
----
+Most people dream of being rich, and those dreams tend to involve expensive _status symbols_.  
 
-The big cities like Abu Dhabi and Dubai have spectacular modern __skylines__ of air-conditioned skyscrapers.  
-
-- airline services 航空サービス
-- view of the ocean 海の景色
-- engineering technology エンジニアリング技術
-- ○ rows of tall buildings 高層ビル群
-
----
-
-The oil-rich state uses __massive__ desalination plants to turn seawater into drinking water.
-
-- ○ enormous 膨大な
-- tiny 微量な
-- advanced 上級の
-- economical 経済的な
+- displays of excess
+- designer labels
+- celebrations
+- ○ signs of success
 
 ---
 
-The university will be __solely__ dedicated to renewable technology research and development.  
+The TV is something you will soon _take for granted_.  
+そのTVはすぐに当たり前の物になる
 
-- highly
-- partially
-- theoretically
-- ○ completely
+- become dependent upon「依存するようになる」
+- get bored with「飽きる」
+- replace with something else「別のものに置き換わる」
+- cease to regard as special「特別な物と見なすのを止める」  
+  > `ceaseless`/`incessant`「絶え間ない」  
+  > ※ 違いは……無いんじゃない？
 
 ---
 
-The goal of Masdar is to __showcase__ as many zero-carbon technologies as possible.  
+You will _cherish_ these memories forever.  
 
-- export
-- ○ exhibit
-- test
-- create
+- neglect「軽視する、無視する」
+- treasure「大切にする」
+- discuss「議論する」
+- magnify「拡大する」
+
+---
+
+Another reason why experiences make us happier than objects is because they often involve a social dimension.  
+
+- element「要素」
+- encounter「出会い」
+- introduction「導入」
+- occasion「機会」
+
+---
+
+Giving to others will also deepen your social connections and increase the _likelihood_ of long-term happiness.  
+他の人に与えることもあなたの社会的つながりを深め、長期的な幸福の可能性を高めます。
+
+- length「長さ」
+- possibility「可能性」
+- enjoyment「楽しみ」
+- extent「広さ」
 
 ## Discussion
 
-- What do you think about Masdar as a model to replace existing cities?
+1. Are you investing enough of your income in experience, or are you more focused on possessions?  
+  経験に収入の十分な額を投資しているか？または所持することに集中しているか？
 
-I think the ideal of a zero carbon city is wonderful.  
-I agree with that ideal, but I think the problem is the way.  
-The topic this time was about hot cities, but the premise changes in cold cities.  
-I agree with the ideal of a zero-carbon city, but I cannot easily agree with it because of many sacrifices.  
+I can't say either.  
+I don't have extra space in my house.  
+So, basically I buy
 
-- What are some green technologies that you use in your life?
-- Which Japanese companies are leading the way with environmental responsibility?
+2. If you could choose between a luxury car and a trip around the world of the same monetary value, which would you choose?  
+  高級車と同じ金額の世界一周旅行のどちらを選択できるとしたら、どちらを選びますか？
 
-In 2017, Japanese company which lead a green CSR are Fuji fuilm holdings, Bridgestone, KDDI.  
-Fuji fuilm introduce mega solar system in China.  
-KDDI recycle 99.8% material of cell phone.  
-It is too difficult for me to do by Bridgestone.  
-
-> `Corporate Social Responsibility`
-
-I think any company doesn't want to care environment problem.  
-CSR has been used as marketing value.  
-It sounds good if company says "We have an environment problem widget".  
-Doing so will become future marketing.  
-
-- Would you be willing to live without a car or air conditioning to protect the environment?
-- Is it possible to go green without reducing our level of comfort?
-
-NO WAY!!
-
-My house air conditioner has been broken for a week.  
-It is going to be repaired in a few days.  
-I can't count the number of times this week I thought I might die in the heat.  
-If I protect the environment and die, I will destroy the environment and live.  
+3. What new experiences are you planning in the near future?What are you looking forward to doing most over the next year?  
+  近い将来、どのような新しい経験を計画していますか？来年、最もやりたいことは何ですか？

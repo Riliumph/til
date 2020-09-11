@@ -1,9 +1,9 @@
 # 授業ノート
 
-`in the distance / （漠然と）遠くの方に`
+`in the distance`「（漠然と）遠くの方に」
 
 > 対の句  
-> `in the neighborhood /近くに`
+> `in the neighborhood`「近くに」
 
 **at** the distance  
 近く**に**
@@ -19,7 +19,7 @@ address の意味
 3. 話しかける(= talk to)
 4. 問題に取り組む
 
-`remind 人 名詞 / ～を思い出させる`
+`remind 人 名詞`「～を思い出させる」
 
 > 名詞句を取るため、以下のように前置詞句か to 不定詞名詞用法を用いる。
 >
