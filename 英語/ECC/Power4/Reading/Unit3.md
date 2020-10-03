@@ -136,45 +136,55 @@ Since the policy was introduced, divorce rates have fallen, while birthrates and
 85% of fathers there take at least two months of paternity leave.
 85%の父親が最低２ヶ月の産休を取得する。
 
-- fatherhood
-- sick
-- paid
-- long service
+- [x] fatherhood
+- [ ] sick
+- [ ] paid
+- [ ] long service
+
+---
 
 Looking after a baby every day results in greater _awareness_ of the child's abilities.  
 毎日、子供を世話することが子供の能力の大きな意識に繋がる
 
-- encouragement「励まし」
-- expansion「拡張」
-- improvement「改善」
-- knowledge「知識」
+- [x] encouragement「励まし」
+- [ ] expansion「拡張」
+- [ ] improvement「改善」
+- [ ] knowledge「知識」
 
 > `recognition`, `consciousness`
+
+---
 
 The stay-at-home parent can receive 80%  of his or her salary for up to 390 days, as long as that is under the _cap_ of 428,000SEK per year.  
 在宅親は、年間428,000SEKの上限以下である限り、給与の80％を最大390日間受け取ることができます。
 
-- minimum「最小」
-- bottom「底値」
-- maximum「最大」
-- cost「費用」
+- [ ] minimum「最小」
+- [ ] bottom「底値」
+- [x] maximum「最大」
+- [ ] cost「費用」
+
+---
 
 Such generosity _comes at a price to_ Swedish taxpayer.  
 そのような寛大さはスウェーデンの納税者にとって代償になります。
 
-- is costly for「AはBにとってコストがかかる」
-- comes at no charge to「AはBには無料で提供される」
-- is too expensive for「AはBにとって高すぎる」
-- is resented by「AはBに憤慨している」
+- [ ] is costly for「AはBにとってコストがかかる」
+- [ ] comes at no charge to「AはBには無料で提供される」
+- [x] is too expensive for「AはBにとって高すぎる」
+- [ ] is resented by「AはBに憤慨している」
   > `resent`「憤る」
+
+---
 
 Since the system was _introduced_, average earnings of women have grown higher than in most countries.  
 そのシステムが導入されたので、女性の平均給与はほとんどの国より高くなった
 
-- established「設立する、創立する、**成立させる**、**制定する**」
-- reformed「改革する」
-- abolished「禁止する」
-- upgraded「更新する」
+- [x] established「設立する、創立する、**成立させる**、**制定する**」
+- [ ] reformed「改革する」
+- [ ] abolished「禁止する」
+- [ ] upgraded「更新する」
+
+---
 
 ## 5.Discussion
 

@@ -96,10 +96,10 @@ These technologies will hopefully allow many more cities to live sustainably in 
 
 The location of the United Arab Emirates in the burning desert makes it a difficult place to establish any kind of city, __let alone__ a sustainable one.  
 
-- if only もしも
-- ○ not to mention 言うまでもなく
-- last of all 最後に
-- at least 少なくとも
+- [ ] if only「もしも」
+- [x] not to mention「言うまでもなく」
+- [ ] last of all「最後に」
+- [ ] at least「少なくとも」
 
 > let alone ... 言うまでもなく
 
@@ -107,37 +107,37 @@ The location of the United Arab Emirates in the burning desert makes it a diffic
 
 The big cities like Abu Dhabi and Dubai have spectacular modern __skylines__ of air-conditioned skyscrapers.  
 
-- airline services 航空サービス
-- view of the ocean 海の景色
-- engineering technology エンジニアリング技術
-- ○ rows of tall buildings 高層ビル群
+- [ ] airline services 航空サービス
+- [ ] view of the ocean 海の景色
+- [ ] engineering technology エンジニアリング技術
+- [x] rows of tall buildings 高層ビル群
 
 ---
 
 The oil-rich state uses __massive__ desalination plants to turn seawater into drinking water.
 
-- ○ enormous 膨大な
-- tiny 微量な
-- advanced 上級の
-- economical 経済的な
+- [x] enormous 膨大な
+- [ ] tiny 微量な
+- [ ] advanced 上級の
+- [ ] economical 経済的な
 
 ---
 
 The university will be __solely__ dedicated to renewable technology research and development.  
 
-- highly
-- partially
-- theoretically
-- ○ completely
+- [ ] highly
+- [ ] partially
+- [ ] theoretically
+- [x] completely
 
 ---
 
 The goal of Masdar is to __showcase__ as many zero-carbon technologies as possible.  
 
-- export
-- ○ exhibit
-- test
-- create
+- [ ] export
+- [x]  exhibit
+- [ ] test
+- [ ] create
 
 ## Discussion
 

@@ -93,7 +93,12 @@ Those **involving** in the project should be proud of their achievement.
 
 ほとんど全てのお金を使ってしまったので、家族にお土産を買うお金がなくなった。
 
-Using almost all of the money, I couldn't purchase a gift for my family.  
+Having spent almost all (of) money, I didn't have enough money to buy souvenirs for my family.  
+（省略）, I couldn't purchase gifts for my family.  
+（省略）, I couldn't afford to buy　〜  
+
+`almost`は副詞なので、`almost my money`は不適切。  
+必ず、`all`を修飾する形にすること。
 
 > お土産の表現  
 >
@@ -107,8 +112,9 @@ Using almost all of the money, I couldn't purchase a gift for my family.
 
 ABC Foodsについてはいくつかの気がかりな噂を聞いた。しかし、総合的に考えて、その会社には投資する価値がある。
 
-I heard a disturbing rumor about ABC Foods.
-Generally thinking, it is worth while investing in the company.
+I heard disturbing rumors about ABC Foods.  
+~~Generally thinking~~, it is worth while investing in the company.  
+But all things considered, the company is worth investing in.
 
 「気がかりな」を示す場合`anxious`「心配な」を使うことがあるが、`disturb`でも問題ない。
 
@@ -118,17 +124,37 @@ Generally thinking, it is worth while investing in the company.
 >   全体的に見ると、楽しい旅行でした
 > - _All things considered_, that was a successful event.  
 >   総合的に見ると、イベントは成功でした。
-> - `overall`
+>
+> `Generally thinking`は`usually`の意味があり、上記とは違う意味になる。
 
 ---
 
 最近の調査によると、迷惑メールは国際的に送信される電子メールの70%を占めている。１日に約1750億通の迷惑メールが送信され、その結果１年で1700万トン以上の温室効果ガスが発生している。
 
-The latest survey reveals that spam mail accounts for 70% of e-mail sending throughout the world.  
-approximately 175 billion spam mail are sent daily, generating more than 17 million tons of greenhouse gases in a year.
+The latest survey reveals that spam mail accounts for 70% of e-mail sent throughout the world.  
+Approximately 175 billion spam mail are sent daily, generating more than 17 million tons of greenhouse gases in a year.
 
 > 占める
 >
 > - `account for`「（割合を）占める」
 > - `occupy`「（割合を）占める」
 > - `take up`「（空間を）占める」
+
+---
+
+## 先生の特別課題
+
+トヨタの売り上げから見ると、地球温暖化は
+Judging from recent Toyota sales, global warming will slip.  
+
+電気自動車に乗り換えたので、地球温暖化を方法は他にない  
+Having switched to an EV, I can’t contribute to global warming.  
+
+他の人が来る間、部屋を掃除した  
+Waiting for the others to arrive, I cleaned the room.  
+
+この場合のみ、接続詞を残すことでよりわかりやすくなる。  
+この分詞構文は、`while`や`when`が省略されているが、実は`because`でも意味が通ってしまう。  
+そのため、「**待っていたから**掃除した」のではなく「**待っている間**、掃除した」ということを正しく伝える場合は以下になる。  
+
+While waiting for the others to arrive, I cleaned the room.  

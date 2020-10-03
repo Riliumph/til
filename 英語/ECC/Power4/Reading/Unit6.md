@@ -3,7 +3,7 @@
 Richard Turere is a 12-years-old Masai boy from Nairobi, Kenya.  
 Richard Turereは、ケニアのナイロビ出身の12歳のマサイ少年です。
 
-His family raises animals near the south end of Nairobi NAtional Park.  
+His family raises animals near the south end of Nairobi National Park.  
 彼の家族はナイロビ国立公園の南端近くで動物を飼育しています。
 
 The national park does not have fences, so wild animals are free to wander into farming areas.  
@@ -17,6 +17,23 @@ One day Richard woke up to find that his family's only bull had been killed by l
 
 Traditionally, the Masai have a group of lion hunters called _morans_ to protect people and livestock.  
 伝統的に、マサイ族には、人々と家畜を保護するためにmoransと呼ばれるライオンハンターのグループがいます。
+
+> 群れの表現 - [List of animal names](https://en.wikipedia.org/wiki/List_of_animal_names) -  
+> 英語には群れを表現する際に、かなりイマジナリーな表現を使う場合がある。
+>
+> |系統|表現|備考欄|
+> |:--:|:--:|:--|
+> |犬・狼|a pack of||
+> |鳥・羊・山羊|a flock of|草食動物系|
+> |牛・象・鹿|a herd of||
+> |イルカ・鯨・アザラシ|a pod of|海に住む**哺乳類**|
+> |魚|a shoal of<br>a school of||
+> |猿|a troop of||
+> |猫<br>ライオン|a clowder of<br>a pride of|犬と違ってサイズで使う物が変わる|
+> |アリ|an army of|列を統率する兵隊アリのイメージ|
+> |ハト|a kit of pigeons||
+> |カラス|a murder of crows||
+> |ツバメ|a flight of||
 
 But because of development and modern weapons, too many lions have been killed, and now they are endangered.  
 しかし、開発と現代の武器のために、あまりにも多くのライオンが殺され、今では絶滅の危機に瀕しています。
@@ -48,6 +65,16 @@ The lights were fitted onto poles around the cattle field.
 This tricked the lions into believing that someone was moving around carrying a flashlight, and the lions stopped wandering into the field.  
 これは、誰かが懐中電灯を持って動き回っているとライオンをだまして信じさせ、ライオンは野原にさまようのをやめました。
 
+> `trick`[動] = `deceive`[動]「騙す」  
+> 名詞では次が同じ意味を持つ。`trick` = `deceit` = `fraud`  
+>　ただし、形容詞変化は意味異なるので注意
+>
+> - `deceitful`「（意図的に騙す）嘘つきの」
+> - `deceptive`「（無意識で）人を騙す力がある」  
+>   `A chameleon is deceptive.`ではあるが、決して`deceitful`ではない。
+>
+> Magic: The gathering: `Temple of Deceit` / 欺瞞の神殿  
+
 For the first time, both the lions and the livestock were safe from harm.  
 初めて、ライオンと家畜の両方が危害から安全でした。
 
@@ -74,3 +101,44 @@ Although he was nervous, he entertained listeners with his personality and charm
 
 When asked what he plans to do next, Richard said he wants to become an engineer or an airline pilot.  
 リチャードは次に何をするつもりかと尋ねられたとき、エンジニアまたは航空会社のパイロットになりたいと言いました。
+
+## Vocabulary Questions
+
+Wild animals are free to _wander_ into farming areas.  
+野生動物は、自由に農地に入ることができる
+
+- [ ] escape「逃げる」
+- [ ] walk「歩く」
+- [ ] trespass「侵入する」
+- [x] migrate「移動する」
+
+---
+
+When _predators_ encounter farm animals, they attack.  
+捕食者が農場の動物に遭遇した時、彼らは攻撃する
+
+- [x] meat-eaters
+- [ ] native species
+- [ ] protected species
+- [ ] big cats
+
+---
+
+He _got hold of_ some solar panels, an indicator from a motorcycle, and a car battery.  
+彼はいくつかのソーラーパネル、オートバイのインジケーター、そして車のバッテリーを手に入れました。
+
+- [ ] constructed
+- [ ] purchased
+- [ ] borrowed
+- [x] obtained
+
+---
+
+He entertained listeners it his personality and **charm**.  
+
+- [ ] humor
+- [x] attractiveness
+- [ ] good manners
+- [ ] intelligence
+
+## Discussion

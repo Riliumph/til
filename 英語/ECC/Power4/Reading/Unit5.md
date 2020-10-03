@@ -111,20 +111,20 @@ But even a modest salary can buy you happiness if you spend it on experiences yo
 
 Most people dream of being rich, and those dreams tend to involve expensive _status symbols_.  
 
-- displays of excess
-- designer labels
-- celebrations
-- ○ signs of success
+- [ ] displays of excess
+- [ ] designer labels
+- [ ] celebrations
+- [x] signs of success
 
 ---
 
 The TV is something you will soon _take for granted_.  
 そのTVはすぐに当たり前の物になる
 
-- become dependent upon「依存するようになる」
-- get bored with「飽きる」
-- replace with something else「別のものに置き換わる」
-- cease to regard as special「特別な物と見なすのを止める」  
+- [ ] become dependent upon「依存するようになる」
+- [x] get bored with「飽きる」
+- [ ] replace with something else「別のものに置き換わる」
+- [ ] cease to regard as special「特別な物と見なすのを止める」  
   > `ceaseless`/`incessant`「絶え間ない」  
   > ※ 違いは……無いんじゃない？
 
@@ -132,29 +132,29 @@ The TV is something you will soon _take for granted_.
 
 You will _cherish_ these memories forever.  
 
-- neglect「軽視する、無視する」
-- treasure「大切にする」
-- discuss「議論する」
-- magnify「拡大する」
+- [ ] neglect「軽視する、無視する」
+- [x] treasure「大切にする」
+- [ ] discuss「議論する」
+- [ ] magnify「拡大する」
 
 ---
 
 Another reason why experiences make us happier than objects is because they often involve a social dimension.  
 
-- element「要素」
-- encounter「出会い」
-- introduction「導入」
-- occasion「機会」
+- [ ] element「要素」
+- [ ] encounter「出会い」
+- [ ] introduction「導入」
+- [ ] occasion「機会」
 
 ---
 
 Giving to others will also deepen your social connections and increase the _likelihood_ of long-term happiness.  
 他の人に与えることもあなたの社会的つながりを深め、長期的な幸福の可能性を高めます。
 
-- length「長さ」
-- possibility「可能性」
-- enjoyment「楽しみ」
-- extent「広さ」
+- [ ] length「長さ」
+- [x] possibility「可能性」
+- [ ] enjoyment「楽しみ」
+- [ ] extent「広さ」
 
 ## Discussion
 
