@@ -75,7 +75,7 @@ I went to the museum. + Mona Liza is exhibited at/in the museum.
 I brought a new brush. + I painted the copy of a picture with it.  
 -> I brought a new brush **with which** I painted the copy of a picture.  
 -> I brought a new brush **which** I painted the copy of a picture with.  
--> I vrought a new brush what I painted the copy of a picture.  
+-> I brought a new brush what I painted the copy of a picture.  
 私は新しいブラシを持って行った。＋私はそれで絵のコピーを描いた  
 -> 私は、絵のコピーを描いた新しいブラシを持って行った。
 
@@ -107,7 +107,7 @@ Mr. Tanaka is one of the members who strived to improve the local economy.
 田中さんは地域経済の発展に努力しているメンバーの一人だ
 
 > `strive`「努力する」  
-> `strice for A`もしくは`strive to do`で用いる。  
+> `strive for A`もしくは`strive to do`で用いる。  
 > 熟語：`make an effort`  
 
 ---
