@@ -2,17 +2,13 @@
 
 ## 空欄補充
 
-David apologized **her for his rudeness.**  
+David apologized **her for his rudeness**.  
 Davidは彼女に非を詫びた。
 
 - to her for his rudeness
 - her his rudeness
-- her for his rudeness
-- to her his rudeness
 
-`apologize for A`のAは詫びる内容についてであり、詫びる対象は｀｀３
-
-`apologize for A`「Aについて非を詫びる」  
+`apologize A for B`「AにBについて非を詫びる」  
 
 ---
 
@@ -39,7 +35,7 @@ This computer will **save much time and labor to you**.
 - save to you much tim and labor
 - save much time and labor you
 
-`save 人　物`を知っているだけで解ける問題。  
+`save 人 物`を知っているだけで解ける問題。  
 
 > - Dredd（ジャッジ・ドレッド）  
 >   Save me a lot of paperwork if you just confess right now.  

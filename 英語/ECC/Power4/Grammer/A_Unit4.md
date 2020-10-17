@@ -17,7 +17,7 @@ What I like best is playing with my dog.
 megafepsdaで暗記することが多い。  
 ただし、それだけではないので注意。
 
-- mind
+- mind「」
 - enjoy
 - give up(=quit)
 - avoid
@@ -130,18 +130,20 @@ She stopped smoking.
 The grass needs mowing.  
 雑草は刈る必要がある。
 
-> この動名詞を受動態にする必要はない。  
-> というか、動名詞の受動態ってなんだって感じだがよく間違えるのだ。  
-> to不定詞に書き換えた場合は受動態にする必要がある。  
-> The grass needs to be mowed.
+この動名詞を受動態にする必要はない。  
+というか、動名詞の受動態ってなんだって感じだがよく間違えるのだ。  
+to不定詞に書き換えた場合は受動態にする必要がある。  
+The grass needs to be mowed.
 
 ## 動名詞の慣用表現
 
-I feel like takung a rest.  
+I feel like taking a rest.  
 一休みしたい
 
 He ended up telling his wife everything.  
 結局、妻に全てを話すことになった
+
+> He told his wife everything **in the end**.  
 
 It's no use crying over spilt milk.  
 覆水盆に返らず（終わったことを嘆いても仕方がない）
@@ -155,10 +157,47 @@ I'm used to living my myself.
 The book is very good. It's worth reading.  
 読む価値がある。
 
-## テスト
+## Pre-Test
+
+**Eating** between meals is not good for your health.  
+間食を食べることは、体によくない。
+
+- [x] Eating
+- [ ] Eat
+
+> `Eating between meals`「食事の間に食べること＝間食を食べること」  
+
+---
+
+Dan objects to **being treated** like a child.  
+DANは子供扱いされるのが嫌だ
+
+- [ ] be treated
+- [x] being treated
+
+---
+
+I dislike his/him smoking.  
+私は彼がタバコを吸うのが嫌いだ。
+
+- [x] his
+- [ ] he
+
+動名詞の意味上の主語
+
+---
+
+The kitchen needs **cleaning**.
+
+## Post-Test
 
 She is opposed to opening a new branch.  
 彼女は新支店を開くことに反対している。
+
+- [ ] open
+- [x] opening
+- [ ] be opened
+- [ ] being opened
 
 > 「反対する」の類義語
 >
@@ -166,7 +205,7 @@ She is opposed to opening a new branch.
 > - `object to A`「Aに反対する」
 > - `disagree with A`「Aに同意できない」 ＜ `be against A`「Aに反対する」  
 >    ※ `be opposed to`は`disagree with`と同程度で、`be against`ほど強くはない
-> - `conflict with A`「Aと衝突する」
+> - `conflict with A`「Aと衝突する」  
 > 主語に人以外を当てはめることもできる。
 >
 > Their opinions were opposed to each other.  
@@ -174,16 +213,38 @@ She is opposed to opening a new branch.
 
 ---
 
-It took me only a few months to get used to living on my own.  
-一人暮らしに慣れるまで数ヶ月しかかかりませんでした。
-
-この文章は長いが次の公文を理解すること
-
-It take + 人 + 時間 + to 不定詞「＜人＞はto不定詞することに＜時間＞がかかる」
-
----
-
 Nancy complained about Tom's watching TV all the time.  
 NancyはTomがいつもTV見ていることに不満だ
 
+- [ ] Tom's watch
+- [ ] Tom being watched
+- [x] Tom's watching
+- [ ] Tom to watch
+
 `about`の後ろは名詞が来る
+
+---
+
+It took me only a few months to get used **to living** on my own.  
+一人暮らしに慣れるまで数ヶ月しかかかりませんでした。
+
+- [x] to living（`be used to Ving`「〜することになれている」）
+- [ ] to live （`be used to V`「〜するために使われた」）
+- [ ] for living
+- [ ] living
+
+この文章は長いが次の公文を理解すること
+
+- It take + 人 + 時間 + to 不定詞「＜人＞はto不定詞することに＜時間＞がかかる」
+- Subject get used ?? on my own.「主語は自身を？？した」
+
+`used to`の使い方は３種類
+
+1. `used to V`[助]「かつてVしていた」
+2. `be/get used to V-ing`[慣]「Vすることになれている」
+3. `be used to V`「Vするために使われる」
+
+１は助動詞であるため、前に`get`を取らない。  
+３は文意が合わない。
+
+---

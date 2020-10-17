@@ -51,7 +51,7 @@ to不定詞は**非現実**を表す。そのために「不定」と名付け�
 - その他
   - afford
   - fail  
-    対して、`succeed`は to 不定詞ではないので注意
+    対して、`succeed`は to 不定詞ではないので注意（詳細は別記事）
     - succeed to A : A を引き継ぐ、受け継ぐ
     - succeed in A : A で成功する
   - manage
@@ -71,7 +71,7 @@ I have no task to do now.
 to不定詞が名詞以外の語句や文を修飾することで、**副詞**として振舞う。  
 目的、結果、原因を表現する。
 
-### 目的用法 - in order to -
+### 目的
 
 副詞的用法：目的は以下に置き換えることができる。省略形と暗記しても問題はない。
 
@@ -197,30 +197,152 @@ youは「留学する」の主語となっている。
 - want
 - force
 
-## Step1: 例題
+## Pre-Test
 
-The doctor hesitated to tell her family about her disease.  
+He failed **to return** from the voyage.  
+彼は航海から戻ってくることに失敗した
+
+- [ ] returning
+- [x] to return
+
+> `voyage`「航海」
+
+`fail`はto不定詞を用いる。  
+`succeed`は逆の意味で近いイメージなのでto不定詞と思うと大間違い。
+
+> `fail`と`succeed`は逆の意味だが、使い方は全然違う。  
+>
+> - 成功の意味の`succeed`は前置詞`in`を用いる。  
+>   He succeeded in returning from the voyage.  
+>
+> > ※　名詞を使うとこんな感じ。  
+> > He made a success of returning from the voyage.  
+> > コロケーションとして`succeed`は`make`を使うと覚えよ。
+
+---
+
+**Needless to say**, diligence is a key to success.  
+言うまでもなく、勤勉は成功の鍵だ。
+
+> `diligence`「勤勉」
+
+## Post-Test
+
+### Step1: 例題
+
+Ben managed **to put out** the fire.  
+ベンはなんとか火を消した
+
+- [ ] putting out
+- [ ] to putting out
+- [x] to put out
+- [ ] to have put out
+
+> `manage to V`「なんとかVする」  
+> `put out`「消す」 = `extinguish`  
+> > Magic: The Gathering  
+> > Extinguish / 消力
+
+---
+
+We persuaded her not **to give up** her current position.  
+私たちは彼女に今のポジションを諦めさせないよう説得した。
+
+- [ ] to not give up
+- [ ] not give up
+- [x] not to give up
+- [ ] not to giving up
+
+> 「納得させる」
+>
+> - `persuade`「説得する（かつ、行動させる）」  
+> He persuade her to marry him. (~~himself~~ではないので注意)  
+>    彼は、（自身）と結婚するよう彼女を説得し、行動させた。  
+> -> 彼は、彼女に結婚を迫った。  
+> 特に、**感情的**に説得するイメージがある。
+>
+> - `convince`「説得する（かつ、認めさせる）」  
+> I'm going to try to convince him that it's best to surrender.  
+>    私は、降伏するのが一番だと彼を説得し、認めさせようとしてみるつもりだ。  
+> -> 私は、彼に降伏するのが一番だと説得してみるつもりだ。  
+> 特に、**論理的**に説得するイメージがある。
+>
+> また、`convince`は`I'm convinced`と受動態にすることで「納得した」となる。
+
+---
+
+The doctor hesitated **to tell** her family about her disease.  
 医者は彼女の病気について、彼女の家族に伝えることをためらった。
 
-> hesitate：ためらう  
-> reluctant：やる気がないと同じ意味をもつ。
+- [ ] telling
+- [x] to tell
+- [ ] to telling
+- [ ] tell
 
-The applicants raised my expectation, only to disappoint me.  
+`hesitate`は感情であり、また「ためらってる時」にはまだ`tell`していないということで未来を示す不定詞を用いる。  
+正直、`hesitate to`と覚えてしまっても問題ない。
+
+> `hesitate`「ためらう」  
+> `reluctant`「やる気がない」と同じ意味をもつ。
+> > Magic: The Gathering  
+> > Hesitation / 躊躇
+
+---
+
+I might be forced **to change** my way of living.  
+私は、生き方を変えられそうになった
+
+- [ ] changing
+- [x] to change
+- [ ] changeable
+- [ ] for changing
+
+`make 人 原形`と同じ意味だが、`be force to do`とto不定詞であることに注意。
+
+---
+
+The applicants raised my expectation, only **to disappoint me**.  
 応募者は期待を膨らませたが、私をがっかりさせただけだった。
 
-> `only to do` = `end up doing`
+> `, only to do` = `end up doing`  
+> `applicant`「応募者」
 
-## Step2: 例文
+### Step2: 例文
 
-電車内では携帯電話で通話しないでください。  
+
+電車内では携帯電話で通話しないでください。
+
 You are requested not to talk on your cell phone on the train.
 
-> 命令形や禁止の意味を含めるとすこしニュアンスが異なってくるので注意。  
->
-> - Don't call on your cell phone in the train.  
-> - Talking on the cellphone, is not allowed in the train.
+命令形や禁止の意味を含めるとすこしニュアンスが異なってくるので注意。  
 
-気前の良いことに、そのインターネットプロバイダーは競合他社から移行してきた客に100取るのギフトカードをプレゼントしている。  
+- Don't call on your cell phone in the train.  
+- Talking on the cellphone is not allowed in the train.
+
+---
+
+彼らはプロジェクトを成功させるために懸命に働いたが、結局失敗に終わった。
+
+They worked hard to succeed in the project, only to fail.  
+
+`to succeed in`は「成功するために」であるため、「成功させる」として使うことはできない。  
+`succeed`のcollocationは`make`である。
+
+They worked hard to make the project successful, only to fail.
+
+---
+
+Ms.Whiteが病気のために仕事を辞めると聞いて、私たちはショックを受けた。彼女の後任をすぐに見つけなければならない。
+
+We were shocked to hear that Ms. White quit the job due to illness.  
+We must find someone to replace soon.  
+もしくは  
+We have to find someone who can replace her job soon.
+
+---
+
+気前の良いことに、そのインターネットプロバイダーは競合他社から移行してきた客に100取るのギフトカードをプレゼントしている。
+
 The internet provider is generous enough to gift (away) $100 to the customer who changed from their competitors.
 
 `gift`の代わりに`gift away`を用いるとより太っ腹感が出る。  
