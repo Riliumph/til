@@ -29,8 +29,8 @@ macvim 以外にもシンボリックリンクをいくらか作成するよう�
 
 ### Home/End Key
 
-iMacにおけるHome/Endキーは`Command + ←→`である。  
-MacbookにおけるHome/Endキーは`Fn + ←→`である。  
+iMacにおけるHome/Endキーは`Command + ←/→`である。  
+MacbookにおけるHome/Endキーは`Fn + ←/→`である。  
 
 Terminal.appにおいて、このキーはカーソルの移動ではなくscroll bufferに割り当てられている。
 

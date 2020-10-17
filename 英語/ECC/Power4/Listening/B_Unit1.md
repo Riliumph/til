@@ -6,22 +6,22 @@ Store Remove Self-Service Checkouts
 お店がセルフ会計を削除
 
 The US National Retail Federation reported today that many companies are removing self-service checkouts from their stores and supermarkets.  
-全米小売業協会は本日、多くの企業が店舗やスーパーマーケットからセルフ会計を削除していると報告しました。
+全米小売業協会は本日、多くの企業が店舗やスーパーマーケットからセルフ会計を削除していると報告した。
 
 These devices allow customers to scan their own purchases and pay without the help of a cashier.  
-これらのデバイスを使用すると、顧客は自分の購入をスキャンして、レジ係の助けを借りずに支払うことができます。
+これらのデバイスを使用すると、顧客は自分の購入をスキャンして、レジ係の助けを借りずに支払うことができる。
 
 Companies installed the devices to save on wage.  
 企業は賃金を節約するためにデバイスを設置した。
 
 But studies now show that one in five customers takes home expensive items without scanning them.  
-しかし、調査によると、5人に1人の顧客が高価なアイテムをスキャンせずに持ち帰っています。
+しかし、調査によると、5人に1人の顧客が高価なアイテムをスキャンせずに持ち帰っている。
 
 After doing the cost-benefit analysis, many stores are finding that the losses far exceed the cost of a cashier.  
-費用便益分析を行った後、多くの店舗は、損失がレジ係の費用をはるかに超えていることに気づいています。
+費用便益分析を行った後、多くの店舗は、損失がレジ係の費用をはるかに超えていることに気づいている。
 
 Self-service checkout designers are working on new ways to prevent shoplifting.  
-セルフサービスのチェックアウト設計者は、万引きを防ぐための新しい方法に取り組んでいます。
+セルフサービスのチェックアウト設計者は、万引きを防ぐための新しい方法に取り組んでいる。
 
 In the meantime , some cashiers will be able to keep their jobs for a little longer.  
 その間、一部のキャッシャーはもう少し長く仕事を続けることになるだろう。
@@ -29,7 +29,7 @@ In the meantime , some cashiers will be able to keep their jobs for a little lon
 ## Step2
 
 Hello and thank you for inviting me to the International Conference on Youth Unemployment.  
-こんにちは。私を青年失業に関する国際会議に招待していただきありがとうございます。
+こんにちは。私を青年失業に関する国際会議に招待していただき感謝します。
 
 I'm pProfessor Alan Brady from the Chicago School of Economics.  
 私はシカゴ学派のアラン・ブレイディ教授です。

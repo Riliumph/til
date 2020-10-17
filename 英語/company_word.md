@@ -1,15 +1,28 @@
-# Microsoft
+# 名言
+
+## 著名人
+
+Microsoftの紙コップに印字されている。
 
 Success is often achieved by those who don't know that failure is inevitable. -- Coco Chanel  
 成功とは、多くの場合、失敗とは無縁であると考える人によって成就される。―――― ココ・シャネル
 
+---
+
 I have no special talent. I am only passionately curious. -- Albert Einstein  
 私に特別な才能はない。ただ好奇心旺盛なだけだ。――――　アルバート・アインシュタイン
+
+---
 
 If you're not prepared to be wrong, you'll never come up with anything original. -- Sir Ken Robinson  
 失敗する覚悟していなければ、決して独創的なモノを生み出せない。――――　サー・ケン・ロビンソン
 
-# Google
+---
+
+Science is a culture of doubt. Religion is a culture of faith.  
+科学とは疑うことの訓練であり、宗教とは信じることの訓練である。
+
+## Google
 
 10 Things Google has found to be true:
 
@@ -34,7 +47,7 @@ If you're not prepared to be wrong, you'll never come up with anything original.
 10. Great just isn't good enough.  
     「すばらしい」では足りない。
 
-# Udemy
+## Udemy
 
 Are you learning valuable information?  
 貴重な情報を学んでいますか？
