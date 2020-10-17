@@ -14,16 +14,16 @@ These devices allow customers to scan their own purchases and pay without the he
 Companies installed the devices to save on wage.  
 企業は賃金を節約するためにデバイスを設置した。
 
-But studies now show that one in five customers takes home expensive items without scanning them.
+But studies now show that one in five customers takes home expensive items without scanning them.  
 しかし、調査によると、5人に1人の顧客が高価なアイテムをスキャンせずに持ち帰っています。
 
-After doing the cost-benefit analysis, many stores are finding that the losses far exceed the cost of a cashier.
+After doing the cost-benefit analysis, many stores are finding that the losses far exceed the cost of a cashier.  
 費用便益分析を行った後、多くの店舗は、損失がレジ係の費用をはるかに超えていることに気づいています。
 
-Self-service checkout designers are working on new ways to prevent shoplifting.
+Self-service checkout designers are working on new ways to prevent shoplifting.  
 セルフサービスのチェックアウト設計者は、万引きを防ぐための新しい方法に取り組んでいます。
 
-In the meantime , some cashiers will be able to keep their jobs for a little longer.
+In the meantime , some cashiers will be able to keep their jobs for a little longer.  
 その間、一部のキャッシャーはもう少し長く仕事を続けることになるだろう。
 
 ## Step2
