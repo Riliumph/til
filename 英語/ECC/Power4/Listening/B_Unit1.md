@@ -23,6 +23,11 @@ After doing the cost-benefit analysis, many stores are finding that the losses f
 Self-service checkout designers are working on new ways to prevent shoplifting.  
 セルフサービスのチェックアウト設計者は、万引きを防ぐための新しい方法に取り組んでいる。
 
+> - `shoplifting` = `steal`「（お店で）盗む」
+> - `pickpocket`「（電車で）盗む」
+> - `robber`「（銀行で）盗む」
+> - `burglar`「（家で）盗む」
+
 In the meantime , some cashiers will be able to keep their jobs for a little longer.  
 その間、一部のキャッシャーはもう少し長く仕事を続けることになるだろう。
 
@@ -49,8 +54,17 @@ However, I hold a more optimistic view.
 The real obstacle we face is a lack of skills, not a lack of work.  
 私たちが直面している本当の障害は、仕事の不足ではなく、スキルの不足です。
 
+> `obstacle`「障害」
+
 Globally, more young people are obtaining college degrees than ever before.  
 世界的に、これまで以上に多くの若者が大学の学位を取得しています。
+
+> college degree  
+> `xx in economics`などとして使う
+>
+> - BA: bachelor's degree
+> - MA: Master's degree
+> - PhD: Doctor's degree
 
 Yet a recent international study said that 57 percent of companies can't find enough young skilled workers.  
 しかし、最近の国際調査によると、57％の企業が十分な若年熟練労働者を見つけることができません。
@@ -67,11 +81,21 @@ Technology is advancing rapidly, and colleges are training students for jobs tha
 Meanwhile, employers can't find people to fill new positions.  
 その間、雇用主は新しいポジションを埋める人を見つけることができません。
 
+> collocation: position
+>
+> - fill position「職を埋める」
+> - apply for position「職に応募する」
+
 Educators and employers need to come together and close this skill gap by developing more suitable courses of study.  
 教育者と雇用主は一緒になって、より適切な学習コースを開発することにより、このスキルのギャップを埋める必要があります。
 
 Germany and South Korea are setting an example by investing in technical schools to address specific skill shortages.  
 ドイツと韓国は、特定のスキル不足に対処するために専門学校に投資することで模範を示しています。
+
+> `address`の意味
+>
+> - `address the situation` = `deal with`
+> - `address the audicence` = `give presentaion`
 
 Educators everywhere should provide a better mix of practical and academic education.  
 あらゆる場所の教育者は、実践的な教育と学術的な教育のより良い組み合わせを提供する必要があります。
@@ -168,3 +192,63 @@ innovation is nothing to fear.
 
 Each time we give an old job to technology, we become free to reinvent ourselves.  
 テクノロジーに古い仕事を与えるたびに、私たちは自由に自分自身を再発明することができます。
+
+## Step4
+
+The **cost-benefit analysis** indicates that robots in our warehouse will increase profits by 32 percent.  
+費用利益解析では、倉庫ロボットが32%の利益を伸ばすだろうと示している。
+
+---
+
+Scientists are **pessimistic** about the future of the Great Barrier Reef because of global worming.
+科学者たちは、地球温暖化によりグレートバリアリーフの未来を案じている
+
+---
+
+John is a vegetarian, so I don't think a barbecue restaurant will be **suitable** for the party.  
+ジョンはベジタリアンだから、私はバーベキューレストランがパーティに適しているとは思わないな。
+
+これ、なんで未来形？
+
+---
+
+High tuition fees are a big **obstacle** for many people wanting to attend university.  
+高額な授業料は、多くの人々にとって、大学に行きたいことの大きな障害になっている。  
+
+---
+
+Children should never use a kitchen knife with out adult **supervision**.  
+子供は大人の監督無しで包丁を使うべきではない。
+
+---
+
+Since your sales have **outdated** targets this year, I've decided to give you a raise.  
+今年は貴方の営業は最新の顧客を担当するので、私はあなたを昇級させることに決めた。
+
+---
+
+The company has several **entry-level** positions available for recent college graduates.  
+企業は、最近の大学卒業者のために、初歩レベルのポジションを持っている。
+
+---
+
+Our office needs to replace these **outdated** computers before we can install the new operating system.  
+私の事業所は、最新のOSをインストールすることができる前に、これらの旧式のコンピューターを置き換える必要がある。
+
+> `outdated`「旧式の」  
+> 対義語：
+>
+> - `fashionable`「流行りの」
+> - `state-of-the-art`「最新の」
+
+---
+
+A survey of 157 countries found that **shoplifting** and employee theft cost stores $112 billion worldwide last year.  
+157か国のアンケートで、去年、世界中で万引きや従業員の横領の費用が$1120億にも登ったと分かった
+
+---
+
+After a successful career as a novelist, Leonard Cohen **reinvent _oneself_** as a musician.  
+レナード・コーエンは音楽家としての自信を改革し、後に小説家として成功した
+
+> Leonard Cohen - Hallelujah とか

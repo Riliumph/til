@@ -40,7 +40,7 @@ I think it's cool.
 特に`think`は現在進行形になりにくく、現在形で使うことが多い。  
 「考えている動作」を表現したい場合に現在進行形を用いる。
 
-I'm think the problem.
+I'm thinking the problem.
 
 ---
 
@@ -70,7 +70,7 @@ If anyone calls me, please tell them I'll be back around three.
 ---
 
 I'm reading a detective story, _Who's done it_.  
-Who's done itという推理小説を読んでいます。
+_Who's done it_ という推理小説を読んでいます。
 
 「読む」という動作を説明したいときに用いる。
 
@@ -150,9 +150,9 @@ Actually, he is a really nice man. I wonder why he is being so mean tonight.
 
 私がシドニーで働いている間、多くの面白い人に出会った。
 
-時を表す副詞節の中は現在形と覚えてしまっている場合は誤ってしまう問題。  
-時を表す副詞節において、現在形を用いるのは「未来のことを表現する」場合に限定される。  
-時を表す副詞節内で過去のことを話す場合は**普通に過去形を用いる**。
+「**時を表す副詞節の中は現在形**」と覚えてしまっている場合は誤ってしまう問題。  
+時を表す副詞節において、現在形を用いるのは「**未来のことを表現する**」場合に限定される。  
+よって、今回のように過去のことを話す場合は**普通に過去形を用いる**。
 
 ---
 
@@ -179,7 +179,7 @@ Actually, he is a really nice man. I wonder why he is being so mean tonight.
 消防士たちが現場に到着した時、火はすでに家中に広がっていた。
 
 `when`節を持つため**現在完了形を用いることができない**。  
-`when`は時の１点を話題にし、現在完了形は時の期間を話題にするためである。  
+`when`は**時の１点**を話題するが、現在完了形は**時の期間**を話題にするためである。  
 よって、過去よりもさらに過去の大過去の１点のみを話題にする過去完了形を用いるのが正解。
 
 ---
@@ -334,7 +334,7 @@ In Japan, the birth rate **is rapidly declining**. This will affect the Japanese
 ---
 
 Due to the popularity of the Internet, these days fewer young people **are exchanging** New Year's cards.
-インターネットの台頭により、最近、若い人たちがあまり年賀状を交換していない。
+インターネットの台頭により、最近、若い人たちがあまり年賀状を**交換してい**ない。
 
 - [ ] are exchanging
 - [ ] exchanged
@@ -360,7 +360,7 @@ Due to the popularity of the Internet, these days fewer young people **are excha
 ---
 
 It **is getting** dark. Could you turn on the light?  
-暗くなってきた。電気をつけてもらえますか？
+暗く**なってきた**。電気をつけてもらえますか？
 
 - [ ] is being
 - [ ] was getting
@@ -370,7 +370,7 @@ It **is getting** dark. Could you turn on the light?
 ---
 
 I can't understand why she **is being** so rude tonight. She isn't usually like that.  
-今夜の彼女がなんであんなにも失礼なのか分からない。彼女はいつもはあんな感じじゃない。
+今夜の彼女がなんであんなにも失礼**なの**か分からない。彼女はいつもはあんな感じじゃない。
 
 - [x] is being
 - [ ] had been
@@ -382,7 +382,7 @@ I can't understand why she **is being** so rude tonight. She isn't usually like 
 ---
 
 How many pages of that book **have you read** so far?  
-今まで、その本のどれくらいにページ数読んできたの？
+今まで、その本のどれくらいのページ数**読んできた**の？
 
 - [ ] have you been reading
 - [ ] are you reading
@@ -393,8 +393,8 @@ How many pages of that book **have you read** so far?
 
 ---
 
-We are going to be late. The game will have started by the time we get to the stadium.  
-私たちは遅れるだろう。ゲームは私たちがスタジアムに着くまでに始まっているはずだ。
+We are going to be late. The game **will have started** by the time we get to the stadium.  
+私たちは遅れるだろう。ゲームは私たちがスタジアムに着くまでに始まって**いるはずだ**。
 
 - [ ] starts
 - [ ] will start
@@ -420,7 +420,7 @@ Our meeting will be until two. You can use it after that.
 ---
 
 Do you think you will still **have been doing** the same job in five year's time?  
-5年後も同じ仕事をしていると思いますか？
+5年後も同じ仕事を**している***と思いますか？
 
 - [ ] be doing
 - [x] have been doing
