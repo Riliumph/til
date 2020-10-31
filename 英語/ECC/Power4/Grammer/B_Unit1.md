@@ -231,11 +231,13 @@ Where were you? I **had looked** for you since 10:00.
 
 - [ ] was looking
 - [ ] looked
-- [ ] have been looking
-- [x] had looked
+- [x] have been looking
+- [ ] had looked
 
 期間の前置詞`since`が用いられているため完了形を用いる。  
 現在完了か過去完了かは、疑問文が過去形であるため、過去につながる期間として過去完了形を用いる。
+
+「どこにいたの？」は過去形だが、出会って話し始めているので、現在につながる現在完了形を用いる。
 
 ---
 
@@ -257,15 +259,21 @@ I have a sore throat and a slight fever. I think **I have** a cold.
 
 ---
 
-When you **will have finished** reading it, could you lend it to me?  
+When you **are finishing** reading it, could you lend it to me?  
 それを読み**終わったら**、私に貸してくれませんか？
 
 - [ ] have finished
-- [x] will have finished
-- [ ] are finishing
+- [ ] will have finished
+- [x] are finishing
 - [ ] had finished
 
-未来につながる内容なので未来完了進行形を用いる。
+~~未来につながる内容なので未来完了進行形を用いる。~~  
+進行形は以下のいずれかを表現するときに用いられる。  
+
+- 進行中の動作
+- 一時的な状態
+- 変化の途中
+- **近い将来**
 
 ---
 
@@ -336,9 +344,9 @@ In Japan, the birth rate **is rapidly declining**. This will affect the Japanese
 Due to the popularity of the Internet, these days fewer young people **are exchanging** New Year's cards.
 インターネットの台頭により、最近、若い人たちがあまり年賀状を**交換してい**ない。
 
-- [ ] are exchanging
+- [x] are exchanging
 - [ ] exchanged
-- [x] have exchanged
+- [ ] have exchanged
 - [ ] was exchanging
 
 > 「最近」の表現  
@@ -419,15 +427,19 @@ Our meeting will be until two. You can use it after that.
 
 ---
 
-Do you think you will still **have been doing** the same job in five year's time?  
+Do you think you will still **be doing** the same job in five year's time?  
 5年後も同じ仕事を**している***と思いますか？
 
-- [ ] be doing
-- [x] have been doing
+- [x] be doing
+- [ ] have been doing
 - [ ] do
 - [ ] have done
 
-「５年後」の未来の話をしているため
+「５年後」の未来の話をしているためBを選びたくなってしまう。  
+覚えておくべきは「未来完了（継続）」という用法は、「それ以降の継続」も表現していることになるということ。  
+つまり、今回では「５年後も、その先もずっと」の意味になってしまう。  
+今回の文は「今から５年後」という未来の１点を差して表現しているため、単純な未来表現を用いる。  
+選択肢の中で未来表現は「予定の進行形」であるAのみ。
 
 ---
 
@@ -435,7 +447,7 @@ Do you think you will still **have been doing** the same job in five year's time
 
 Andyは2週間前にアメリカに発って、今フランスを旅行している。とても楽しんでいる。彼は既に３か国を訪れた。この旅行が終われば10か国を旅することになるだろう。
 
-It had been 2 weeks since Andy left from USA.
+It has been 2 weeks since Andy left ~~from~~ USA.
 
 - leave from[自]「〜から出発する」
 - leave[他]「〜を出発する(fromが必要ない)」
@@ -446,13 +458,33 @@ It had been 2 weeks since Andy left from USA.
 > - It has been 2 weeks since he left USA.
 > - 2 weeks have passed since he left USA.
 
-And he is traveling on France now.  
+And he is traveling ~~on~~ France now.  
+And he is traveling **around** France now.  
 
-> `travel on A` = `go on a trip to A`「Aに旅行する」
+`go`の場合は、`trip`というアクションに対する前置詞のため`on`が使われる。  
+`travel`の場合は、目的地に対する前置詞のため`around`が使われる。  
+
+> `go on a trip to A`「Aに旅行する」  
+> `travel around A`「Aを旅行する」  
 
 He enjoy very well.  
+He **is** enjoy**ing** **himself** very **much**.  
+He is having a good time / a lot of fun.
+
+> 今回は彼が`enjoy`の状態になっているのは普遍的なことではなく、「旅行中」というイベントの中だけの話なので進行形を用いる。  
+> `enjoy`は他動詞のため目的語が必須。  
+> `travel`でも良いが、そこでの生活を含めて`himself`で表現すると○。  
+> あと`well`の「良くする」というよりも程度を示すために`much`を使う。  
+
 He has already visited 3 countries.  
-He will have been to 10 countries if this trip finish.  
+
+He will have been to 10 countries ~~if~~ this trip finish.  
+He will have been to 10 countries **when** this trip finish.  
+He will have been to 10 countries **by the end of this trip**.  
+
+`if`を使うと、`else`のことを考える必要がある。  
+つまり、この場合は「旅行が終わらなかった時」というパターンが有り得るということになってします。  
+今回の「〜れば」は「〜の時」の意味なので`when`を用いる。
 
 ---
 
@@ -465,10 +497,12 @@ I came across Billy at the airport yesterday.
 He have just got back from a business trip.
 
 > 昨日の話なので、完了形で「ちょうど〜だった」を表現できる。  
-> 過去形なら以下で表現できる。  
+> もっと過去の話なら過去形として以下で表現できる。  
 > He just got back from a business trip.  
 
-He looked exhausted to me.
+He looked exhausted ~~to me~~.
+
+`to me`「私には」の意味だが、くどいので要らない。
 
 > `seem` vs `look`  
 > He seemed to be exhausted.
@@ -477,7 +511,8 @@ He looked exhausted to me.
 
 どうしましたか。今日は黙ったままですね。いつもは建設的なアイデアをたくさん出してくれるのに。
 
-What's wrong? / What's the mater?
+What's wrong? / What's the mater?  
+Is there anything wrong?
 
 > 絶対に`with you`をつけるな。絶対にだ。  
 > 状況を知りたい場合は以下を用いる。
@@ -487,7 +522,8 @@ What's wrong? / What's the mater?
 
 You are being quiet today.
 
-You always propose constructive ideas.
+You always propose constructive ideas.  
+You always **give us** constructive ideas.  
 
 > `propose`の代わりに  
 > `come up with A`の２つ目の意味が使える。

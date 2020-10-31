@@ -106,7 +106,7 @@ I saw a boy. + He was running.
 Mr. Tanaka is one of the members who strived to improve the local economy.
 田中さんは地域経済の発展に努力しているメンバーの一人だ
 
-> `strive`「努力する」  
+> `strive`[動]「努力する」  
 > `strive for A`もしくは`strive to do`で用いる。  
 > 熟語：`make an effort`  
 
@@ -133,16 +133,16 @@ I attended the party, `where` I saw my favorite actor.
 The temple is well known for old Buddhist sculptures, some of __which are__ designated national treasures.  
 その寺院は仏教の彫刻でよく知られている。それらの内に国宝に指定された物もある。
 
-- them is
-- them are この選択肢は文体が「SVC, SV」になってしまい、接続詞が必要になるため誤り
-- which are 関係代名詞は文と文を繋ぐ意味を持つため、接続詞は必要ない。
-- which is
+- [ ] them is
+- [ ] them are この選択肢は文体が「SVC, SV」になってしまい、接続詞が必要になるため誤り
+- [x] which are 関係代名詞は文と文を繋ぐ意味を持つため、接続詞は必要ない。
+- [ ] which is
 
 また、今回は物だったため`which`が用いられたが、人の場合は**必ず**`whom`が用いられる。  
 この場合は主格の時のように`who`で代用はできない。
 
 > `be well known for`「よく知られる」  
-> `designate`「指定する」  
+> `designate`[動]「指定する」  
 
 ---
 
@@ -163,8 +163,7 @@ care one's mindは違和感しかないようだ
 
 誰もが金メダルを獲得すると思っていたMike Johnsonは第四位に終わった。
 
-Mike Johnson who expected to win the gold medal ended up in the 4th place.
-
+Mike Johnson who expected to win the gold medal ended up in the 4th place.  
 Mike Johnson who everyone thinks obtains the gold medal ended in the 4th.
 
 金メダルは「勝ち取る」物であるため`win`や`get`が好ましい。  
@@ -178,4 +177,4 @@ Mike Johnson who everyone thinks obtains the gold medal ended in the 4th.
 
 You don't investigate each word whose meaning you don't know, but you should guess the meaning from the context.
 
-`investigate`
+`investigate`[動]「調べる」

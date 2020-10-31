@@ -1,6 +1,6 @@
 # Unit1 Job Hunting in an Automated World
 
-In In the nineteenth century, two-thirds of Americans worked on farms.  
+In the nineteenth century, two-thirds of Americans worked on farms.  
 19世紀、アメリカ人の2/3が農場で働いていた
 
 Then along came laborsaving machinery, and it put almost everyone out of a job.  
@@ -27,6 +27,11 @@ The technological progress of new machinery made the economy more sophisticated 
 
 Many old jobs disappeared, but abundant new and different jobs replaced them.  
 多くの古い仕事は消えましたが、豊富な新しいそして異なる仕事がそれらに取って代わりました。
+
+> `abundant`[形]「豊かな」  
+> > Magic: The Gathering 豊かな成長/Abundant Growth
+>
+> `abandon`[動]「放棄する」に音が似ているので注意
 
 In the past 30 years, many jobs have disappeared due to computer technology.  
 過去30年間で、多くの仕事がコンピューター技術のために姿を消しました。
@@ -90,3 +95,83 @@ Governments must also reform education to give people the right skills to surviv
 
 A world in which computers and robots do all the hard work sounds like paradise, but it will be a nightmare unless everyone is allowed to share in the prosperity it generates.  
 コンピューターとロボットがすべてのハードワークを行う世界は楽園のように聞こえますが、それが生み出す繁栄を誰もが共有することを許可されない限り、それは悪夢になります。
+
+## Vocabulary Questions
+
+Factory machinery also put individual **artisans** out of business.
+
+- [ ] machine operators
+- [ ] managers
+- [x] craftspeople
+- [ ] unskilled workers
+
+---
+
+The **eventual** result was not mass unemployment but mass prosperity.
+
+- [ ] most likely
+- [ ] actual
+- [x] long-term
+- [ ] immediate
+
+---
+
+Many old jobs disappeared, but **abundant** new and different jobs replaced them.
+
+- [ ] plentiful[形]「豊富な」
+- [ ] curious[形]「好奇心旺盛な」
+- [ ] fascinating[形]「魅力的な」
+- [ ] interesting[形]「興味深い」
+
+---
+
+Computers and robots are **erasing** old jobs without replacing them with enough new ones.
+
+- [x] eliminating
+- [ ] reviving
+- [ ] updating
+- [ ] innovating
+
+---
+
+Governments must also **reform** education to give people the right skills to survive in the new economy.
+
+- [ ] subsidize[動]「助成する」
+- [ ] provide[動]「提供する」
+- [x] restructure[動]「再構築する」
+- [ ] undertake[動]「引き受ける」
+
+## Discussion
+
+What are some new jobs that computer technology created?  
+コンピューターテクノロジーが作り出した新しい職業は何だろう？
+
+One of them is youtuber who is new style public relations, and also entertainer.  
+They are a kind of amplifier.
+
+---
+
+How focused is the present Japanese education system on skill and creativity?  
+Would you change anything about it given the information in the article?  
+今の日本の教育システムはスキルと創造性にどれくらいフォーカスしているか？  
+記事の情報を踏まえて、貴方は何か変えられますか？
+
+Nothing.
+Japanese education is just the comparing the answer.  
+The answer has already been prepared, and everything else is wrong.  
+There is no skill and creativity.  
+
+For example, math.
+the method of area calculating is multiple the height and width.  
+and there is no problem with multiplying width and height.  
+But there seems to be an elementary school that makes it incorrect.  
+
+The important thing about the previous question is that the answer doesn't change either way.  
+If anything other than the method taught by teacher is wrong, there isn't creativity at all.
+
+---
+
+Do you believe the predictions of the article?  
+Will there be fewer jobs in the future, or just millions of jobs nobody can imagine now, as history suggests?  
+あなたは記事の予測を信じますか？  
+歴史が示唆するように、将来的には仕事が少なくなるのでしょうか、それとも今では誰も想像できない数百万の仕事になるのでしょうか。

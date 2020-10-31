@@ -45,7 +45,7 @@ Andersonさんは、私たちの上司が部署の中で一番有能であると
 
 `our boss believes that he is the most ...`の文章から`he`が関係代名詞として先行詞に繋がる。
 
-> `competent`「有能な」
+> `competent`[形]「有能な」
 
 ---
 
@@ -60,8 +60,8 @@ If you install a solar panel, it will **save you about $20 a month** on your ele
 
 `save`の用法は次の２パターン
 
-- 物 save 人 金額
-- 人 save 金額
+- 第４文型：物 save 人 金額
+- 第３文型：人 save 金額
 
 今回は、itが主語になっているため前者を用いる。  
 同じ用法として`owe`などもある。
@@ -93,7 +93,7 @@ Speaking Japanese and Spanish, she works as a tour guide in Los Angeles.
 
 この場合、`because`なのか`while`なのか`when`かどうか分からない。  
 よって、`can`の意味を表現する必要がある。
-　
+
 (Being) able to speak Japanese and Spanish, Amy works as a tour guide in Los Angeles.  
 
 正直、`being`が省略されて`able`から始まれば、分詞構文と見抜けないかもしれない。

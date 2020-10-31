@@ -167,7 +167,7 @@ I think it is **bad manners** to put on make-up on a train.
 > - I'm wearing makeup.「化粧をしている状態」
 > - I'm putting on makeup.「化粧の作業中」
 >
-> 逆に化粧を落とす場合は`take off makeup`を用いる。
+> 逆に化粧を落とす場合は`remove`や`take off`を用いる。
 
 ---
 

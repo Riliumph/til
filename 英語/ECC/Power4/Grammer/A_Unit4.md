@@ -57,8 +57,8 @@ I dislike his/him smoking.
 He insisted on my/me going there.  
 彼は、私にそこに行くよう言い張った。
 
-> - `insist on A`：Aを強く主張する、言い張る、（嫌なことを）やり続ける
-> - `ask for A`：Aを強く求める  
+> - `insist on A`「Aを強く主張する、言い張る、（嫌なことを）やり続ける」
+> - `ask for A`「Aを強く求める」  
 >   「（嫌なことを）し続ける」意味はないので、文脈が限定される
 
 ## 不定詞と動名詞で意味が変わる動詞
@@ -201,13 +201,15 @@ She is opposed to opening a new branch.
 
 > 「反対する」の類義語
 >
-> - `be opposed to A`「Aに反対する」
-> - `object to A`「Aに反対する」
-> - `disagree with A`「Aに同意できない」 ＜ `be against A`「Aに反対する」  
->    ※ `be opposed to`は`disagree with`と同程度で、`be against`ほど強くはない
-> - `conflict with A`「Aと衝突する」  
-> 主語に人以外を当てはめることもできる。
+> |強さ|熟語|意味|
+> |:--:|:--:|:--|
+> |強|`be against A`|Aに反対する|
+> |｜|`be opposed to A`|Aに対立する|
+> |｜|`object to A`|Aに反対する|
+> |｜|`disagree with A`|Aに同意できない|
+> |弱|`conflict with A`|Aと衝突する|
 >
+> 主語に人以外を当てはめることもできる。  
 > Their opinions were opposed to each other.  
 > 彼らの意見は対立していた。
 

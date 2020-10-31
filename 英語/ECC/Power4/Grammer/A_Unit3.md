@@ -205,7 +205,7 @@ He failed **to return** from the voyage.
 - [ ] returning
 - [x] to return
 
-> `voyage`「航海」
+> `voyage`[名]「航海」
 
 `fail`はto不定詞を用いる。  
 `succeed`は逆の意味で近いイメージなのでto不定詞と思うと大間違い。
@@ -224,7 +224,7 @@ He failed **to return** from the voyage.
 **Needless to say**, diligence is a key to success.  
 言うまでもなく、勤勉は成功の鍵だ。
 
-> `diligence`「勤勉」
+> `diligence`[名]「勤勉」
 
 ## Post-Test
 
@@ -255,13 +255,13 @@ We persuaded her not **to give up** her current position.
 
 > 「納得させる」
 >
-> - `persuade`「説得する（かつ、行動させる）」  
+> - `persuade`[動]「説得する（かつ、行動させる）」  
 > He persuade her to marry him. (~~himself~~ではないので注意)  
 >    彼は、（自身）と結婚するよう彼女を説得し、行動させた。  
 > -> 彼は、彼女に結婚を迫った。  
 > 特に、**感情的**に説得するイメージがある。
 >
-> - `convince`「説得する（かつ、認めさせる）」  
+> - `convince`[動詞「説得する（かつ、認めさせる）」  
 > I'm going to try to convince him that it's best to surrender.  
 >    私は、降伏するのが一番だと彼を説得し、認めさせようとしてみるつもりだ。  
 > -> 私は、彼に降伏するのが一番だと説得してみるつもりだ。  
@@ -282,8 +282,8 @@ The doctor hesitated **to tell** her family about her disease.
 `hesitate`は感情であり、また「ためらってる時」にはまだ`tell`していないということで未来を示す不定詞を用いる。  
 正直、`hesitate to`と覚えてしまっても問題ない。
 
-> `hesitate`「ためらう」  
-> `reluctant`「やる気がない」と同じ意味をもつ。
+> `hesitate`[動]「ためらう」  
+> `reluctant`[形]「やる気がない」と同じ意味をもつ。
 > > Magic: The Gathering  
 > > Hesitation / 躊躇
 
@@ -308,7 +308,6 @@ The applicants raised my expectation, only **to disappoint me**.
 > `applicant`「応募者」
 
 ### Step2: 例文
-
 
 電車内では携帯電話で通話しないでください。
 

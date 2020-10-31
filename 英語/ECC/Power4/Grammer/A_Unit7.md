@@ -59,7 +59,7 @@ A powerful typhoon hit the region, leaving 24 people dead and 5 missing.
 Having been there three times, she wanted to go somewhere else.  
 ３回も行ったので、彼女は別の場所に行きたかった。
 
-Hot having done his homework yet, he can't go out with his friends.
+Hot having done his homework yet, he can't go out with his friends.  
 まだ宿題が終わってなかったので、彼は友達と出かけることができない
 
 ## Post Test
@@ -113,6 +113,7 @@ Having spent almost all (of) money, I didn't have enough money to buy souvenirs 
 ABC Foodsについてはいくつかの気がかりな噂を聞いた。しかし、総合的に考えて、その会社には投資する価値がある。
 
 I heard disturbing rumors about ABC Foods.  
+
 ~~Generally thinking~~, it is worth while investing in the company.  
 But all things considered, the company is worth investing in.
 
@@ -137,7 +138,7 @@ Approximately 175 billion spam mail are sent daily, generating more than 17 mill
 > 占める
 >
 > - `account for`「（割合を）占める」
-> - `occupy`「（割合を）占める」
+> - `occupy`[動]「（割合を）占める」
 > - `take up`「（空間を）占める」
 
 ---
