@@ -17,7 +17,11 @@ Then along came laborsaving machinery, and it put almost everyone out of a job.
 Factory machinery also put individual artisans out of business.  
 工業機械類も個人の職人を廃業させた。
 
-> `put O C`
+> `put 人 名詞`は`人 be 名詞`と置き換え可能。  
+> 以下のような言い換えとほぼ同じ仕組み。  
+>
+> - I am used to 〜.
+> - I get used to 〜.
 
 However, the eventual result was not mass unemployment but mass prosperity.  
 しかし、最終的な結果は多いな失業ではなく、多いな繁栄でした。
@@ -118,7 +122,7 @@ The **eventual** result was not mass unemployment but mass prosperity.
 
 Many old jobs disappeared, but **abundant** new and different jobs replaced them.
 
-- [ ] plentiful[形]「豊富な」
+- [x] plentiful[形]「豊富な」
 - [ ] curious[形]「好奇心旺盛な」
 - [ ] fascinating[形]「魅力的な」
 - [ ] interesting[形]「興味深い」
