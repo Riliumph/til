@@ -277,6 +277,8 @@ I **mostly** go to school by bus.
 - [ ] most
 - [ ] more
 
+`almost`を使う場合は`almost always`を使えばいい。
+
 ---
 
 **Almost all the** students in the class passed the exam.  
@@ -289,28 +291,54 @@ I **mostly** go to school by bus.
 
 ---
 
+I have never met her **before**.  
+私は以前に彼女に会ったことがない
+
+- [ ] ago
+- [ ] later
+- [ ] then
+- [x] before
+
+`ago`は今を基準にした「〜前」であり、`before`は過去の一点を基準にした「〜前」である。
+
+---
+
 My brother usually doesn't go to bed early, and **neither do I**.  
 私の兄も私もいつも早く寝ない
 
 ---
 
-I found the movie **disappointed** and fell asleep.  
+I found the movie **disappointing** and fell asleep.  
 私はその映画に**がっかり**して寝た
 
 - [ ] disappointment
 - [ ] disappointments
-- [x] disappointed
-- [ ] disappointing
+- [ ] disappointed
+- [x] disappointing
+
+`movie`と`disappoint`の関係は「がっかりする映画」なので現在分詞になる。  
+人と`disappoint`の関係なら「がっかりさせられる人」なので過去分詞になる。
 
 ---
 
-Billy and Cathy have **alike** views on the cost-reduction scheme.  
+Billy and Cathy have ~~alike~~ **similar** views on the cost-reduction scheme.  
 ビリーとキャシーはコスト削減の枠組みで**似たような**観点を持っている。
 
-- [ ] similar
-- [x] alike
-- [ ] likely
+- [x] similar[形]
+- [ ] alike[形]
+- [ ] likely[形]
 - [ ] look like
+
+`views`を修飾する**形容詞**を選択する問題。  
+`alike`などの言葉は第２文型SVCの保護にしか使えない。  
+`similar`は`be similar to A`の印象が強いが形容詞なのでこれが正解。  
+`likely`も`be likely to`で使われる形容詞だが「尤もらしい」という意味の「ほとんど」のため意味が異なる。
+
+> `be similar to` / `be likely to`ともに`to`は前置詞なため、あとは名詞を用いる。
+
+`alike`を用いる場合は以下のような文章になる。
+
+Billy's view and Cathy's view are alike.
 
 ---
 
@@ -322,7 +350,7 @@ Tom **rarely cuts** classes.
 - [ ] has cut rarely
 - [ ] rarely had cut
 
-> `cut a class`「授業をサボる」
+> `cut a class`「授業をサボる」 = `skip a class`
 
 ---
 
@@ -330,9 +358,9 @@ The exchange rate **has been announced daily**.
 為替率は毎日アナウンスされている
 
 - [ ] has daily been announced
-- [ ] has been announced daily
+- [x] has been announced daily
 - [ ] daily has been announced
-- [x] has been daily announced
+- [ ] has been daily announced
 
 ---
 
@@ -350,9 +378,11 @@ Each of these rooms is **possible** of accommodating a hundred people.
 各部屋、100人を収容することができる。
 
 - [ ] able
-- [ ] capable
+- [x] capable
 - [ ] competent
-- [x] possible
+- [ ] possible
+
+> `each`はそれぞれに焦点を当てているため単数系になる。
 
 ---
 
@@ -361,8 +391,14 @@ It is not **sensitive** to push someone around all the time.
 
 - [ ] sensory[名]「感覚」
 - [ ] sensible[形]「分別のある、思慮のある、賢明な」
-- [ ] sensitive[形]「敏感な、感じやすい」
+- [x] sensitive[形]「敏感な、感じやすい」
 - [ ] sensing「感じている」
+
+`sensible`と`sensitive`の意味の違いを問われている。  
+覚えられない場合は以下のセンテンスで覚えておくこと。
+
+Sensible person avoid a sensitive issue.  
+賢明な人は、（LGBTなど）繊細な問題を避ける。
 
 ### Step2
 
@@ -372,7 +408,7 @@ Glob Electronics Co. hosted 10th anniversary ceremony yesterday. And almost all 
 
 関係詞？？
 
-Glob Electronics Co.hosted a ceremony which is celebrating 10th anniversary. And almost all the employees were present the ceremony
+Glob Electronics Co.hosted 10th anniversary ceremony, in which (= where) almost employee be present.
 
 > 開催する  
 >
@@ -395,9 +431,12 @@ Glob Electronics Co.hosted a ceremony which is celebrating 10th anniversary. And
 
 日本は主要なエネルギー源として、原子力に大きく依存している。しかし、最近ではより多くの人が原子力施設の安全性を心配している。
 
-Japan depends heavily on nuclear power as its primary energy source.
+Japan heavily depends on nuclear power as its primary energy source.
 
-But nowadays more and more people are concerned about the safety of nuclear facilities.
+~~But~~ However nowadays more and more people are concerned about the safety of nuclear facilities.
+
+口語なら`But`や`Because`などの接続詞が口頭に来ても問題ないが、文章では誤り。  
+必ず`however`を用いること。
 
 依存している  
 
@@ -414,14 +453,7 @@ But nowadays more and more people are concerned about the safety of nuclear faci
 
 A small gallery in Paris was featured in a certain magazine.
 
-Approximately half of the paintings in the gallery were drawn by art college students, and their work is highly regarded by art critics.
-
-Approximately half of the paintings in the gallery were drawn by art college students, and their work is rated highly regarded by art critics.
-
-workの単複  
-`their work`とすると、前文の`half of the paintings`を一つと捉えた全体の話をすることになる。  
-対して`their works`とすると、`half of the paintings`の内のいずれかになる。  
-ただし、そういう表現をする場合は、`some pieces of their works`とした方が良いのかもしれない。
+Approximately half of the paintings in the gallery were drawn by art college students, and their works are highly regarded by art critics.
 
 高く評価する Evaluate vs Rate  
 
@@ -436,11 +468,4 @@ workの単複
 また、`good evaluation`は「適切な評価」を意味し、品質が良い場合も悪い場合でも使えるので注意。  
 
 評価の高低を表現する場合は`rate`を用いるのが正しい。
-※ high / highly「高い」 <--> poor / poorly「低い」
-
-- X is rated highly. / They rate X highly.
-- X is rated high. / They rate X high.
-- X rates high(ly).
-- X has a high rating
-
-https://www.eevocablog.com/hyoka/
+※ high / highly「高い」 <--> low / poorly「低い」
