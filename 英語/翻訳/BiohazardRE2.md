@@ -1,6 +1,7 @@
-Biohazard RE2
+# Biohazard RE2
 
 Biohazard RE2の翻訳。
+
 ## OP
 
 [Guest]  
@@ -45,7 +46,7 @@ Her whole face ... looked like it was rotting!
 She looked like a corpse ―― Like a walking corpse, man!  
 まるで死人さ　歩く死体みたいで  
 [Driver]  
-Her. Sounds like my wife. 
+Her. Sounds like my wife.
 カミさんみたいだ  
 [Guest]  
 I've never seen anything like it...  
@@ -198,17 +199,26 @@ They'll know something.
 Yeah, but...what if we're the only ones?  
 ええ　そうね　でも生き残ってるのが私たちだけだったら？  
 What if there's no survivors――  
-※日本語訳は存在せず、前のセリフの訳の強調の役目  
+
+> ※日本語訳は存在せず、前のセリフの訳の強調の役目  
+
  [Leon]  
-No. There's survivors. \_ There’reの誤植？  
+No. There's survivors.  
 いや　他にもいるさ  
+
+> There’reの誤植？
+
 It's a big city...there has to be.  
 デカい町だ　きっといる  
 Looks like we're walking from here.  
 歩くしかなさそうだ  
 [Claire]  
-More like running. \_More like B「むしろBに近い」  
-「走る」の間違い？（直訳：むしろ「走る」に近いわよ）  
+More like running.  
+「走る」の間違い？
+
+> `More like B`「むしろBに近い」  
+> （直訳：むしろ「走る」に近いわよ）  
+
 [Leon]  
 Yeah, good call.  
 ああ　そうだな  
@@ -233,7 +243,7 @@ Hold on!
 Oh, no... CLAIRE!  CLAIRE, YOU OK!?  
 ウソだろ…クレア！　クレア　大丈夫か！？  
 [Claire]  
-YEAH! I'M ALTIGHT! HOW ABOUT YOU!?  
+YEAH! I'M ALRIGHT! HOW ABOUT YOU!?  
 ええ！　大丈夫よ　あなたは？  
 [Leon]  
 I CAN'T STAY HERE! IT'S NOT SAFE!  
@@ -1114,10 +1124,10 @@ What the hell was that!? Oh my god...this is getting worse!
 Jesus Christ! It's still alive!?  
 まずいぞ！　あいつ生きてたのか  
 
--   クレーン  
+- クレーン  
     Now I got you!  
     じっとしてろ！  
--   クレーン２回目  
+- クレーン２回目  
     Let's do this!  
     待ってろよ！  
     Let's hope that's the last of him.  
@@ -1240,7 +1250,8 @@ Here we are.
 
 ### 研究所
 
-#\###ケーブルカー搭乗  
+#### ケーブルカー搭乗  
+
 [Ada]  
 This may be a one-way ride. So be prepared, Leon.  
 この先は片道切符よ　覚悟はいい？　レオン  
@@ -1649,7 +1660,9 @@ What the…?
 え？　なに？  
 Hello…?  
 誰？  
-####ガソリンスタンド入店  
+
+#### ガソリンスタンド入店  
+
 [Claire]  
 Hello? Anybody here?  
 あのう…　誰かいませんか？  
@@ -1766,7 +1779,7 @@ You alright?
 平気か？  
 [Claire]  
 Yeah.  
-ええ　  
+ええ
 [Marvin]  
 You’re safe…for now.  
 しばらくは…安全だ  
@@ -2928,7 +2941,7 @@ No…!
 イヤ！  
 [Claire]  
 Sherry…Sherry…we gotta say goodbye to your mom.  
-シェリー　ママにさよならして　  
+シェリー　ママにさよならして
 Come on. Please say goodbye.  
 さあ早く　さよならして  
 Please Sherry, listen…  
