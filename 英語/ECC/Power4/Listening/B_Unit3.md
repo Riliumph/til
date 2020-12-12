@@ -5,7 +5,8 @@
 Who Needs Highway Lights  
 誰が高速道路のライトが必要なのか
 
-> `Rhetorical Question`と呼ばれる質問技法
+> `Rhetorical Question`「修辞疑問・反語」と呼ばれる質問技法。  
+> いわゆる、答えを求めていない質問である。
 
 On a 500-meter stretch of highway near Oss, in the Netherland, there are no streetlamps to light the way at night.  
 オランダのオス近くの500メートルの高速道路には、夜間に道を照らす街灯はありません。
