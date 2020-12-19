@@ -48,6 +48,9 @@ The sofas are facing each other.
 The woman is sitting with her legs crossed.  
 女性は足を組んで座っている
 
+> `with one's legs crossed`「足を組む」  
+> `with one's arms folded`「腕を組む」
+
 Traffic is heavy at a side of the street.
 
 A phone is off the hook.  
@@ -108,6 +111,9 @@ Scientists want to study the **collected** material from the planet to see if it
 - [ ] collection 収集品
 - [ ] collector 収集家
 
+> Magic: The Gathering  
+> Collected Company / 集合した中隊
+
 ---
 
 The president announced his plan for all new cars produced in the country to have zero emissions **within** five years.  
@@ -140,7 +146,7 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
 - [ ] for というのも  
   等位接続詞`for`は同等のモノを接続でき、「結果, for 原因」の順番を構成する。
 - [ ] since だから  
-  接続使用法`since`は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）
+  接続詞用法`since`は、基本的には文頭で使われる。（多分、後ろで使っても問題はなさそう？）
 - [ ] so だから  
   等位接続詞`so`は同等のモノを接続でき、「原因, so 結果」の順番を構成する。
 - [x] while ～している間  
@@ -157,12 +163,12 @@ Well-regarded speakers know the importance of keeping their short, **while** usi
 > このため、`since`には以下の問題点を持つ。
 >
 > - `Why`疑問文の回答に用いることができない  
->   A:Why didn't you go?  
->   B:Because I was busy.  
->   B:\* Since I was busy.（使えない）
+>   A: Why didn't you go?  
+>   B: **Because** I was busy.  
+>   B:\* ~~**Since**~~ I was busy.（使えない）
 > - 強調構文に利用できない  
->   It was because she was sick that she didn't come to the party.  
->   \* It was since she was sick that she didn't come to the party.（使えない）
+>   It was **because** she was sick that she didn't come to the party.  
+>   \* It was ~~**since**~~ she was sick that she didn't come to the party.（使えない）
 
 ---
 
@@ -385,7 +391,7 @@ Usually you cannot start a business unless you have **some funds**.
 
 Use 3 parts of edible oil to 5 vinegar; I mean, use oil ~~with~~[and] vinegar at a rate of 3 to 5.
 
-Open page 19 in your booklet; it tells us comprehensively how to rebuild your rooms.
+Open page 19 in your booklet; it tells us comprehensively how to rebuild your rooms.  
 ブックレットのページ 19 を開きなさい。部屋を再構築する方法を包括的に教えてくれます。
 
 Statistics suggest~~s~~ that the population of the village has tripled in the last five years.

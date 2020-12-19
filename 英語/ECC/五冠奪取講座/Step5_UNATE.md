@@ -84,9 +84,9 @@ Zhui said China needed membership in the global trade group to improve the livel
 
 - On the eve of China's WTO entry, / 中国の WTO 加盟の直前に、
   - (S) Premier Zhu Rongji / 朱鎔基首相は
-    - (v1) has ordered officials / 当局者に命じた
-      - to prepare for / の準備を
-        - wrenching but crucial reforms / 苦痛を伴うが、重要な改革
+    - (V1) has ordered officials / 当局者に命じた
+      - to prepare for wrenching / 重要な改革の準備を
+        - but crucial reforms / 苦痛を伴うが、
           - needed to drive development / 発展を推進するために必要とされる
     - (V2) and warned / さらに、警告した
       - them to tiptoe the line / （訳せない）

@@ -76,7 +76,7 @@ Toga, **wearing** a gray monk's robe, pointed to moss in the traditional sansui 
    過度の愛国心と他国に対する軽蔑を組み合わせた攻撃的な態度
 
 3. nepotism「縁故主義、ネポティズム」  
-   favoritism shown to relatives in appointing them to jobs
+   favoritism shown to relatives in appointing them to jobs  
    事に任命する際に示される好意
 
 4. tokenism「トークン主義、申し訳程度の、名ばかりの」  
@@ -98,7 +98,7 @@ To the delight of conservationists, the council recently passed a new **ordinanc
 In his resignation letter, John wrote that he loved teaching but could no longer handle the **incessant** demands from the children's parents.  
 ジョンは辞任の手紙の中で、教えることは大好きだったが、子供の両親からの**絶え間ない**要求に対処できなくなったと書いています。
 
-- [x] incessant 絶え間ない  
+- [x] incessant 絶え間ない
 - [ ] deferential 差別的
 - [ ] auspicious 縁起の良い
 - [ ] conducive 助けになる
@@ -270,7 +270,7 @@ The smooth-talking criminal **swindled** many elderly people out of their saving
 
 ---
 
-Having been brought up in a quiet village, Hideki could not get used to the **frenetic** pace of life in Tokyo when he moved there.
+Having been brought up in a quiet village, Hideki could not get used to the **frenetic** pace of life in Tokyo when he moved there.  
 静かな村で育ったヒデキは、東京に引っ越したときの**熱狂的な**生活に慣れることができませんでした。
 
 - [x] frenetic 熱狂的な、逆上した
@@ -309,7 +309,7 @@ The radio station was **inundated** with complaints after it announced the cance
 
 A: Jason doesn't seem to be enjoying school lately.  
 A: 最近、ジェイソンが学校を楽しんでいないみたい。  
-B: I know. I think he's been completely **ostracized** by some of his classmates since he told the teacher about them cheating on a test.
+B: I know. I think he's been completely **ostracized** by some of his classmates since he told the teacher about them cheating on a test.  
 B: うん。彼はテストで不正行為をしていることを教師に伝えたら、同級生の何人かに完全に追放されたと思います。
 
 - [ ] incarcerated 投獄された、監禁された、幽閉された
@@ -333,7 +333,7 @@ An expert in disguise and fluent in several languages, the secret agent has take
 
 My refrigerator suddenly stopped working last night.  
 昨晩、冷蔵庫が突然機能しなくなりました。  
-The last thing I need right now is to **shell out** hundreds of dollars on a new one.
+The last thing I need right now is to **shell out** hundreds of dollars on a new one.  
 まさに今、私が必要な一番やりたくないものは、新しい冷蔵庫のために何百ドルも**渋々払うこと**だ。
 
 > The last thing 「最後にすること」から転じて「一番やりたくないこと」を意味する。
@@ -370,7 +370,7 @@ There are only two weeks until my university finals, so I've decided to **buckle
 ---
 
 A: Did you see those police cars at end of the block last night?  
-A: 昨夜、その区画の終わりにパトカーを見ましたか？
+A: 昨夜、その区画の終わりにパトカーを見ましたか？  
 B: Yeah. I think they caught a car thief. They **hauled off** the suspect to the local police station.  
 B: うん。 車泥棒を捕まえたんだと思う。彼らは容疑者を地元の警察署に**しょっ引いた**んだ。
 
