@@ -93,7 +93,7 @@ Here to talk about that is Ann Thomas of Thomas Jewelers.
 ここでそれについて話すのはトーマスジュエラーズのアントーマスです。
 
 Ann, when did your store install sensors?  
-ここでそれについて話すのはトーマスジュエラーズのアントーマスです。
+アン、いつお店にセンサーを導入したの？
 
 Ann Thomas:  
 We installed them in November to help us manage the busy Christmas season.  

@@ -200,12 +200,16 @@ I don't want to go out. It's very cold outside; **besides**, it's too late.
 ### Step1
 
 Look at this mess! Make sure it is clean **until** we go out for dinner.  
-この散らかり具合よ！私達が出かけるまで綺麗にしなさい
+この散らかり具合よ！私達が出かけるまでに綺麗にしなさい
 
 - [ ] by
-- [ ] by the time
-- [x] until
+- [x] by the time
+- [ ] until
 - [ ] until when
+
+`by`は前置詞のためS+Vを使うことが出来ない。  
+また、`until`は前置詞でもあり、接続詞としても用いることができるが、「〜まで（継続する）」という意味のため文意に合わない。  
+よって、`the time (that) S V`の形が正解。
 
 ---
 
@@ -273,11 +277,11 @@ He got a promotion; **moreover**, he got engaged. He is very happy.
 
 ---
 
-Please let me know your address as soon as you **moved** to Tokyo.  
+Please let me know your address as soon as you **move** to Tokyo.  
 東京を引っ越したらすぐに住所を教えて下さい
 
-- [ ] move
-- [x] moved
+- [x] move
+- [ ] moved
 - [ ] will move
 - [ ] had moved
 
@@ -304,9 +308,12 @@ I asked my professor to speak a little more slowly **so that** I could understan
 - [ ] therefore
 - [x] so that
 
+`in order to`でもto不定詞を用いれば表現可能。  
+`in order to understand`で良い。`in order to be able to understand`は結構くどい。
+
 ---
 
-I think your point of view is very interesting; **however**, I personally disagree with it.
+I think your point of view is very interesting; **however**, I personally disagree with it.  
 貴方の観点はとてもおもしろいと思う。だが、個人的には賛成できない。
 
 - [ ] therefore
@@ -323,7 +330,7 @@ I think your point of view is very interesting; **however**, I personally disagr
 
 - [ ] Therefore
 - [ ] Because of
-- [ ] Although
+- [x] Although
 - [ ] In spite of
 
 ### Step2
@@ -331,12 +338,44 @@ I think your point of view is very interesting; **however**, I personally disagr
 大型のハリケーンが接近しているので、明日の午前中のフライトが全て欠航になる可能性があります。  
 明日そちらの事務所に行けない場合に備えて、ミーティングを明後日に延期してもらえませんか。
 
-Due to the approaching large hurricane, all flights tomorrow morning may be canceled.  
+Due to the approaching large hurricane, all flights tomorrow morning may be canceled.
+
 Could you postpone the meeting the day after tomorrow in case I can't go to your office tomorrow?
+
+`tomorrow`が２回続いていることに違和感を持つべき。  
+「オフィスに行けない」を「ミーティングを成立させられない」と捉えることで省くことができる。
+
+【正解】  
+Could you postpone the meeting to the day after tomorrow in case I can't make it?
 
 ---
 
 ２年後、英語が社内の公用語になる。英語で意思疎通ができるようになるために週に２回英語のレッスンを取っている。
 
-Two years later, English will become the official language of the company.  
+Two years later, English will become the official language of the company.
+
 I take English lessons twice a week to be able to communicate in English.
+
+`to be able to do`は不定詞が２回続いてしまってくどい。  
+`in order to`だけで十分。  
+また、接続詞を用いる場合は`so that S V`が使える。
+
+【正解】  
+Two years later, English will become the in-house language of the company.
+
+I take English lessons twice a week (in order) to communicate in English.
+
+### 追加の宿題
+
+接続詞を使って５文以上の章を作れ。
+
+Apple computerはMicrosoftよりも早期にGUIを持つパーソナルコンピュータをリリースしたが、MacはWindowsほどの大きなシェアを獲得できなかった。  
+AppleはMacの仕様を公開していれば、結果は違ったかもしれない。  
+その一方で、AppleはスマートフォンのシェアでMicrosoftを圧倒している。  
+しかし、この場合、Appleが売上を競っているのは彼らではなくGoogleだ  
+
+Although Apple Computer released a personal computer with graphical user interface earlier than Microsoft, Macintosh didn't achieved as much share as Windows.  
+As long as Apple had published the mac specification, the results might have been different.  
+On the other hand, in terms of smartphone's share, Apple overwhelms Microsoft.  
+However, in this case, Apple's enemy is Google instead of them.  
+when it comes to smartphone, iPhone overtook android in 2019.  
