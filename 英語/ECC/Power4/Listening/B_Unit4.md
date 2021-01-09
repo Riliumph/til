@@ -143,3 +143,56 @@ Our sensors don't collect a lot of personal information.
 
 We just want to make the shopping experience better.  
 ショッピング体験をより良くしたいだけです。
+
+## Step 4
+
+You'll be required to show your parking **permit** at the entrance of the company parking lot.  
+会社の駐車場の入り口に駐車場**許可証**を提示する必要があります
+
+> `parking lot`[名]「（英国）駐車場」  
+> `car park`[名]「（米国）駐車場」
+
+---
+
+There are some serious senses, but the film is **basically** a comedy  
+いくつかの深刻な感覚がありますが、映画は**基本的に**コメディです。
+
+---
+
+The restaurant is **locate** right by the harbor, so the view is amazing.  
+レストランは港のすぐそばにあるので、景色は素晴らしいです。
+
+---
+
+The company only records personal information **with the consent** of customers.  
+同社は、顧客の**同意を得て**のみ個人情報を記録します。
+
+---
+
+I think security cameras in clothing store dressing rooms are an **invasion** of privacy.  
+衣料品店の更衣室にある防犯カメラはプライバシーの**侵害**だと思います。
+
+---
+
+A police **investigation** has revealed that the crash was not the driver's fault.  
+警察の**調査**は、クラッシュがドライバーのせいではないことを明らかにしました。
+
+---
+
+I'm sorry I can't help you, but it does say in the **terms and condition** that we don't replace lost or stolen phones.  
+申し訳ありませんが、お役に立てませんが、**利用規約**には、紛失または盗難にあった電話は交換しないと記載されています。
+
+---
+
+More than hundred members of **the press** gathered in front of the courthouse.  
+**報道機関**の100人以上のメンバーが裁判所の前に集まりました。
+
+---
+
+The neighbors became **suspicious** when they heard a loud scream late at night.  
+彼らが夜遅くに大きな叫び声を聞いたとき、隣人は**疑わしい**になりました。
+
+---
+
+I have some **concern** about our firm investing in such a high-risk industry.  
+私は、このようなリスクの高い業界に投資している当社について、いくつかの**懸念**を持っています。

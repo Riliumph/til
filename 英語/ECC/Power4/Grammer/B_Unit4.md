@@ -373,6 +373,7 @@ Apple computerはMicrosoftよりも早期にGUIを持つパーソナルコンピ
 AppleはMacの仕様を公開していれば、結果は違ったかもしれない。  
 その一方で、AppleはスマートフォンのシェアでMicrosoftを圧倒している。  
 しかし、この場合、Appleが売上を競っているのは彼らではなくGoogleだ  
+スマートフォンに関しては、2019年にiPhoneはAndroidを超えた。
 
 Although Apple Computer released a personal computer with graphical user interface earlier than Microsoft, Macintosh didn't achieved as much share as Windows.  
 As long as Apple had published the mac specification, the results might have been different.  
