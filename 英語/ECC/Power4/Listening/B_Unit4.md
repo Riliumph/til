@@ -45,7 +45,16 @@ Good afternoon, members of the press.
 The City of London has learned that high-tech litter bins have been collecting data from the smartphones of pedestrians.  
 ロンドン市は、高機能ゴミ箱が歩行者のスマートフォンから情報を集めていたことを知りました。
 
-> `pedestrians`「歩行者」
+> `pedestrians`「歩行者」  
+>
+> |英語|和訳|
+> |:--:|:--|
+> |`trash`|一般的なゴミ|
+> |`garbage`|生ゴミ|
+> |`rubbish`|不要になったゴミ|
+> |`waste`|（使用済み）廃棄物|
+> |`litter`|（公共の場などの）産卵したゴミ|
+> |`refuse`|（大きめ、もしくは大量の）不要になったゴミ|
 
 These data-collecting bins are owned by an advertising company.  
 これらのデータ収集ゴミ箱は広告会社によって所有されている。
@@ -86,6 +95,8 @@ Interviewer:
 More than 1,000 US retailers now use phone sensors to track customers in their stores.  
 現在、1,000を超える米国の小売業者が電話センサーを使用して店舗の顧客を追跡しています。
 
+> `retailer`「小売」 <--> `wholesaler`「卸売」
+
 Despite the privacy concerns of some customers, stores insist that sensors are only there to improve store service.  
 現在、1,000を超える米国の小売業者が電話センサーを使用して店舗の顧客を追跡しています。
 
@@ -103,7 +114,7 @@ We use tracking systems, such as video cameras, sensors, and software to create 
 ビデオカメラ、センサー、ソフトウェアなどの追跡システムを使用して、店舗内の人々の動きのフローチャートを作成し、人々が何を手に取って最も触れているかを確認します。
 
 Interviewer:  
-And how does this help customers?
+And how does this help customers?  
 そして、これはどのように顧客を助けますか？
 
 Ann Thomas:  
@@ -120,7 +131,7 @@ If wait times got oo long, we could send over staff to sign up customers for our
 待ち時間が長くなった場合は、スタッフを派遣してオンラインストアに顧客を登録することができます。
 
 Interviewer:  
-What other changes did you make?
+What other changes did you make?  
 他にどのような変更を加えましたか？
 
 Ann Thomas:  
@@ -134,7 +145,7 @@ Basically, the software teaches us how to make our customers more comfortable, a
 基本的に、このソフトウェアは、顧客をより快適にする方法と、顧客を目的の製品に向ける方法を教えてくれます。
 
 Interviewer:  
-So what do you say to people who believe the sensors are on invasion of privacy?
+So what do you say to people who believe the sensors are on invasion of privacy?  
 では、センサーがプライバシーを侵害していると信じている人々に何を言いますか？
 
 An Thomas:  

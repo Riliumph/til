@@ -168,22 +168,16 @@ He studied hard; **therefore**, he passed the test.
 > `FANBOYS+α`を文頭で用いるな。  
 > 以下の接続詞は文頭で用いられることはない
 >
-> - For  
->   He doesn't have any money, for his purse was stolen.
-> - And  
->   It's raining hard, and there is a strong wind outside.
-> - Nor  
->   I don't smoke, nor do I want to.
-> - But  
->   She didn't hand in her paper, but she passed anyway.
-> - Or  
->   I might go shopping, or I'll go to see a movie tomorrow.
-> - Yet  
->   I had studied hard, yet I failed the test.
-> - So  
->   My mom is sick, so I'll cook dinner tonight.
-> - Because  
->   He missed the train, because he slept through his alarm.
+> |接続詞|例文|
+> |:--:|:--|
+> |For|He doesn't have any money, for his purse was stolen.|
+> |And|It's raining hard, and there is a strong wind outside.|
+> |Nor|I don't smoke, nor do I want to.|
+> |But|She didn't hand in her paper, but she passed anyway.|
+> |Or|I might go shopping, or I'll go to see a movie tomorrow.|
+> |Yet|I had studied hard, yet I failed the test.|
+> |So|My mom is sick, so I'll cook dinner tonight.|
+> |Because|He missed the train, because he slept through his alarm.|
 
 ---
 

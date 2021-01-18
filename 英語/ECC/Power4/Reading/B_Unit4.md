@@ -96,3 +96,84 @@ As long as stores act responsibly and follow the code, customers will at least h
 
 However, the issue of whether people should be able to shop in privacy without making a special effort to "opt out" is still a matter for debate.  
 しかし、「オプトアウト」するための特別な努力をせずにプライバシーを守って買い物ができるかどうかという問題は、依然として議論の余地がある。
+
+## 3 Overview
+
+When we shop on the Internet, companies like Amazon use software to **track our purchases** so that they can learn what we like.  
+私達がインターネットで買い物する時、Amazonのような会社は、私達が好きなことを学ぶために私達の買い物を追跡するためのソフトウェアを使う。
+
+Customers accept it, or they would not shop online.  
+顧客がそれを受け入れるか、オンラインで買い物をしないかを選ぶ。
+
+Now many stores are installing **smartphone sensors**, which track customers' **shopping habits** in much the same way as Amazon does online.  
+今、多くのお店がスマートフォンセンサーを導入している。それはAmazonがオンラインでしているのとほぼ同じ方法で顧客の買い物の習慣を追跡する。
+
+The problem is, customers do not like being followed in **the real world**.  
+問題は、顧客が現実の世界で追跡されることを好まないということだ。
+
+One department store **removed** the system after customer complained.  
+とあるデパートメントストアが顧客が不満になったあとでシステムを解除した
+
+Consequently, the companies making the sensors have introduced **a code of conduct**.  
+結果として、センサーを作った会社は**利用規約**を導入した
+
+Stores must **informed** customers if they are being tracked, and customers must have **the choice to opt out** if they want to (be tracked by the sensor).  
+顧客が追跡されるなら、店側が顧客に通知しなければならず、そうすることで顧客は追跡されるかどうか選択肢を持つことができる。
+
+## 4 Vocabulary Questions
+
+When we shop on the Internet, companies use software to **track** our purchases.  
+我々がインターネットで買い物をするとき、企業は私達の買い物を追跡するためにソフトウェアを使う。
+
+- [x] monitor「監視する」
+- [ ] refund「返金する」
+- [ ] calculate
+- [ ] process
+
+> - `refund`「払い戻し」  
+> - `reimburse`「建て替えたものに対して払い戻しする」
+
+---
+
+The code **aims** to make sure that stores, customers, and governments are all comfortable with how these systems operate.  
+その規約は店、顧客、政府がこれらのシステムの動作に満足していることを確認することが目的です。
+
+- [ ] fails「失敗する」
+- [ ] guarantees「保証する」
+- [x] intends「意図する」
+- [ ] exists「存在する」
+
+> `aim`「目的である」  
+> `make sure X`「Xであることを確認する」
+
+---
+
+Stores must **alert** customers if they are using tracking technology.  
+追跡技術を使っているかどうか、店が顧客に警告しなければならない。
+
+- [ ] protect
+- [x] notify
+- [ ] apologize to
+- [ ] deal with
+
+---
+
+They must provide instructions about how to **opt out**.  
+彼らはオプトアウトする方法について示さなければならない。
+
+- [x] stop taking part
+- [ ] choose an alternative
+- [ ] exit the building
+- [ ] find out more
+
+> `instruction`「命令、支持」
+
+---
+
+People should be able to shop **in privacy**.  
+人々はプライバシーを守って買い物ができるはずです。
+
+- [ ] by themselves「自身で」
+- [ ] at home「家で」
+- [ ] in freedom「自由に」
+- [x] without observation「監視されずに」
