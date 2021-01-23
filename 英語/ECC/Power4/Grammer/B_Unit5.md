@@ -73,6 +73,8 @@ You **must** pay the tuition for next semester within this month.
 - [ ] may「かもしれない」
 - [x] must「必要がある」
 
+この用法は`have to`と同じ義務の用法
+
 > `tuition`「授業料」  
 > `semester`「学期」  
 
@@ -110,8 +112,11 @@ You **may** smoke only in the designated area on each floor.
 - [x] may
 - [ ] must
 
-`can`は主語に紐づくもので、主語の「能力」としての「できる」を意味する。  
-指定されたエリア以外で喫煙すると死ぬのであれば`can`でも問題ないが、そうではないので`may`を用いるのが正解。
+`may`ではなく`can`でも代用可能。  
+`may`の方がフォーマルな印象を持つ。
+
+`may`はトップダウンの印象が強く、親子や上司部下の関係のときに用いられる。  
+逆に、`May I 〜?`という疑問文は店員から顧客にボトムアップする丁寧さを表現している。  
 
 > `designated`「指定された」
 
@@ -123,7 +128,10 @@ B: I'm not sure, but he **might** be in the meeting room.
 知らないけど、会議室じゃない？  
 
 - [ ] must
-- [ ] might
+- [x] might
+
+`may`でも文意は通じる。  
+過去形になればなるほど、その表現は強くなり、「今回は`may`よりも強く分からない」ことを示す。
 
 ---
 
@@ -132,6 +140,19 @@ You have just had lunch. You **can't** be hungry now.
 
 - [x] can't
 - [ ] won't
+
+`must be`や`can be`は理由が必要だが、`can't be`はエビデンスが無いので「有り得ない」と訳す。
+
+There is her bag.  
+彼女のかばんがある
+
+She can't be hone yet.  
+まだ帰ってないはずだ  
+
+This movie will be release tomorrow. She can't/couldn't have seen it.  
+この映画は明日公開される。彼女がこれを見たはずがない
+
+> `can't have seen`と`couldn't have seen`はどちらも過去の表現だが、それは否定文のときのみ同じ意味になる。
 
 ---
 
@@ -146,8 +167,8 @@ You **should** apologize to him. He will forgive you.
 When I found wrong figures in his sales report, I **shouldn't have yelled** at him.  
 私が売上報告書で間違った数字を見つけたとき、私は彼に怒鳴るべきではなかった。
 
-- [ ] shouldn't yell
-- [x] shouldn't have yelled
+- [ ] shouldn't yell「すべきではない」
+- [x] shouldn't have yelled「すべきではなかった」
 
 従属節`when`の時制が過去のため、主節も過去形になる。
 
@@ -168,6 +189,8 @@ I asked mary what happened to her, but she **wouldn't** tell me anything.
 
 - [x] wouldn't
 - [ ] couldn't
+
+`will not`は「意志を持ってやらない」の意味なので拒絶を意味する。
 
 ---
 
