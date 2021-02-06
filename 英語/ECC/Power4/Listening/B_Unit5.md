@@ -60,6 +60,8 @@ These sales strategies encourage customers to buy too much food and waste it.
 For example, when customers buy two kilograms of apples for the price of one kilogram they end up throwing half of them away.  
 たとえば、顧客が2キログラムのリンゴを1キログラムの価格で購入すると、半分が捨てられてしまいます。
 
+> `end up doing` = `In the end, S + V`
+
 ---
 
 Secondly, supermarkets have to bring an end to food dumping at the end of each day.  
@@ -67,6 +69,8 @@ Secondly, supermarkets have to bring an end to food dumping at the end of each d
 
 Stores should make arrangements to donate unsold groceries to charity food banks instead of dumping them.  
 店舗は、売れ残った食料品を捨てるのではなく、チャリティーフードバンクに寄付するよう手配する必要があります。
+
+> `donate to charity` = `make a donation`
 
 ---
 
@@ -162,6 +166,11 @@ The fall of the Berlin Wall in 1989 **brought an end to** the Cold War.
 Don't consume any products after the **use-by date** has passed even if they look and smell fine.  
 **賞味期限**が過ぎたあとは、見た目や匂いが良くても消費しないでください。
 
+> - `use-by date`
+> - `eat-by date`
+> - `expiration date`
+> - `best before`
+
 ---
 
 A report in _The Times_ has **alleged** that the minister used public funds to pay for a vacation in the Swiss Alps.  
@@ -197,7 +206,10 @@ We won't know the full **extent** of the damage until the storm has passed.
 The government of South Africa held Nelson Mandela in a small prison **cell** for 27 years because of his political beliefs.  
 南アフリカ政府は、ネルソンマンデラの政治的信念のために、ネルソンマンデラを27年間小さな**独房**に収容しました。
 
----
+> `cell`は独房の意味だが、職場の島や島の席のことを`cubicle`と読んだりもする。
 
+---
 The meal was $162, and there are six of us, so we each need to **contribute** $27.  
 食事は162ドルで、6人いるので、それぞれ27ドルを**寄付する**必要があります。
+
+> `contribute to charity` = `offer a contribution`
