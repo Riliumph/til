@@ -129,9 +129,9 @@ Actually, he is a really nice man. I wonder why he is being so mean tonight.
 私が今朝メグに電話したとき、彼女は通話中だった。だから、私は彼女と話せなかった。
 
 「電話した時には既に話していた」ということから過去完了形を選びがちだが誤り。  
-完了形であるなら「継続的な時制」を表現する国が必要になる。`before I called...`など。  
+完了形であるなら「継続的な時制」を表現する必要になる。`before I called...`など。  
 今回は`when`が使われていて、つまり`called`した時一点の話であるため完了形は不適切。  
-よって、時制を一死させる必要があり、過去進行形が選ばれる。
+よって、時制を一致させる必要があり、過去進行形が選ばれる。
 
 ---
 
@@ -229,10 +229,10 @@ People in a lot of countries **have been suffering** from a shortage of water fo
 Where were you? I **had looked** for you since 10:00.  
 どこにいたの？　10時から貴方を**探していた**んだよ
 
-- [ ] was looking
-- [ ] looked
-- [x] have been looking
-- [ ] had looked
+- [ ] was looking（過去進行形）
+- [ ] looked（過去形）
+- [x] have been looking（現在完了進行形）
+- [ ] had looked（過去完了形）
 
 期間の前置詞`since`が用いられているため完了形を用いる。  
 現在完了か過去完了かは、疑問文が過去形であるため、過去につながる期間として過去完了形を用いる。
@@ -341,7 +341,7 @@ In Japan, the birth rate **is rapidly declining**. This will affect the Japanese
 
 ---
 
-Due to the popularity of the Internet, these days fewer young people **are exchanging** New Year's cards.
+Due to the popularity of the Internet, these days fewer young people **are exchanging** New Year's cards.  
 インターネットの台頭により、最近、若い人たちがあまり年賀状を**交換してい**ない。
 
 - [x] are exchanging
@@ -349,21 +349,11 @@ Due to the popularity of the Internet, these days fewer young people **are excha
 - [ ] have exchanged
 - [ ] was exchanging
 
-> 「最近」の表現  
->
-> - `recently`「ついこの間」  
->   = `not long ago`/`a short time ago`/`a while ago`  
->   **近い過去のある点**を表現する。  
->   - 過去形：「近い過去のある点」の話題
->   - 現在完了形：「近い過去〜現在」の話題
->   - 過去完了形：「近い過去〜近い過去」の話題
-> - `lately`「最近」  
->   = `of late`/`latterly`  
->   ※ あんまり使われない。。。圧倒的に`recently`の方が便利。
->   - 現在完了形：近い過去から現在までの継続
-> - `these days`「昨今は」  
->   = `nowadays`  
->   - 現在形：過去と対比した**現在**
+> |語句|近い表現|和訳|説明|
+> |:--:|:--:|:--:|:--|
+> |`recently`|`not long ago`<br>`a short time ago`<br>`a while ago`|ついこの間|**近い過去のある点**を表現する。<br>- 過去形：「近い過去のある点」の話題<br>- 現在完了形：「近い過去〜現在」の話題<br>- 過去完了形：「近い過去〜近い過去」の話題|
+> |`lately`|`of late`<br>`latterly`|最近|あんまり使われない。。。<br>圧倒的に`recently`の方が使い勝手がいい。<br>- 現在完了形：「近い過去〜現在」までの継続|
+> |`these days`|`nowadays`|「昨今は」|- 現在形：**過去と対比した現在**|
 
 ---
 
@@ -409,6 +399,8 @@ We are going to be late. The game **will have started** by the time we get to th
 - [x] will have started
 - [ ] will be starting
 
+`by`があるので完了形が正解。
+
 ---
 
 Will you **be using** the meeting room this afternoon?  
@@ -445,7 +437,7 @@ Do you think you will still **be doing** the same job in five year's time?
 
 ### Step2
 
-Andyは2週間前にアメリカに発って、今フランスを旅行している。とても楽しんでいる。彼は既に３か国を訪れた。この旅行が終われば10か国を旅することになるだろう。
+**Andyは2週間前にアメリカに発って、今フランスを旅行している。とても楽しんでいる。彼は既に３か国を訪れた。この旅行が終われば10か国を旅することになるだろう。**
 
 It has been 2 weeks since Andy left ~~from~~ USA.
 
@@ -509,7 +501,7 @@ He looked exhausted ~~to me~~.
 
 ---
 
-どうしましたか。今日は黙ったままですね。いつもは建設的なアイデアをたくさん出してくれるのに。
+**どうしましたか。今日は黙ったままですね。いつもは建設的なアイデアをたくさん出してくれるのに。**
 
 What's wrong? / What's the mater?  
 Is there anything wrong?

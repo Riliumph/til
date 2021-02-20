@@ -306,6 +306,11 @@ I have never met her **before**.
 My brother usually doesn't go to bed early, and **neither do I**.  
 私の兄も私もいつも早く寝ない
 
+- [ ] I do neither
+- [ ] I neither do
+- [x] neither do I
+- [ ] neither I do
+
 ---
 
 I found the movie **disappointing** and fell asleep.  

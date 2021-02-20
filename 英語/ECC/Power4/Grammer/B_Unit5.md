@@ -231,7 +231,7 @@ He is careless about time, so he **would** be late again.
 
 ---
 
-Since the train left the station behind schedule, it **can't arrived** here on time.
+Since the train left the station behind schedule, it **can't arrived** here on time.  
 その電車が遅れて出発したので、ここに時間通りに到着出来ない。
 
 - [ ] can arrive
@@ -317,7 +317,7 @@ Jackに載せてくれるよう頼もう
 
 ### Step2
 
-天気予報によると夕方から明日の朝にかけて雪が降るそうです。車で出勤するのはやめた方がいいと思います。凍結した道を運転するのはとても危険です。
+**天気予報によると夕方から明日の朝にかけて雪が降るそうです。車で出勤するのはやめた方がいいと思います。凍結した道を運転するのはとても危険です。**
 
 According to wether forecast, it will snow from evening to tomorrow morning.  
 I think you should stop going to work by car.  
@@ -325,7 +325,7 @@ Driving on a frozen road is too dangerous.
 
 ---
 
-どこで傘を置き忘れたのだろう。あのレストランに置き忘れたということはないはずだ。帰りの電車の中では持っていたことを覚えている。
+**どこで傘を置き忘れたのだろう。あのレストランに置き忘れたということはないはずだ。帰りの電車の中では持っていたことを覚えている。**
 
 Where did I leave my umbrella?  
 I shouldn't have left it in that restaurant.  
@@ -333,8 +333,8 @@ I remember having it in the train on my way home.
 
 ---
 
-A: World Bookに注文した英語の辞書が昨日届いているはずです。届いたかどうか知っていますか？  
-B: 申し訳ありませんが、知りません。届いていないのかもしれません。電話して聞いてみましょう。
+**A: World Bookに注文した英語の辞書が昨日届いているはずです。届いたかどうか知っていますか？**  
+**B: 申し訳ありませんが、知りません。届いていないのかもしれません。電話して聞いてみましょう。**
 
 You should have received the English dictionary I ordered from World Book yesterday.  
 Do you know if it arrive?  

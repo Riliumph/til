@@ -102,7 +102,8 @@ A world in which computers and robots do all the hard work sounds like paradise,
 
 ## Vocabulary Questions
 
-Factory machinery also put individual **artisans** out of business.
+Factory machinery also put individual **artisans** out of business.  
+工場の機械も個々の**職人**を廃業させました。
 
 - [ ] machine operators
 - [ ] managers
@@ -111,7 +112,8 @@ Factory machinery also put individual **artisans** out of business.
 
 ---
 
-The **eventual** result was not mass unemployment but mass prosperity.
+The **eventual** result was not mass unemployment but mass prosperity.  
+**最終的な**結果は、大量の失業ではなく、大量の繁栄でした。
 
 - [ ] most likely
 - [ ] actual
@@ -120,7 +122,8 @@ The **eventual** result was not mass unemployment but mass prosperity.
 
 ---
 
-Many old jobs disappeared, but **abundant** new and different jobs replaced them.
+Many old jobs disappeared, but **abundant** new and different jobs replaced them.  
+多くの古い仕事が消えましたが、**豊富な**新しい異なる仕事がそれらに取って代わりました。
 
 - [x] plentiful[形]「豊富な」
 - [ ] curious[形]「好奇心旺盛な」
@@ -129,7 +132,8 @@ Many old jobs disappeared, but **abundant** new and different jobs replaced them
 
 ---
 
-Computers and robots are **erasing** old jobs without replacing them with enough new ones.
+Computers and robots are **erasing** old jobs without replacing them with enough new ones.  
+コンピューターとロボットは、古い仕事を十分な新しい仕事に置き換えることなく**消去**しています
 
 - [x] eliminating
 - [ ] reviving
@@ -138,7 +142,8 @@ Computers and robots are **erasing** old jobs without replacing them with enough
 
 ---
 
-Governments must also **reform** education to give people the right skills to survive in the new economy.
+Governments must also **reform** education to give people the right skills to survive in the new economy.  
+政府はまた、人々にニューエコノミーで生き残るための適切なスキルを与えるために教育を**改革**しなければなりません。
 
 - [ ] subsidize[動]「助成する」
 - [ ] provide[動]「提供する」

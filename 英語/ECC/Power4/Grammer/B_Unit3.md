@@ -49,6 +49,98 @@ This new computer warks twice as fast as the old one.
 He speaks as naturally as a native speaker.
 彼はネイティブと同じくらい自然に話す。
 
+## Pre-test
+
+It was pretty tired last light. I went to bed **earlier** usual.  
+昨夜は少し疲れた。いつもより早く寝た
+
+---
+
+The shopping mall is always crowded, but today it is **more crowded** usual.  
+そのショッピングモールはいつも混んでいるけど、今日はいつにも増して混んでいる
+
+---
+
+I'm not good at chemistry or physics. Physics is **the more confusing (one)** of the two.  
+私は化学と物理があまり得意ではない。
+
+`the`は最上級の`the`ではなく、`the one of them`の`the`なので忘れないように注意。
+
+- the fastest runner in the class
+- the fastest runner of the students
+
+この違いは、`in the class`の方は不特定多数の中から最も速いを意味する。  
+`of the students`は個々の`students`にfocusしているため、`in`ではなく`of`を用いる。
+
+---
+
+He has been studying hard to get a higher score on the test, but his teacher keeps telling him to study **even harder**.  
+彼はテストで高得点を取るために一生懸命勉強しているが、先生はより熱心に勉強させるために教え続けている。
+
+比較級の強調表現には`even`/`far`を用いる。  
+最上級の強調表現には`by far`を用いる。
+
+---
+
+**The more and more** people are learning Chinese these days.  
+ますます、最近中国語を勉強している。
+
+---
+
+**The longer** I waited in line to get into the concert hall, **the more impatient** I became  
+**長く**コンサートホールに入るのを待つほど、**焦りました**。
+
+The 比較級 S V, the 比較級 S V.の構文
+
+> `impatient`「短気な、いらいらした」
+
+---
+
+The company is planning to open **5 or more** factories in Asia next year.  
+その会社は来年にアジアに５つ以上の工場を開く計画をしている。
+
+---
+
+There is plenty of food, so you can eat as much as you want.  
+大量の食べ物があるので、好きな分だけ食べることが出来る。
+
+---
+
+Some vegetable are twice as expensive as they were a month ago.  
+先月より２倍高くなった野菜もある
+
+---
+
+Tokyo Sky Tree is **as tall as** 634 meters.  
+東京スカイツリーは634mもの高さだ
+
+---
+
+A: I'll have a glass of white wine. How about you?  
+B: I'll have **as the same as** you.
+
+---
+
+What is **the fastest** way to get to the airport from the office?  
+事務所から空港に行くに一番早い方法はなんですか？
+
+---
+
+Jenny is a very nice person. She is one of **the nicest people** I know.  
+ジェニーはとてもいい人だ。彼女は私が知っている最も親切な人の一人だよ
+
+---
+
+I saw a movie last night. It was awful. It was the worst (one) I have ever seen.  
+昨夜映画を見たんだ。とてもひどかった。今まで見た中で一番ひどかった。
+
+---
+
+Lucy is **the most diligent** staff member in our office.  
+Lucy work more diligent than any other worker in our office.  
+No one in our office works more diligent than Lucy.  
+No one in our office works as diligent as Lucy.
+
 ## Post-test
 
 ### Step1
@@ -191,7 +283,7 @@ Maggie Brown is a great singer. **No other singer has** as beautiful a voice as 
 
 ### Step2
 
-若い人たちは以前ほど本を読まなくなったと言われている。しかし、インターネットへのアクセスによって、彼らはより多くの情報をより早く手に入れることができる。
+**若い人たちは以前ほど本を読まなくなったと言われている。しかし、インターネットへのアクセスによって、彼らはより多くの情報をより早く手に入れることができる。**
 
 It is said that young people don't read books as much as they used to.  
 However, access to the internet allows them to get more information faster.
@@ -216,7 +308,7 @@ And he has more experience and knowledge in the industry than anyone here.
 
 ---
 
-医療の発展により、平均寿命はますます伸びている。その反面、出生率は低下している。その結果、日本は世界のどの国よりも高齢化が急速に進んでいる。
+**医療の発展により、平均寿命はますます伸びている。その反面、出生率は低下している。その結果、日本は世界のどの国よりも高齢化が急速に進んでいる。**
 
 Average life expectancy is getting longer and longer due to progress in medicine.
 

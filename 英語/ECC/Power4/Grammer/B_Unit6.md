@@ -123,7 +123,7 @@ If **it were not for** your advice, I couldn't run this business.
 
 「アドバイスが無い」という仮定が『現在の事実』と異なるため、仮定法過去を用いる。
 
-> 下記の言い換えが可能。
+> 下記の言い換えが可能。  
 > Without your advice, I couldn't run this business.  
 > これは、帰結節で時制が判別できるため。
 
@@ -225,7 +225,7 @@ Were it not for literature, life **would be** very boring.
 - [ ] will not be
 
 `if it were not for A, S +V`「Aが無いならば、S+V」という仮定法過去の表現。  
-覚えてしまうほうが速い。
+覚えてしまうほうが速い。  
 この表現のif節は`Without A`や`But for A`で置き換えることが出来る。
 
 > 「Aがあるならば」を表現するのに`be for`を使うことは出来ない。  
@@ -253,7 +253,7 @@ If she **is** an honest woman, she will tell me the truth.
 
 ---
 
-If you had listened to me at that time, you **wouldn't be** in such trouble now.
+If you had listened to me at that time, you **wouldn't be** in such trouble now.  
 もし、あのとき私のことを聞いていたら、今そんなトラブルに巻き込まれていなかっただろう
 
 - [x] wouldn't be
@@ -283,42 +283,50 @@ It's already midnight. It's time the boys **went** to bed.
 
 ---
 
-It was about 20 years ago that I first met Peter, but I still remember it **as if it had been** yesterday.  
+It was about 20 years ago that I first met Peter, but I still remember it **as if it were** yesterday.  
 ピーターに初めてあってから20年だったけど、私は未だそれが昨日のことにように覚えている。
 
 - [ ] if it had been
 - [ ] if it were
-- [ ] as if it were
-- [x] as if it had been
+- [x] as if it were
+- [ ] as if it had been
+
+帰結節の動詞`remember`が現在形であるため、それ以前を示すために過去表現を用いる必要がある。
 
 ---
 
 ### Step2
 
-Martin Cruiseは今年すでに３本の映画に出ている。今や彼は人気映画スターである。だが、彼が昨年の夏に主演した映画があれほどの大ヒット作でなかったら彼は今、それほど有名にはなっていないだろう。
+**Martin Cruiseは今年すでに３本の映画に出ている。今や彼は人気映画スターである。だが、彼が昨年の夏に主演した映画があれほどの大ヒット作でなかったら彼は今、それほど有名にはなっていないだろう。**
 
 Martin Cruise has already appeared in three movies this year.  
 
 > `appear on/in`「出演する」
 
-He is now a popular movie star.  
+He is now a popular movie star.
+
+`now`は文頭でも良い。
+
 However, if the movie he starred in last summer wasn't such a blockbuster, he wouldn't be that famous now.
 
 > `blockbuster`「大ヒット作」
 
 ---
 
-昨年11月ペットフード会社が行った犬の飼い主1000人を対象にした調査によると、回答者の約６割が犬を屋内で飼い、人間のように扱っているとのことだ。
+**昨年11月ペットフード会社が行った犬の飼い主1000人を対象にした調査によると、回答者の約６割が犬を屋内で飼い、人間のように扱っているとのことだ。**
 
-According to a survey of 1,000 dog owners conducted by a pet food company last November, about 60% of respondents keep their dogs indoors and treat them like person.
+According to a survey of 1,000 dog owners conducted by a pet food company last November, about 60% of respondents keep their dogs indoors and treat them ~~like person~~.  
+According to a survey of 1,000 dog owners conducted by a pet food company last November, about 60% of respondents keep their dogs indoors and treat them as if they were human-being.
+
+ペットを人間として扱うので`like`では弱すぎるため、ここは`as if S V`の形を取る方が良い。
 
 > `respondent`「回答者」
 
 ---
 
-地球温暖化の影響が世界中で見られている。例えば、水没の危機にひんしている島国もある。今や地球温暖化に対して私たちが何らかの具体的な対策を講じる時だ。
+**地球温暖化の影響が世界中で見られている。例えば、水没の危機にひんしている島国もある。今や地球温暖化に対して私たちが何らかの具体的な対策を講じる時だ。**
 
-The effects of global warming are being seen all over the world.  
+The effects of global warming are being seen all over the world.
 
 For example, some island nations are in danger of submerging.
 
@@ -326,10 +334,15 @@ For example, some island nations are in danger of submerging.
 
 - `being submerged`「水没する」
 - `being sunk`「沈んだ」  
+  `sunk`は素直に「陥没した」の意味を持つ。地形でそれを使う場合、地面が液体よりも下に凹んで「沈んだ」を意味する。
   - Sunken Hollow / 窪み渓谷
-- `being flooded`「（地形が）水没した」
+- `being flooded`「（地形が）水没した」  
+  `flooded`は水が溢れかえるの意味から、液体が地形よりも上に来た結果「沈んだ」を意味する。
   - Flooded Strand / 溢れかえる岸辺
 
 > `be in danger of A`「Aの危機に瀕している」  
 
-It's about time we took some concrete steps against global warming.
+It's about time we took some concrete steps against ~~global warming~~.  
+It's about time we took some concrete steps against it.
+
+`global warming`であることは一行目で明示しているため、ここは代名詞で代用するだけでいい。
