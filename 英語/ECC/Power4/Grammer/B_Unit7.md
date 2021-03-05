@@ -58,7 +58,12 @@ The box was **too heavy to carry** by myself, so I asked mark to help me with it
 
 **このビルのエレベーター全部が点検中というわけではない。**
 
-Not all of the elevator in this building are under inspection.
+Not all of the elevators in this building are under inspection.
+
+「点検中」を「稼働していない・使用できない」と捉えると以下の表現が可能。  
+ただし、稼働していない理由が、点検中なのか故障中なのか分からないので注意。
+
+Not all of the elevators in this building are not being serviced.
 
 ---
 
@@ -66,11 +71,24 @@ Not all of the elevator in this building are under inspection.
 
 Even though I love Italian food, I don't like French food very much.
 
+> `Even though`は表現として強いので、`but`や`however`が基本は好ましい。
+
 ---
 
 **彼の英語は完璧には程遠いが、昨日の会議では、自分の言いたいことを伝えることができていた。**
 
 Even though His English is far from perfect, he was able to convey what he meant at yesterday's meeting.
+
+「言いたいことを伝える」がかなり微妙な表現。
+
+- He could state his opinion.
+- He could voice what he wanted to say
+
+模範解答は以下。
+
+His English is far from perfect. But he could make himself understood.
+
+> `make oneself understood`「分かってもらう」
 
 ---
 
@@ -78,10 +96,28 @@ Even though His English is far from perfect, he was able to convey what he meant
 
 Mr. Bond is no longer working in the same workplace as us. He was transferred to the Tokyo office last month.
 
+`as`の使い方がポイント  
+`no longer`を強調したい場合は、これを前に出して倒置法を用いる。
+
+No longer is Mr.Bond working in the same workplace as us.
+
+> 倒置する場合、S Vが入れ替わるが、助動詞や進行形の現在分詞、受動態の過去分詞は連れて行かないので注意
+
 ---
 
 **私達の上司は、私達がミスを報告しなかった時を覗いては、滅多に怒鳴らない。**
-Our boss is hardly ever bellow at us except when we didn't report a mistake.
+Our boss is hardly ever bellow at us except when we fail to report a mistake.
+
+`at`があることで怒りの対象が固定され、非常に怒っていることを表現できる。  
+`upset with A`の場合、Aという対象は固定されているものの、怒り方までできない。  
+心の中で怒っているかもしれないし、物に当たっているかもしれない。
+
+`report`の代わりに以下の表現が使える。  
+すべて前置詞が変わるので整理すること。
+
+- fail to report 物
+- fail to informed 人 of
+- fail to tell 人 about
 
 怒る
 |単語|例文|
