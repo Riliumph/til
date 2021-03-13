@@ -104,3 +104,61 @@ And many of us are happiest when "servicing or supporting other people," said Go
 
 She also noted that "happiness definitely does not align with pay, and once someone's basic needs are met, additional money is not what drivers happiness."  
 彼女はまた、「幸福は間違いなく賃金と一致せず、誰かの基本的なニーズが満たされると、追加のお金はドライバーの幸福ではない」と述べた。
+
+## overview
+
+A survey of 100,400 US employees has come up with a list of the 20 **happiest jobs** in America.
+Employees gave score out of **** for **10** different factors affecting **workplace happiness**.
+
+The resulting list of jobs was somewhat **surprising**.
+
+The software engineers, head chef, and property managers at the top of the list are not very **well-paid** but all love their work.
+
+The happiest jobs had a common element of **positive relationships** with **co-workers** and customers.
+
+The team conducting the survey concluded that happiness definitely does not **align with pay** once a person's basic needs are met.
+
+## Vocabulary Questions
+
+Employees were asked to evaluate ten different **factors** affecting happiness in the workplace.
+
+- [ ] occupations
+- [ ] options
+- [ ] problem
+- [x] influences
+
+---
+
+They **ensure** that companies release high-quality software products.
+
+- [ ] make certain
+- [ ] make clear
+- [ ] make a decision
+- [x] make a promise
+
+---
+
+They are **content** with their daily routines.
+
+- [ ] busy
+- [ ] bored
+- [x] satisfied
+- [ ] thrilled
+
+---
+
+The happiest jobs are not necessarily the most **prestigious**
+
+- [ ] complicated
+- [ ] authoritative
+- [ ] intellectual
+- [ ] adventurous
+
+---
+
+Happiness definitely does not **align with** pay.  
+
+- [ ] increase with
+- [x] match up to
+- [ ] result from
+- [ ] depend upon
