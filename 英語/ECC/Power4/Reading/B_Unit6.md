@@ -53,6 +53,8 @@ They earn between $85,000 and $100,000 a year.
 The result was surprising, since software engineers have a reputation for working long hours under a lot of pressure.  
 その結果は驚くべきものでした。ソフトウェアエンジニアは、多くのプレッシャーの下で長時間働くという評判があるからです。
 
+> `be reputation for A` = `be famous for A`
+
 ---
 
 The second happiest profession was a tie between executive chefs and property managers,  
@@ -66,6 +68,8 @@ Executive chefs, also known as head chefs, create menus, train kitchen staff, an
 
 This is far from the richest career, with an average salary of $51,000.  
 これは、平均給与が51,000ドルで、最も裕福なキャリアとはほど遠いものです。
+
+> `far from A` = `not A at all` = `nothing like A`
 
 But head chefs love their work and form close relationships with their staff.  
 しかし、料理長は仕事が大好きで、スタッフと緊密な関係を築いています。
@@ -81,6 +85,10 @@ Like chefs, they rate the work they do and their relationships with colleagues v
 
 Bank tellers nd warehouse managers came in fourth and fifth happiest, with scores of 4.14 and 4.13 respectively.  
 銀行の出納係と倉庫管理者は、それぞれ4.14と4.13のスコアで、4番目と5番目に幸せでした。
+
+> - `Banker`「銀行経営者」
+> - `bank teller`「銀行の受付員」
+>   - `ATM` = `Automatic teller machine`
 
 Also scoring very high were accountants, financial analysis, and administrative assistants.  
 また、会計士、財務分析、および管理アシスタントも非常に高いスコアを獲得しました。
@@ -120,7 +128,8 @@ The team conducting the survey concluded that happiness definitely does not **al
 
 ## Vocabulary Questions
 
-Employees were asked to evaluate ten different **factors** affecting happiness in the workplace.
+Employees were asked to evaluate ten different **factors** affecting happiness in the workplace.  
+従業員は、職場の幸福に影響を与える10の異なる要因を評価するように求められました。
 
 - [ ] occupations
 - [ ] options
@@ -129,36 +138,48 @@ Employees were asked to evaluate ten different **factors** affecting happiness i
 
 ---
 
-They **ensure** that companies release high-quality software products.
+They **ensure** that companies release high-quality software products.  
+それらは、企業が高品質のソフトウェア製品をリリースすることを保証します。
 
-- [ ] make certain
+- [x] make certain
 - [ ] make clear
 - [ ] make a decision
-- [x] make a promise
+- [ ] make a promise
 
 ---
 
-They are **content** with their daily routines.
+They are **content** with their daily routines.  
+彼らは日常生活に**満足して**います。
 
 - [ ] busy
 - [ ] bored
 - [x] satisfied
 - [ ] thrilled
 
+> 基本的に同じ意味だが、以下の違いがある。
+>
+> - `be content with A`「（状況や環境に）満足している」  
+> - `be satisfied with A`「（願望や欲求が）満たされている」（ポジティブな意味で置き換え可能）  
+> - `be resigned to A`「Aを我慢して受け入れる」（ネガティブな意味で置き換え可能）
+
 ---
 
-The happiest jobs are not necessarily the most **prestigious**
+The happiest jobs are not necessarily the most **prestigious**  
+最も幸せな仕事は必ずしも最も**権威がある**とは限りません。
 
 - [ ] complicated
-- [ ] authoritative
+- [x] authoritative
 - [ ] intellectual
 - [ ] adventurous
 
 ---
 
 Happiness definitely does not **align with** pay.  
+幸福は間違いなく賃金と**一致**しません。
 
 - [ ] increase with
 - [x] match up to
 - [ ] result from
 - [ ] depend upon
+
+> `align with A`「Aと合致する、強調する、一致する」

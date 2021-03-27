@@ -29,7 +29,7 @@ Other jobs in the bottom ten, such as soldier and firefighter, have better oppor
 ## Step2
 
 Good morning and welcome to today's seminar, Better Management Practices.  
-おはようございます。今日のセミナー「BetterManagementPractices」へようこそ。
+おはようございます。今日のセミナー「Better Management Practices」へようこそ。
 
 I'm Paul Douglas, and I'm the Human Resources Manager here at Piper Industries.  
 私はポール・ダグラスです。ここパイパー・インダストリーズの人事マネージャーです。
@@ -43,10 +43,14 @@ As managers, you are responsible for motivating employees and making them feel l
 If an employees is unhappy the problem is often an issue with management.  
 従業員が不満を持っている場合、問題はしばしば経営陣の問題です。
 
+> `issue with A`「Aのせいである」
+
 ---
 
 To illustrate this, consider the results of a recent survey.  
 これを説明するために、最近の調査の結果を検討してください。
+
+> `illustrate`は「絵を書く」ではないので注意
 
 Researchers asked 3,000 people why they decided to quit their jobs.  
 研究者たちは3,000人になぜ仕事を辞めることにしたのか尋ねました。
@@ -58,6 +62,11 @@ you may be surprised to learn that very few workers quit over low pay or lack of
 
 By far the biggest reason why people quit is that they lack faith in their bosses.  
 人々が辞める最大の理由は、上司への信頼が欠如していることです。
+
+> - `by far` + 最大級
+> - `far` + 比較級
+> - `much` + 比較級
+> - `a lot` + 比較級
 
 The second biggest reason is that they don't feel appreciated for the work they do.  
 2番目に大きな理由は、彼らが行っている仕事に感謝を感じていないということです。
@@ -115,7 +124,7 @@ It took a lot of hard work and learning from the chefs before me.
 But now I'm running the kitchen, I love it.  
 でも今はキッチンを経営しているので大好きです。
 
-I:  
+Interviewer:  
 What do you love the most?  
 何が一番好きですか？
 
@@ -132,7 +141,7 @@ I feel close to my crew.
 The most satisfying part of my job is when I teach someone a new skill and they master it.  
 私の仕事の最も満足のいく部分は、私が誰かに新しいスキルを教え、彼らがそれを習得するときです。
 
-I:  
+Interviewer:  
 How did you learn to take charge of a whole kitchen?  
 キッチン全体を担当することをどのようにして学びましたか？
 
@@ -146,7 +155,7 @@ I asked a lot of questions and listened to what they said.
 I also tried to be creative whenever they gave me a chance.  
 また、彼らが私にチャンスを与えてくれたときはいつでも、私は創造的になるように努めました。
 
-I:  
+Interviewer:  
 Would you like to open your own restaurant one day?  
 いつか自分のレストランをオープンしませんか？
 
@@ -158,4 +167,4 @@ I've seen a lot of restaurants go under really fast.
 私は多くのレストランが本当に速く下がるのを見てきました。
 
 I'm happy right now, so I'm just taking it one day at a time.  
-今は幸せなので、一日ずつ飲んでいます。 
+今は幸せなので、一日ずつ飲んでいます。
