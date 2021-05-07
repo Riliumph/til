@@ -132,7 +132,7 @@ SVC 文型の問題。
 
 ## Post-Test
 
-Neil complain to my boss about the working conditions.  
+Neil complain to his boss about the working conditions.  
 ニールは上司に労働環境のことで苦情を言った
 
 > - `complain of A`「A自体の不満を言う」
@@ -141,7 +141,7 @@ Neil complain to my boss about the working conditions.
 
 ---
 
-I would appreciate reschedule our meeting.  
+I would appreciate it if I could/would reschedule our meeting.  
 会議の日程を変更していただけるとありがたいのですが。
 
 ---
@@ -159,6 +159,8 @@ This orange juice accounts for 80% of fruit juice.
 
 > There is no accounting for tastes.「蓼食う虫も好き好き」
 
+`action`の他に`behavior`でも問題ない。
+
 ---
 
 He suggested (that) I (should) review the report before handing it in.  
@@ -166,12 +168,16 @@ He suggested (that) I (should) review the report before handing it in.
 
 `hand in A`や`turn in A`が「提出する」の意味だが、Aが代名詞の場合は動詞と前置詞の間に移動することに注意。
 
-> `hand in A` = `turn in A` = `submit A`「提出する」
+> - `hand in A` = `turn in A` = `submit A`「提出する」
+> - `review A` = `go over A`「見直す」
 
 ---
 
 The question remained to be answered.  
 その質問への答えはないままだった
+
+`remained 形容詞`が正解。  
+よりよい形として`remained unanswered`が良い
 
 ---
 
@@ -216,8 +222,8 @@ SVO文型を取るが、盗んだ物自体を目的語に取るため、誰か�
 
 ---
 
-Our boss insist on admitting of everyone the seminar.  
-Our boss insist ~~that~~ everyone ~~should~~ admit the seminar.  
+Our boss insist on attending of everyone the seminar.  
+Our boss insist ~~that~~ everyone ~~should~~ attend the seminar.  
 上司は全員にセミナーに出席するように強く言った。
 
 第３文型SVOOは他動詞として用いられ、`suggest`と同じ仮定法現在と同じ構成。  
@@ -230,6 +236,9 @@ Our boss insist ~~that~~ everyone ~~should~~ admit the seminar.
 We have to clear snow from the driveway.  
 ドライブウェイの除雪をしなければならない
 
+`clear 場所 of 物`を用いると、以下でも問題ない。  
+We have to clear the driveway of snow
+
 > 除雪を意味する語句
 >
 > - clear snow「除雪」
@@ -239,7 +248,7 @@ We have to clear snow from the driveway.
 
 ---
 
-Would you like join us in dinner.  
+Would you like join us for dinner.  
 私達と夕食を一緒にいかがですか
 
 ---
@@ -264,8 +273,11 @@ Janeは後ろの列に座った
 
 **Simonは、時間と手間が省けるという理由で新しいソフトを導入するように提案した。しかし、彼の提案は注目されなかった。**
 
-Simon proposed introducing new software because it saves time and effort.  
+Simon proposed introducing new software because it saves a lot of time and effort.  
 However, his proposal was not noticed.
+
+`it will save`でも問題ないが、`would`は仮定法になってしまうため×  
+`because`の代わりに`to save A`の副詞的用法は`software`に掛かってしまうため伝わらない。
 
 あくまで、以下の単語群は「**提案内容**」を目的語に取る動詞であり、「**提案相手**」を目的語に取る訳ではない。
 
@@ -288,3 +300,7 @@ However, his proposal was not noticed.
 **容疑者は質問に答えるのを拒否し、警察に弁護士を呼ぶように要求した。その後、一言も話さなかった。**
 
 The suspect refused to answer the question and demanded that the police call a lawyer. After that, he didn't say a word.
+
+一文で表現する制約の場合
+
+The suspect remained silent after he refused to answer any question and demanded the policy ~should~ call a lawyer.

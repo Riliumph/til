@@ -1,141 +1,124 @@
-# Unit1: The End of the road for Cars?
+# Unit2: Online Overtime Is Taking Over Our Lives
 
-In many ways, the 20th century was the century of the car.  
-多くの点で、20世紀は自動車の世紀だった
+オンライン残業は人生を奪っている
 
-Much of what we see around us was built for cars, from highways and suburbs to fast-food outlets and shopping malls.  
-私たちの周りに在るモノの多くは自動車用に作られている。高速道路や郊外からファストフード店やショッピングモール至るまでだ。
+How much would you expect to get paid for working 360 hours of overtime a year?  
+年間360時間の残業について支払われるお金はいくらか？
 
-However,after a century of expanding car ownership, the most developed countries, including the U.S., Germany, and Britain, have passed what industry analysts call "peak car."  
-しかし、自動車の所有権の拡大のが1世紀後、米国、ドイツ、英国を含む最先進国は、業界アナリストが「ピークカー」と呼ぶものを通過した。
+For eight out of ten Americans now, the answer is nothing.  
+アメリカ人の10人中8人にとって、その答えはありませんでした。
 
-In terms of annual total distance driven, distance per driver, and total trips made, the numbers have been falling for over a decade.  
-年間の総走行距離、ドライバー1人あたりの距離、および総走行距離に関しては、その数は10年以上にわたって減少している。
+A random poll of 1,000 workers indicates that 80 percent of workers spend an average of seven hours each week answering work-related calls and e-mails at home, effectively adding an unpaid day yo the working week.  
+1000人の労働者を対象としたランダムな世論調査によると、労働者の80%が自宅で仕事に関連する電話やメールの応答に毎週平均７時間を費やしている。事実上、週に無休の日が追加されている。
 
-Young people are applying for driver's licenses later in life or not at all, and owning a car is of no importance to many of them.  
-若者は人生の後半に運転免許証を申請するか、まったく申請しておらず、車を所有することは彼らの多くにとって重要ではない。
-
-> `apply for A`「Aを申請する」
----
-
-The number of cars in Asia, Africa, and Latin America is likely to increase for several more decades; however, drivers in the developed world are growing tired of congestion, smog and rising fuel costs.  
-アジア、アフリカ、ラテンアメリカの車の数は数十年以上増加傾向にあるが、先進国の運転手は混雑、スモッグ、燃料費の値上げにうんざりしている。
-
-In over half of U.S. cities, population growth is strongest in city centers, as people move in to escape time-consuming, costly car commutes and take public transportation like trains and subways instead of driving.  
-アメリカの街の半分以上で、人口増加は都市の中心で最も強い。というのも、人々は時間と費用のかかる車での通勤を避け、運転する代わりに電車や地下鉄といった公共交通機関を利用するためだ。
-
-Growing investment in public transportation is allowing people without cars to get around with ease.  
-公共交通機関への投資の増加により、車を持たない人々が簡単に移動できるようになっている。
+> `poll`「世論調査」
 
 ---
 
-In the U.S., the Internet is also proving influential in ending people's love affair with the car.  
-米国では、インターネットも人々の車への愛情を終わらせるのに影響力を持っていることを証明している。
+Half of the workers said that working after hours is essential because their customers demand quick replies.  
+労働者の半分は、顧客が素早い返信を求めているため、営業時間外の作業が不可欠であると述べている。
 
-They increasingly contact friends online rather than driving somewhere to meet up.  
-彼らは会うためにどこかに運転するのではなく、ますますオンラインで友達に連絡する。
+Thirty-one percent simply find it hard to switch off, since their devices are always on, and 60 percent said they feel disorganized if they don't respond to every call or message right away.  
+デバイスが常にオンになっているので、スイッチを着るのが難しいと31%が感じている。また、60%はすべての通話やメールにすぐに応対しないなら無秩序であると感じていると言っている。
 
-The Internet has also sparked an explosion of interest in international travel, and consequent spending on trips rather than cars.  
-インターネットはまた、海外旅行への関心の爆発的な増加を引き起こし、その結果、車ではなく旅行に費やしています。
+Half continue reading or responding to e-mails in bed.  
+半分がベッドの中でもメールを読んだり返信したりを続けている
 
-Shops and services are accessible online, which means less driving to stores and businesses.  
-ショップやサービスにはオンラインでアクセスできるため、店舗や企業への運転が少なくて済む。
+The practice has become so commonplace that only 25 percent reported disagreements with spouses who wanted to relax after work.  
+その習慣はあまりに一般的になっているため、仕事のあとにリラックスしたかった配偶者と意見が合わないと報告したのはたった25%だった
 
----
-
-City governments are already including the drastic reduction of car usage in planning policies.  
-市政府はすでに計画政策に自動車使用量の徹底的な削減を盛り込んでいる。
-
-London and Paris have restricted inner-city driving and parking to encourage the usage of public transportation.  
-ロンドンとパリでは、公共交通機関の利用を促進するために、市内の運転と駐車が制限されている。
-
-They have provided rent-a-bike service and other incentives to get cars off city roads.  
-彼らは、都市の道路から車を降ろすために、自転車のレンタルサービスやその他のインセンティブを提供してきた。
+More than half have received no objections from family members.  
+半数以上が家族から異議を唱えていない
 
 ---
 
-Car companies, meanwhile, are gambling on a revolution to reverse the decline.  
-一方、自動車会社は、衰退を逆転させるための革命に賭けています。
+For workers who stand to profit from working outside normal hours, such as business owners, salespeople, and freelancers, being accessible all the time is not necessarily a problem.  
+事業主、営業担当者、フリーランサーなど、通常の時間外に働くことで利益を得る立場にある労働者にとって、いつでもアクセスできることは必ずしも問題ではない
 
-> `meanwhile`「一方で」
+Some people like being able to get work done whenever they feel like it, and see it as a positive opportunity.  
+好きなときにいつでも仕事ができることを好む人もいますが、それは前向きな機会だと考えている。
 
-Major companies are promising driverless cars within a decade.  
-主要企業は、10年以内に自動運転車を約束している。
-
-These smart cars world automatically manage traffic flows to avoid congestion.  
-これらのスマートカーの世界は、混雑を避けるために交通流を自動的に管理する。
-
-In addition, the number of road accidents is likely to be far lower, since 90 percent of them are caused by human error.  
-さらに、交通事故の90％は人為的ミスが原因であるため、交通事故の数ははるかに少ない傾向にある。
-
-Ten years would be a short time frame for so much innovation, and skeptics question the ability of these vehicles to avoid unpredictable pedestrians and hazards.  
-10年は非常に多くの革新にとっては短い時間枠であり、懐疑論者は予測できない歩行者や危険を回避するこれらの車両の能力に疑問を投げかけている。
-
-> `skeptics`「懐疑主義者」
-
-But according to Michigan's Center for Automotive Research, robotics cars will arrive on schedule.  
-しかし、ミシガン州の自動車研究センターによると、ロボットカーは予定通りに到着する。
-
-The implications, across almost every industry, are huge.  
-ほぼすべての業界で、その影響は計り知れない。
+For the average worker, however, becoming an "after-hours slave" is hardly a welcome development.  
+しかし、平均的な労働者にとって、「時間外奴隷」になることは歓迎すべき展開ではない。
 
 ---
 
-## Overview
+Of the workers polled, 68 percent check their work e-mail before 8 a.m., and half do it earlier while still in bed.  
+世論調査を行った労働者のうち、68％は午前8時前に仕事の電子メールをチェックし、半分はまだ寝ている間にそれを早くチェックしている。
 
-## Vocabulary Questions
+Forty percent continue to work after 10 o.m. and 69 percent check their e-mail last thing before they go to sleep.  
+午後10時以降も40％が働き続けます。そして69％は、寝る前に最後に電子メールをチェックしている。
 
-Drivers in the developed world are growing tired of **congestion**.  
-先進国の運転手は**混雑**にうんざりしている。
+Fifty-seven percent check work e-mail on family outings, and 38 percent routinely do so at the dinner table.  
+57％が家族の外出に関する仕事の電子メールをチェックし、38％が夕食の席で定期的にチェックしている。
 
-- [ ] allergies「アレルギー」
-- [x] traffic jams「交通渋滞」
-- [ ] road accidents「交通事故」
-- [ ] regulations「規制」
-
-> `grow tired of A`「Aにうんざりする」
+Many people, it seems, only really stop working when they are asleep.  
+多くの人は、眠っているときだけ本当に仕事をやめるようです。
 
 ---
 
-The Internet has **sparked** an explosion of interest in international travel.  
-インターネットは、海外旅行への関心の爆発を**きっかけとなった**。
+Psychologists caution against allowing work to creep into every corner of your waking life.  
+心理学者は、目覚めている人生の隅々に仕事が忍び寄ることを許さないように注意している。
 
-- [ ] prevented「邪魔をする」
-- [ ] wound up「巻き上げる」
-- [x] set off「出発する、爆発させる、引き起こす」
-- [ ] permitted「許可する」
+They especially advise against taking work into the bedroom, since using your computer and texting are activities that stimulate your brain instead of relaxing you.  
+コンピューターとテキストメッセージの使用は、リラックスするのではなく脳を刺激する活動であるため、彼らは特に寝室に仕事を持ち込むことを勧めている。
 
----
+This can disrupt your sleep patterns and reduce your ability to work effectively during the day.  
+これはあなたの睡眠パターンを混乱させ、日中効果的に働く能力を低下させる可能性がある。
 
-City governments are already including the **drastic** reduction of car usage in planning policies.  
-市政府はすでに計画方針に自動車使用量の**徹底的な**削減を含めています。
+You're less likely to have extra work after hours if you're performing at your best during business hours.  
+営業時間中に最高のパフォーマンスを発揮している場合は、営業時間外に余分な作業が発生する可能性が低くなる。
 
-- [x] considerable「かなりの」
-- [ ] slight「わずかな」
-- [ ] positive「積極的な」
-- [ ] fair「公平な」
+## Step4: Vocabulary Questions
 
-> `considerable`/`remarkable`/`significant`/`drastic`「著しい、とてつもない、徹底的な」
+Their **devices** are always on.  
+彼らのデバイスは常にオンになっている
 
----
-
-London and Paris have **restricted** inner-city driving.  
-ロンドンとパリでは、市内の運転が**制限**されています。
-
-- [x] limited「制限する」
-- [ ] allowed「許可する」
-- [ ] encouraged「奨励する」
-- [ ] shut down「閉鎖する、禁止する」
-
-この文を次の文章に組み替えることで日本語訳は自然になる。  
-Inner-city driving has been restricted in London and Paris.
+- [ ] clients
+- [ ] alarms
+- [x] gadgets
+- [ ] appointments
 
 ---
 
-They have provided bicycles and other **incentives** to get cars off city roads.  
-それらは、都市の道路から車を降ろすための自転車やその他の**インセンティブ**を提供しています。
+Only 25 percent reported disagreements with **spouses** who wanted to relax after work.  
+仕事の後にリラックスしたい配偶者との意見の相違を報告したのはわずか25%でした。
 
-- [x] motivations
-- [ ] assignments
-- [ ] improvements
-- [ ] developments
+- [x] partners
+- [ ] friends
+- [ ] coworkers
+- [ ] children
+
+---
+
+More than half have received no **objections** from family members.  
+半数以上が家族からの異議を受けていない
+
+- [ ] agreements
+- [ ] advice
+- [x] complaints
+- [ ] solutions
+
+---
+
+Fifty-seven percent check work e-mail on family **outings**.  
+57%が家族の外出中にメールチェックしている
+
+- [x] trips
+- [ ] property
+- [ ] occasions
+- [ ] celebrations
+
+---
+
+This can **disrupt** your sleep patterns.  
+これは貴方の睡眠パターンを混乱させる
+
+- [ ] adjust
+- [ ] stabilize
+- [ ] regulate
+- [x] disturb
+
+> MTG: 撹乱/`Disrupt`
+
+---
