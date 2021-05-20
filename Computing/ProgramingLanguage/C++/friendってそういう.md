@@ -40,4 +40,4 @@ int main()
 
 ## 参考
 
-https://ja.cppreference.com/w/cpp/language/friend
+<https://ja.cppreference.com/w/cpp/language/friend>

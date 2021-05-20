@@ -4,7 +4,7 @@ Linux kernel の makefile は C/C++と若干違うみたい。
 
 ## サンプル実装
 
-```makefile
+```akefile
 obj-m := sample.o
 sample-objs := test_driver.o
 PWD := $(shell pwd)
@@ -13,13 +13,13 @@ KERNEL_DIR = /lib/modules/$(shell uname -r)/build
 MODULE_DIR = $(shell pwd)
 
 all:
-	make -C $(KERNEL_DIR) M=$(PWD) modules
+ make -C $(KERNEL_DIR) M=$(PWD) modules
 install:
-	insmod driverModule.ko
+ insmod driverModule.ko
 uninstall:
-	rmmod driverModule.ko
+ rmmod driverModule.ko
 clean:
-	rm -f *.o *.ko *.mod.c Module.* module* *~
+ rm -f *.o *.ko *.mod.c Module.* module* *~
 ```
 
 ### obj-m

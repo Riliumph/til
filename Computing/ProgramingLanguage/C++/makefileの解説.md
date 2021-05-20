@@ -3,7 +3,6 @@
 全然makefile覚えられないので、解説を記録します。  
 色んなところから引っ張ってきました。  
 
-
 ```makefile
 COMPILER  = clang++
 CFLAGS    = -g -MMD -MP -Wall -Wextra -Winit-self -Wno-missing-field-initializers -std=c++14
@@ -28,36 +27,39 @@ OBJECTS   = $(addprefix $(OBJDIR)/, $(notdir $(SOURCES:.cpp=.o)))
 DEPENDS   = $(OBJECTS:.o=.d)
 
 $(TARGET): $(OBJECTS) $(LIBS)
-	$(COMPILER) -o $@ $^ $(LDFLAGS)
+ $(COMPILER) -o $@ $^ $(LDFLAGS)
 
 $(OBJDIR)/%.o: $(SRCDIR)/%.cpp
-	-mkdir -p $(OBJDIR)
-	$(COMPILER) $(CFLAGS) $(INCLUDE) -o $@ -c $<
+ -mkdir -p $(OBJDIR)
+ $(COMPILER) $(CFLAGS) $(INCLUDE) -o $@ -c $<
 
 all: clean $(TARGET)
 
 clean:
-	-rm -f $(OBJECTS) $(DEPENDS) $(TARGET)
+ -rm -f $(OBJECTS) $(DEPENDS) $(TARGET)
 
 -include $(DEPENDS)
 ```
 
 ## 要素解説
+
 の前に注意すること  
+
 - インデントはタブ文字！！  
   半角スペースではダメ。なんなの？この謎仕様。  
 - 「=」と「:=」は別物！！  
   単純展開変数か再帰展開変数かどうかで書き方が違う。  
 
-
 それから、Kernel用のmakefileは別に書くね  
 
 ### COMPILER - コンパイラ -
+
 例えば、C言語の時は、gcc/clangでC++の時はg++/clang++  
 C++なのにclangだとiostream系のC++クラスライブラリが見つかりませんエラーとなる。  
 発生して原因が分かったとき、あなたはやる気をロストしていることでしょう  
 
 ### CFLAGS - コンパイルオプション -
+
 - -g  
   デバッグ情報を埋め込んでビルドしてくれる
 - -MMD -MP  
@@ -66,6 +68,7 @@ C++なのにclangだとiostream系のC++クラスライブラリが見つかり�
   このスクリプト考えたやつ天才か  
 
 ### LDFLAG - リンクオプション -
+
 初期値：空  
 動的ライブラリをリンクする「-l」オプションを用いる場合はここに記述することで使用できる。  
 パスが通っていない場合は、「xx.so」のように書けば使用できる。  
@@ -76,18 +79,21 @@ LONG_BITとは、`long int`型のbit数を管理している全システム構�
 > 参考：[getconfコマンド](https://www.ibm.com/support/knowledgecenter/ja/ssw_aix_72/g_commands/getconf.html)
 
 ### LIBS - ライブラリ -
+
 初期値：空  
 静的リンクするライブラリ指定する。  
 静的ライブラリを用いる場合、空白区切りでファイル名を記述する。  
 記述されたライブラリが更新された場合、makeコマンドは再コンパイルが必要だと認識する。
 
 ### INCLUDE - インクルードパス -
+
 初期値：-I./include  
 ソースファイル中の`#include`の検索パスを加えるオプション。  
 -Iが必ず必要なので注意。  
 複数のパスを指定する場合は、-Ixxx -Iyyyなどのように空白を空けて-Iオプションから記述する。  
 
 ### TARGET - 実行ファイル -
+
 実行ファイル名を指定する。  
 初期値：./bin/$(shell basename \`readlink -f .\`)  
 
@@ -107,23 +113,27 @@ LONG_BITとは、`long int`型のbit数を管理している全システム構�
   `readlink -f`ってMacにはなかった気がする……あっ  
 
 ### OBJDIR - 中間ファイルディレクトリ -
+
 中間ファイルを配置するディレクトリ  
 このフォルダにオブジェクトファイルだったり中間ファイルが生成される。  
 この要素が空の場合、makefileと同じ階層に配置される。
 
 ### SOURCES - ソースコード -
+
 コンパイル対象を指定する要素。  
 初期値：$(wildcard $(SRCDIR)/*.cpp)  
 SRCDIR内に存在する拡張子cppすべてをコンパイル対象とする。  
 え？なに？C言語をコンパイルしたい？正気かよ……  
 makefile内のcppをすべてcに変えるのと、コンパイラをgcc/clangに変えてください。  
 
-### OBJECTS - オブジェクトファイル - 
+### OBJECTS - オブジェクトファイル -
+
 初期値：$(addprefix $(OBJDIR)/, $(notdir $(SOURCES:.cpp=.o)))  
 オブジェクトファイルの格納先は、OBJDIR  
 オブジェクトファイルのルールはSOURCES内の.cpp拡張子を.oにする。  
 
 ### DEPENDS - 依存関係ファイル -
+
 初期値：$(OBJECTS:.o=.d)  
 オブジェクトファイルの拡張子を.dにしましょうねーっていう意味
 
@@ -140,6 +150,7 @@ makefile内のcppをすべてcに変えるのと、コンパイラをgcc/clang�
 |$* | サフィックスを除いたターゲットの名前|
 
 ## 特殊な書式について- 関数編 -
+
 まぁ、[ここをみよ](https://www.ecoop.net/coop/translated/GNUMake3.77/make_8.jp.html)  
 テキトーなのについて解説入れてみた  
 

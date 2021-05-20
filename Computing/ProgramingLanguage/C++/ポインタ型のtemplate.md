@@ -54,6 +54,3 @@ std::cout << *it << std::endl;
 
 Q.出力されるものは何だろう？  
 A.0xoooxxxoooなどのアドレス  
-
-
-
