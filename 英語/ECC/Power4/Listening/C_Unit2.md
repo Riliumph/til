@@ -1,178 +1,192 @@
-# Unit1: Leaving the Car Behind
+# Unit2: Take Back Your Free Time
 
 ## Step1
 
-Los Angeles expands its public transportation network.  
-ロサンゼルスは公共交通網を拡大している
+Eight hours is enough, says Facebook executive.  
+8時間あれば十分だ、とフェイスブックの幹部は言う。
 
-Los angeles citizens are tired of crowded roads and traffic jams, so the city is making a big investment in new public transportation.  
-ロサンゼルス市民は混雑した道路や交通渋滞にうんざりしているため、ロサンゼルスは新しい公共交通機関に多額の投資を行っている。
+Facebook COO Sheryl Sandberg has revealed that she always leaves work at 5:30 p.m., and did the same while working at Google.  
+FacebookのCOOシェリル・サンドバーグは、いつも午後5時30分に退社し、Googleで働いている間も同じことをしていたことを明かした.
 
-Modern Los Angeles was developed when cars became popular in the U.S., but since 1940 the population has doubled, and there is no more room to widen the city's crowded roads.  
-現代のロサンゼルスは、米国で自動車が普及したときに開発されましたが、1940年以降、人口は2倍になり、街の混雑した道路を広げる余地はない。
+She provoked debate in the technology world by saying she didn't feel "brave enough to talk about it publicly" until now.  
+彼女は、これまで「公に話す勇気」がないと言って、テクノロジーの世界で議論を引き起こした.
 
-The new Expo subway line, Gold rail line, and Orange rapid bus line have already opened, and another subway is being built from downtown to Santa Monica Beach.  
-新しいエキスポ地下鉄線、ゴールド鉄道線、オレンジ高速バス線がすでに開通しており、ダウンタウンからサンタモニカビーチまで別の地下鉄が建設されている。
+In an industry where workers virtually live in the office, her success is a reminder that productivity during work hours is more important than being seen to be working overtime.  
+労働者が事実上オフィスに住んでいる業界では、彼女の成功は、残業していると思われることよりも、勤務時間中の生産性が重要であることを思い出させてくれます。
 
-In the past year alone, the number of rail and subway users has jumped 23 percent.  
-過去1年間だけでも、鉄道と地下鉄のユーザー数は23％増加した
+She does answer urgent e-mails after dinner, but always dines with her children.  
+彼女は夕食後に緊急のメールに返信することはありますが、いつも子供たちと一緒に食事をしています。
 
 ## Step2
 
-Hello and welcome to the annual Los Angeles Motor Show.  
-こんにちは、毎年恒例のロサンゼルスモーターショーへようこそ。
+Good afternoon staff, and welcome to this training session on Time Management.  
+スタッフの皆さん、こんにちは。時間管理に関するトレーニング セッションへようこそ。
 
-We have a thousand cars on display, with 40 brand-new models.  
-新品のモデルが40台あり、1,000台の車が展示されています。
+Today I'll be talking about how to get the most out of your schedule and avoid stressful overtime, which costs the company money and cuts into your free time.  
+今日は、スケジュールを最大限に活用し、会社のお金を浪費し、自由な時間を減らすストレスの多い残業を避ける方法についてお話します。
 
-The theme this year is "the future of riving."  
-今年のテーマは「ライビングの未来」。
+A common reason why people end up working late is the "infinite to-do list."  
+仕事が遅くなる一般的な理由は、「無限の To Do リスト」です。
 
-This exhibition will give you an exciting look at the huge changes ahead.  
-この展示会では、これからの大きな変化をエキサイティングに見ていきます。
+A worker with a lot of tasks to complete will often procrastinate or proceed at random, and end up working overtime trying to finish everything at once.  
+多くのタスクを完了する必要がある従業員は、多くの場合、先延ばしにするか、ランダムに進行し、一度にすべてを完了しようとして残業することになります。
 
----
+But today we'll practice a simple way to manage a long list of tasks.  
+しかし、今日は、タスクの長いリストを管理する簡単な方法を練習します。
 
-A big feature of this year's show is green vehicles.  
-今年のショーの大きな特徴は、グリーンビークルです。
+First, I'll ask you to make a list of everything you normally have to complete in a week.  
+まず、通常 1 週間で完了しなければならないすべての項目のリストを作成してもらいます。
 
-Hybrid and electric cars are becoming lighter, more efficient, and more powerful all the time, and luxury models are now appearing.  
-ハイブリッド車や電気自動車は常に軽量化、効率化、強力化が進んでおり、高級車が登場しています。
+After that, I'll ask you to divide your week into daily to-do lists.  
+その後、1 週間を毎日の To Do リストに分割してもらいます。
 
-Companies are predicting green vehicles will outnumber traditional cars within 20 years.  
-企業は、グリーン車が20年以内に従来の車を上回ると予測しています。
-
----
-
-Another big feature of this year's show is self-driving cars.  
-今年のショーのもう1つの大きな特徴は、自動運転車です。
-
-These are vehicles completely controlled by computer.  
-これらは完全にコンピューターによって制御される車両です。
-
-All you have to do is input your destination, and the vehicle does the rest.  
-あなたがしなければならないのはあなたの目的地を入力することだけです、そして車両は残りをします。
-
-You'll be free to work, sleep, eat, entertain yourself, or relax with friends during the journey.  
-旅の間、自由に仕事、睡眠、食事、娯楽、友達とのリラックスができます。
-
-All the necessary GPS and sensor technology is available, and these vehicles are much safer than ordinary cars.  
-必要なGPSとセンサー技術はすべて利用可能であり、これらの車両は通常の車両よりもはるかに安全です。
-
-The only barrier now is changing the law to allow them on our roads.  
-現在の唯一の障壁は、私たちの道路でそれらを許可するように法律を変更することです。
+Each daily list will contain only a few goals you can expect to complete in one day.  
+毎日の各リストには、1 日で完了することが期待できるいくつかの目標のみが含まれます。
 
 ---
 
-As usual this year, you'll also be able to check out all the latest car models.  
-今年もいつものように、最新の車種をすべてチェックすることができます。
+Having a daily to-do list allows you to focus on one task at a time.  
+毎日の To Do リストがあると、一度に 1 つのタスクに集中できます。
 
-Dozens of new vehicles are available for you to test-drive during your visit.  
-訪問中に試乗できる新しい車両が数十台あります。
+This dispels the illusion that everything is urgent.  
+これにより、すべてが緊急であるという幻想が払拭されます。
 
-Visit the information counter in the main lobby to book a drive in the vehicle of your choice.  
-メインロビーのインフォメーションカウンターにアクセスして、お好みの車両でのドライブを予約してください。
+At the end of the day you can go home satisfied instead of worrying about your infinite to-do list.  
+一日の終わりには、無限の To Do リストを気にすることなく、満足して家に帰ることができます。
 
-Thank you, and enjoy the show.  
-よろしくお願いします。ショーをお楽しみください。
+You'll be surprised how much more you get done this way.  
+この方法でさらに多くのことができることに驚くでしょう。
+
+---
+
+So I'd like you to take out your notebooks now and write down weekly and daily lists based on your present workload.  
+では、今すぐノートを取り出して、現在の仕事量に基づいて週次および日次のリストを作成してください。
+
+Then we'll go around and discuss each of your list as a group.  
+次に、グループとしてあなたのリストのそれぞれについて話し合います。
+
+Try not to overestimate what you can do in a day.  
+1 日にできることを過大評価しないようにしてください。
+
+Put the infinite list aside and set realistic goals.  
+無限のリストは脇に置いて、現実的な目標を設定してください。
+
+I'll give you ten minutes to do that, and then we'll start our discussion.  
+そのために 10 分お時間をいただきます。それから、ディスカッションを始めます。
 
 ## Step3
 
-I: What do you regard as your top green achievements during your them as mayer?  
-市長としての彼らの中で、あなたはあなたの最もグリーンな業績とは何だと思いますか？
+Our next guest is Dr. Raymond Kettering, psychologist and author of the book _Workaholism Doesn't Pay_.  
+次のゲストは、心理学者で「Workaholism Doesn't Pay」の著者である Raymond Kettering 博士です。
 
-M: Well, the main thing we did was introduce a Euro10 road toll.  
-M：ええと、私たちがした主なことは、Euro10の道路通行料を導入することでした。
+Doctor, welcome to the show.  
+ドクター、ショーへようこそ。
 
-When you drive into central London, you now have to pay Euro 10.  
-ロンドン中心部に車で行くときは、10ユーロを支払う必要があります。
+Thank you.
+ありがとう
 
-The goal was was to reduce traffic jams and pollution.  
-目標は、交通渋滞と汚染を減らすことでした。
+Now as a psychologist, how exactly do you define a workaholic?  
+心理学者として、ワーカホリックをどのように定義しますか?
 
-I: That was a bold decision. Has it improved traffic?  
-I：それは大胆な決断でした。トラフィックは改善されましたか？
+A workaholic is not just someone busy and hardworking.  
+仕事中毒は忙しくて勤勉な人だけではありません。
 
-M: Absolutely. Journey times have been reduced by 14percent.  
-M：もちろんです。所要時間は14％短縮されました。
+I'm talking about people who are overworked and stressed due to poor work habits.  
+私が話しているのは、劣悪な仕事習慣のために過労やストレスを抱えている人々のことです。
 
-On average, 60000 fewer cars are entering the city each day.  
-平均して、毎日60000台少ない車が市内に進入しています。
+I identify three specific types of workaholics in my book.  
+私は著書の中で、ワーカホリックの 3 つの特定のタイプを特定しています。
 
-Around 60 percent pf former drivers now use public transport, 25 percent have switched to car sharing, and the rest use motorbikes and bicycles.  
-以前のドライバーの約60％が現在公共交通機関を使用しており、25％がカーシェアリングに切り替えており、残りはバイクと自転車を使用しています。
+And what are those?  
+そしてそれらは何ですか？
 
-I: And how is the toll money being spent?  
-I：そして、通行料はどのように使われていますか？
+The first group I call the all-or-nothing workaholics.  
+私がオール・オア・ナッシングのワーカホリックと呼んでいる最初のグループ。
 
-M: All of it is invested in public transport.  
-M：すべ​​て公共交通機関に投資されています。
+They spend a long time worrying and planning instead of starting work on a project, and then panic and work overtime until they get tired out.  
+彼らは、プロジェクトの作業を開始する代わりに、心配と計画に長い時間を費やし、その後、パニックに陥り、疲れるまで残業します。
 
-This year we introduced new hybrid buses which get twice the mileage of ordinary been.  
-今年は、通常の2倍の走行距離を実現する新しいハイブリッドバスを発表しました。
+Ah, yes, that's quite a common problem, I think.  
+ええ、よくある問題だと思います。
 
-I: What other green achievements have there been?  
-I：他にどのようなグリーンな成果がありましたか？
+What's the second type?  
+2番目のタイプは何ですか？
 
-M: I'm also proud of our bicycle hire scheme.  
-M：自転車のレンタルスキームも誇りに思っています。
+The second group is the all-at-once workaholics.  
+2 番目のグループは、1 回限りのワーカホリックです。
 
-We now have 6,000 rental bikes in central London.  
-現在、ロンドン中心部に6,000台のレンタサイクルがあります。
+They can't say no, don't set priorities, and don't assign tasks to other workers.  
+彼らはノーと言うことができず、優先順位を設定せず、他の従業員にタスクを割り当てません。
 
-The bikes are used 25,000 times a day.  
-自転車は1日25,000回使用されています。
+They end up working too much and too fast, and make careless mistakes.  
+彼らは働きすぎてスピードが速すぎて、不注意なミスを犯してしまいます。
 
-The program has more than 146,000 members.  
-プログラムには146,000人以上のメンバーがいます。
+Right. Trying to do too many things at once is a real trap.  
+正しい。一度に多くのことをやろうとするのは本当の罠です。
 
-I ride the rental bikes to work each day, and I encourage all Londoners to join me.  
-私は毎日レンタサイクルに乗って仕事をしています。すべてのロンドン市民に参加することをお勧めします。
+And what's the third type?  
+そして、3番目のタイプは何ですか？
+
+The third group is the almost-finished workaholics.  
+3 番目のグループは、ほぼ完成したワーカホリックです。
+
+They care too much about small details and create additional work.  
+彼らは細部に気を配りすぎて、追加の作業を作成します。
+
+This makes it difficult for them to complete a task.  
+これにより、彼らはタスクを完了することが難しくなります。
+
+Right. So being a workaholic is mainly a problem of efficiency.  
+正しい。したがって、ワーカホリックであることは、主に効率の問題です。
+
+But I would say not everyone who works long hours is inefficient.  
+しかし、私は、長時間働くすべての人が非効率だとは言いません。
+
+That's true.  
+それは本当だ。
+
+but all of us should ask ourselves the question, "Do I work efficiently?"  
+しかし、私たちは皆、自分自身に「私は効率的に仕事をしているだろうか?」
+
+Even if you're not a workaholic, there are always small things you can improve.  
+ワーカホリックでなくても、改善できる小さなことが常にあります。
 
 ## Step4
 
-The company made **a bold decision** to stop using any paper in their offices.  
-その会社は、経営者の中で紙を使うことを止めるという大胆な決断をした。
+We phoned people at random and asked them t participate in the survey.  
 
 ---
 
-Thanks to our new **green** technology, the factory is pollution-free.  
-新しいグリーンテクノロジーのおかげで、その工場は汚染しない
+Nutritionist are trying to dispel the myth that energy driks are healthier than soda.
 
 ---
 
-In the long **term**, we will have to find alternatives to fossil fuels.  
-長期間、私達は石化燃料に代わるモノを探す必要がある。
+I don't like to procrastinate, so I always try to complete the hardest task of the day first.
 
 ---
 
-A **toll** increase on the Bay Bridge has brought complaints from drivers.  
-ベイブリッジの通行料の増加はドライバーに不満を抱かせた
+The attack on student protesters will provoke an international outcry.
 
 ---
 
-I've **switched** from jogging to swimming because I find it more relaxing.  
-私はジョギングから水泳に変えた。なぜならそちらの方がよりリラックスするとわかったからだ
+To get the most out of college, it's a good idea to join a few clubs.
 
 ---
 
-I think working in two teams would be a more **efficient** use of our time.  
-２チームで働くことは、お互いの時間をより有効的に使えると思う
+Young children can't easily distinguish right from wrong.
 
 ---
 
-The Dutch love cycling so much that bicycles **outnumber** cars in Amsterdam.  
-オランダは自転車をとても好むので、アムステルダムでは車よりも多い
+It annoys me when reviewers reveal the plot of a movie I haven't seen yet.
 
 ---
 
-Police are predicting big crowds for today's antiwar rally.  
-警察は今日の反戦運動ですごい人混みになると予想している。
+Because the show was so crowded, it was virtually impossible to see the band.
 
 ---
 
-All of his play lost value when the stock market crashed.  
+The government's first priority is to address the country's debt crisis.
 
 ---
 
-Of all his plays, _Hamlet_ was Shakespeare's greatest achievements.
+The universe contains an infinite number of stars.

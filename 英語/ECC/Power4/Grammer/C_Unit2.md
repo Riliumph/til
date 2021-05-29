@@ -137,6 +137,8 @@ We took it for granted that they would accept our offer.
 - [ ] this
 - [ ] other
 
+`take it for granted`は頻出表現
+
 ---
 
 The membership **fee** is $50 a month.  
@@ -189,13 +191,13 @@ The advisory committee **is consisted** of fifteen experts.
 
 ---
 
-Most of **the equipments need** to be replaced.  
+Most of **the equipment need** to be replaced.  
 ほとんどの**機器**は交換する必要があります。
 
 - [ ] the equipment needs
-- [ ] the equipments needs
+- [x] the equipments needs
 - [ ] the equipment need
-- [x] the equipments need
+- [ ] the equipments need
 
 ---
 
@@ -221,13 +223,17 @@ If you would like to see our doctor, you need to make an appointment by phone or
 > - `reservation`「予約」
 > - `appointment`「人と会う約束」
 
+Those who see our doctor need to make an appointment by phone or email.
+
 ---
 
 **自動車事故は10分に１件起きており、事故による死者の数も増えている。運転手の一人ひとりが最新の注意を払って運転しなければならない。**
 
-A car accident occurs every 10 minutes, and the number of the fatalities is increasing.
+A car accident occurs once every 10 minutes, and the number of the fatalities has been increasing.
 
-Each of drivers must drive with the utmost care.
+Each of drivers should/has to drive with the utmost care.
+
+`must`は意味が強い
 
 ---
 
@@ -235,6 +241,10 @@ Each of drivers must drive with the utmost care.
 
 Computers have changed our lives significantly.
 
-We can work more efficiently because a computer can process a lot of data in a short amount of time.
+We can work more efficiently because they can process a lot of data in a short amount of time.
 
 Moreover, thanks to the Internet, we are always able to communicate with people all over the world.
+
+「インターネットのおかげ」を「インターネットが〜を許した」という意味で以下を用いると良い。
+
+Internet allow us to communicate with people all over the world.
