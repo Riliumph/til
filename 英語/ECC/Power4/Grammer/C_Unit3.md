@@ -4,30 +4,36 @@
 
 ### Step1
 
-James regretted **complaining** his boss about the working conditions.  
+James regretted **complaining to** his boss about the working conditions.  
 ジェームズは労働条件について上司に不満を言ったことを後悔した
 
-- [x] complaining
-- [ ] complaining to
+- [ ] complaining
+- [x] complaining to
 - [ ] to complain
 - [ ] complain to
 
+`complain`は前置詞が必要
+
 ---
 
-Make sure you check the details of the contract before **singing** to it.  
+Make sure you check the details of the contract before **signing** to it.  
 それに署名する前に契約の詳細を必ず確認してください
 
-- [x] singing
-- [ ] to sing
+- [x] signing
+- [ ] to sign
 - [ ] being signed
 - [ ] having signed
+
+I am proud of signing it.「署名できて光栄です。」は正しくない。
+今からサインするときには`I am proud to sign it.`を用いる。  
+昔にサインしたときには`I am proud having signed it.`を用いる。
 
 ---
 
 The government needs to take drastic measures **so as to prevent** the spread of the distance.  
 政府は距離の拡大を防ぐために、抜本的な対策を講じる必要があります
 
-- [ ] so as to prevent
+- [x] so as to prevent
 - [ ] so as preventing
 - [ ] in order prevent
 - [ ] in order to preventing
@@ -56,13 +62,15 @@ He has consistently denied **being** involved in the murder case.
 
 ---
 
-The couple has nothing but their small pension **living with**.  
+The couple has nothing but their small pension **living on**.  
 夫婦は、共に暮らす少ない年金しかない
 
 - [ ] to live
-- [ ] to live on
+- [x] to live on
 - [ ] to live by
-- [x] living with
+- [ ] living with
+
+`The couple will live on their pension.`なので、前置詞`on`を用いる。
 
 ---
 
@@ -96,23 +104,25 @@ Natalie is used **to giving** presentations in front of a large audience.
 
 ---
 
-This new policy served only **to be aroused** our anger.
+This new policy served only **to arouse** our anger.
 この新しい政策は、私たちの怒りをかき立てるだけでした。
 
 - [ ] arousing
-- [ ] to arouse
+- [x] to arouse
 - [ ] in arousing
-- [x] to be aroused
+- [ ] to be aroused
 
 ---
 
-What do you say to **organize** a surprise party for his retirement?  
+What do you say to **organizing** a surprise party for his retirement?  
 彼の引退のためのサプライズパーティーを組織するためにあなたは何を言いますか？
 
-- [x] organize
-- [ ] organizing
+- [ ] organize
+- [x] organizing
 - [ ] be organized
 - [ ] being organized
+
+`What do you say to this plan.`があるように、この`to`は前置詞。
 
 ---
 
@@ -142,7 +152,11 @@ Simon は彼の企画が顧客を納得させるのに十分良いか確信が�
 
 Simon wasn't sure if his project was good enough to convince the customer.
 
-However, he refused to take in the advice from his colleagues, only to fail.
+However, he refused to take ~~in~~ the advice from his colleagues, only to fail.  
+However, he refused to take the advice from his colleagues, only to fail.
+
+`adopt`は`plan`を目的語に取るのは問題ないが、`advise`は正しくない。  
+これが英語の難しいところ。
 
 ---
 
@@ -152,6 +166,7 @@ However, he refused to take in the advice from his colleagues, only to fail.
 
 Expressing opinions logically is a skill that every student needs to learn.  
 
-Therefore, the government decided to use newspapers in class so that students could understand the information and exchange opinions.
+Therefore, the government ~~decided~~ to use newspapers in class so that students ~~could~~ understand the information and exchange opinions.  
+Therefore, the government has decided to use newspapers in class so that students can understand the information and exchange opinions.
 
 School-sides also encourage parents to enhance this kind of skills at home by reading interesting articles with their children.
