@@ -8,10 +8,16 @@ How much would you expect to get paid for working 360 hours of overtime a year?
 For eight out of ten Americans now, the answer is nothing.  
 アメリカ人の10人中8人にとって、その答えはありませんでした。
 
+> 1 out of 2 = Half = every other person  
+> `every two week`は二週に一回なので、○××○の順番でもOK  
+> `every other week`は「隔週」なので、○×○×の順番でないとダメ
+
 A random poll of 1,000 workers indicates that 80 percent of workers spend an average of seven hours each week answering work-related calls and e-mails at home, effectively adding an unpaid day yo the working week.  
 1000人の労働者を対象としたランダムな世論調査によると、労働者の80%が自宅で仕事に関連する電話やメールの応答に毎週平均７時間を費やしている。事実上、週に無休の日が追加されている。
 
-> `poll`「世論調査」
+> `poll`「世論調査」  
+> `take a poll`コロケーションなので覚えること  
+> `do a research`は簡単
 
 ---
 
@@ -60,6 +66,8 @@ Many people, it seems, only really stop working when they are asleep.
 Psychologists caution against allowing work to creep into every corner of your waking life.  
 心理学者は、目覚めている人生の隅々に仕事が忍び寄ることを許さないように注意している。
 
+> `creep into A`「Aに忍び寄る」  
+
 They especially advise against taking work into the bedroom, since using your computer and texting are activities that stimulate your brain instead of relaxing you.  
 コンピューターとテキストメッセージの使用は、リラックスするのではなく脳を刺激する活動であるため、彼らは特に寝室に仕事を持ち込むことを勧めている。
 
@@ -68,6 +76,29 @@ This can disrupt your sleep patterns and reduce your ability to work effectively
 
 You're less likely to have extra work after hours if you're performing at your best during business hours.  
 営業時間中に最高のパフォーマンスを発揮している場合は、営業時間外に余分な作業が発生する可能性が低くなる。
+
+## Step3: Overview
+
+Eighty percent of Americans now work an average of **seven hours' unpaid** overtime each week.  
+現在、アメリカ人の80％は、毎週平均**7時間の無給**の残業をしている。
+
+They spend this time **answering work-related** calls and e-mails after hours.  
+彼らはこの時間を**仕事関連の**電話や電子メールに数時間後に応答することに費やしている。
+
+For a variety of reasons, many workers feel like they have to be **available online at all hours**.  
+さまざまな理由から、多くの労働者は、**いつでもオンラインで利用可能**でなければならないと感じている。
+
+Some believe their customers expect it, some work late to feel **more organized**, and some simply have **difficulty switching off**, since devices are **always on**.  
+顧客がそれを期待していると信じている人もいれば、**より整理された**と感じるために遅くまで働いている人もいれば、デバイスが**常にオン**であるために単に**スイッチを切るのが難しい**人もいる。
+
+But psychologists advise workers to **avoid online overtime**, especially before bedtime.  
+しかし、心理学者は、特に就寝前に、労働者に**オンライン残業を避ける**ようにアドバイスしている。
+
+It limits your ability to **relax**, and makes sleeping **more difficult**.  
+それは**リラックスするための**あなたの能力を制限し、睡眠を**より困難**にする。
+
+This can leave you **tired** during business hours when you should be at your best.  
+これはあなたが最善を尽くすべきである営業時間中にあなたを**疲れさせる**可能性がある。
 
 ## Step4: Vocabulary Questions
 
