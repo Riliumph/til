@@ -2,7 +2,7 @@
 
 ## Post-Test
 
-Janet is an honest person. She can to you.  
+Janet is an honest person. She can **couldn't** to you.  
 Janetは誠実な人だ。
 
 - [ ] can lie「（可能）嘘をつくことができる、（可能性）嘘をつくかもしれない」
@@ -20,6 +20,8 @@ He has disappointed me a few times. You **had better not expect** too much from 
 - [ ] had not better expect
 - [x] had better not expect
 - [ ] had better not expecting
+
+`had better not` = `should not`
 
 ---
 
@@ -51,6 +53,10 @@ He was with his client in the meeting room then, so you **can't have seen** him 
 - [ ] must have seen「出会ったに違いない」
 - [ ] shouldn't see「出会うべきではない」
 
+`can't have seen`と`couldn't have seen`は、現在と過去を区別しているわけではない。  
+確信している度合いを区別している。  
+過去かどうかは`have seen`の部分が担う。
+
 ---
 
 Don't worry. I **won't tell** anyone else.  
@@ -60,6 +66,8 @@ Don't worry. I **won't tell** anyone else.
 - [x] won't tell
 - [ ] shouldn't have told
 - [ ] couldn't have told
+
+ここの「言わないよ」は「言うつもりはないよ」という意志の表現のため`will`が用いられる。
 
 ---
 
@@ -78,13 +86,13 @@ There **used to** be a lot of shops on this shopping street, but most of them ar
 
 ---
 
-In spite of his leg injury, he **was unable to** win his tennis match last week.  
-足の怪我に関わらず、彼は先週のテニスの試合に勝つことは出来なかった
+In spite of his leg injury, he **was able to** win his tennis match last week.  
+足の怪我に関わらず、彼は先週のテニスの試合に勝つことは出来た
 
 - [ ] could
 - [ ] can
-- [ ] was able to
-- [x] was unable to
+- [x] was able to
+- [ ] was unable to
 
 ### Step2
 
@@ -93,18 +101,25 @@ B：よく分かりませんが、あなたの秘書かもしれませんよ
 A：いいえ、私の秘書のはずがありません。彼女は昨日一日中外出していました。
 
 A: Do you know who received the call from this client yesterday?  
-B: I'm not sure, but it might be your secretary.  
+B: I'm not sure, but it might **have been** your secretary.  
 A: No, it can't be her. She was out all day yesterday.
+
+Bは「昨日」という過去の話をしているので推量助動詞の過去表現として現在完了形である`have been`を用いなければならない。  
+ただし、最後の文はどちらでもよい。  
+
+- 昨日の彼女を否定したい場合は`it can't have been her.`を用いる。  
+- 現在の会話を否定したい場合は`it can't be her.`で問題ない。
 
 ---
 
-A: 遅かれ早かれ、彼女はあなたが嘘を言ったことに気づくでしょう。本当のことを話したほうが良いですよ。
+A: 遅かれ早かれ、彼女はあなたが嘘を言ったことに気づくでしょう。本当のことを話したほうが良いですよ。  
 B: 言おうとしたのですが、言えませんでした。彼女はすっかり信じ込んでいるんです。あんなことを言わなければよかったです。
 
-A: Sooner or later, She will notice that you lied. You had better tell the truth.  
-B: I tried to say it, but I couldn't. She fully trust it.　I shouldn't have said such a thing.
+A: Sooner or later, she will notice that you lied. You had better tell her the truth.  
+B: I tried to say it, but I couldn't. She fully fallen into it. I shouldn't have said such a thing.
 
-`I wish I had not said such a thing`が思いついた。
+`to say it`の部分を代動詞`do`で表現する場合は、`I tried to do so,`が正しい。  
+最後の文は`I wish I had not said such a thing`が思いついた。  
 
 ---
 
@@ -119,3 +134,5 @@ A: No, I haven't. But I should be done by tomorrow.
 I think that will be finished tomorrow.でも問題ないけど。。。という感じ。  
 `finish`よりも`done`の方が口語的。  
 `think`よりも`should`の方が口語的。
+
+ただし、`done`は「事を終える」というよりも「手を付ける」の意味合いが強い。  
