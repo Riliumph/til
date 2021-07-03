@@ -117,9 +117,20 @@ The novelist has written a lot of best-selling novels, most of **which** have be
 
 The young athlete who competed at the Olympics for the first time broke the world record that no one thought could break.
 
+もし、仮に「誰もか『初めて出場した若い選手が破ることが出来ない記録』」という意味であるなら
+
+The young athlete who competed at the Olympics for the first time broke the world record, which no one thought could break.
+
 ---
 
 たくさんの観光客が1993年に世界遺産に登録された姫路城を訪れている。姫路城は、その天守閣が飛び立っていくシラサギに似ていることから、白鷺城とも呼ばれている。
 
-A lot of tourist visited Himeji Castle which is registered as a World Heritage in 1993, which is called Shirasagi Castle.
+A lot of tourist visited Himeji Castle which is registered as a World Heritage in 1993.
+
 The reason why the main tower is similar to a white heron which is flying away.
+
+---
+
+The three-days seminar which took place at the end of June was concluded at great success.
+
+We invited some prominent corporate manager, one of whom is Mr. Buchanan who established XY Trading.

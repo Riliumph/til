@@ -85,9 +85,32 @@ Parents and educators need to return to the idea of self-esteem as a direct meas
 "When you break down the research," says Twenge, "you see that kids who behave well and get high grades develop high self-esteem, not the other way round."  
 「研究を分析すると、行儀が良く、成績が良い子供たちは、高い自尊心を育むことがわかります。その逆ではない」と Twenge は言う。
 
+## Step3
+
+Research indicates that American students are becoming **addicted to** praise.  
+調査によると、米国の学生は賞賛に**中毒**になっています。
+
+In surveys, college students say they would rather **get** a compliment than receive a payback or go on a date.  
+調査では、大学生は、見返りを受け取ったり、デートをしたりするよりも、褒め言葉を**受け取る**ほうがいいと言っています。
+
+The shift in values has been linked to an **educational** trend of praising students to build their self-esteem, **regardless of** achievement.  
+価値観の変化は、**達成に関係なく**、生徒が自尊心を築くように賞賛するという**学習**傾向に関連しています。
+
+Academic standards are **falling** in schools, but students are **more** confident about their abilities than ever.  
+学校では学業水準が**低下**していますが、生徒はこれまで以上に自分の能力に**自信を持っています**。
+
+The data suggests that constant praise is making students grow accustomed to reward **without** effort.  
+データは、絶え間ない賞賛が学生を**努力なしで**報酬を与えることに慣れさせていることを示唆しています。
+
+Researchers advocate a renewed emphasis on academic excellence, rather than boosting confidence for its own sake, since **true** self-esteem comes from **personal achievement**.  
+**真の**自尊心は**個人の目標**から来るので、研究者は、それ自体のために自信を高めるのではなく、学術的卓越性に新たな重点を置くことを提唱しています。
+
+> `advocate`「提唱する」
+
 ## Step4
 
-Today's young people are **preoccupied with** feeling good about themselves.
+Today's young people are **preoccupied with** feeling good about themselves.  
+今日の若い人々は自身について満足することに**夢中になっている**
 
 - [ ] confused about「〜に困惑している」
 - [ ] afraid of「〜を恐れている」
@@ -101,7 +124,8 @@ Today's young people are **preoccupied with** feeling good about themselves.
 
 ---
 
-The researchers attribute this change to recent education **initiatives**.
+The researchers attribute this change to recent education **initiatives**.  
+研究者たちは、この変化を最近の教育の**独創性**に起因すると考えています。
 
 - [ ] budgets「予算」
 - [x] strategies「戦略」
@@ -110,7 +134,8 @@ The researchers attribute this change to recent education **initiatives**.
 
 ---
 
-A "me" graduation of young people is **emerging**.
+A "me" graduation of young people is **emerging**.  
+「私」世代の若い人たちが急に現れている
 
 - [x] appearing
 - [ ] amusing
@@ -119,7 +144,8 @@ A "me" graduation of young people is **emerging**.
 
 ---
 
-If people believe they deserve something for nothing, they **make less effort**.
+If people believe they deserve something for nothing, they **make less effort**.  
+人々が自分が何かに値するものであると信じるなら、彼らは**より少ない努力**をします。
 
 - [x] try less
 - [ ] become impatient
@@ -128,7 +154,8 @@ If people believe they deserve something for nothing, they **make less effort**.
 
 ---
 
-Kids who behave well and get high grades develop high self-esteem, not the other way round.
+Kids who behave well and get high grades develop high self-esteem, not **the other way round**.  
+よく振る舞い、高学年を取得する子供たちは、その逆ではなく、高い自尊心を発達させます。
 
 - [ ] the same direction
 - [ ] the different method
