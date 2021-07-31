@@ -10,8 +10,7 @@ Your Tollway Pass is Watching You
 In New York, the E-ZPass is a convenient way for drivers to pay road tolls automatically.  
 ニューヨークでは、E-ZPassはドライバーが通行料を自動的に支払う便利な方法だ。
 
-> `road tolls`「通行料」
-
+> `road tolls`          「通行料」
 A scanner reads the card each time you enter a tollway.  
 人が有料道路に入る毎にスキャナーがカードを読み取る。
 
