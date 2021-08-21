@@ -15,6 +15,8 @@ FargateのログをEFSに吐き出し、S3へ転送する。
 このS3Syncがなかなかに重い。248Bの7000ファイルを送るのに30分ほどかかっている。  
 本来は、CloudWatch+Firehoseを使ったりするのだろうが、こういう構成になった場合は注意せよ
 
+> 普通にFirehose使ってS3なりElasticsearchに入れれば？
+
 ## CloudFormationは使い所によっては美味しくない
 
 CFnは構成管理の側面を持つ。  
