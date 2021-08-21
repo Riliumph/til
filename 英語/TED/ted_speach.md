@@ -8,7 +8,7 @@ Only think about something you've always wanted to add to your life and try it f
 
 It turns out, 30 days is just about the right amount of time to add a new habit or subtract the habit.
 
-There's a few things that I learned while doing these 30 day challenges.
+There's a few things that he learned while doing these 30 day challenges.
 
 The first was, instead of the months flying by, forgotten, the time was much more memorable.
 
@@ -20,9 +20,9 @@ He also noticed that he started to do more and harder 30 day challenges, his sel
 
 Apparently, he went from desk-dwelling computer nerd to the kind of guy who bikes to work.
 
-In just 30 days, taking pictures, writing novels, and biking can never be a professional.
+But, In just 30 days, taking pictures, writing novels, and biking can never be a professional.
 
-But, when we made small, sustainable changes, things we could keep doing, they were more likely to stick.
+when we made small, sustainable changes, things we could keep doing, they were more likely to stick.
 
 He says "what are you waiting for?".
 
