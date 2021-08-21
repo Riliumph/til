@@ -38,13 +38,13 @@ I'm a graduate of the Computer Science Department at this university, and I was 
 ---
 
 As a female computer programmer, I've gotten a lot of funny reactions from men over the years, because almost all software developers are men.  
-ほとんどのSW開発者は男性なので、女性のPGとして、私は何年にもわたって男性から多くの面白い反応を得てきました。
+女性のPGとして、私は何年にも渡って男性から多くの面白い反応を得てきました。ほとんどのSW開発者は男性なのでね。
 
 A common silly question I hear is, "How did you become a computer programmer?"  
-私がよく耳にするばかげた質問は、「どうやってコンピュータープログラマーになったのですか？」です。
+私がよく耳にするバカな質問は、「どうやってPGになったの？」です。
 
 This simple answer is that I enrolled in a computer science course and graduated like anyone else.  
-この簡単な答えは、私がコンピュータサイエンスのコースに登録し、他の人と同じように卒業したということです。
+この答えは簡単で、私がCSコースに登録し、他の人と同じように卒業したからです。
 
 ---
 
@@ -55,36 +55,36 @@ Even in science and engineering, half of all students are now women.
 科学と工学の分野でさえ、今では全学生の半数が女性です。
 
 but for some reason, computer science is an exception.  
-しかし、何らかの理由で、コンピュータサイエンスは例外です。
+しかし、何らかの理由で、CSは例外です。
 
 Only one-fifth of computer science students are women.  
-コンピュータサイエンスの学生の5分の1だけが女性です。
+CSの学生の5分の1だけが女性です。
 
 I encourage all of you young women to change that statistic.  
-若い女性の皆さんには、その統計を変更することをお勧めします。
+若い女性の皆さんには、その統計を変更してもらいたいです
 
 ---
 
 If you want a job that is constantly changing, with smart colleagues, a great salary, and huge opportunities for growth and promotion, then computer programming is for you.  
-賢い同僚、高額の給料、成長と昇進の大きなチャンスなど、絶えず変化する仕事が必要な場合は、コンピュータープログラミングが最適です。
+賢い同僚、高額の給料、成長と昇進の大きなチャンスなど、絶えず変化する仕事が必要な場合は、PGが最適です。
 
-I won't tell you it's easy, but I encourage you yto take up the challenge and choose computer science as your major when you enter university.  
-簡単なことではありませんが、大学に入学するときは、挑戦してコンピュータサイエンスを専攻として選ぶことをお勧めします。
+I won't tell you it's easy, but I encourage you to take up the challenge and choose computer science as your major when you enter university.  
+簡単だとは言えないけど、大学に入学するときは、CSを専攻して挑戦することを勧めたい。
 
 If you like trying new things and continually learning, there is no better industry.  
 新しいことに挑戦し、継続的に学ぶのが好きなら、これ以上の業界はありません。
 
 If you're creative, good at solving problems, and enthusiastic about technology, then companies like mine will welcome you when you graduate.  
-あなたが創造的で、問題を解決するのが得意で、テクノロジーに熱心であるなら、私のような会社はあなたが卒業するときにあなたを歓迎します。
+あなたが創造的で、問題を解決するのが得意で、テクノロジーに熱心であるなら、私のような会社はあなたが卒業してからあなたを歓迎する。
 
 ## Step3
 
 Interviewer  
 I'm pleased to welcome to the show Academy Award-winning actress Jenna Davidson.  
-アカデミー賞を受賞した女優、ジェナ・デビッドソンのショーへようこそ。
+アカデミー賞を受賞した女優、ジェナ・デビッドソンのショーへようこそ
 
 Hi, nice to have you here, Jenna.  
-こんにちは、ジェナ、ここにお越しいただきありがとうございます。
+こんにちは、ジェナ、ここにお越しいただきありがとう
 
 I understand that you've just been appointed as a United Nations ambassador.  
 あなたは国連大使に任命されたばかりだと思います。
@@ -93,15 +93,15 @@ What will your role be?
 あなたの役割は何ですか？
 
 Davidson:  
-I'll be promoting the Tech needs Girls campaign.
-私はTechがGirlsキャンペーンを必要としていることを宣伝する。
+I'll be promoting the Tech Needs Girls campaign.
+私はTech Needs Girlsキャンペーンを宣伝する。
 
 This is a three-year UN campaign to encourage more women to enter the IT industry, which is presently dominated by men.  
 これは、現在男性が支配しているIT業界に、より多くの女性が参入することを奨励する3年間の国連キャンペーンです。
 
 Interviewer:  
 So how will the campaign work?  
-では、キャンペーンはどのように機能しますか？
+では、キャンペーンはどんな意味が？
 
 Davidson:  
 Earlier this year, we launched a multilingual Tech Needs Girls website.  

@@ -79,7 +79,7 @@ I learned that when I made small, sustainable changes, things I could keep doing
 私が学んだのは小さな、持続可能な変化を、続けられることをするなら、それは身につくということだ。
 
 There's nothing wrong with big, crazy challenges.  
-大きな並外れたチャレンジというのも悪く貼りません。
+大きな並外れたチャレンジというのも悪くはありません。
 
 In fact, they're a to of fun.  
 きっとすごく楽しいのでしょう。
