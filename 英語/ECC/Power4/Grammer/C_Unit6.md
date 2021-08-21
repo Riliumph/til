@@ -70,11 +70,11 @@ The cars illegally **parked** over there were towed away.
 
 ---
 
-My dog always follows me **with his tail wagged**.  
+My dog always follows me **with his tail wagging**.  
 私の犬はいつも**尻尾を振って**私を追いかけます。
 
-- [x] with his tail wagged
-- [ ] with his tail wagging
+- [ ] with his tail wagged
+- [x] with his tail wagging
 - [ ] with wagging his tail
 - [ ] his tail wagging
 
@@ -133,6 +133,8 @@ All employees were **puzzled** by the president's sudden resignation.
 - [ ] Exposed
 - [ ] Having been exposing
 
+`Having`がないと`for several month`を使うことができない。
+
 ---
 
 Looking for a new job can be very **exhausted** when times are bad.  
@@ -143,17 +145,26 @@ Looking for a new job can be very **exhausted** when times are bad.
 - [x] exhausted
 - [ ] exhausting
 
+ここの`times`が複数形なのは`trend`の意味で使用しているから。
+
 ### Step2
 
 線路上に止まっている車のため、電車の中で１時間以上も缶詰状態だったので、乗客たちはイライラしていた。
 
-(being) Trapped for over an hour on the train, passengers were frustrated because of the car parked on the railroad tracks.
+~~(being) Trapped for over an hour on the train, passengers were frustrated because of the car parked on the railroad tracks.~~
+
+ちゃんと、`because of`を掛けるところを間違わないように。
+
+(being) Trapped for over an hour on the train because of the car parked on the railroad tracks, passengers were frustrated.
 
 ---
 
 最近の調査によると、ソーシャルメディアを求人のツールとして利用している企業が増えている。
 
 A recent survey shows that more and more companies are using social media as a recruiting tool.
+
+分詞構文`According to A`を用いても良い。  
+単に`a recruiting tool`よりも`their recruiting tool`の方が馴染む。
 
 ---
 
@@ -165,4 +176,7 @@ What do you think of the proposal submitted to the board yesterday?
 
 Judging from the recent economic situation, it seems (to be) difficult to realize.
 
-Speaking of economic conditions, did you read the economic forecast released by the Bank of Japan yesterday?
+Speaking of economic situation, did you read the economic forecast released by the Bank of Japan yesterday?
+
+> `economic climate` = `economic situation`  
+> `economic condition`とは言わない

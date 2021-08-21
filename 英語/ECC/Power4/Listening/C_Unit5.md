@@ -1,173 +1,139 @@
-# Unit3: Confidence in the Classroom
+# Unit5: Addressing the Gender imbalance
 
 ## Step1
 
-South Korean students score high in exams but low in confidence.  
-韓国の学生は試験で高得点を獲得しますが、自信がない。
+Are you a woman who loves technology?  
+テクノロジーが好きな女性？
 
-In global exams, South Korean school students rank first in science and second in math.  
-世界基準の試験では、韓国の学校の生徒は科学で1位、数学で2位にランクされています。
+If you are, you've probably noticed that technology magazines tend to ignore women.  
+もしそうなら、多分、字術本が女性を無視する傾向にあると気づいただろう
 
-But South Korean students are also among the least confident in their math and science abilities.  
-しかし、韓国の学生はまた、数学と科学の能力に最も自信が無い。
+Even worse, women's magazines seem to ignore technology.  
+さらに悪いことに、女性誌はテクノロジーを無視しているようなのだ
 
-Last year 47 percent of Korean eighth-grade students achieved advanced scores in global math exams, compared with 7 percent of American eighth-graders.  
-昨年、韓国の8年生の47％が、米国の8年生の7％と比較して、グローバルな数学の試験で高度なスコアを達成した。
+_Pop Tech_ is a women's lifestyle magazine that embraces technology.  
+_Pop Tech_誌はテクノロジーを受け入れる女性の生活雑誌だ
 
-However, in a survey of 300,000 students in 50 countries, South-korean students ranked 49th for confidence in their abilities, while U.S. students were number one.  
-しかし、50カ国の30万人の学生を対象にした調査では、韓国の学生は自分の能力に対する自信で49位にランクされ、米国の学生は1位だった。
+> `embrace`「（人と）抱き合う、（思想を）受け入れる」
+
+We cover topics traditionally seen in women's magazines, such as health and fitness, beauty and fashion, home, family, and entertainment, but we place a unique focus on technological products related to these topics.  
+健康とフィットネス、美容とファッション、家庭、家族、娯楽など、女性誌で伝統的に見られるトピックを取り上げているが、これらに関連する技術製品に独自の焦点を当てている。
+
+> `cover`「取り上げる」
+
+At _Pop Tech_, we understand that technology is part of every modern woman's lifestyle.  
+_Pop Tech_では、テクノロジーが近年の女性のライフスタイルの一部であることを理解している。
 
 ## Step2
 
-Good morning boys and girls.
+Good morning, and welcome to San Francisco University Open Day.  
+おはようございます。サンフランシスコ大学オープンデーへようこそ。
 
-In today's class, we're going to discuss self-esteem.  
-今日のクラスでは、自尊心について話し合う
+My name is Linda Davies, and I'm software developer for Orange Computers in Silicon Valley.  
+私の名前はLindaDaviesで、シリコンバレーのOrangeComputersのSW開発者だ
 
-Self-esteem is the way you think about yourself and the things you do.  
-自尊心は貴方が自分自身と貴方がすることについて考える方法だ
-
-Having high self-esteem means you feel proud of who you are and what you can do.  
-高い自尊心を持つということは、自分が誰か、何ができるかを誇りに思うことを意味する
-
-People with high self-esteem are comfortable about trying new things, and they expect good things to happen to them.  
-自尊心の高い人は、新しいことに挑戦することに抵抗がなく、自分に良いことが起こることを期待している
+I'm a graduate of the Computer Science Department at this university, and I was invited back today to talk about women in computer programming.  
+私はこの大学のCS学部を卒業しており、今日、プログラミングの女性について話すよう招待された
 
 ---
 
-Having low self-esteem means you're not feeling good about who you are and what you can do.  
-自尊心が低いということは、自分が誰か、何ができるかについてよく思っていないことを意味します
+As a female computer programmer, I've gotten a lot of funny reactions from men over the years, because almost all software developers are men.  
+ほとんどのSW開発者は男性なので、女性のPGとして、私は何年にもわたって男性から多くの面白い反応を得てきました。
 
-People with low self-esteem may be afraid to try new things because they think they will fail.  
-自尊心の低い人は、失敗すると思っているので、新しいことに挑戦することを恐れているかもしれない
+A common silly question I hear is, "How did you become a computer programmer?"  
+私がよく耳にするばかげた質問は、「どうやってコンピュータープログラマーになったのですか？」です。
 
-They sometimes believe that others don't like them, or that they can't expect to make friends when they like someone.  
-そういう人たちは時々、他人が自分たちを好きではないとか、自分たちが誰かが好きな時に友達を作れないと信じている
+This simple answer is that I enrolled in a computer science course and graduated like anyone else.  
+この簡単な答えは、私がコンピュータサイエンスのコースに登録し、他の人と同じように卒業したということです。
 
 ---
 
-Having high self-esteem gives you the courage to be yourself, without worrying what others think of you.  
-高い自尊心を持つことは、他人が貴方をどう思うかを心配することなく、貴方に貴方自身である勇気を与える
+Lots of women work in almost every professional field nowadays.  
+今日、多くの女性がほぼすべての専門分野で働いています。
 
-It's good idea to do things that boost your self-esteem, so right now I'd like you to try an exercise with me.  
-自尊心を高めるようなことをするのはいい考えだ。なので、今すぐ一緒に運動してみましょう
+Even in science and engineering, half of all students are now women.  
+科学と工学の分野でさえ、今では全学生の半数が女性です。
 
-I want you to take out a piece of paper and make a list of good things you remember others saying about you.  
-一枚の紙を取り出して、他人があなたについて言ったことを覚えている良いことのリストを作ってほしい。
+but for some reason, computer science is an exception.  
+しかし、何らかの理由で、コンピュータサイエンスは例外です。
 
-After that, add some good things you know about yourself.  
-その後、貴方が貴方自身について知っている良いことを追加して。
+Only one-fifth of computer science students are women.  
+コンピュータサイエンスの学生の5分の1だけが女性です。
 
-You have ten minutes, so let's get started.  
-10分あるので、始めましょう。
+I encourage all of you young women to change that statistic.  
+若い女性の皆さんには、その統計を変更することをお勧めします。
+
+---
+
+If you want a job that is constantly changing, with smart colleagues, a great salary, and huge opportunities for growth and promotion, then computer programming is for you.  
+賢い同僚、高額の給料、成長と昇進の大きなチャンスなど、絶えず変化する仕事が必要な場合は、コンピュータープログラミングが最適です。
+
+I won't tell you it's easy, but I encourage you yto take up the challenge and choose computer science as your major when you enter university.  
+簡単なことではありませんが、大学に入学するときは、挑戦してコンピュータサイエンスを専攻として選ぶことをお勧めします。
+
+If you like trying new things and continually learning, there is no better industry.  
+新しいことに挑戦し、継続的に学ぶのが好きなら、これ以上の業界はありません。
+
+If you're creative, good at solving problems, and enthusiastic about technology, then companies like mine will welcome you when you graduate.  
+あなたが創造的で、問題を解決するのが得意で、テクノロジーに熱心であるなら、私のような会社はあなたが卒業するときにあなたを歓迎します。
 
 ## Step3
 
-I: You're on Student Radio SRUC.  
-あなたは学生ラジオSRUCを利用している
+Interviewer  
+I'm pleased to welcome to the show Academy Award-winning actress Jenna Davidson.  
+アカデミー賞を受賞した女優、ジェナ・デビッドソンのショーへようこそ。
 
-We're talking today about the experience of foreign students studying here at the University of Chicago.  
-今日は、ここシカゴ大学で勉強している留学生の経験について話す
+Hi, nice to have you here, Jenna.  
+こんにちは、ジェナ、ここにお越しいただきありがとうございます。
 
-I have with me Kanae Matsuda, a psychology student from Japan.  
-日本の心理学の学生である松田カナエと一緒にいる
+I understand that you've just been appointed as a United Nations ambassador.  
+あなたは国連大使に任命されたばかりだと思います。
 
-Kanae, how are you enjoying your studies?  
-かなえ、勉強はいかがです？
+What will your role be?  
+あなたの役割は何ですか？
 
-K: Well, I'm happy now, but it was a real culture shock when I first entered a U.S. high school 3 years ago.  
-ええと、今は嬉しいけど、3年前に初めて米国の高校に入学したときは、カルチャーショックだった。
+Davidson:  
+I'll be promoting the Tech needs Girls campaign.
+私はTechがGirlsキャンペーンを必要としていることを宣伝する。
 
-I: really? What was different?  
-本当に？何が違った？
+This is a three-year UN campaign to encourage more women to enter the IT industry, which is presently dominated by men.  
+これは、現在男性が支配しているIT業界に、より多くの女性が参入することを奨励する3年間の国連キャンペーンです。
 
-K: Everything: both the style of teaching and the way examinations are graded.  
-すべて：教育のスタイルと試験の採点方法の両方。
+Interviewer:  
+So how will the campaign work?  
+では、キャンペーンはどのように機能しますか？
 
-I: How does the style of teaching differ?  
-教え方はどう違う？
+Davidson:  
+Earlier this year, we launched a multilingual Tech Needs Girls website.  
+今年の初めに、多言語のTech NeedsGirlsのWebサイトを立ち上げました。
 
-K: Teaches in Japan expect students to be quiet, and students rarely ask questions.  
-日本の教師は、生徒が静かなことを期待していて、生徒が質問することは滅多に無い
+It gives women and girls access to training, job opportunities and career information in the IT sector.  
+これにより、女性と女児はITセクターのトレーニング、仕事の機会、キャリア情報にアクセスできます。
 
-Japanese teachers write important information on the board, but American teachers often just talk and expect students to do research and write papers.  
-日本の教師はボードに重要な情報を書くが、米国の教師はただただよく話し、学生が研究をして論文を書くことを期待する
+There are thousands of scholarships, contests, awards and mentoring programs.  
+何千もの奨学金、コンテスト、賞、メンタリングプログラムがあります。
 
-American teachers think class participation is important.  
-米国の教師は、クラスへの参加が重要だと考える
+There are also tech camps, activities, and events.  
+テックキャンプ、アクティビティ、イベントもあります。
 
-They require students to give opinions or ask questions.  
-彼らは学生に意見を述べたり質問したりすることを要求する
+Interviewers:  
+And how will the program reach poor women and girls who don't have access to the internet?  
+そして、このプログラムは、インターネットにアクセスできない貧しい女性や少女にどのように届くのでしょうか。
 
-They reward you for speaking up.  
-彼らは話すことで褒めるのだ
+Davidson:  
+well, that's one of our most important goals.  
+それが私たちの最も重要な目標の1つです。
 
-I: Japanese students don't ask questions?  
-日本人学生は質問しないの？
+The UN is working with governments and people in the IT industry to create training and education opportunities in developing countries.  
+国連は、政府やIT業界の人々と協力して、開発途上国でのトレーニングと教育の機会を創出しています。
 
-K: Not so much. For the first few months I was in the U.S., I was nervous in classes because I wasn't confident about stating my opinions.  
-それほど多くはない。米国にいた最初の数ヶ月は、自分の意見を述べることに自信がなかったから、授業で緊張していた。
+This year I'll be visiting countries in East Africa and South America to promote the campaign.  
+今年はキャンペーンを推進するために東アフリカと南アメリカの国々を訪問します。
 
-I: So what's different about exams?  
-では、試験での違いは何？
+interviewer:  
+It sounds like you have a busy few years ahead.  
+数年先は忙しいようですね。
 
-K: Exams in Japan test exactly what you learned in class and textbooks, and they are usually multiple-choice tests.  
-日本の試験は、クラスや教科書で学んだことを正確にテストする。それから、ほとんどの場合は多肢選択式のテストだ。
-
-In the U.S. you often have to write essays in exams.  
-米国では、試験でエッセイを書かなければならないことがよくある。
-
-I was shocked when I first got a C in American History.  
-米国史で初めてCを取得したとき、ショックだった。
-
-My teacher said I was just repeating facts from class.  
-私の先生は、私がクラスから事実を繰り返しているだけだと言った。
-
-She wanted logical opinions supported by facts.  
-彼女は事実に裏付けられた論理的な意見を望んでいたのだ
-
-I: And do you like talking and arguing with teachers and other students now?  
-先生や他の生徒と話したり、議論したりするのは好き？
-
-K: Yeah, it's fun. I like thinking about the reasons and facts behind my opinions.  
-それは楽しい。私は自分の意見の背後にある理由と事実について考えるのが好き。
-
-## Step4
-
-Teaching is fun, but graded paper is hard work if you have lots of students.
-
----
-
-Participation in school sports is important for creating lifelong exercise habit.
-
----
-
-That tennis player is currently ranked fourth best in the world.
-
----
-
-Perfect weather has boosting tourist numbers at this year's festival
-
----
-
-Some people argue that violent video games are bad for children.
-
----
-
-I didn't have the courage to dive off the ten-meter board.
-
----
-
-Being unemployed when you are young can really harm your self-esteem.
-
----
-
-I think you need to speak up about your boss's behavior. It's clearly wrong.
-
----
-
-It would be more logical to arrange these DVDs alphabetically.
-
----
-
-A U.S. survey indicates that working long hours increases the chance of illness or injury.
+Davidson:  
+Well, I'm thrilled to have an opportunity to address gender inequality on a global scale.  
+さて、私は世界規模でジェンダーの不平等に取り組む機会を持つことに興奮しています。
