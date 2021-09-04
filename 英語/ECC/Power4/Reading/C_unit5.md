@@ -25,7 +25,7 @@ Only ten percent of technology __start up__ are founded by women.
 - [x] newcomers
 - [ ] stores
 - [ ] distributors
-- [] farms
+- [ ] farms
 
 ---
 

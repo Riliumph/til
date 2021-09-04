@@ -325,6 +325,8 @@ There was another officer... I-I couldn't... I couldn't...
 Here... I'm sure you did what you could, Leon.  
 立て　お前は悪くない　レオン  
 
+> 「お前はやれたことをやったんだ」「あれ以上どうすることもできなかった」の意味
+
 [Leon]  
 Does anyone know what started this?  
 こうなった原因は？  

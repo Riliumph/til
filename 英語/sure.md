@@ -1,17 +1,25 @@
 # 保証する
 
+一気に覚える例文
+
+I assure you, Officer, that I will ensure I go down to my local insurance company and insure my vehicle as soon as possible.  
+役員、私は地元の保険会社に行き、できるだけ早く私の車に保険をかけることを約束します
+
 - insure
-- ensure
-- assure
-- guarantee
+- assure 人
+  - promise
+  - relieve
+  - guarantee
+- ensure 物
+  - make sure
 
 ## insure
 
 `insurance`「保険」の動詞。  
 金銭的に「保証する、保険をかける」の意味を持つ。
 
-You can insure the package for up to $500.  
-あなたの荷物は500$まで保証されます。
+You can insure the package for up to \$500.  
+あなたの荷物は\$500まで保証されます。
 
 You must insure your car by law.  
 あなたは法律によって自動車に保険をかけなければならない。
@@ -57,6 +65,19 @@ The agreement ensured _a steady supply of oil_.
 |:--:|:--:|:--|:--:|
 |assure|人|〜について安心させる|`relieve`|
 |ensure|物|〜を保証する|`make sure`|
+
+## make sure
+
+「確実にする」「必ずする」の意味を持つ。
+
+|用法|翻訳|
+|:--|:--|
+|make sure of A|Aを確認する|
+|make sure that S V|SがVするのを確認する|
+|make sure to do|必ず〜する、〜するようにしている|
+
+> `make sure to do`は口語表現である。  
+> 市民権は得てきたが、to不定詞を使う場合は`be sure to do`の方が良い場面がある。writingとか
 
 ## guarantee
 

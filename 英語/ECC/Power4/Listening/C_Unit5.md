@@ -22,7 +22,7 @@ We cover topics traditionally seen in women's magazines, such as health and fitn
 > `cover`「取り上げる」
 
 At _Pop Tech_, we understand that technology is part of every modern woman's lifestyle.  
-_Pop Tech_では、テクノロジーが近年の女性のライフスタイルの一部であることを理解している。
+_Pop Tech_ では、テクノロジーが近年の女性のライフスタイルの一部であることを理解している。
 
 ## Step2
 
@@ -137,3 +137,48 @@ It sounds like you have a busy few years ahead.
 Davidson:  
 Well, I'm thrilled to have an opportunity to address gender inequality on a global scale.  
 さて、私は世界規模でジェンダーの不平等に取り組む機会を持つことに興奮しています。
+
+## Step4
+
+**Statistics** indicate that fishing is the world's most dangerous job.
+
+---
+
+Most cats dislike bathing, but tigers are an **exception**. They love to swim.
+
+---
+
+Jenny was a **colleague** of mine when I worked at the _Daily News_.
+
+---
+
+Australians are being encouraged to **enroll** in Asian language courses.
+
+> `enroll` = `sign up`
+
+---
+
+We didn't tip the waiter, because he **ignored** our repeated requests for water.
+
+---
+
+In any business, it's important to **address** customer complaints immediately.
+
+---
+
+Katy is so **enthusiastic** about cooking. Maybe she can be a chef when she grows up.
+
+---
+
+The company announced today that they will be appointing a new chairman.
+
+---
+
+Japan is embracing budget airlines, and three companies
+now offer cheap flights.
+
+---
+
+The american ambassador has requested more security around the U.S. embassy.
+
+---

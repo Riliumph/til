@@ -33,3 +33,6 @@ It doesn't seem that he likes chocolate, does he?
 否定文の場合、`that`が省略されると不自然に聞こえるらしい。
 
 "It doesn't seem he likes chocolate, does he?"は正しく聞こえないらしい。
+
+It doesn't seems that he is A.は  
+It doesn't seems for him to be A.と同じため、thatが落ちると不自然に思われるのだそう。
