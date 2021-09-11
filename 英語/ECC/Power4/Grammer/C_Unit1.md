@@ -168,8 +168,8 @@ He suggested (that) I (should) review the report before handing it in.
 
 `hand in A`や`turn in A`が「提出する」の意味だが、Aが代名詞の場合は動詞と前置詞の間に移動することに注意。
 
-> - `hand in A` = `turn in A` = `submit A`「提出する」
-> - `review A` = `go over A`「見直す」
+> - `review A` = `go over A`「見直す」  
+> [提出する](../../../提出する.md)
 
 ---
 
