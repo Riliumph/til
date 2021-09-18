@@ -99,10 +99,21 @@ Have you ever had your passport stolen in a foreign country?
 
 It took time for him to approve his proposal at the board of directors
 
+It took him a while to have his proposal approved by the board of discuss.
+
 ---
 
 Our technology has made it possible to save 30% on energy. Let me explain the technology in detail.
 
 ---
 
-Thank you for coming here today. Immediately have the secretary send us a financial report by email. We can make this project a success
+Thank you for allowing to be here today. Immediately have the secretary send us a financial report by email. We can make this project a success
+
+I'll have my secretary send our financial statement by email immediately.
+
+We will surely make this project work.
+
+> `work`「上手くいく」  
+> ここでは「仕事」の意味では用いられない  
+> `I wish this project would work`「このプロジェクトが上手くいくといいですね」
+
