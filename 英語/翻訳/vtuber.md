@@ -35,3 +35,17 @@ Please join Lazulight and save us from degeneracy
 「Lazulightに参加して、変態から私達を守って。。。」
 
 > `degeneracy`「縮退、退化、変態」
+
+## Hololive EN
+
+I didn't expect it because my japanese is really freaking.  
+こんなの想像してなかった。だって、私の日本語は下手だから。
+
+> `freak`「おかしい」  
+> 「私の日本語はとても変だ」から転じて下手の意味となる。
+
+I suck at japanese.  
+私は日本語が下手だ。
+
+> `suck`「吸う、しゃぶる」
+> `suck`の基本の意味は「（ちゅうちゅう）吸う」であるが、スラングとして「ひどい」という物がある。
