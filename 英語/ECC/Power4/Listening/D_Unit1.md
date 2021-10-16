@@ -1,6 +1,6 @@
-# Unit1: Plenty of New Work, Not Enough New Skilled Workers
+# Unit1: Made in USA
 
-## Step1
+## Step1: Plenty of New Work, Not Enough New Skilled Workers
 
 After decades of declining domestic production, American manufacturing is expanding again in the U.S.  
 数十年にわたる国内生産の減少の後、アメリカの製造業は米国で再び拡大しています。
