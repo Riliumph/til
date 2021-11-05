@@ -45,7 +45,6 @@ Outsourcing experts predict another 2.1 million skilled jobs in IT, human resour
 アウトソーシングの専門家は、IT、人材、および金融の分野でさらに210万人の熟練した仕事が今後数年以内にインドに来ると予測しています。 
 
 ---
-
 However, the same experts predict that new outsourcing contracts to India will stop within a decade.  
 ただし、同じ専門家は、インドへの新しいアウトソーシング契約は10年以内に停止すると予測しています。
 
