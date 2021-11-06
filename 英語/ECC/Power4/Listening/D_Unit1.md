@@ -34,7 +34,7 @@ I'm Sanjay Kapoor, and I'm the CEO and founder of Kapoor IT.
 私はSanjayKapoorであり、KapoorITのCEO兼創設者です。
 
 I'm here today to talk to you about the importance of quality in our work.  
-私は今日ここにいて、私たちの仕事における品質の重要性についてお話しします。 
+私は今日ここにいて、私たちの仕事における品質の重要性についてお話しします。
 
 ---
 
@@ -42,7 +42,7 @@ For the past decade, more than 150,000 business service jobs a year have been sh
 過去10年間で、年間15万人以上のビジネスサービスの仕事がヨーロッパとアメリカからここインドに移されました。
 
 Outsourcing experts predict another 2.1 million skilled jobs in IT, human resources, and finance will come to India in the next few years.  
-アウトソーシングの専門家は、IT、人材、および金融の分野でさらに210万人の熟練した仕事が今後数年以内にインドに来ると予測しています。 
+アウトソーシングの専門家は、IT、人材、および金融の分野でさらに210万人の熟練した仕事が今後数年以内にインドに来ると予測しています。
 
 ---
 However, the same experts predict that new outsourcing contracts to India will stop within a decade.  
@@ -63,7 +63,7 @@ What this means for us at Kapoor IT is that we have to make sure we keep the cli
 これがKapoorITで私たちにとって意味することは、私たちが持っているクライアントを確実に維持しなければならないということです。
 
 We have to be aware that our clients in the U.S. are monitoring our performance and wondering if they need us.  
-米国のクライアントが私たちのパフォーマンスを監視していて、私たちが必要かどうか疑問に思っていることを認識しておく必要があります。 
+米国のクライアントが私たちのパフォーマンスを監視していて、私たちが必要かどうか疑問に思っていることを認識しておく必要があります。
 
 ---
 
@@ -80,7 +80,7 @@ I've heard American businesspeople joke that outsourcing gets companies "more me
 アメリカのビジネスマンは、アウトソーシングによって企業が「より少ない費用でより多くの混乱を招く」と冗談を言うのを聞いたことがあります。
 
 As founder of the organization, I tell you this to remind you that quality is our member one priority at Kappor IT.  
-組織の創設者として、品質がKapporITのメンバーの最優先事項であることを思い出させるためにこれをお伝えします。 
+組織の創設者として、品質がKapporITのメンバーの最優先事項であることを思い出させるためにこれをお伝えします。
 
 ## Step3
 
@@ -139,4 +139,54 @@ Offshoring to  nearby emerging economies such as Cambodia.
 カンボジアなどの近隣の新興経済国へのオフショアリング。
 
 Vietnam, Laos, India, and China is likely to remain economical.  
-ベトナム、ラオス、インド、中国は引き続き経済的である可能性が高い。 
+ベトナム、ラオス、インド、中国は引き続き経済的である可能性が高い。
+
+## Step4
+
+Burger Queen's expansion into India was slow because few Indians eat beef.  
+バーガークイーンのインドへの進出は遅かった。インド人はあまり牛肉を食べないから
+
+---
+
+in his speech to shareholders, the CEO **pull out** the weak economy as the reason for poor sales this year.  
+CEOは株主へのスピーチで、今年の売上高が低迷した理由として、景気の低迷を**引き出し**ました。
+
+---
+
+The new president won the election by an **overwhelming** majority.  
+新しい社長は圧倒的な人気で選挙に勝った
+
+---
+
+The military wants to **cite** of Afghanistan, but the situation is too unstable.
+軍はアフガニスタンを**引用**したいと思っていますが、状況は不安定すぎます。
+
+---
+
+My new compact car is much more **economical** than the sedan I used to own.  
+私の新しいコンパクトカーは使っていたセダンよりも経済的だ
+
+---
+
+I liked the movie, but the one-hour battle scene seemed a little **lengthy** to me.  
+私は映画が好きでしたが、1時間の戦闘シーンは私には少し**長い**ように見えました。
+
+---
+
+The police are questioning the kiiler to try and figure out his **motive** for the crime.  
+警察官は犯罪の動機を調べるために殺人者に質問している。
+
+---
+
+Japanese is a difficult language for me to learn. I found Spanish **comparatively** easy.  
+日本語は私にとって学ぶのが難しい。スペイン語の方が簡単だった
+
+---
+
+Most young people nowadays want to work in **service sector** jogs like IT and design.  
+最近の多くの若者は、Itやデザインのようにサービス事業部で働きたい
+
+---
+
+Car manufacturing in Australia is no longer profitable because of high **overhead costs**
+オーストラリアの自動車工業はもはや儲からない。というのも余剰コストが高いのだ。
