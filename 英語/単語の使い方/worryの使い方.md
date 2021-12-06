@@ -22,4 +22,5 @@
 
 I was worried.「心配したよ」  
 I was getting worried there for a sec.「心配したぞ」
+
 > ※Biohazard RE:2
