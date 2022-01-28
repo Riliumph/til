@@ -49,3 +49,49 @@ I suck at japanese.
 
 > `suck`「吸う、しゃぶる」
 > `suck`の基本の意味は「（ちゅうちゅう）吸う」であるが、スラングとして「ひどい」という物がある。
+
+---
+
+Gawr Gura
+
+um, hi, Listen.  
+あー、うん、聞いてくれる？
+
+I know, it's been a while.  
+そう。えっと、久しぶりだね
+
+And you probably wanted to see me.  
+会いたかったよね？
+
+But listen.  
+でも聞いて。
+
+We're gonna have to make this work okay.  
+私たち、やらないといけないのよ
+
+One more day, we're gonna have to make this work okay.  
+あと一日。やってみせるから。
+
+Sometimes, internet decides to not play along.  
+時々、インターネットではダメなことがあるの。
+
+So, today I look like this.  
+だから、今日はそんな感じ。
+
+> 配信なのに`look like`なのか
+
+Oh No? Oh Yes.
+あーあーって？そうだね
+
+Oh no indeed but let's not jinx anything.  
+確かにOh Noって感じだけど、フラグを立てるのやめよう
+
+> let's not jinx anything.「何かのジンクスにするのはやめよう」
+
+Knock on wood that everything goes well.  
+すべてうまく行くように祈ろう。
+
+> `knock on wood`「祈る」
+
+I don't have any wood.  
+まぁ、木なんて持ってないんだけどさ
