@@ -261,7 +261,7 @@ We persuaded her not **to give up** her current position.
 > -> 彼は、彼女に結婚を迫った。  
 > 特に、**感情的**に説得するイメージがある。
 >
-> - `convince`[動詞「説得する（かつ、認めさせる）」  
+> - `convince`[動]「説得する（かつ、認めさせる）」  
 > I'm going to try to convince him that it's best to surrender.  
 >    私は、降伏するのが一番だと彼を説得し、認めさせようとしてみるつもりだ。  
 > -> 私は、彼に降伏するのが一番だと説得してみるつもりだ。  
