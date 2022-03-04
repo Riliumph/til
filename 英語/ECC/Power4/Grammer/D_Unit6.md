@@ -115,7 +115,7 @@ The new computer system doesn't seem practical; **moreover**, it would be expens
 ---
 
 **As far as** I can see, there's nothing wrong with the fax machine  
-見える限り、ファックス機にk問題は無い
+見える限り、ファックス機に問題は無い
 
 ---
 
