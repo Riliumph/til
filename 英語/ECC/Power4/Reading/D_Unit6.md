@@ -25,7 +25,7 @@ The food we eat growing up also **influences** our tastes, so it's important to 
 
 ## 4 Vocabulary Questions
 
-From the moment we are born, food is more than just **nourishment**.
+From the moment we are born, food is more than just **nourishment**.  
 生まれた瞬間から、食べ物は栄養以上なのだ
 
 - [x] sustenance「栄養」
