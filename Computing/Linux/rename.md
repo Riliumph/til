@@ -34,7 +34,7 @@ rename 's/(\d+)/sprintf("%03d", $&)/e' *
 
 ```bash
 # 案１
-find ./ -type d -print0 | xargs -0 -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%03d\", \$1)/e' *"
+find ./ -mindepth 1 -maxdepth 1 -type d -print0 | xargs -0 -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%03d\", \$1)/e' *"
 # 案２
 ls -AC | xargs -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%03d\", \$1)/e' *"
 ```
@@ -50,7 +50,7 @@ ls -AC | xargs -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%03d\", \$1)/e
   ただし、`sprintf`を内部で使う場合はダブルクォーテーションが使用されるためエスケープが必要。  
   また、`$1`はあくまで`bash`の`$1`として解釈されるため、`rename`の`$1`として解釈させるためにエスケープが必要。
 
-### [find編]パイプするときは前段の結果に気をつけろ
+## [find編] パイプするときは前段の結果に気をつけろ
 
 `xargs`には`i`オプションを使って、パイプラインで受け取った前段の結果でコマンド内容を上書きする機能を持つ。  
 これを使う際に躓いたので注意すること。
@@ -69,10 +69,16 @@ Unknown regexp modifier "/1" at (user-supplied code), near "{
 "
 ```
 
-「バックスラッシュが見つかったぞ」とあるので`\$1`の書式が誤っているかのように読めるが間違い。
-これは`find`の結果が`02/`とスラッシュを含んでしまっているため、そこで`rename`の書式が崩れてしまっているのが原因。
+「バックスラッシュが見つかったぞ」とあるので`\$1`の書式が誤っているかのように読めるが間違い。  
+これは`find`の結果が`02/`とスラッシュを含んでしまっているため、そこで`rename`の書式が崩れてしまっているのが原因。  
+つまり、**ディレクトリ名を使う場合は、`find`では解決できないということ**。
 
-### [ls編]パイプするときは前段の結果に気をつけろ
+## [ls編]パイプするときは前段の結果に気をつけろ
+
+```bash
+# 正解編
+ls -AC | xargs -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%02d_%03d\",\"{}\", \$1)/e' * -n"
+```
 
 `ls`コマンドにも落とし穴があるので注意。  
 
@@ -97,6 +103,3 @@ xargs: bash: exited with status 255; aborting
 # -x / --format=across / --format=horizontal
 $ ls -Ax | xargs -i bash -c "cd \"{}\" && rename 's/(\d+)/sprintf(\"%s_%03d\", \"{}\", \$1)/e\' * -n"
 ```
-
-> readlineの設定で`set mark-symlinked-directories on`を有効にしていると`ls`の結果にも`/`や`@`が表示される。  
-> しかし、これはあくまで表示の変更であり、`ls`コマンドの結果には影響しないので問題ない。
