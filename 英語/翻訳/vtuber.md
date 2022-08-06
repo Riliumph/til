@@ -95,3 +95,18 @@ Knock on wood that everything goes well.
 
 I don't have any wood.  
 まぁ、木なんて持ってないんだけどさ
+
+## Dare
+
+It is not until I watch this post that I learn how to use "dare".
+
+>[Discord]  
+>@ Haachama Akai Haato  
+>\# Don't you dare run away from registering for classes  
+>\# Do your best in school  
+>\# It's ok to run away from the Closing Shift  
+
+> @HAACHAMA 赤井はあと  
+> \# 履修登録から逃げるな  
+> \# 学校頑張れ  
+> \# 閉店事件からはギリ逃げてもいい  
