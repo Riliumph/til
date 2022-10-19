@@ -13,7 +13,7 @@ else
 endif
 LIBS      = 
 INCLUDE   = -I./include
-TARGET    = ./bin/$(shell basename `readlink -f .`)
+TARGET    = ./bin/$(shell basename $$(readlink -f .))
 SRCDIR    = ./src
 ifeq "$(strip $(SRCDIR))" ""
   SRCDIR  = .
@@ -60,11 +60,11 @@ C++なのにclangだとiostream系のC++クラスライブラリが見つかり�
 
 ### CFLAGS - コンパイルオプション -
 
-- -g  
+- `-g`  
   デバッグ情報を埋め込んでビルドしてくれる
-- -MMD -MP  
+- `-MMD -MP`  
   ソースファイルの依存関係を中間ファイルとして出力するオプション  
-  この依存関係ファイルはmakefile最後の-include文で読み込まれるため、依存しているヘッダファイルなどが変更された場合に自動的に再コンパイルされる。  
+  この依存関係ファイルはmakefile最後の`-include`文で読み込まれるため、依存しているヘッダファイルなどが変更された場合に自動的に再コンパイルされる。  
   このスクリプト考えたやつ天才か  
 
 ### LDFLAG - リンクオプション -
@@ -87,7 +87,7 @@ LONG_BITとは、`long int`型のbit数を管理している全システム構�
 
 ### INCLUDE - インクルードパス -
 
-初期値：-I./include  
+初期値：`-I./include`  
 ソースファイル中の`#include`の検索パスを加えるオプション。  
 -Iが必ず必要なので注意。  
 複数のパスを指定する場合は、-Ixxx -Iyyyなどのように空白を空けて-Iオプションから記述する。  
@@ -95,10 +95,19 @@ LONG_BITとは、`long int`型のbit数を管理している全システム構�
 ### TARGET - 実行ファイル -
 
 実行ファイル名を指定する。  
-初期値：./bin/$(shell basename \`readlink -f .\`)  
+初期値：./bin/$(shell basename $$(readlink -f .))  
 
-> `./bin/$(shell basename $(readlink -f .))`と同じ。  
-> バッククオートはGoogle Shell Style Guideにも違反するし、Markdownのコードハイライトのバッククオートとも競合するから使わない方がいいね
+> `/bin/$(shell basename $$(readlink -f .))`の展開タイミングに注意。  
+> `$`はエスケープ文字なので、`$$`は単純な`$`という文字として解釈される。
+>
+> - make実行時：`/bin/$(shell basename $$(readlink -f .))` -> `/bin/$(basename $(readlink -f .))`  
+>   `$`一つが展開され、make関数である`$(shell basename $$(readlink -f .))`がbashの`$(basename $(readlink -f .))`として展開される。
+> - コマンド実行時： `/bin/$(basename $(readlink -f .))` ->  `/bin/hoge`  
+>   内側からbashコマンドが実行される。
+>  
+> ``readlink -f .`` == `$(readlink -f .)`  
+> 上記の書式は全く同じ意味。実行時に使いたいのはバッククォートとと思えば分かりやすい。
+> とはいえ、バッククオートはGoogle Shell Style Guideにも違反するし、Markdownのコードハイライトのバッククオートとも競合するから使わない方がいいね  
 
 解説  
 ディレクトリ：./bin  
