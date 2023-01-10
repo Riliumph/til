@@ -2,6 +2,10 @@
 
 ## サンプルコード
 
+`ctx.Bind`はjson形式だとかというフォーマットチェックやデコードチェックは行われない模様。  
+そのため、`ParamItem`でデコードエラーログを書かないと空構造体が出来上がってエラーをトレースできなくなる。  
+よって、以下のような、未使用変数を使ったコードになる。
+
 ```go
 func ParamItem(ctx echo.Context) (result []zap.Field{}){
   // Query String
@@ -9,7 +13,7 @@ func ParamItem(ctx echo.Context) (result []zap.Field{}){
   result = append(result, zap.Any("QueryString", query))
 
   // Body Param
-  var body map[string]interface{}
+  var body map[string]interface{} // Mapに取り込めるかを確認するだけの変数
   e := json.NewDecoder(ctx.Request().Body).Decode(&body) // BodyへのアクセスでBodyが自動Closeされる
   if e != nil {
     logger.Error("decode error")
@@ -27,8 +31,9 @@ func (controller *DataController) PutData(ctx echo.Context){
 }
 ```
 
-こういうコードの場合、`ParamItem`メソッドで変数`ctx`がshallow copyされてstream reader越しにデータを取得する。  
-stream readerは元のデータを削除してしまうため、`PutData`メソッドの`ctx.Bind`の段階で変数`ctx`からデータが消えてしまっていて、空文字を`model.Data`にバインドしようとして失敗する。
+この実装では、関数`ParamItem()`で変数`ctx`をshallow copyして関数`Bind()`（`stream reader`経由）でデータを取得する。  
+`stream reader`はライブラリ実装で元のデータを削除してしまう。  
+そのため関数`PutData()`の`ctx.Bind`の段階では変数`ctx`からデータが消えてしまっていて、空文字を`model.Data`にバインドしようとして失敗する。
 
 ## 解決策
 
@@ -44,9 +49,11 @@ func (controller *DataController) PutData(ctx echo.Context){
     return controller.presenter.Error()
   }
 }
------
+```
+
+```json
 {
-  "loglevel": "DEBUG"
+  "loglevel": "DEBUG",
   "time": "yyyy-mm-ddThh:mm:ss.msec",
   "caller": "logger/applogger.go:10",
   "msg": "show parameter",
@@ -73,6 +80,9 @@ func (controller *DataController) PutData(ctx echo.Context){
 }
 ```
 
+確かにこれでもいいだろう。  
+ただし、AWS Cloudwatchなどを使ってjsonの項目名で検索したい場合、`details.Request.HOST`のような検索ができない欠点がある。
+
 ### httputil.DumpRequestと同じように処理してMap返却する
 
 ```go
@@ -86,7 +96,7 @@ func (controller *DataController) PutData(ctx echo.Context){
 // - ioutil.NopCloser: ReadメソッドはReadするだけなので、自動Closeしない
 func CloneRequest(original *http.Request) *http.Request {
   // shallow copyで出来るだけコピーする
-  dumped := *origin
+  dumped := *original
   var bodyBuf bytes.Buffer
   // このタイミングでdumped.Bodyが消失する。※dumpedはoriginalの参照なので、original側のBodyも消失する
   _, _ = bodyBuf.ReadFrom(dumped.Body)
