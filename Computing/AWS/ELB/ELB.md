@@ -39,7 +39,7 @@ TCPプロトコルしか喋れないので、API-GWなどのヘルスチェッ�
 
 負荷分散アルゴリズムは以下の種類が存在する。
 
-![image](./elb.png)
+![image](./elb.drawio.svg)
 
 ### DNS Round Robin
 
