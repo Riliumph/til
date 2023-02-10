@@ -14,11 +14,10 @@ RESTってURIとHTTPメソッドで動き方が変わるだけでしょ？ｗｗ
 
 それでは、それを「誰に提供するか」を軸に見ていこう。
 
-### LSUDs
+### **L**arge **S**et of **U**nknown **D**eveloper**s**
 
-Large Set of Unknown Developers
-
-不特定多数のユーザーに提供するAPIのこと。
+不特定多数のユーザーに提供するAPIのこと。  
+Github APIがお手本のように美しい。
 
 > ex)  
 > Facebook API, Twitter API, AWS API
@@ -37,11 +36,9 @@ Large Set of Unknown Developers
 APIのアクセス数を減らして、利便性を上げるために関連するデータを一緒に返すこともできる。  
 ユーザーのユースケースに沿った設計にすることで、APIアクセス数を減らしてサーバーを守る。  
 
-### SSKDs
+### **S**mall **S**et of **K**nown **D**eveloper**s**
 
-Small Set of Known Developers
-
-特定のシステムのみで利用する専用API。  
+特定のシステムのみで利用する専用API。
 
 > ex)  
 > 自社サービス、社内システム
@@ -68,28 +65,23 @@ AWSは大量のAPIを抱えているが、それをサービス毎（SSKDs）に
 
 よくあるCRUD設計
 
-|メソッド|URI|説明|
-|:--:|:--|:--|
-|`GET`|`/api/v1/users/`|全ユーザーの取得|
-|`POST`|`/api/v1/users/`|新規ユーザーの取得|
-|`GET`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー取得|
-|`PATCH`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー変更|
-|`DELETE`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー削除|
+|メソッド|URI|説明|補足|
+|:--:|:--|:--|:--|
+|`GET`|`/api/v1/users/`|全ユーザーの取得||
+|`POST`|`/api/v1/users/`|新規ユーザーの取得||
+|`GET`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー取得||
+|`PATCH`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー変更||
+|`DELETE`|`/api/v1/users/<int:UserID>`|任意のUserIDのユーザー削除||
+||以下、特殊系|||
+|`GET`|`/api/v1/users/me`|ログインユーザーの情報を取得する|通常は`/api/v1/users/10`などへのエイリアス。<br>数字部分を`me`と固定化することでスクリプト化を容易にしている。|
+|`GET`|`/api/v1/users/search?name=xxx&age=xxx`|ユーザーの検索|`/api/v1/users?name=xxx&age=xxx`で問題ない気がする。<br>すでに外部システムと連携されて改修不可の時の苦肉の策な気も。|
 
 URLとして機能する必要があるので、path parameterはunique、つまりprimary keyである必要がある。  
 その他のパラメータはクエリストリングで渡す方がいいだろう。
 
-その他にも
-
-- `GET /api/v1/users/me`: ログインユーザーの情報を取得する
-  - これはエイリアスで実装されることがある。実際には内部で`/api/v1/users/10`などがコールされる。
-- `GET /api/v1/users/search?name=xxx&age=xxx`: ユーザー検索用API
-
 ## レスポンスの設計
 
-### HATEOS
-
-Hypermedia As The Engine Of Application State
+### Hypermedia As The Engine Of Application State
 
 レスポンスjsonの中に次に行うべきURIが指定されていること？  
 確かに、これだとフロントエンド側で制御することが少なくなる。  
