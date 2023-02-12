@@ -13,7 +13,7 @@ $ docker rm $(docker ps -aq)
 $ docker container prune
 ```
 
-## dokcerのイメージを一括削除
+## dockerのイメージを一括削除
 
 ```bash
 $ docker rmi $(docker images -aq)

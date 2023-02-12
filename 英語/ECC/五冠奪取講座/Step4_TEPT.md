@@ -101,8 +101,8 @@ Pompeii, buried under a layer of lapilli(burning fragments of pumice stone) duri
 
 ---
 
-Kushiro-Shitugen, the largest marshland in Japan, spreads out beyond the northern edge of Kushiro City.  
-釧路湿原は、日本最大の湿原であるが、釧路市の北端を越えて広がっています。  
+Kushiro-Shitugen, the largest **marshland** in Japan, spreads out beyond the northern edge of Kushiro City.  
+釧路湿原は、日本最大の**湿原**であるが、釧路市の北端を越えて広がっています。  
 This is the habitat of red-crested white cranes as well as northern salamanders.  
 これは、キタサンショウウオだけでなく、タンチョウヅルの生息地でもあります。
 

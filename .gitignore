@@ -1,11 +1,9 @@
 # Mac
 .DS_Store
 
-# Visual Studio Code
-.vscode/
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # draw.io
 .$*.drawio.bkp
+.$*.drawio.dtmp
