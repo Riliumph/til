@@ -28,7 +28,7 @@ Zキーの下にCtrlがあるのがメンドウでAキーの横にCapsLockに再
 サインアウトでは反映されなかった。
 
 また、当然のことだが、このレジストリはキーボードからキーを受け取る際のデータを変更しているだけである。  
-つまり、キーボードからの命令を直接受け取らないサーバーのレジストリを買えても無意味である。
+つまり、キーボードからの命令を直接受け取らないサーバーのレジストリを変えても無意味である。
 
 ホスト側がcaps lockで受け取り、サーバー側にcaps lockを送るためだそうだ。  
 正直、ホストが何で受け取ろうが、その値をctrlに誤認してくれればいいのだが。。。
@@ -40,7 +40,7 @@ PowerToysをインストールする
 > - Microsoft Store
 > - [Github](https://github.com/microsoft/PowerToys)
 
-Keybord Managerの機能からキーの再マップを行う。
+Keyboasrd Managerの機能からキーの再マップを行う。
 
 |物理キー|マップ先|
 |:--:|:--:|
@@ -57,7 +57,7 @@ Keybord Managerの機能からキーの再マップを行う。
 
 ## ctrl2capを使う方法
 
-kernel空間でcaps lockのキーコードをctrlに返還してくれるMS製ソフト。  
+kernel空間でcaps lockのキーコードをctrlに変換してくれるMS製ソフト。  
 2006年製だが、2021年現在でも通用する模様。
 
 > Published: November 1, 2006  
