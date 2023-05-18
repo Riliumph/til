@@ -22,6 +22,11 @@ If you're not prepared to be wrong, you'll never come up with anything original.
 Science is a culture of doubt. Religion is a culture of faith.  
 科学とは疑うことの訓練であり、宗教とは信じることの訓練である。
 
+---
+
+If you gaze for long into an abyss, the abyss also gazes into you.  -- Friedrich Nietzsche
+深淵を覗くとき、深淵もまたこちらを覗いているのだ。――――　フリードリヒ・ニーチェ
+
 ## Google
 
 10 Things Google has found to be true:
