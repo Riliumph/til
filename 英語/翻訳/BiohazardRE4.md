@@ -684,6 +684,20 @@ Yeah, I'm fine.
 
 ---
 
+Hey, can we take a break?  
+ねぇ　ちょっと休憩しない？
+
+Sorry, we need to keep moving.  
+ダメだ　我慢してくれ
+
+Got it...  
+わかった…
+
+Hunnigan was right about the weather...  
+ハニガンの予報が当たったな
+
+---
+
 Hey! Over here!  
 おい！　こっちだ！
 
@@ -693,7 +707,7 @@ Come on!
 You!  
 お前…！
 
-Hey...Listen, about earlier, I ---
+Hey...Listen, about earlier, I ---  
 おい…聞けって　こないだは…　まぁ―――
 
 Year, about that...  
