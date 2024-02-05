@@ -23,7 +23,9 @@ HTTPやHTTPSなどのプロトコルで振り分けすることができる。
 
 L4（ネットワーク）で動作するロードバランサー。  
 TCPプロトコルしか喋れないので、API-GWなどのヘルスチェックは行えない。  
-そのため
+
+> また、NLBの疎通監視として、[pingの応答は内部で拒否されているのかICMPのSGを開放しても疎通しない](https://dev.classmethod.jp/articles/nlb-layer4-communication-commands/)。  
+> `telnet`や`nc(netcat)`を用いる必要がある。
 
 - healthy: 正常な状態
 - unhealthy: 異常度が閾値未満
