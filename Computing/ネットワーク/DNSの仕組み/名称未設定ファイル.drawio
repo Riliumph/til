@@ -1,0 +1,71 @@
+<mxfile host="Electron" modified="2024-04-24T18:16:30.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="MSliVUbg-2u9mDfMn5Kq" version="24.2.5" type="device">
+  <diagram name="ページ1" id="an8C16KtZs5AlXDFdam1">
+    <mxGraphModel dx="1293" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aS-L41SpAsMi5pvM-r00-8" value="&lt;div&gt;ISP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-1" value="ローカルマシン" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-5" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-20" target="aS-L41SpAsMi5pvM-r00-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-9" value="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-20" target="aS-L41SpAsMi5pvM-r00-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-3" target="aS-L41SpAsMi5pvM-r00-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-3" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-4" value="DNS Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-12" value="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-7" target="aS-L41SpAsMi5pvM-r00-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-7" target="aS-L41SpAsMi5pvM-r00-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aS-L41SpAsMi5pvM-r00-7" target="aS-L41SpAsMi5pvM-r00-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-7" value="&lt;div&gt;Full Resolver&lt;/div&gt;&lt;div&gt;(Cache DNS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-11" value="Root&lt;div&gt;Authority&lt;/div&gt;&lt;div&gt;DNS&lt;/div&gt;&lt;div&gt;x13&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-13" value="Top Level&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Authority&lt;/div&gt;&lt;div&gt;DNS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-16" value="example.co.jpを名前解決してIPアドレスを割り出したい" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-20" value="Stub&lt;div&gt;Resolver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-30" value="2nd Level&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Authority&lt;/div&gt;&lt;div&gt;DNS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-42" value="example.co.jpからjpドメインを管理するサーバーを返却" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-45" value="jp管理サーバー内を検索&lt;div&gt;無いのでco.jpサーバーを返却&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aS-L41SpAsMi5pvM-r00-46" value="co.jp管理サーバー" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.67;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
