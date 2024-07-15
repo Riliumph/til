@@ -1,7 +1,10 @@
 # DNSの仕組み
 
-> - 参考
->   - [アプリケーションエンジニアが知るべきDNSの基本](https://speakerdeck.com/mamy1326/basics-of-dns-that-application-engineers-should-know)
+## 参考
+
+- [アプリケーションエンジニアが知るべきDNSの基本](https://speakerdeck.com/mamy1326/basics-of-dns-that-application-engineers-should-know)
+- [How DNS work](https://x.com/thatstraw/status/1795168090726011014)
+- [Cheatsheets](https://thatstraw.gumroad.com/l/cheatsheets)
 
 ## DNSが無かった時代
 

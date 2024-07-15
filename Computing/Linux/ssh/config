@@ -1,0 +1,6 @@
+Host *
+    ControlMaster auto
+    ControlPath ~/.ssh/ssoc-%r@%h:%p
+    ControlPersist 1h
+    ServerAliveInterval 600
+    ServerAliveCountMax 3
