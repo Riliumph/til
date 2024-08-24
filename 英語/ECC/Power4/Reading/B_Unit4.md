@@ -48,6 +48,12 @@ Nordstrom, a department store in Seattle, recently introduced a system of sensor
 最近、シアトルにあるデパートのNordstromが買い物の癖、年齢、性別、それから顧客の気分に関するデータを収集するためにセンサーとカメラのシステムを導入した。
 
 > `recently`は過去との比較のため、完了形もしくは過去形を用いる。  
+> 「最近～へ行ったよ」という一回行動なら過去を使うのが正しいが、何回も繰り返してることなら現在形でも特に気にならないそう。
+> `these days`は上記と違って過去形では使えないので注意。  
+> 時間の感覚も異なり、「最近の若者は」みたいな非常に長い時系列の時に使える。  
+>
+> - [recently/nowadays/these daysの違いは？](https://www.youtube.com/shorts/8PnhvE4mQhI)
+> - [recently/latelyは現在形と使わない？](](https://www.youtube.com/shorts/jB3FW8oR4Yo))
 
 But when they posted a sign in the store to inform customers, people complained angrily.  
 しかし、店なにに看板を掲示して顧客に知らせると、人々は怒って不満を漏らした。
