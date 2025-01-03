@@ -19,9 +19,11 @@ Zキーの下にCtrlがあるのがメンドウでAキーの横にCapsLockに再
 ```reg
 値の名前：Scancode Map
 値のデータ：
-00 00 00 00 00 00 00 00
-02 00 00 00 1D 00 3A 00
-00 00 00 00
+00 00 00 00 # version info(always 0)
+00 00 00 00 # flags (always 0)
+02 00 00 00 # entry num + 1
+1D 00 3A 00 # 003Ah(Caps)を001Dh(Left Ctrl)とみなす
+00 00 00 00 # NULL
 ```
 
 これを設定した後は再起動が必要。  
