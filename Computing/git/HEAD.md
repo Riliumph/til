@@ -10,7 +10,7 @@
 
 `git show`で`HEAD`を使うとどうなるか？
 
-|command|ポインタ|
+command|ポインタ
 :--:|:--
 `HEAD`|3rd commit
 `HEAD~1`|2nd commit
