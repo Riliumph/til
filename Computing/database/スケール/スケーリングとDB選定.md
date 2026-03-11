@@ -18,4 +18,4 @@ RDBMS以外のそれらが登場してきたのには技術的な理由がある
 
 ## 参考
 
-- [衛星経由で監視されてるハムスター@rioriost](https://x.com/rioriost/status/1756537434568032574?s=20)
+- [衛星経由で監視されてるハムスター@rioriost](https://x.com/rioriost/status/1756537434568032574)
