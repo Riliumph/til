@@ -7,13 +7,18 @@ Mom: we have modern C++ at home
 Modern C++ at home:
 
 ```c++
-const std::string str = "Modern C++";
+#include <iostream>
 
-std::string s1 {"Modern C++", 3};
-std::string s2 {str, 3};
+int main()
+{
+  const std::string str = "Modern C++";
 
-std::cout << "S1: " << s1 << "\n";
-std::cout << "S2: " << s2 << "\n";
+  std::string s1 {"Modern C++", 3};
+  std::string s2 {str, 3};
+
+  std::cout << "S1: " << s1 << "\n";
+  std::cout << "S2: " << s2 << "\n";
+}
 ```
 
 > Output:  

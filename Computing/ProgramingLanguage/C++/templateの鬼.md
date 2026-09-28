@@ -37,7 +37,7 @@ T sum(T v1, T v2){ return v1 + v2; }
 では、ここで言語規格に定義されていない「char*型同士の足し算」を独自定義してみよう。  
 std::string型にちなんで連結してみるのはどうだろうか。  
 
-```
+```C++
 #include <iostream>
 #include <string.h>
 
@@ -59,7 +59,7 @@ int main(void)
 
 残念ながら、このコードでは下記のような書き方はできないので注意が必要だ。  
 
-```
+```C++
 #include <iostream>
 #include <string.h>
 
